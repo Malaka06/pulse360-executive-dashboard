@@ -1,0 +1,1501 @@
+customer_id,customer_name,city,country,age_group,segment,signup_date,acquisition_channel,is_member
+CUST_1,Bernadette Royer,Moulinnec,Suriname,26-35,Freelance,2024-01-12,Google Search,0
+CUST_2,Hortense Le Lebrun,Bouvet,Côte d'Ivoire,18-25,Agency,2025-05-04,Google Search,0
+CUST_3,Danielle Perez,Guillou-la-Forêt,Myanmar,46-60,PME,2024-12-10,Google Search,0
+CUST_4,Roland Evrard,Albertdan,Lesotho,36-45,Enterprise,2024-09-01,Google Search,0
+CUST_5,Suzanne de la Navarro,Saint Simonenec,Libéria,26-35,Freelance,2024-02-07,Referral,0
+CUST_6,Alix Arnaud du Michel,PeltierVille,Argentine,18-25,Enterprise,2024-08-08,TikTok,1
+CUST_7,Victoire Bègue,Goncalves-les-Bains,Indonésie,18-25,Enterprise,2024-02-22,TikTok,0
+CUST_8,Guillaume Leconte,Ribeiro,Suède,26-35,Enterprise,2024-10-05,Event Walk-in,0
+CUST_9,Jérôme Lefort-Diallo,Augerboeuf,Kenya,18-25,Enterprise,2024-07-06,Event Walk-in,1
+CUST_10,Éric Marie de Torres,Monnier-sur-Brunel,Heard et McDonald (Îles),46-60,Freelance,2024-02-28,Partnership,1
+CUST_11,Richard Lacroix-Lemoine,De SousaBourg,Nigeria,18-25,Freelance,2024-08-24,TikTok,1
+CUST_12,Matthieu-Gilbert Auger,Sainte Victoirenec,Niue,36-45,Freelance,2024-06-04,Instagram,0
+CUST_13,Maurice Carre-Daniel,Lévy,Porto Rico,26-35,Freelance,2025-06-03,TikTok,0
+CUST_14,Gilbert Royer,Bègue,Marshall (Îles),26-35,Startup,2024-10-19,Google Search,0
+CUST_15,Hortense Ledoux,Jourdan-sur-Mer,Cap Vert,26-35,Enterprise,2024-09-14,TikTok,1
+CUST_16,Corinne Bouvier Le Mallet,Bègue,Slovaquie,18-25,Freelance,2024-04-17,Partnership,1
+CUST_17,Tristan du Paul,Delattre-sur-Bailly,Tanzanie,36-45,Startup,2025-01-05,Referral,0
+CUST_18,Thérèse Le Laine,Blancharddan,Taiwan,36-45,PME,2025-05-06,TikTok,0
+CUST_19,Nath Maury,Sainte Nathalie,Guatemala,26-35,Startup,2025-02-13,Google Search,0
+CUST_20,Joseph Paul,Imbert-sur-Mer,Sri Lanka,46-60,Enterprise,2024-06-15,Event Walk-in,0
+CUST_21,Claude Le Samson,Da Silva-sur-Martinez,Islande,36-45,Enterprise,2024-01-20,LinkedIn,0
+CUST_22,Philippe Fleury,Pelletier-sur-Gérard,Brésil,36-45,PME,2024-01-11,Referral,1
+CUST_23,Christine-Sophie Thierry,Marchal,Bahamas,46-60,Enterprise,2024-04-21,Instagram,0
+CUST_24,Denise Thibault-Coulon,Allard,Gabon,26-35,Enterprise,2024-12-14,Event Walk-in,1
+CUST_25,Georges Richard,Bonneau-sur-Leduc,Libéria,46-60,Agency,2025-05-08,Event Walk-in,1
+CUST_26,Bernadette Lebreton de Bourgeois,Charpentier-la-Forêt,Guyane française,18-25,Freelance,2025-03-20,LinkedIn,0
+CUST_27,Véronique de la Grégoire,Jean-la-Forêt,Trinité et Tobago,26-35,PME,2024-07-16,Event Walk-in,1
+CUST_28,Hortense Leclercq de Pichon,Adam,Biélorussie,46-60,PME,2024-07-15,Event Walk-in,1
+CUST_29,Paulette Gay de Sanchez,Guibert-sur-Teixeira,Thailande,46-60,Enterprise,2024-08-08,Instagram,1
+CUST_30,Vincent de Ledoux,Jourdan-la-Forêt,Luxembourg,26-35,Agency,2025-04-08,TikTok,1
+CUST_31,Nicolas Chevallier-Guibert,Imbert-sur-Ledoux,Macédoine du Nord,36-45,Enterprise,2024-08-09,Instagram,0
+CUST_32,Guy Rivière,Potier,Laos,18-25,Startup,2024-03-17,Partnership,0
+CUST_33,Françoise Huet de Carpentier,Sainte Antoinettedan,Niue,26-35,Agency,2025-01-23,Partnership,0
+CUST_34,Anouk de la Daniel,Delaunay-sur-Lagarde,Féroé (Îles),46-60,Agency,2024-06-10,Partnership,1
+CUST_35,Stéphanie Bernier,Letellier,Tanzanie,36-45,Enterprise,2024-05-21,TikTok,0
+CUST_36,Adèle du Henry,Prévost,Macau,26-35,PME,2024-10-03,LinkedIn,1
+CUST_37,Danielle Bigot,Rousseau-sur-Fournier,Pologne,26-35,Agency,2025-02-16,Partnership,0
+CUST_38,Madeleine Hardy,Pires,Mali,26-35,Enterprise,2025-02-25,Referral,0
+CUST_39,Thibault Le Goff,Turpin,Gambie,46-60,Enterprise,2025-02-06,TikTok,0
+CUST_40,Alfred Jourdan,Bègue,Porto Rico,18-25,Startup,2024-10-21,Instagram,1
+CUST_41,André Berger,Morvan,Gambie,36-45,PME,2025-03-18,Google Search,1
+CUST_42,Thibault du Rémy,Duboisnec,Bouvet (Îles),36-45,Enterprise,2024-04-19,Event Walk-in,1
+CUST_43,Martin Martineau,Poirier-les-Bains,Rép. Dém. du Congo,46-60,PME,2025-01-31,Referral,1
+CUST_44,Thibault Rodrigues,Leclercq-les-Bains,Nepal,36-45,Enterprise,2024-11-09,Event Walk-in,0
+CUST_45,Louise Lejeune,Sainte Alfred,Portugal,18-25,Agency,2025-06-02,Referral,0
+CUST_46,Valentine Lamy,BretonBourg,Afrique du sud,18-25,PME,2024-11-22,Instagram,1
+CUST_47,Capucine Sauvage,Bernier-sur-Cousin,Macau,36-45,Freelance,2024-07-25,TikTok,1
+CUST_48,Eugène Gros,Sainte René,Suisse,46-60,Startup,2025-03-13,Partnership,1
+CUST_49,Eugène Petitjean,Moulin,Zaïre,18-25,Agency,2024-12-27,Event Walk-in,1
+CUST_50,Olivier de De Sousa,Cordier,Bouvet (Îles),36-45,Freelance,2024-11-02,Partnership,1
+CUST_51,René Becker,Marydan,États-Unis,46-60,Startup,2024-06-11,Referral,0
+CUST_52,Martine Didier,Dupuy,Arabie saoudite,46-60,Freelance,2024-11-28,Referral,1
+CUST_53,Patricia Vincent de la Roger,Legendredan,Turks et Caïques (Îles),18-25,PME,2024-05-22,Google Search,1
+CUST_54,Sébastien de la Gimenez,Saint Isabelledan,Wallis et Futuna (Îles),18-25,Enterprise,2025-04-16,Google Search,0
+CUST_55,Nathalie-Laure Bouchet,Vallée,Érythrée,46-60,Enterprise,2025-04-11,Event Walk-in,0
+CUST_56,Catherine du Evrard,Chauvin-sur-Blondel,Chypre,18-25,PME,2024-04-04,TikTok,1
+CUST_57,Laetitia Mendès,Tanguy,Angola,46-60,Agency,2025-01-16,Partnership,1
+CUST_58,Aimé du Guillaume,Paul,Cambodge,18-25,PME,2024-01-19,Event Walk-in,0
+CUST_59,Auguste Marchal,Jacquot,Égypte,18-25,Enterprise,2024-12-10,Instagram,1
+CUST_60,Christine-Hortense Julien,Faure,Marshall (Îles),46-60,Startup,2024-01-26,TikTok,1
+CUST_61,Benjamin-Xavier Langlois,Guillaume-sur-Mer,Saint-Kitts et Nevis,18-25,Agency,2024-01-28,LinkedIn,0
+CUST_62,Alphonse Delaunay,Leblancboeuf,Panama,46-60,Startup,2025-03-18,TikTok,1
+CUST_63,Diane de la Moreno,Hamel,Norvège,26-35,Agency,2024-11-29,Event Walk-in,1
+CUST_64,Paulette Navarro,Georges,Irak,18-25,PME,2024-08-04,Google Search,0
+CUST_65,Thierry-Lucas Da Costa,AlbertBourg,Sierra Leone,36-45,Enterprise,2025-02-10,LinkedIn,1
+CUST_66,Nathalie Chauvet,RodriguesBourg,Cayman (Îles),18-25,Agency,2024-02-25,Instagram,0
+CUST_67,Marc Allard,Girard,La Barbad,46-60,Freelance,2025-04-29,Referral,0
+CUST_68,Augustin Delannoy,Boyer,Îles Mineures Éloignées des États-Unis,18-25,Freelance,2025-05-03,Google Search,1
+CUST_69,Lucy Goncalves-Lopez,Baudrydan,Hong Kong,26-35,Agency,2025-03-20,Instagram,1
+CUST_70,Christophe Le Letellier,Boulay,Érythrée,46-60,PME,2024-05-22,LinkedIn,1
+CUST_71,Maurice Seguin,Leconte-sur-Mer,Îles Mineures Éloignées des États-Unis,36-45,Freelance,2025-05-07,Partnership,0
+CUST_72,Alexandre David de Perrin,ParisVille,Mongolie,26-35,Agency,2025-04-01,Event Walk-in,0
+CUST_73,Daniel Pelletier-Marchal,Rocheboeuf,Kiribati,36-45,Agency,2025-05-02,Instagram,0
+CUST_74,Diane-Philippine Delattre,Reynauddan,Madagascar,26-35,Startup,2025-06-10,Google Search,1
+CUST_75,Danielle François du Legendre,Sainte AlexandriaBourg,Géorgie,36-45,Startup,2025-06-12,Referral,0
+CUST_76,Alix Boulanger Le Blin,Rodriguez-sur-Gimenez,Russie,18-25,PME,2025-02-08,Google Search,1
+CUST_77,Jules Morel,Lagardedan,Vierges (Îles),18-25,Agency,2024-05-26,Event Walk-in,1
+CUST_78,Luce Toussaint-Renard,Bertin,Autriche,26-35,Freelance,2024-12-01,Instagram,1
+CUST_79,François Léger,Sainte Lucas,Tuvalu,36-45,Agency,2024-07-27,Referral,0
+CUST_80,Nathalie Olivier,CamusVille,São Tomé et Príncipe (Rép.),46-60,Startup,2024-02-15,Instagram,1
+CUST_81,Margaux Adam,Adamdan,Groenland,36-45,Enterprise,2025-04-20,Referral,1
+CUST_82,Augustin Brun,Mendès-sur-Pascal,Biélorussie,18-25,PME,2024-04-09,Partnership,1
+CUST_83,Isabelle Robert,Fleury-la-Forêt,Grenade,46-60,PME,2024-05-15,Referral,1
+CUST_84,Étienne Diallo,Hubert,Émirats arabes unis,26-35,Startup,2024-03-18,LinkedIn,1
+CUST_85,Éléonore Le Goff,Merle,Équateur,46-60,Agency,2024-05-29,Referral,0
+CUST_86,Xavier Coulon,Paris,Ghana,46-60,Startup,2024-02-22,Event Walk-in,1
+CUST_87,Théodore Weiss-Roux,Sainte Nicolas,Nicaragua,26-35,Agency,2024-09-02,Google Search,0
+CUST_88,Renée Perez,Peltierdan,Polynésie française,46-60,Startup,2024-10-15,Referral,1
+CUST_89,Susanne Voisin de la Rodrigues,Lefortboeuf,Corée du Nord,46-60,Enterprise,2024-12-05,Referral,1
+CUST_90,Philippine Martins,Launay,Cameroun,18-25,Freelance,2025-05-04,LinkedIn,0
+CUST_91,René Alexandre-Didier,Leclercq,Allemagne,46-60,PME,2025-04-03,Partnership,0
+CUST_92,Jules Sanchez,Sainte Luc,Iran,46-60,Freelance,2025-06-01,LinkedIn,1
+CUST_93,Denise de Bodin,Bodin-sur-Mer,Danemark,26-35,Freelance,2025-01-24,Google Search,1
+CUST_94,Manon-Alice Blondel,Olivier,Vierges britanniques (Îles),18-25,PME,2024-08-22,LinkedIn,1
+CUST_95,Léon Schneider,Martineaudan,Féroé (Îles),36-45,Enterprise,2025-03-22,Event Walk-in,0
+CUST_96,Julien-Maurice Pages,Barthelemy,Cook (Îles),18-25,Enterprise,2025-04-17,Instagram,1
+CUST_97,Chantal Perrin,Pinto,Israël,26-35,Startup,2024-02-27,TikTok,1
+CUST_98,Thomas Lebon du Martineau,Blanc,Lithuanie,26-35,Agency,2025-05-29,Partnership,0
+CUST_99,Adrien Renard,Michaud-sur-Couturier,Laos,26-35,Startup,2024-02-15,TikTok,1
+CUST_100,Nicole Henry Le Bigot,Baron,Estonie,26-35,PME,2025-05-06,LinkedIn,0
+CUST_101,Édouard Lecoq,Gosselinboeuf,Timor,26-35,Enterprise,2024-06-30,LinkedIn,1
+CUST_102,Éléonore Maillot,Sainte Jeannine,Myanmar,36-45,Agency,2024-08-16,Instagram,1
+CUST_103,Gabrielle Moulin,Leroux,Rwanda,26-35,Startup,2024-08-08,Instagram,0
+CUST_104,Bertrand Delorme,Gérard-la-Forêt,Sierra Leone,18-25,Enterprise,2025-01-27,Referral,1
+CUST_105,Patricia Roussel,Simonnec,Portugal,18-25,PME,2024-12-23,Partnership,0
+CUST_106,Astrid-Véronique Legros,Barthelemy-sur-Pinto,Cayman (Îles),36-45,PME,2024-03-20,TikTok,1
+CUST_107,Susan Lucas,Saint Agnès,Chine (Rép. pop.),46-60,Enterprise,2024-02-24,Event Walk-in,0
+CUST_108,Gabrielle Rémy,Sainte Alice,Tadjikistan,18-25,PME,2025-02-13,TikTok,0
+CUST_109,Philippe Morel Le Lagarde,ÉtienneBourg,Argentine,36-45,Startup,2025-04-17,Google Search,0
+CUST_110,Richard Germain,Perrot,Nouvelle-Zélande,18-25,PME,2024-08-09,Referral,0
+CUST_111,Isabelle Auger-Faure,Saint Nath,Jordanie,18-25,PME,2024-10-29,Google Search,0
+CUST_112,Georges Andre,Mathieudan,Pologne,36-45,Agency,2024-12-07,TikTok,0
+CUST_113,Théodore Lucas,Sauvagedan,Cuba,18-25,Freelance,2024-05-05,Google Search,0
+CUST_114,Thibaut-Matthieu Mendès,Sainte AdrienneVille,Tadjikistan,18-25,Enterprise,2025-05-05,Instagram,1
+CUST_115,Pénélope de Lebrun,Hamon,Comores,46-60,Enterprise,2024-05-31,Referral,1
+CUST_116,Josette de la Ledoux,Thomas,Lithuanie,36-45,Startup,2024-08-12,TikTok,1
+CUST_117,Adèle-Margot Guillon,Garcia-sur-Mer,Ouganda,46-60,PME,2025-04-07,TikTok,0
+CUST_118,Alain Antoine,Nicolas,Luxembourg,36-45,Enterprise,2024-01-30,Instagram,0
+CUST_119,Bertrand Colas,Techer,Malte,36-45,PME,2024-07-08,Partnership,1
+CUST_120,Thierry Didier,Lebreton,Liban,26-35,Startup,2025-05-27,Referral,1
+CUST_121,Mathilde Blanchard-Briand,Da Silva,Cocos (Îles),46-60,Startup,2025-03-12,Referral,1
+CUST_122,Nathalie Blin,Legrand-sur-Adam,Syrie,18-25,Enterprise,2024-07-05,Partnership,1
+CUST_123,Auguste Guillot,Merle-les-Bains,Vietnam,18-25,Agency,2025-05-11,TikTok,0
+CUST_124,Sabine-Christelle Robert,Olivierdan,Cap Vert,26-35,Agency,2024-03-26,Event Walk-in,1
+CUST_125,Émilie Parent de Barthelemy,Fernandes,Polynésie française,46-60,PME,2024-03-02,Google Search,0
+CUST_126,Robert Grondin,Launay,Lesotho,46-60,PME,2024-12-22,Referral,0
+CUST_127,Éric Diaz-Joubert,Godard,Papouasie-Nouvelle-Guinée,26-35,PME,2024-11-02,Google Search,1
+CUST_128,Pénélope Carlier,Clément,Jordanie,36-45,Startup,2024-05-22,Referral,1
+CUST_129,Olivie Lefort,Dupuyboeuf,Burundi,36-45,Startup,2024-09-10,Referral,1
+CUST_130,Luc Gilbert,Boulay,Yemen,46-60,Freelance,2024-03-09,Instagram,0
+CUST_131,Michelle Lejeune,Saint Augustin-les-Bains,Guinée Equatoriale,36-45,Enterprise,2025-06-22,TikTok,1
+CUST_132,Anouk Le Ruiz,Le Roux,Tuvalu,46-60,Agency,2025-03-30,Partnership,0
+CUST_133,Bernard Duval,Dumas,Malaisie,36-45,Enterprise,2025-06-13,Referral,1
+CUST_134,Audrey Sanchez Le Legrand,MullerVille,Pologne,26-35,Startup,2025-04-22,Google Search,1
+CUST_135,Sylvie Jacquot,ColasBourg,Géorgie,36-45,Freelance,2024-12-02,LinkedIn,1
+CUST_136,Olivie Le Goff-Fontaine,Jacques,Pakistan,18-25,Agency,2024-07-17,Partnership,1
+CUST_137,Élisabeth Bouchet,Perrot,Australie,36-45,Freelance,2024-07-31,Google Search,0
+CUST_138,Pierre Mary-Dias,Ledoux,Grèce,36-45,PME,2024-10-16,LinkedIn,1
+CUST_139,Laurence Pons Le Coste,Chauvin,Venezuela,46-60,Agency,2024-05-08,Referral,1
+CUST_140,Renée Berthelot Le Lelièvre,Jacquet,Rwanda,18-25,Agency,2024-06-20,Event Walk-in,1
+CUST_141,Dominique Simon,Saint AmélieBourg,Zimbabwe,18-25,Startup,2024-04-02,Instagram,1
+CUST_142,Rémy du Auger,Sainte JulieBourg,Turquie,36-45,Startup,2024-07-29,Referral,0
+CUST_143,Martine Peron,Ferreira-sur-Lebon,Slovaquie,36-45,Enterprise,2025-01-30,Partnership,1
+CUST_144,Charles-Stéphane Pruvost,Aubry,Brunei,18-25,Agency,2024-12-19,Event Walk-in,0
+CUST_145,Émilie Letellier,Allard,Bermudes (Les),36-45,Enterprise,2024-08-05,Instagram,0
+CUST_146,Vincent Faure,Saint Valérieboeuf,Slovaquie,18-25,Freelance,2024-02-07,TikTok,0
+CUST_147,Aimé Pons,Lambert,Colombie,18-25,Enterprise,2024-10-06,Instagram,0
+CUST_148,Nicole Caron,Bigot-sur-Lenoir,Mali,46-60,Freelance,2024-01-10,Partnership,0
+CUST_149,Émile Valette,Saint Sylvie,Îles Mineures Éloignées des États-Unis,18-25,Startup,2024-03-16,TikTok,0
+CUST_150,Georges Lemoine,Petit,Svalbard et Jan Mayen (Îles),46-60,Startup,2024-11-06,Partnership,1
+CUST_151,Laetitia Lacroix,Guillaume,Qatar,46-60,PME,2025-01-26,Partnership,0
+CUST_152,Sophie-Suzanne Lévy,Saint Martine,Colombie,26-35,Enterprise,2025-01-31,LinkedIn,0
+CUST_153,Henri Olivier de la Alves,Saint Guillaume,Maldives (Îles),46-60,Enterprise,2024-09-05,Referral,1
+CUST_154,Anne Lefèvre,Tanguy,Côte d'Ivoire,26-35,Freelance,2025-06-07,Google Search,0
+CUST_155,Noël Bouvier,Chevaliernec,Mariannes du Nord (Îles),36-45,PME,2025-01-07,LinkedIn,1
+CUST_156,Dominique Chrétien,Saint Jacqueline,Pologne,46-60,Freelance,2025-03-01,Instagram,1
+CUST_157,Noémi du Ramos,Charlesnec,Fidji (République des),18-25,PME,2024-11-14,Instagram,1
+CUST_158,Bernard Martin-Petit,Saint Émile,Nicaragua,18-25,Startup,2025-06-19,Referral,1
+CUST_159,Robert Rodrigues,Sauvage,Saint Pierre et Miquelon,18-25,Freelance,2024-03-23,Google Search,1
+CUST_160,Thibaut Blanchard,Vaillantnec,Zimbabwe,26-35,Freelance,2024-12-09,Referral,1
+CUST_161,Jules de Gros,Imbert,Malaisie,26-35,Freelance,2024-10-09,LinkedIn,0
+CUST_162,Gabriel Muller,Sainte Jean,Israël,26-35,Startup,2024-04-21,LinkedIn,0
+CUST_163,Alphonse-Gilbert Legrand,Sainte Gabriellenec,Kazakhstan,26-35,PME,2024-06-22,Event Walk-in,1
+CUST_164,Michel Normand,Normand-les-Bains,Tanzanie,26-35,Startup,2024-05-31,Instagram,0
+CUST_165,Bernard Camus,Saint Alphonse,Territoires français du sud,26-35,Enterprise,2024-11-15,Referral,0
+CUST_166,Thibault Joseph,Perez,Zimbabwe,18-25,Agency,2024-02-23,Instagram,0
+CUST_167,Laure Bruneau,Saint Robertboeuf,Maroc,18-25,Startup,2025-06-08,LinkedIn,0
+CUST_168,Nath Lopez,Alvesboeuf,Mariannes du Nord (Îles),18-25,Enterprise,2024-05-23,Partnership,0
+CUST_169,Alexandre Cohen,Lebreton,Jordanie,36-45,PME,2025-02-06,Event Walk-in,1
+CUST_170,Laetitia Ferreira-Diallo,Sainte Virginie,Dominique,46-60,Agency,2025-01-09,TikTok,1
+CUST_171,Jeannine Fouquet Le Valentin,Saint Aurore,Mayotte,18-25,Agency,2024-06-09,Google Search,0
+CUST_172,Lucie du François,Collet-sur-Gimenez,Samoa,36-45,PME,2024-06-04,TikTok,0
+CUST_173,Alix Payet,Schmitt,Norvège,18-25,Agency,2025-03-02,Referral,0
+CUST_174,Gilbert de la Besnard,Noël-sur-Collet,Philippines,36-45,Agency,2024-03-13,Referral,0
+CUST_175,Honoré Perrier-Baudry,Besson,La Barbad,46-60,Freelance,2024-01-18,Instagram,1
+CUST_176,Michel Payet-Gautier,LeclercVille,Égypte,18-25,Agency,2025-04-21,Google Search,0
+CUST_177,Arthur-Victor Vallet,Jacquotboeuf,Féroé (Îles),46-60,PME,2024-10-04,TikTok,1
+CUST_178,Pierre de la Berger,Sainte PatriciaBourg,Antilles néerlandaises,46-60,Agency,2024-05-25,Instagram,1
+CUST_179,Renée Poirier,Vallée,Portugal,26-35,Agency,2024-04-28,LinkedIn,1
+CUST_180,Catherine Jacquet-Lopes,Pires,Monaco,36-45,Freelance,2024-12-27,Google Search,1
+CUST_181,Suzanne Hamon,Leduc,Montserrat,26-35,Freelance,2024-05-16,LinkedIn,1
+CUST_182,Thérèse de la Munoz,Lacombe-la-Forêt,Uruguay,46-60,PME,2024-06-07,Referral,1
+CUST_183,Patrick de la Lefebvre,Lacroix,Swaziland,36-45,Startup,2024-12-14,TikTok,0
+CUST_184,Théophile du Lemonnier,Gomez-la-Forêt,Territoire britannique de l'océan Indien,36-45,Startup,2024-02-23,Partnership,0
+CUST_185,Maggie Blanchet du Meunier,Letellier-sur-Mer,Grèce,36-45,Startup,2024-12-22,Referral,1
+CUST_186,Agathe Garnier,Alves-les-Bains,Bahamas,26-35,Startup,2024-04-02,TikTok,1
+CUST_187,Hélène Vincent,Saint Thibaut,Oman,18-25,Enterprise,2025-05-21,TikTok,0
+CUST_188,Zacharie Le Loiseau,Diallo-les-Bains,Botswana,36-45,PME,2024-04-21,LinkedIn,1
+CUST_189,Augustin Weiss,Bonnet,Mongolie,26-35,Startup,2024-07-06,Google Search,1
+CUST_190,Richard Vallée,Bertinnec,Pakistan,36-45,Agency,2024-08-12,Instagram,1
+CUST_191,Thierry de la Maillard,Petitjean-sur-Guillaume,Iran,18-25,Enterprise,2025-05-14,LinkedIn,1
+CUST_192,Louise Sanchez,Sainte Manon,Hongrie,26-35,PME,2025-05-15,TikTok,1
+CUST_193,Emmanuelle Klein,KleinBourg,Pitcairn (Îles),26-35,PME,2025-05-31,Google Search,1
+CUST_194,Marcelle Peron,Michauddan,Kirghizistan,36-45,Freelance,2024-02-14,Partnership,1
+CUST_195,Constance Peltier,Saint Lorraine-sur-Mer,Arabie saoudite,46-60,PME,2025-03-22,Referral,0
+CUST_196,Sébastien Laroche,Parentdan,Palau,18-25,Enterprise,2024-10-28,LinkedIn,0
+CUST_197,Marine Potier-Guillaume,Garcia,Monaco,26-35,Enterprise,2024-01-10,Instagram,1
+CUST_198,Anouk Nguyen,Rivière-sur-Gonzalez,Hongrie,18-25,PME,2025-01-09,Instagram,0
+CUST_199,Thomas-Richard Colas,Sainte Marthe,Malawi,36-45,Freelance,2025-03-27,Google Search,1
+CUST_200,Élise de la Mahe,Schmitt,Irak,46-60,Agency,2025-01-21,Instagram,0
+CUST_201,Alfred Laine,Mahe-sur-Mer,Nauru,26-35,PME,2025-05-27,Partnership,1
+CUST_202,Victor Barbier,Noël-la-Forêt,Falkland (Île),46-60,Enterprise,2024-06-11,Google Search,0
+CUST_203,Antoine-Thierry Thibault,Mendès-sur-Barthelemy,Émirats arabes unis,18-25,Freelance,2025-03-17,TikTok,0
+CUST_204,Raymond Grondin,Fouquet,Guam,26-35,Enterprise,2024-06-11,LinkedIn,0
+CUST_205,Julien Gonzalez,Sainte Alain,Tunisie,46-60,Agency,2025-03-20,TikTok,0
+CUST_206,Julien du Legros,Lagarde-sur-Didier,Inde,46-60,Freelance,2024-05-02,Event Walk-in,0
+CUST_207,Michelle Guichard,Bigot-sur-Bourdon,Liechtenstein,18-25,Enterprise,2025-04-01,Referral,0
+CUST_208,Alix Couturier de Dijoux,ThibaultVille,Taiwan,26-35,Startup,2024-05-17,TikTok,0
+CUST_209,Yves Mallet,Boulay-les-Bains,Rép. Dém. du Congo,46-60,PME,2024-12-10,Referral,1
+CUST_210,Thérèse Pruvost de Lenoir,Dias,Cook (Îles),36-45,Agency,2024-03-20,Partnership,1
+CUST_211,Laurent Marion,Loiseaunec,Géorgie,18-25,PME,2024-01-16,TikTok,0
+CUST_212,Timothée Bailly,Charles,Moldavie,46-60,Freelance,2024-10-24,Partnership,1
+CUST_213,Nathalie Mace,Chevalier,Brunei,18-25,Freelance,2024-02-07,Referral,1
+CUST_214,Denis Fernandes,Merlenec,Marshall (Îles),46-60,Startup,2024-09-30,LinkedIn,0
+CUST_215,Monique Marie,Tanguy-les-Bains,Qatar,18-25,Freelance,2024-09-05,Referral,1
+CUST_216,Joseph Guyon-Hervé,Caronnec,Guatemala,26-35,Freelance,2024-08-04,Partnership,0
+CUST_217,Thierry-Xavier Jourdan,Colin-les-Bains,Myanmar,18-25,PME,2024-04-09,Partnership,1
+CUST_218,Valérie Didier,Blondel-la-Forêt,Mozambique,18-25,PME,2025-03-15,Partnership,0
+CUST_219,Adrienne Pereira,Saint Théophile,Paraguay,18-25,Enterprise,2025-01-27,LinkedIn,0
+CUST_220,Nathalie Royer,Saint Manon,Guatemala,26-35,Enterprise,2024-07-30,Instagram,1
+CUST_221,Patrick du Millet,Masse-sur-Bertin,Territoires français du sud,26-35,PME,2024-08-13,Referral,0
+CUST_222,Inès Munoz,Hoaraudan,Tunisie,26-35,PME,2024-10-09,Partnership,0
+CUST_223,Alexandria Marion-Gilbert,Lagardeboeuf,Christmas (Île),36-45,Freelance,2025-01-18,TikTok,1
+CUST_224,Anouk Leblanc de Torres,Sainte Victoire,Islande,18-25,Freelance,2024-06-29,LinkedIn,0
+CUST_225,Luc Le Roux,Dupuy,Saint-Marin (Rép. de),46-60,PME,2024-07-07,Event Walk-in,1
+CUST_226,Adrien de Moulin,Neveu,Jordanie,18-25,Enterprise,2025-02-24,LinkedIn,1
+CUST_227,Dorothée Hamel,Guillet-la-Forêt,Somalie,26-35,Freelance,2024-04-11,TikTok,0
+CUST_228,Bertrand Vallet,Jacquot,Samoa,46-60,Startup,2025-03-27,Google Search,1
+CUST_229,Théophile-Bernard Benoit,Jacques,Bahrain,18-25,Freelance,2024-09-27,TikTok,0
+CUST_230,Virginie Mace Le Langlois,Meunier,Arménie,36-45,Startup,2024-06-27,Instagram,1
+CUST_231,Andrée Bourdon,Ferrand,Chine (Rép. pop.),26-35,Startup,2024-01-09,Event Walk-in,0
+CUST_232,Marc du Cousin,Saint Thibaut-sur-Mer,Hong Kong,46-60,Startup,2024-08-25,Instagram,1
+CUST_233,Léon Mendès,Godard,Suisse,18-25,PME,2025-03-26,Referral,0
+CUST_234,Rémy de Bonnet,Sainte Suzanne-les-Bains,Belgique,46-60,Enterprise,2024-07-19,LinkedIn,1
+CUST_235,Marianne-Geneviève Reynaud,Weiss-sur-Vasseur,Antilles néerlandaises,46-60,Startup,2024-10-17,Google Search,1
+CUST_236,Marcelle Boucher,Bodin,Grèce,26-35,Enterprise,2025-05-07,Event Walk-in,1
+CUST_237,Brigitte Gilles de Ollivier,SchmittVille,Nicaragua,26-35,PME,2024-04-02,Referral,0
+CUST_238,Zacharie-Maurice Carlier,Sainte Pauline,Burkina Faso,46-60,Enterprise,2024-09-09,Google Search,1
+CUST_239,Hugues Olivier,Rocher,Macau,46-60,Freelance,2025-03-14,TikTok,1
+CUST_240,Michel Colas de Ruiz,Barre-sur-Mer,Martinique,26-35,Enterprise,2025-05-18,TikTok,1
+CUST_241,Virginie Daniel-Bernard,Bertrand-sur-Hamel,Kiribati,36-45,Enterprise,2024-10-15,LinkedIn,0
+CUST_242,Margaret Ramos de la Durand,Raymond-la-Forêt,Saint Vincent et les Grenadines,36-45,Startup,2025-01-19,Google Search,0
+CUST_243,Marcel Marchal,Rey,Territoires français du sud,46-60,Freelance,2024-11-09,Referral,1
+CUST_244,Gilbert de la Klein,Masse-sur-Godard,Bosnie-Herzégovine,18-25,Freelance,2025-01-10,Instagram,1
+CUST_245,Émile Morvan,Lacroix,Iran,46-60,Agency,2025-04-15,TikTok,1
+CUST_246,Virginie Perez Le Ferrand,Saint MarcelVille,Ouganda,36-45,PME,2025-01-26,Instagram,0
+CUST_247,William Normand,Neveu,Belgique,26-35,PME,2024-07-21,Event Walk-in,0
+CUST_248,Alexandrie Martineau,Nguyen-les-Bains,Hongrie,46-60,Enterprise,2025-01-12,LinkedIn,0
+CUST_249,Lucy Huet,Turpin,Paraguay,26-35,Freelance,2024-01-01,Referral,0
+CUST_250,Astrid de Gilbert,Saint Simone,Tokelau,26-35,Agency,2025-01-07,Google Search,0
+CUST_251,Honoré Le Goff,PascalVille,Grèce,46-60,Agency,2025-04-29,TikTok,1
+CUST_252,Tristan Jacquot,Saint Élise-la-Forêt,Norvège,46-60,Agency,2025-06-16,Referral,0
+CUST_253,Auguste Rocher-Nicolas,Saint AnaïsVille,Liechtenstein,18-25,Agency,2025-02-24,TikTok,0
+CUST_254,Franck Techer-Besnard,Gautierdan,Corée du Nord,26-35,Freelance,2024-09-26,TikTok,0
+CUST_255,Anaïs Lemoine-Collin,LamyVille,Guatemala,18-25,Startup,2024-12-04,TikTok,1
+CUST_256,Olivier Mercier,Guillaumenec,La Barbad,18-25,PME,2024-09-24,LinkedIn,1
+CUST_257,Camille Muller,Menard,Bahrain,18-25,Enterprise,2024-05-12,Partnership,0
+CUST_258,Sylvie Vidal,BoucherBourg,Sainte Lucie,18-25,Freelance,2024-06-28,LinkedIn,1
+CUST_259,Zacharie Georges de la Girard,Lebon,Iran,46-60,Enterprise,2024-12-27,Google Search,0
+CUST_260,Bernard Gautier,Hoareau,Mariannes du Nord (Îles),18-25,Startup,2024-07-14,Event Walk-in,1
+CUST_261,Christelle Schneider,Munozdan,Namibie,26-35,Freelance,2024-03-13,Referral,0
+CUST_262,Noémi Louis,Delaunay-sur-Gérard,Inde,46-60,Startup,2024-08-07,Referral,1
+CUST_263,Thibaut Caron,Vallet,Lettonie,46-60,PME,2025-05-02,Google Search,1
+CUST_264,Monique Duhamel,Meunier,Malaisie,46-60,Enterprise,2024-04-14,TikTok,1
+CUST_265,Anouk Lamy,Duval,Fidji (République des),46-60,PME,2024-04-25,Partnership,1
+CUST_266,Agathe Julien-Besnard,Foucherdan,Belize,26-35,PME,2024-04-20,Instagram,0
+CUST_267,Isabelle Klein-Boutin,Rocher,Bulgarie,46-60,Agency,2024-02-06,Instagram,1
+CUST_268,André-Thomas Boulanger,Saint Nathalienec,Islande,18-25,Agency,2024-03-10,Partnership,0
+CUST_269,Alphonse Weiss,Bourdon,Kenya,46-60,Enterprise,2024-05-27,Instagram,1
+CUST_270,Claire Martel,Bonnin,Macau,46-60,Enterprise,2024-03-30,Instagram,0
+CUST_271,Michèle-Clémence Leduc,Laurent,Sierra Leone,18-25,Freelance,2024-04-04,Event Walk-in,1
+CUST_272,René Joly,Saint Margotdan,Liban,36-45,PME,2024-04-26,Event Walk-in,0
+CUST_273,Gilbert Le Goff,Pereira-sur-Mer,Wallis et Futuna (Îles),36-45,Enterprise,2025-04-14,TikTok,0
+CUST_274,Odette de Gaudin,Delattre-sur-Mer,Libéria,18-25,Freelance,2024-03-21,Event Walk-in,0
+CUST_275,Maurice Thomas,Clerc,Kirghizistan,46-60,Freelance,2024-01-03,TikTok,0
+CUST_276,Gilbert Fischer,Saint ArthurVille,Antarctique,36-45,Agency,2025-04-29,TikTok,1
+CUST_277,Margaud Petit,Bazin,Cameroun,18-25,Enterprise,2024-04-27,TikTok,1
+CUST_278,Jacqueline Klein,BaronBourg,Sainte Lucie,36-45,PME,2024-12-27,Instagram,1
+CUST_279,Alice Fouquet-Blanchard,Laroche,République centrafricaine,18-25,Startup,2024-05-10,TikTok,0
+CUST_280,Charles Besnard,DelahayeVille,Maurice,46-60,Enterprise,2024-12-07,Instagram,0
+CUST_281,Grégoire Blot-Dijoux,Brun,Corée du Nord,18-25,Enterprise,2024-02-24,Partnership,1
+CUST_282,Maurice Coulon du Weiss,Saint Madeleineboeuf,Pologne,46-60,Agency,2024-10-29,Referral,0
+CUST_283,Aimé Jean,Guibertboeuf,Lettonie,36-45,PME,2025-03-28,Partnership,1
+CUST_284,Suzanne Martins,Guyot-la-Forêt,Suriname,46-60,Freelance,2024-09-21,Event Walk-in,0
+CUST_285,Alexandre-Guy Leblanc,TexierVille,Espagne,36-45,Freelance,2024-06-28,Instagram,0
+CUST_286,Laurence Paul,Clerc,Montserrat,36-45,PME,2024-05-06,LinkedIn,0
+CUST_287,Christophe-Augustin Gaudin,Rousseau-sur-Dos Santos,Maroc,36-45,Startup,2025-02-05,LinkedIn,1
+CUST_288,Manon Besson-Lemoine,Bailly,Tonga,36-45,Agency,2025-02-01,Referral,1
+CUST_289,Laurence Faivre,Saint PaulineBourg,Arménie,36-45,PME,2024-08-22,Instagram,0
+CUST_290,Olivie Lopez-Traore,Dubois-sur-Faure,Angola,46-60,Agency,2024-04-09,Instagram,1
+CUST_291,Olivier Dias Le Leconte,Lamy-sur-Mer,Égypte,36-45,PME,2025-03-23,Instagram,1
+CUST_292,Laurence Coulon-Jacquet,Loiseau-sur-Mer,Svalbard et Jan Mayen (Îles),18-25,Startup,2024-01-24,LinkedIn,1
+CUST_293,Virginie Imbert,Blanc-sur-Brunet,Paraguay,18-25,PME,2025-06-04,TikTok,1
+CUST_294,François de Boutin,Delmas,Sri Lanka,36-45,Enterprise,2025-03-11,Partnership,0
+CUST_295,Danielle-Christelle Joseph,Mace,El Salvador,36-45,PME,2024-03-10,TikTok,0
+CUST_296,Martin Pierre,DuhamelBourg,Malawi,18-25,PME,2025-03-14,Instagram,1
+CUST_297,Raymond Hamel-Didier,Baillydan,Tanzanie,46-60,Agency,2024-03-18,Referral,1
+CUST_298,Agathe Lucas,Saint Denisedan,Géorgie du Sud et Sandwich du Sud (Îles),26-35,Agency,2024-08-19,Referral,1
+CUST_299,Gérard du Marques,Thomas,Porto Rico,46-60,Agency,2024-09-22,Google Search,1
+CUST_300,Élise Pires,Bourgeois,Mongolie,36-45,Freelance,2024-12-14,LinkedIn,1
+CUST_301,Lucie Dubois,Bègue,Jordanie,46-60,Enterprise,2024-09-27,Partnership,1
+CUST_302,François Maury-Moreau,Hamel,Malaisie,36-45,Startup,2024-03-24,TikTok,1
+CUST_303,Marguerite Leblanc,Martinez,Porto Rico,46-60,Agency,2024-05-09,TikTok,1
+CUST_304,Geneviève-Amélie Brunet,Rocheboeuf,Namibie,26-35,Enterprise,2024-10-05,Event Walk-in,0
+CUST_305,Frédéric Leroux de la Jacquet,Sainte Jacques,Yemen,26-35,Enterprise,2024-10-30,Instagram,1
+CUST_306,Théodore Petitjean,Colin-la-Forêt,Antigua et Barbuda,18-25,Enterprise,2024-03-14,Partnership,1
+CUST_307,Joseph Legros,Boyer-sur-Lelièvre,Bermudes (Les),36-45,Enterprise,2024-08-26,TikTok,0
+CUST_308,Pauline Masse,Faivre-sur-Delannoy,Mauritanie,26-35,Enterprise,2024-04-22,TikTok,0
+CUST_309,Aimée Le Dos Santos,Hoarau,Biélorussie,36-45,Startup,2024-01-17,Event Walk-in,0
+CUST_310,Gabrielle Ribeiro,Marty,Hongrie,26-35,Agency,2025-05-09,Event Walk-in,0
+CUST_311,Louise Moreau,Leconte,Liban,36-45,Freelance,2024-07-26,Google Search,0
+CUST_312,Claude Ruiz-Reynaud,Dupontnec,Mauritanie,46-60,PME,2025-02-03,TikTok,1
+CUST_313,Marc Reynaud,Saint Jeanne,Angola,26-35,Startup,2024-10-28,TikTok,0
+CUST_314,Claire-Édith Boucher,Courtois-sur-Allain,Bosnie-Herzégovine,26-35,Enterprise,2025-04-15,LinkedIn,1
+CUST_315,Claire Robert,Mariondan,France,26-35,Freelance,2025-06-15,TikTok,1
+CUST_316,Josette Godard,Saint Odette-la-Forêt,Turquie,18-25,Enterprise,2024-12-22,Referral,0
+CUST_317,Denis Traore,Legrandnec,Thailande,46-60,Startup,2024-03-18,Partnership,0
+CUST_318,Anaïs Lecoq,Bertin,Angola,46-60,Freelance,2024-03-22,Event Walk-in,0
+CUST_319,Rémy Olivier,Petitjeannec,Afrique du sud,36-45,Freelance,2024-07-13,Google Search,0
+CUST_320,Aimé Gilbert,Saint Julien-sur-Mer,Macau,26-35,Enterprise,2024-01-09,Referral,0
+CUST_321,Lorraine Lenoir,Barthelemy,Mayotte,46-60,Agency,2024-04-23,LinkedIn,1
+CUST_322,Victor Lefèvre,Lévêque,Montserrat,36-45,Agency,2024-10-10,Referral,1
+CUST_323,Grégoire Muller-Guillot,De Sousa,Jordanie,36-45,PME,2024-06-12,Referral,0
+CUST_324,Henri Blot,Marion-sur-Mary,Géorgie du Sud et Sandwich du Sud (Îles),18-25,Agency,2024-08-03,Instagram,0
+CUST_325,Louis Lemaire,Charlesdan,Heard et McDonald (Îles),46-60,Startup,2025-01-07,LinkedIn,0
+CUST_326,Sabine Ferrand,Sainte Thibaut,Bhoutan,26-35,Freelance,2024-08-21,TikTok,1
+CUST_327,Clémence Gimenez,Gallet,Nepal,46-60,Startup,2025-02-15,Referral,1
+CUST_328,Charlotte Picard,Roy,Estonie,18-25,Startup,2024-12-01,Event Walk-in,0
+CUST_329,Simone Gomes de la Marion,Lemaître,Sainte Lucie,36-45,PME,2025-01-25,Event Walk-in,0
+CUST_330,Guillaume Renard,Huetdan,Tadjikistan,18-25,Freelance,2024-03-21,Google Search,0
+CUST_331,Jacqueline Picard,GirardVille,Rwanda,26-35,Agency,2024-02-29,Instagram,0
+CUST_332,Maryse Joubert,TraoreBourg,Kirghizistan,36-45,Startup,2024-04-16,Referral,0
+CUST_333,Vincent Masse,Collet,Aruba,46-60,Freelance,2025-05-17,TikTok,0
+CUST_334,Diane Blanc,Bonnetboeuf,Lettonie,18-25,Startup,2025-01-11,Google Search,1
+CUST_335,Célina-Brigitte Wagner,Saint Isaac,Tokelau,18-25,PME,2024-06-04,Instagram,1
+CUST_336,Philippe Legrand,Costa,Moldavie,26-35,Freelance,2024-09-27,Partnership,0
+CUST_337,Marine Verdier,Daniel,Sainte Hélène,26-35,PME,2025-06-14,Partnership,0
+CUST_338,Adèle-Isabelle Torres,Pereira,Nigeria,36-45,Startup,2024-04-18,Google Search,0
+CUST_339,Bernadette Lévêque,Normandboeuf,Équateur,18-25,PME,2024-05-09,TikTok,0
+CUST_340,Madeleine Cousin-Vidal,Leduc-sur-Mer,Bahrain,18-25,Startup,2024-10-27,Instagram,1
+CUST_341,Mathilde-Andrée Leroux,Bernier-les-Bains,Afghanistan,26-35,Enterprise,2025-05-05,Google Search,1
+CUST_342,Bernard Germain-Hebert,Sainte Hugues,Espagne,36-45,Agency,2024-07-04,LinkedIn,0
+CUST_343,Tristan-Émile Petit,MaillardBourg,Israël,26-35,PME,2024-06-17,LinkedIn,1
+CUST_344,Françoise Boulanger,Sainte LouiseVille,Botswana,46-60,PME,2024-11-27,Google Search,1
+CUST_345,Daniel Lévy,Toussaint,Cambodge,26-35,PME,2024-06-30,Referral,1
+CUST_346,Juliette Salmon,Gomesboeuf,Belize,18-25,Agency,2025-04-13,LinkedIn,0
+CUST_347,Manon Letellier-Deschamps,Royer-sur-Mer,Mali,26-35,Agency,2024-05-06,Google Search,0
+CUST_348,Emmanuel Alexandre Le Lecoq,Vallée-la-Forêt,Moldavie,26-35,Enterprise,2024-05-15,LinkedIn,1
+CUST_349,Constance Deschamps Le Ledoux,Hoarau,Heard et McDonald (Îles),36-45,Startup,2024-06-02,LinkedIn,0
+CUST_350,Cécile Delorme,Pierre,"Corée, Sud",18-25,Enterprise,2025-04-03,TikTok,0
+CUST_351,Mathilde Antoine,Pons,Bolivie,26-35,Agency,2025-06-12,Referral,1
+CUST_352,Xavier Pinto,Gérardboeuf,Niger,46-60,Freelance,2024-01-21,Referral,1
+CUST_353,Nicolas Hamon,Barthelemy-les-Bains,Groenland,26-35,Startup,2025-02-20,Partnership,1
+CUST_354,Théodore Menard,Joubert,Macau,18-25,Agency,2024-10-15,Instagram,1
+CUST_355,Luc du Hernandez,Saint Denis,Jamaïque,46-60,Agency,2024-09-20,TikTok,1
+CUST_356,Thierry Pires de Bouvet,Leduc,Malawi,18-25,PME,2024-12-08,Google Search,0
+CUST_357,Célina de la Lopes,Guillot,Lettonie,46-60,PME,2025-01-15,Referral,0
+CUST_358,Rémy Bernard-Jacquet,Dumont,Ghana,26-35,Agency,2024-09-17,Instagram,1
+CUST_359,Jules Alves-Lacroix,Perrin,Nauru,26-35,Freelance,2025-06-07,LinkedIn,0
+CUST_360,Arthur Gros,Renault-la-Forêt,Canada,36-45,PME,2024-07-12,Referral,1
+CUST_361,Julie Grondin,Rey-la-Forêt,Antarctique,46-60,Agency,2025-04-07,LinkedIn,0
+CUST_362,Roger Dijoux Le Gillet,PerrierBourg,Togo,36-45,Enterprise,2024-08-11,Google Search,1
+CUST_363,Aurore Boucher,Germain,Autriche,26-35,Enterprise,2025-03-16,Google Search,0
+CUST_364,Luc Lebon,Marques-sur-Lemoine,Chine (Rép. pop.),18-25,Startup,2024-04-14,Event Walk-in,1
+CUST_365,Adélaïde Gauthier,LeducVille,Mexique,46-60,Freelance,2024-12-03,Event Walk-in,1
+CUST_366,Aurore-Capucine Lenoir,Lambert,Gabon,36-45,Freelance,2024-10-05,Event Walk-in,1
+CUST_367,Jeannine Gros,Dupuydan,Kiribati,18-25,Agency,2025-04-02,TikTok,1
+CUST_368,Guy de Pichon,Lemaire,Vierges (Îles),18-25,Freelance,2024-01-13,Google Search,1
+CUST_369,Zoé Briand,Sainte Camille,Ethiopie,46-60,PME,2024-12-25,Event Walk-in,1
+CUST_370,Alfred Sanchez,MartinezBourg,Algérie,18-25,PME,2025-03-11,Instagram,0
+CUST_371,Laurent Barthelemy,Rocher,Burkina Faso,18-25,Freelance,2025-06-20,Google Search,0
+CUST_372,Roger Laporte-Petitjean,Germain,Chine (Rép. pop.),26-35,Agency,2024-12-07,Event Walk-in,1
+CUST_373,Bernadette Georges-Costa,Bazin,Cook (Îles),36-45,Agency,2024-03-04,Event Walk-in,0
+CUST_374,Odette Blondel,Lamyboeuf,Monaco,36-45,Startup,2025-06-09,Instagram,1
+CUST_375,Claudine Poirier Le Bruneau,Guillot-la-Forêt,Saint-Kitts et Nevis,26-35,PME,2025-03-05,LinkedIn,0
+CUST_376,Alphonse Maurice,Saint Honoré,Algérie,26-35,Startup,2024-10-26,Event Walk-in,0
+CUST_377,Adélaïde Allard-Delmas,Rocherdan,Bulgarie,26-35,Freelance,2025-05-01,Instagram,0
+CUST_378,Agathe Lenoir,Pereira,Libye,18-25,Agency,2025-05-27,Partnership,1
+CUST_379,Matthieu Loiseau,Allarddan,Allemagne,36-45,Startup,2024-08-26,Partnership,1
+CUST_380,Virginie Reynaud,MarchalBourg,Moldavie,26-35,Enterprise,2025-02-26,Partnership,0
+CUST_381,Richard Monnier,Pereira-la-Forêt,Italie,36-45,Enterprise,2024-02-21,Referral,1
+CUST_382,Caroline Jacob,BertinBourg,Guinée-Bissau,26-35,Enterprise,2024-12-14,LinkedIn,1
+CUST_383,Claire Noël,Guillondan,Territoires français du sud,46-60,PME,2025-02-27,Event Walk-in,0
+CUST_384,Geneviève Hamon,RenardVille,Zimbabwe,18-25,Freelance,2024-02-03,Referral,1
+CUST_385,William de la Peron,RivièreBourg,Ouzbékistan,26-35,Agency,2024-02-24,Partnership,0
+CUST_386,Pierre-Alphonse Bouchet,Delorme-sur-Roux,Uruguay,46-60,Startup,2024-12-29,Referral,1
+CUST_387,Adélaïde Noël-Lombard,Maillotboeuf,Ethiopie,36-45,Freelance,2024-09-19,Google Search,0
+CUST_388,Anastasie Allain,Benard,France,18-25,Startup,2024-11-18,TikTok,0
+CUST_389,Marie Clément,Foucher-les-Bains,Féroé (Îles),18-25,Agency,2025-01-04,Partnership,1
+CUST_390,Alexandre Lopes,Pereira-les-Bains,Zimbabwe,18-25,Startup,2024-09-30,LinkedIn,0
+CUST_391,Monique Lombard-Brun,Carlier-sur-Mer,Yemen,36-45,PME,2024-01-04,Instagram,1
+CUST_392,Christine de Joly,Navarro-les-Bains,Taiwan,46-60,PME,2025-01-02,Instagram,0
+CUST_393,Étienne Lecomte,Camus,Somalie,36-45,PME,2024-09-17,Referral,0
+CUST_394,Grégoire Vaillant,Schneider,Bermudes (Les),36-45,Startup,2024-02-24,LinkedIn,0
+CUST_395,Pauline Navarro de la Perrier,Lemonnier,Montserrat,26-35,PME,2025-01-12,Instagram,0
+CUST_396,Patricia Adam,Dumas,Ethiopie,46-60,PME,2024-01-08,Instagram,0
+CUST_397,Paulette Robert,Thomas-sur-Mer,Comores,46-60,PME,2024-11-25,Referral,1
+CUST_398,Susanne Thomas,Payet-les-Bains,Vanuatu,18-25,Enterprise,2025-02-19,Google Search,1
+CUST_399,Margaret-Aimée Benard,Saint Claudine,Cook (Îles),26-35,Freelance,2025-03-09,Google Search,0
+CUST_400,Denis de la Gallet,Vincent,Brunei,46-60,PME,2024-02-11,TikTok,1
+CUST_401,Georges Joseph,Lebrun-la-Forêt,Jordanie,46-60,Startup,2025-02-02,TikTok,0
+CUST_402,Arthur de Aubert,Bonnet,Vierges britanniques (Îles),36-45,Agency,2024-03-13,Google Search,1
+CUST_403,Grégoire Marchal,Boulay,Chine (Rép. pop.),36-45,PME,2024-11-21,Partnership,1
+CUST_404,Susanne-Laetitia Gay,Saint Théophile,Afghanistan,18-25,Freelance,2025-03-05,Google Search,0
+CUST_405,Corinne Antoine,Leblanc,Tunisie,46-60,Startup,2024-10-09,Event Walk-in,1
+CUST_406,Raymond Gimenez de la Costa,Fabre-sur-Martineau,Guinée Equatoriale,36-45,Startup,2024-07-09,Partnership,0
+CUST_407,Guillaume Guillon-Hamel,Delattredan,Estonie,18-25,PME,2024-07-20,Instagram,1
+CUST_408,Thibault Gimenez,Wagner,Heard et McDonald (Îles),18-25,Agency,2025-03-26,Instagram,1
+CUST_409,Émile Legros de Olivier,BruneauBourg,Russie,18-25,Freelance,2024-06-06,Event Walk-in,0
+CUST_410,Isaac-Yves Marchal,Legrand,Nouvelle Calédonie,26-35,Startup,2024-10-18,Referral,0
+CUST_411,Julie Nicolas,Pierre,Émirats arabes unis,36-45,Freelance,2025-02-16,Instagram,0
+CUST_412,Jeannine Gimenez,Meyer,Australie,18-25,Startup,2025-06-06,Google Search,0
+CUST_413,Alphonse Delaunay,Maurice-sur-Roche,Cap Vert,18-25,Agency,2024-08-24,TikTok,1
+CUST_414,Inès Jacquot du Bertrand,Lecomte,Mariannes du Nord (Îles),18-25,Freelance,2025-04-19,Referral,0
+CUST_415,Martine Dufour,Sainte ÉléonoreBourg,São Tomé et Príncipe (Rép.),46-60,Agency,2024-08-01,Instagram,0
+CUST_416,Mathilde Robin,Grondin,Jordanie,26-35,PME,2024-04-17,Referral,0
+CUST_417,Lucy du Godard,CharrierVille,Australie,18-25,Freelance,2024-06-30,TikTok,1
+CUST_418,Jérôme de Delmas,Carlier,Tanzanie,18-25,Enterprise,2024-08-17,TikTok,1
+CUST_419,Richard-Emmanuel Jean,Sainte Michèle,Gabon,36-45,Startup,2024-11-01,TikTok,0
+CUST_420,Robert Hamel,Blin,Gibraltar,18-25,PME,2025-01-13,Referral,0
+CUST_421,Brigitte Maillet,Saint Marie,Croatie,18-25,Agency,2025-06-28,TikTok,0
+CUST_422,Julien Joubert,Denis,Sénégal,18-25,Startup,2024-02-25,Event Walk-in,1
+CUST_423,Yves Rivière,Gomes,Féroé (Îles),26-35,Enterprise,2024-01-21,TikTok,1
+CUST_424,Valérie de la Blot,Saint MarcelBourg,Samoa,36-45,Freelance,2024-10-07,LinkedIn,0
+CUST_425,Thierry Chauveau,Renard,Autriche,36-45,Startup,2025-06-06,Event Walk-in,0
+CUST_426,Danielle du Hoareau,Arnaudboeuf,Koweit,46-60,PME,2025-01-02,LinkedIn,0
+CUST_427,Bertrand-Emmanuel Lemaître,Bernard-les-Bains,Lesotho,36-45,PME,2024-11-21,Referral,1
+CUST_428,Virginie-Anne Leroux,Martin-sur-Mer,Belize,36-45,PME,2024-11-19,TikTok,1
+CUST_429,Marc Deschamps du Parent,Sainte EmmanuelBourg,Ghana,36-45,Enterprise,2025-01-08,Instagram,1
+CUST_430,Michel du Chrétien,Blot-sur-Mer,Tanzanie,26-35,Startup,2024-04-03,Partnership,0
+CUST_431,Bertrand-Julien Denis,Samson-sur-Mer,Svalbard et Jan Mayen (Îles),36-45,Freelance,2024-04-10,Event Walk-in,1
+CUST_432,Jean du Camus,Morel,Ghana,26-35,Agency,2025-06-11,LinkedIn,1
+CUST_433,Thierry Gaillard,Lebon,Inde,26-35,PME,2025-05-15,Partnership,1
+CUST_434,Éléonore Langlois-Sauvage,Sainte Julien,Palau,26-35,Freelance,2024-11-02,Referral,0
+CUST_435,Constance Vallet,Auger-sur-Mer,Rwanda,18-25,Freelance,2024-06-12,Partnership,1
+CUST_436,Margaud-Hortense Benard,Jacob-sur-Rodriguez,Sainte Hélène,26-35,Startup,2024-08-23,TikTok,0
+CUST_437,Valérie Lévêque,Sainte Édithnec,Saint Vincent et les Grenadines,46-60,Freelance,2024-09-06,Instagram,0
+CUST_438,Gilbert Perrin,Sainte Dorothée,Allemagne,26-35,Freelance,2025-04-01,Referral,0
+CUST_439,Alix Descamps,Pierre,Liechtenstein,46-60,PME,2025-04-01,TikTok,1
+CUST_440,Augustin Dijoux-Marty,Morvan-sur-Bodin,Nigeria,18-25,Freelance,2024-04-11,Event Walk-in,1
+CUST_441,Étienne Jean,VasseurVille,Guinée,36-45,PME,2024-03-13,Event Walk-in,0
+CUST_442,Bernadette Le Noël,Poirier,Turks et Caïques (Îles),46-60,Freelance,2025-04-22,TikTok,0
+CUST_443,Zoé Dupuis de Gomes,Albert-sur-Briand,Niger,18-25,Agency,2024-10-29,Google Search,1
+CUST_444,Odette Charrier,Guyon-les-Bains,Suède,46-60,Startup,2025-06-09,Instagram,1
+CUST_445,André Millet-Bernard,Dufourboeuf,Somalie,26-35,PME,2025-06-06,Event Walk-in,1
+CUST_446,Raymond-Denis Brunet,Simon,Malte,26-35,PME,2024-04-05,Google Search,1
+CUST_447,Arnaude Colin,Nguyen,Haïti,36-45,Freelance,2024-09-08,Google Search,0
+CUST_448,Élise Paris,Simon,Hongrie,26-35,Agency,2024-03-23,Referral,0
+CUST_449,Véronique Rousseau Le Carre,Garcia,Bhoutan,18-25,PME,2024-05-03,TikTok,1
+CUST_450,Clémence Noël,Saint Roger,Macau,18-25,Agency,2025-06-26,Instagram,0
+CUST_451,Odette Barthelemy,Thomas,Madagascar,36-45,PME,2025-02-20,LinkedIn,0
+CUST_452,Laurence Lecomte,Auger-sur-Mer,Rép. Dém. du Congo,36-45,Agency,2024-05-15,Google Search,1
+CUST_453,Maurice Perrin,Mendès-les-Bains,Suisse,26-35,Startup,2024-10-13,TikTok,0
+CUST_454,Grégoire Charpentier,Letellier,Costa Rica,36-45,Freelance,2025-01-29,Partnership,0
+CUST_455,Louis Normand de la Berger,Morvan,Lettonie,26-35,PME,2024-05-28,Referral,1
+CUST_456,Emmanuelle Lefèvre,Grégoire-la-Forêt,Guinée,46-60,Agency,2024-03-28,Instagram,0
+CUST_457,Marc-Charles Vallet,Girard,Gambie,36-45,Startup,2024-10-19,Event Walk-in,0
+CUST_458,Louis Pinto du Ollivier,Allain-sur-Gimenez,Costa Rica,36-45,PME,2024-10-28,Google Search,1
+CUST_459,Thibault Bodin,Roussel-les-Bains,Samoa,18-25,Agency,2024-11-21,Event Walk-in,0
+CUST_460,Jean Hoarau,Saint François-la-Forêt,Italie,18-25,Startup,2024-01-21,Referral,0
+CUST_461,Alain Poulain,François-la-Forêt,Finlande,26-35,Freelance,2024-03-10,Google Search,0
+CUST_462,Alexandre du Grenier,Lejeune,Mayotte,36-45,Enterprise,2024-01-16,Instagram,1
+CUST_463,Célina Gérard-Roussel,Leleu-sur-Boulay,Vierges britanniques (Îles),36-45,PME,2024-05-03,Referral,0
+CUST_464,André Aubert,Gomez,Koweit,36-45,Startup,2024-08-04,Event Walk-in,1
+CUST_465,Joséphine Morin-Bigot,Munozdan,Saint Pierre et Miquelon,26-35,Freelance,2025-04-30,Event Walk-in,1
+CUST_466,Jules Lambert,Vasseur-sur-Mer,Turks et Caïques (Îles),18-25,Agency,2025-05-02,TikTok,0
+CUST_467,Jeanne-Catherine Baron,Sainte Margot-sur-Mer,Slovaquie,18-25,PME,2024-03-12,Instagram,0
+CUST_468,Pauline Leleu,Paris,Saint-Marin (Rép. de),18-25,Agency,2024-10-28,Event Walk-in,0
+CUST_469,Aimée Chartier-Le Goff,Rémy-sur-Mer,Afghanistan,36-45,Enterprise,2025-04-29,Referral,1
+CUST_470,Christophe de la Diaz,Saint Alix-la-Forêt,Benin,46-60,PME,2024-03-01,Google Search,1
+CUST_471,Théodore Fernandes de Lemaire,FernandezVille,La Barbad,18-25,Agency,2024-11-12,Partnership,0
+CUST_472,Célina Parent,Lucas,Belize,36-45,Startup,2024-04-11,Partnership,0
+CUST_473,Paulette Vaillant,Gomez-sur-Devaux,Finlande,46-60,Startup,2024-08-11,LinkedIn,0
+CUST_474,Nath Roussel,Léger,Afrique du sud,18-25,Enterprise,2025-02-12,TikTok,0
+CUST_475,Franck Vaillant,Joseph-sur-Dupuis,Inde,18-25,Startup,2024-08-01,TikTok,1
+CUST_476,Luc Fabre,Sainte Gabrielle,Turks et Caïques (Îles),26-35,Enterprise,2024-03-18,Google Search,1
+CUST_477,Joséphine Normand,Regnier,Soudan,36-45,Agency,2025-05-30,Partnership,0
+CUST_478,François Brunel,Bertin,Guyane,36-45,Agency,2025-05-16,LinkedIn,1
+CUST_479,François Pinto,Pottiernec,Qatar,36-45,Startup,2024-05-03,Partnership,0
+CUST_480,Benjamin Léger,Michel,Haïti,36-45,Freelance,2025-05-24,Partnership,1
+CUST_481,Guy Robin de la Vaillant,Sainte Hugues,Tanzanie,18-25,Enterprise,2024-10-25,Partnership,1
+CUST_482,Éléonore Lebreton,Fernandes-sur-Martineau,Togo,18-25,PME,2025-03-18,Event Walk-in,1
+CUST_483,Marc Maillet,Arnaud-sur-Mer,Cocos (Îles),18-25,Freelance,2024-04-27,Partnership,1
+CUST_484,Amélie Potier,Petitjean,Tunisie,18-25,Startup,2024-09-12,Google Search,0
+CUST_485,Éric Bourdon de la Samson,Sainte Marguerite,Mozambique,36-45,Enterprise,2024-06-18,Google Search,0
+CUST_486,William Lévêque,Gautierdan,Autriche,18-25,Enterprise,2024-08-29,Instagram,1
+CUST_487,Richard Giraud,Colin,Afghanistan,46-60,Enterprise,2025-03-07,Instagram,1
+CUST_488,Richard Leblanc,Saint Nathaliedan,Belgique,46-60,PME,2024-08-15,LinkedIn,1
+CUST_489,Astrid Texier,Marie,Albanie,18-25,Startup,2025-01-25,LinkedIn,0
+CUST_490,Georges Martins-Gautier,Colin-sur-Benard,Comores,18-25,Freelance,2025-01-28,Partnership,1
+CUST_491,Margaud Daniel,MartinVille,Lithuanie,36-45,Startup,2025-03-16,Google Search,0
+CUST_492,Alphonse Meunier,Huet-sur-Mer,Cocos (Îles),36-45,Startup,2024-10-23,Event Walk-in,1
+CUST_493,Dominique de la Leconte,Carlierboeuf,Saint Pierre et Miquelon,18-25,Freelance,2024-11-12,Referral,0
+CUST_494,Matthieu Jacquet,Maury,Qatar,46-60,Agency,2024-04-11,Instagram,0
+CUST_495,Jérôme de Le Goff,Charpentier-la-Forêt,Myanmar,46-60,Agency,2025-05-26,Partnership,1
+CUST_496,Adélaïde Martins,Bourdonboeuf,Argentine,26-35,Agency,2024-01-24,Google Search,1
+CUST_497,Roger Benard,Barbe-sur-Julien,Tadjikistan,18-25,PME,2025-02-25,TikTok,1
+CUST_498,Alphonse Dos Santos-Devaux,Bazin-sur-Hardy,Macau,36-45,Startup,2024-03-03,LinkedIn,1
+CUST_499,Antoinette Durand,Teixeira,Philippines,46-60,Agency,2025-03-16,Event Walk-in,1
+CUST_500,Michelle-Maryse Carlier,Gaillard,Honduras,46-60,Freelance,2024-11-19,Google Search,1
+CUST_501,Véronique Marques de Garcia,Chevalier-la-Forêt,Fidji (République des),18-25,Enterprise,2025-05-14,Partnership,0
+CUST_502,Daniel Charpentier,David-sur-Mer,Aruba,18-25,Freelance,2024-06-27,Event Walk-in,0
+CUST_503,Louise Buisson,Lévy,Réunion (La),18-25,Startup,2024-11-02,TikTok,0
+CUST_504,Henri Mary-Lejeune,Descamps,Ghana,18-25,Freelance,2024-01-16,Referral,0
+CUST_505,Christelle Ollivier,Fernandes,Haïti,36-45,Startup,2024-08-06,LinkedIn,0
+CUST_506,Aimé Poulain,Charrier,Zaïre,46-60,PME,2024-10-20,Google Search,0
+CUST_507,Pénélope Marion-Carlier,Joly-sur-Mer,Kazakhstan,26-35,Agency,2024-05-06,Event Walk-in,1
+CUST_508,Audrey Mendès,Saint Zacharieboeuf,Paraguay,26-35,Startup,2025-01-27,LinkedIn,1
+CUST_509,Stéphane Menard-Klein,Collet-sur-Mer,Monaco,46-60,Enterprise,2025-05-04,Instagram,1
+CUST_510,Hugues Le Voisin,Verdier,Gambie,46-60,Agency,2025-01-15,Google Search,1
+CUST_511,Adrien Jourdan Le Toussaint,Loiseau,Swaziland,36-45,PME,2024-06-16,Referral,0
+CUST_512,Zoé Perez,Saint Alix,Guinée Equatoriale,36-45,Freelance,2024-08-14,Partnership,0
+CUST_513,Brigitte Mendès-Valette,Sainte Sylvie,Bolivie,46-60,Enterprise,2025-06-14,Instagram,0
+CUST_514,Marie Weiss,Delahaye,Trinité et Tobago,26-35,Enterprise,2024-07-15,LinkedIn,1
+CUST_515,Eugène Marty,Saint Olivie,Inde,46-60,Agency,2025-04-27,Google Search,0
+CUST_516,Marianne-Émilie Leroux,Saint Agathe-sur-Mer,Guam,46-60,Startup,2024-12-12,Google Search,0
+CUST_517,Joseph Parent,Guibert,Allemagne,46-60,PME,2025-02-27,Referral,1
+CUST_518,Emmanuel Allard-Humbert,PetitjeanBourg,Algérie,26-35,Agency,2025-05-29,LinkedIn,0
+CUST_519,Adrien-Timothée Carre,Maurice,Niger,36-45,PME,2024-08-03,Google Search,0
+CUST_520,Sabine Vaillant,Gaillard-sur-Nguyen,Émirats arabes unis,36-45,Agency,2024-08-09,Referral,0
+CUST_521,Alain de Parent,Pruvost,Albanie,18-25,Startup,2024-11-08,Partnership,0
+CUST_522,Marcelle de Chevallier,Nicolas,Érythrée,26-35,Enterprise,2024-02-16,Google Search,0
+CUST_523,Monique Renault,Sainte Nathalienec,Bosnie-Herzégovine,46-60,Enterprise,2024-03-22,LinkedIn,0
+CUST_524,Guy Pineau Le Caron,Bonnet,Ouzbékistan,46-60,Freelance,2024-09-05,Event Walk-in,0
+CUST_525,Jean Charrier,Gauthier-sur-Bazin,Sri Lanka,46-60,PME,2024-02-15,Instagram,0
+CUST_526,Chantal Guichard,Sauvage,São Tomé et Príncipe (Rép.),18-25,Enterprise,2024-07-21,TikTok,0
+CUST_527,Stéphane Hamel,RollandBourg,Botswana,18-25,PME,2024-02-19,LinkedIn,1
+CUST_528,Dominique Roche,Saint Frédérique,Rwanda,36-45,Freelance,2025-03-08,Instagram,0
+CUST_529,Xavier Lebon,Saint Augustin,Panama,26-35,Enterprise,2025-01-15,TikTok,0
+CUST_530,Frédérique Godard-Dufour,Dupont,Cocos (Îles),26-35,Startup,2024-11-29,Google Search,1
+CUST_531,Aurore-Hélène Le Goff,Carlier,Liban,46-60,PME,2024-10-27,LinkedIn,0
+CUST_532,Camille Salmon,Hervé,Érythrée,36-45,Enterprise,2024-10-01,TikTok,0
+CUST_533,Françoise Munoz,Martel-sur-Mer,Mexique,46-60,Enterprise,2024-07-05,Instagram,1
+CUST_534,Susanne Antoine de la Joly,Ollivier,Gambie,26-35,Agency,2024-08-10,LinkedIn,1
+CUST_535,Charles Delmas,Sainte JosephVille,Venezuela,26-35,Freelance,2024-08-18,Referral,1
+CUST_536,Paul Dupont,Sainte Louis,Tadjikistan,18-25,Agency,2024-10-11,Google Search,1
+CUST_537,Thierry Brunet,Saint Valérie,Mariannes du Nord (Îles),46-60,Freelance,2024-09-03,Referral,1
+CUST_538,Isaac Baudry,Da Costa,Turks et Caïques (Îles),18-25,Startup,2025-06-18,LinkedIn,1
+CUST_539,Antoinette Lopes,Leblanc,Tchad,26-35,Startup,2025-03-10,Google Search,1
+CUST_540,Paulette Gosselin-Delahaye,Labbé,Mayotte,18-25,Agency,2024-09-09,TikTok,0
+CUST_541,Arnaude-Diane Jacquet,Lombard-sur-Bouvier,Vierges (Îles),46-60,Enterprise,2025-04-09,Event Walk-in,0
+CUST_542,Monique Schneider,LerouxVille,Papouasie-Nouvelle-Guinée,18-25,Enterprise,2024-06-23,LinkedIn,1
+CUST_543,Martine Allain,Morenodan,Norvège,36-45,Enterprise,2024-09-20,TikTok,1
+CUST_544,Christiane Maillot,Joseph,Nouvelle-Zélande,46-60,PME,2024-12-27,Instagram,0
+CUST_545,Claudine Dupré,Leclerc-sur-Mer,Myanmar,46-60,Freelance,2024-02-09,LinkedIn,1
+CUST_546,Susan du Rousset,Maillet,Tunisie,26-35,Enterprise,2024-11-30,Partnership,0
+CUST_547,David Dos Santos,Sainte Pauline,Russie,36-45,Enterprise,2024-03-22,LinkedIn,1
+CUST_548,Henri Mace-Maréchal,Boyernec,Togo,36-45,PME,2024-08-21,Referral,0
+CUST_549,Charles Turpin,Gomes-sur-Collet,Costa Rica,18-25,PME,2024-03-25,Instagram,1
+CUST_550,Inès Laroche Le Jacob,Saint Julien,Indonésie,36-45,Enterprise,2025-06-12,Referral,1
+CUST_551,Agnès Lebreton de Jacques,Collet,Hong Kong,46-60,Startup,2025-06-18,Partnership,0
+CUST_552,Corinne du Besson,Saint Paulineboeuf,Ouganda,26-35,Enterprise,2024-12-07,LinkedIn,0
+CUST_553,Hortense Weiss,Ribeirodan,Bermudes (Les),26-35,Freelance,2024-05-16,Referral,0
+CUST_554,Gilles-Laurent Lambert,Joubert,Kirghizistan,18-25,PME,2024-07-01,TikTok,0
+CUST_555,Benoît de Louis,Roche-sur-Coste,Micronésie (États fédérés de),18-25,PME,2024-03-26,Google Search,1
+CUST_556,Hortense Muller de Guillot,Merle,Cayman (Îles),36-45,Startup,2024-08-01,LinkedIn,0
+CUST_557,Diane Delattre,Saint Lucas,Namibie,18-25,Agency,2024-10-08,Google Search,1
+CUST_558,Élisabeth-Chantal Marchand,Guillou,Mayotte,46-60,PME,2025-06-13,Instagram,1
+CUST_559,Tristan Fouquet,Guilbert-sur-Blin,Micronésie (États fédérés de),36-45,Agency,2024-11-07,Partnership,1
+CUST_560,Andrée Da Costa-Huet,Schmitt,Japon,26-35,PME,2024-08-12,Event Walk-in,0
+CUST_561,Claudine-Geneviève Traore,Sainte Thérèseboeuf,Bouvet (Îles),36-45,Startup,2024-12-05,Google Search,0
+CUST_562,Nicolas Gallet,Sainte Margaud-la-Forêt,Japon,26-35,PME,2024-03-17,Instagram,1
+CUST_563,Denis Noël,Saint MarineBourg,Cambodge,46-60,Startup,2024-12-26,Partnership,1
+CUST_564,Jules Lefèvre,Aubry,Niger,36-45,Freelance,2024-06-01,Partnership,0
+CUST_565,Éléonore Girard Le Picard,Lefort-sur-Mer,Trinité et Tobago,36-45,Agency,2024-07-20,Instagram,1
+CUST_566,Jules Gomes,PruvostVille,Maldives (Îles),36-45,Startup,2024-10-09,Instagram,0
+CUST_567,Édith Robin-Pereira,Thibault-sur-Mer,Guadeloupe,36-45,Enterprise,2025-04-09,LinkedIn,0
+CUST_568,Paulette Hoarau,Dupont-les-Bains,Guinée,36-45,Freelance,2024-03-31,LinkedIn,1
+CUST_569,Colette Le Royer,Étienne,Vierges (Îles),46-60,PME,2024-08-05,TikTok,1
+CUST_570,Thomas Richard,Fournierboeuf,Afrique du sud,18-25,PME,2025-04-10,LinkedIn,1
+CUST_571,Geneviève Cousin de Lebon,Lefèvre,Malte,18-25,Enterprise,2025-04-20,Referral,0
+CUST_572,Bernard du Peltier,Vincent,Madagascar,26-35,Freelance,2024-07-08,LinkedIn,1
+CUST_573,Arthur Alexandre,Moreaudan,France,36-45,Startup,2024-01-04,Google Search,0
+CUST_574,Nathalie Poirier,Dumasboeuf,Émirats arabes unis,26-35,Agency,2025-01-06,LinkedIn,0
+CUST_575,Éléonore Hernandez,Jourdannec,Ukraine,18-25,PME,2025-04-01,TikTok,0
+CUST_576,Thomas-Arthur Ledoux,Dias,Djibouti,18-25,PME,2025-03-29,Event Walk-in,1
+CUST_577,Nicolas Delattre,MercierVille,Mali,36-45,PME,2025-03-01,Referral,1
+CUST_578,Victor Carre-Hoareau,Richard,Maroc,18-25,Startup,2024-05-12,Partnership,1
+CUST_579,Richard Hardy,Fernandez,Haïti,36-45,Enterprise,2024-01-16,Referral,1
+CUST_580,Geneviève Roy,Saint Célina-la-Forêt,Malte,46-60,Agency,2024-05-10,Instagram,0
+CUST_581,Alexandre Barbier,LoiseauVille,Mali,26-35,PME,2024-05-16,Partnership,1
+CUST_582,Camille Bonnin de Ledoux,François-sur-Mer,Liechtenstein,46-60,Enterprise,2024-12-02,Google Search,1
+CUST_583,Marcelle Joubert de Roger,Philippe,Liechtenstein,46-60,Startup,2024-04-13,LinkedIn,1
+CUST_584,Robert Blin,Lefebvre,Pitcairn (Îles),18-25,Enterprise,2024-04-12,Partnership,1
+CUST_585,Thibault-Antoine Carpentier,Nicolas,Tchad,46-60,Agency,2025-01-25,Referral,1
+CUST_586,Lucy Leleu-Turpin,Sainte Océane,Chili,18-25,Agency,2024-01-08,Google Search,1
+CUST_587,Auguste Thomas,Saint Jérôme,Saint Pierre et Miquelon,36-45,Freelance,2025-01-18,TikTok,0
+CUST_588,Pénélope-Nath Aubry,Baudry-sur-Briand,Tchad,26-35,PME,2024-02-03,Referral,0
+CUST_589,Paul du Dumas,Saint Marguerite,Sri Lanka,46-60,Agency,2025-02-23,Instagram,1
+CUST_590,Jacqueline Gaudin,Duval,Oman,46-60,Agency,2024-10-05,LinkedIn,1
+CUST_591,Éléonore Gaudin-Regnier,Teixeira,Géorgie du Sud et Sandwich du Sud (Îles),36-45,Freelance,2024-05-05,Partnership,0
+CUST_592,Louis-Adrien Lemaître,Boyer,Lesotho,36-45,Agency,2024-06-20,Event Walk-in,1
+CUST_593,Édouard Pascal,Saint Amélie-les-Bains,Érythrée,18-25,Freelance,2025-01-24,Referral,0
+CUST_594,Marianne Briand,Le Gall,Lithuanie,18-25,Agency,2024-06-08,Referral,0
+CUST_595,Paulette Adam,Saint HenrietteBourg,Danemark,26-35,PME,2024-11-20,Instagram,1
+CUST_596,Joséphine-Marianne Nicolas,Martinboeuf,Chine (Rép. pop.),46-60,Startup,2024-10-25,Referral,1
+CUST_597,Rémy de Petitjean,Brunelboeuf,République tchèque,36-45,PME,2024-04-18,Partnership,1
+CUST_598,Mathilde Buisson,Chrétien-les-Bains,Cap Vert,36-45,Freelance,2025-04-13,Google Search,1
+CUST_599,Célina Dubois,Saint Tristandan,Malaisie,26-35,PME,2024-02-22,TikTok,0
+CUST_600,David Klein,Sainte Emmanuel,Timor,46-60,Freelance,2024-06-22,Instagram,1
+CUST_601,Aimé Lebon,Lemaire-sur-Lacombe,Roumanie,26-35,PME,2025-06-13,TikTok,0
+CUST_602,Dorothée Deschamps,BlondelVille,Sainte Hélène,26-35,PME,2025-06-08,Google Search,0
+CUST_603,Laurent Petit,Gautier-sur-Mer,Pakistan,36-45,Freelance,2025-01-09,Partnership,0
+CUST_604,Alexandria Roux-Delmas,Perezdan,Libéria,18-25,Startup,2025-03-07,Google Search,1
+CUST_605,Claire Hernandez,Thomas,Japon,18-25,Enterprise,2024-04-26,LinkedIn,1
+CUST_606,Nicolas de la Lambert,Meunier-sur-Deschamps,Guyane française,36-45,Agency,2024-01-09,Partnership,1
+CUST_607,Thibault Mathieu-Ruiz,Sainte Frédériquedan,Chili,18-25,Startup,2024-09-13,LinkedIn,1
+CUST_608,Frédérique Henry,Lefortboeuf,Burkina Faso,36-45,PME,2025-01-22,Instagram,1
+CUST_609,Alexandre-David Chauvin,Saint ÉliseBourg,Guadeloupe,26-35,PME,2025-05-30,LinkedIn,0
+CUST_610,Olivier de Hebert,Morin-sur-Texier,Albanie,26-35,Startup,2024-02-12,Event Walk-in,1
+CUST_611,Odette-Odette Peltier,Diallo-sur-Renault,Territoires français du sud,36-45,Agency,2024-03-10,Partnership,1
+CUST_612,Antoine Texier-Cordier,Pascal,Slovaquie,18-25,Startup,2024-08-06,Event Walk-in,1
+CUST_613,Raymond Lecoq,Maillot,Antarctique,46-60,Startup,2025-04-18,Referral,1
+CUST_614,Mathilde Blanc de Couturier,Saint Antoine,Ouzbékistan,18-25,Freelance,2025-06-23,Google Search,0
+CUST_615,David Guillot,HernandezVille,Corée du Nord,46-60,Agency,2024-02-03,LinkedIn,0
+CUST_616,Bertrand Bonneau de la Maréchal,Saint Arthur,Israël,26-35,Startup,2024-06-15,Event Walk-in,1
+CUST_617,René Pelletier,Sainte Hortensedan,Cap Vert,26-35,Freelance,2024-07-01,Partnership,1
+CUST_618,William-Nicolas Chevallier,MartelBourg,Saint-Kitts et Nevis,18-25,Enterprise,2025-03-24,Google Search,0
+CUST_619,Lucas Lebreton-Allard,Faure-la-Forêt,Paraguay,46-60,Enterprise,2024-05-03,TikTok,0
+CUST_620,Arnaude Godard,Rocherboeuf,Bermudes (Les),36-45,Freelance,2025-06-16,LinkedIn,1
+CUST_621,Thomas Cohen de Bonnet,Payet-les-Bains,République tchèque,26-35,PME,2024-02-13,Instagram,0
+CUST_622,Timothée Lefèvre,ValentinVille,Kenya,26-35,Enterprise,2024-07-15,Instagram,1
+CUST_623,Nicole de la Garnier,Sainte André,Liban,36-45,Startup,2024-03-30,Partnership,0
+CUST_624,Franck Gaillard-Ramos,Saint Élisedan,Grèce,36-45,Agency,2025-06-28,Google Search,0
+CUST_625,Aimé Bernier,Berthelot,Kirghizistan,46-60,PME,2025-04-18,Partnership,0
+CUST_626,Alfred Maréchal,Dumontboeuf,Bhoutan,26-35,PME,2024-09-30,Event Walk-in,1
+CUST_627,Guillaume de Daniel,Leblanc,Dominique,26-35,Freelance,2025-06-24,Instagram,1
+CUST_628,Matthieu de Dufour,Bouchetboeuf,Belgique,18-25,Agency,2025-01-16,LinkedIn,0
+CUST_629,Margaret-Lucy Grenier,Giraud-les-Bains,Tadjikistan,36-45,Freelance,2024-02-18,Event Walk-in,1
+CUST_630,Audrey Lemaire,Ferrand-sur-Mer,Bermudes (Les),18-25,Enterprise,2025-05-29,LinkedIn,0
+CUST_631,Rémy de Dumas,Thibaultboeuf,Nigeria,36-45,Startup,2024-09-07,LinkedIn,1
+CUST_632,Christophe Leclerc,Gauthier,Burundi,18-25,Freelance,2025-04-09,Partnership,0
+CUST_633,Anouk Chrétien,Lemoine,Sri Lanka,46-60,Startup,2024-02-24,Referral,0
+CUST_634,Daniel Deschamps-Laroche,Huet,Guam,26-35,PME,2025-04-02,LinkedIn,1
+CUST_635,Philippe Lacroix,Henrynec,Pérou,36-45,PME,2024-09-16,Referral,0
+CUST_636,Guy Fischer,Dos Santos,Antarctique,46-60,Startup,2024-09-26,Partnership,1
+CUST_637,Alfred Lefebvre du Wagner,Simon,Bahamas,46-60,Agency,2024-02-11,TikTok,0
+CUST_638,Édith Joly-Raymond,Lesage-les-Bains,Bangladesh,36-45,Freelance,2025-05-15,Instagram,0
+CUST_639,Thibaut Langlois-Girard,Rochernec,Suriname,46-60,Enterprise,2024-05-18,Partnership,1
+CUST_640,Patricia Lambert,Bigot,Suède,18-25,Freelance,2025-05-30,Partnership,0
+CUST_641,William Girard,Didier,Îles Mineures Éloignées des États-Unis,26-35,Agency,2024-04-29,LinkedIn,1
+CUST_642,Gilbert Buisson,Berthelot,Sahara Occidental,18-25,Agency,2025-05-20,Instagram,1
+CUST_643,Monique Da Silva,Guyon,Panama,26-35,PME,2024-03-24,LinkedIn,1
+CUST_644,Hortense Pinto,Saint Véronique,Tunisie,36-45,Freelance,2024-03-15,Instagram,1
+CUST_645,Alfred-Daniel Legros,Dias,France,36-45,Agency,2025-02-27,LinkedIn,1
+CUST_646,Jérôme Barbe-Lejeune,PonsBourg,Équateur,46-60,Freelance,2025-03-02,Event Walk-in,1
+CUST_647,Lucie-Maryse Charles,Vincent,Suriname,46-60,PME,2024-09-22,LinkedIn,0
+CUST_648,Honoré Gilles,Delmasboeuf,Guyane,18-25,Freelance,2025-06-02,Instagram,1
+CUST_649,Paul de la Marin,Alvesboeuf,Swaziland,26-35,PME,2024-02-16,Instagram,1
+CUST_650,Arthur Martel,PasquierVille,Uruguay,26-35,PME,2025-06-24,LinkedIn,0
+CUST_651,Martin-Joseph Bonneau,JacquetVille,Palau,18-25,PME,2025-05-23,Referral,0
+CUST_652,Alexandria Lemaire,Da Costadan,Ouzbékistan,18-25,Agency,2024-01-04,Referral,0
+CUST_653,Aimé Guilbert,Barre,Égypte,46-60,Freelance,2025-04-06,Instagram,0
+CUST_654,Marianne Besnard,LetellierVille,Cameroun,18-25,Startup,2025-06-11,Instagram,0
+CUST_655,Catherine Lesage Le Guérin,Saint Joséphine,France,26-35,Startup,2024-05-16,Google Search,0
+CUST_656,Guy Aubert,Philippe,Koweit,18-25,Freelance,2024-04-21,Partnership,1
+CUST_657,Arthur Descamps du Cohen,Thierry,Norfolk (Îles),26-35,Enterprise,2025-05-15,Partnership,0
+CUST_658,Zacharie Gillet,Léger-sur-Perrin,Guyane,36-45,Enterprise,2025-05-24,Instagram,1
+CUST_659,Théodore Hervé Le Sauvage,Sainte Tristanboeuf,Uruguay,36-45,PME,2025-02-20,Referral,0
+CUST_660,Frédéric Albert,Saint Anouk,Gambie,18-25,Freelance,2025-02-25,Referral,0
+CUST_661,Thierry Bertin,Masson-sur-Courtois,Yemen,36-45,Freelance,2024-07-22,Referral,1
+CUST_662,Philippine Perret-Raynaud,Jacob,Portugal,36-45,Startup,2025-01-06,Partnership,1
+CUST_663,Noël Leroy,Jacques,Australie,46-60,Startup,2024-07-19,Event Walk-in,1
+CUST_664,Jean Barthelemy,DelattreVille,Espagne,36-45,Enterprise,2025-04-01,Partnership,1
+CUST_665,Sophie Gros,Dupuis,Bahamas,26-35,Agency,2024-07-27,Google Search,1
+CUST_666,Gilbert Guyot,Girard,Roumanie,26-35,Agency,2024-12-06,Google Search,1
+CUST_667,Zoé Rémy-Blanchet,Sainte Renéboeuf,La Barbad,18-25,PME,2025-04-03,Referral,0
+CUST_668,Georges Blanc,Delannoy,Argentine,46-60,Enterprise,2024-01-06,Partnership,0
+CUST_669,Thérèse Lebon,Costaboeuf,Saint Vincent et les Grenadines,36-45,PME,2024-05-24,Referral,0
+CUST_670,Juliette Joseph,Saint Arthurdan,Slovaquie,18-25,Startup,2024-09-18,Partnership,1
+CUST_671,René Boyer-Martineau,Bernier-sur-Mer,Bolivie,18-25,PME,2024-03-18,TikTok,0
+CUST_672,Valérie de Vallet,Sainte Roland,Anguilla,36-45,Agency,2024-01-08,LinkedIn,1
+CUST_673,Daniel Traore de Lombard,LangloisBourg,Togo,36-45,Freelance,2024-04-27,Instagram,1
+CUST_674,Danielle de la Pruvost,Loiseau-les-Bains,Bahrain,36-45,Agency,2025-02-07,Partnership,1
+CUST_675,Christophe Pruvost-Picard,Saint Alix,Svalbard et Jan Mayen (Îles),26-35,Agency,2025-05-04,Referral,1
+CUST_676,Adèle Seguin,Bernard-la-Forêt,Afrique du sud,18-25,Agency,2025-01-05,Google Search,1
+CUST_677,Étienne Lambert,Normandnec,Angola,46-60,Startup,2024-06-27,Event Walk-in,0
+CUST_678,Henri du Sauvage,Germain,Bouvet (Îles),46-60,Startup,2024-08-06,Referral,0
+CUST_679,Georges Le Grégoire,Gaudin,Somalie,46-60,PME,2025-05-17,Partnership,0
+CUST_680,Dominique Marion,Cousin,Christmas (Île),36-45,PME,2024-09-20,Event Walk-in,0
+CUST_681,Xavier Delattre,Riou-sur-Le Gall,Espagne,18-25,Enterprise,2025-03-31,Partnership,1
+CUST_682,Hugues Brun,Blondel-la-Forêt,Islande,36-45,Startup,2024-03-26,LinkedIn,1
+CUST_683,Margaret-Marine Marty,Sanchez,Guam,18-25,PME,2025-04-06,Referral,1
+CUST_684,Mathilde Ledoux,Hardy,Mariannes du Nord (Îles),46-60,Enterprise,2024-10-15,LinkedIn,0
+CUST_685,Franck Vasseur Le Schmitt,Guérin,Guatemala,36-45,Freelance,2025-05-11,Referral,1
+CUST_686,Rémy Le Rodrigues,LeroyVille,Groenland,36-45,Startup,2024-05-27,Google Search,1
+CUST_687,Aimé du Baudry,Buisson,Honduras,26-35,PME,2024-06-25,Partnership,1
+CUST_688,Marthe Ferreira de la Rolland,FerrandVille,Irak,18-25,Enterprise,2024-10-23,LinkedIn,1
+CUST_689,Amélie de la Henry,Lambert,Kazakhstan,26-35,PME,2025-05-09,Referral,1
+CUST_690,Luce Dos Santos,Moulin,Haïti,26-35,PME,2025-05-11,Referral,1
+CUST_691,Richard Petit,Sainte Margaux,Syrie,46-60,Freelance,2024-04-14,Partnership,0
+CUST_692,Jérôme Blanchard,Guillaume,La Barbad,36-45,PME,2024-03-31,Event Walk-in,0
+CUST_693,Christelle Peron-Baron,Schmitt,Timor,18-25,Startup,2024-01-29,TikTok,0
+CUST_694,Franck Guillet,Meyer,El Salvador,26-35,Enterprise,2024-05-17,Instagram,1
+CUST_695,Noël Rolland,Paris,Nigeria,46-60,Startup,2024-12-21,Partnership,0
+CUST_696,Joséphine Ramos,DufourBourg,Zimbabwe,36-45,Enterprise,2025-01-09,Event Walk-in,0
+CUST_697,Élodie Olivier,Fernandeznec,Mongolie,18-25,PME,2025-05-05,LinkedIn,0
+CUST_698,Margaud Schmitt-Louis,Moreno,Saint-Kitts et Nevis,18-25,Freelance,2025-03-08,Event Walk-in,1
+CUST_699,Roland Benard,BriandVille,Saint Vincent et les Grenadines,36-45,Enterprise,2025-04-23,Google Search,0
+CUST_700,Stéphanie Vincent,Sainte Alex-sur-Mer,Haïti,46-60,Enterprise,2024-02-05,Google Search,1
+CUST_701,Michelle Lemonnier,Saint Olivier-la-Forêt,Tuvalu,18-25,Enterprise,2024-10-26,TikTok,0
+CUST_702,Aurore Hamon,Ferrand,Belize,26-35,Startup,2024-07-06,Event Walk-in,1
+CUST_703,Paul Le Peltier,Devaux,Inde,36-45,Startup,2024-08-24,Referral,1
+CUST_704,Timothée Clerc,Coulon,Danemark,18-25,Enterprise,2024-10-20,Referral,1
+CUST_705,Michelle Ferrand,Sainte Corinne,Pologne,36-45,Enterprise,2024-09-19,Instagram,0
+CUST_706,Henri Marty,Dias,Somalie,18-25,Enterprise,2025-02-22,Referral,0
+CUST_707,Margaud Le Boulay,Royer,Islande,26-35,Freelance,2024-03-11,Partnership,0
+CUST_708,Valentine Moreau,Fischer,Estonie,26-35,PME,2025-02-02,Event Walk-in,0
+CUST_709,Gabriel-Laurent Paris,Fabre,Territoires français du sud,36-45,Agency,2024-09-16,Event Walk-in,0
+CUST_710,Georges-Thibault Adam,Sainte Éric,Niger,26-35,Enterprise,2024-04-30,Instagram,1
+CUST_711,Patrick Ledoux-Guillet,Normand,São Tomé et Príncipe (Rép.),46-60,Enterprise,2024-09-23,Google Search,1
+CUST_712,Inès Lemaire de la Fleury,Rollandnec,Saint Vincent et les Grenadines,26-35,Freelance,2024-08-15,Event Walk-in,0
+CUST_713,Adélaïde Gros,Sainte JulietteBourg,Lithuanie,36-45,Freelance,2024-04-15,Google Search,0
+CUST_714,Alain Guillaume,Bonnin,Vanuatu,26-35,Enterprise,2024-05-17,Referral,0
+CUST_715,Alexandria de la Leconte,Sainte Luc-la-Forêt,Kenya,36-45,PME,2025-04-29,TikTok,0
+CUST_716,Victor Garnier,Payet-sur-Martel,Togo,46-60,Agency,2025-05-10,Instagram,1
+CUST_717,Céline Munoz,Saint Thérèse,Albanie,46-60,PME,2024-02-28,TikTok,1
+CUST_718,Christine Gautier de la Aubry,Sainte Georges,Benin,26-35,Agency,2024-04-28,TikTok,0
+CUST_719,Madeleine Le Carpentier,Pruvost-sur-Collin,Bangladesh,46-60,Freelance,2024-12-11,LinkedIn,0
+CUST_720,Auguste de la Delattre,Lombardnec,Monaco,26-35,Enterprise,2025-04-22,Partnership,1
+CUST_721,Gabriel Hamon,Aubertboeuf,Pays-Bas,26-35,Startup,2024-07-16,Partnership,1
+CUST_722,Luc Maillet,Vallet,Moldavie,46-60,PME,2024-12-21,Instagram,1
+CUST_723,Célina Vaillant,Fernandes,Luxembourg,18-25,Agency,2024-05-25,Google Search,1
+CUST_724,Édith-Éléonore Mahe,Lebondan,Danemark,36-45,Freelance,2024-01-03,Google Search,1
+CUST_725,Thierry Hardy de la Delaunay,Gay,Liechtenstein,36-45,Agency,2024-12-28,Referral,0
+CUST_726,Bernard Berthelot,Vaillant,Bahrain,36-45,Enterprise,2024-05-31,LinkedIn,0
+CUST_727,Théodore Barthelemy-Carpentier,Bousquet-sur-Dias,Cocos (Îles),36-45,Freelance,2024-03-14,Instagram,0
+CUST_728,Marc Guillet de la Marques,Sainte Adrienne,Porto Rico,46-60,Agency,2024-01-02,TikTok,0
+CUST_729,Emmanuel Le Petit,Sainte RémyVille,Norvège,26-35,PME,2024-12-28,LinkedIn,0
+CUST_730,Luc Pelletier-Brunet,Blot-sur-Mer,Liban,36-45,Freelance,2024-10-05,Event Walk-in,0
+CUST_731,Émile Baron,Guyon,Territoire britannique de l'océan Indien,36-45,PME,2024-05-17,Google Search,0
+CUST_732,Gabriel Legendre,Regnier-sur-Thierry,Australie,18-25,PME,2025-05-20,Instagram,1
+CUST_733,Alix Le Lemaire,Saint Marianne,Koweit,18-25,Agency,2024-02-15,LinkedIn,1
+CUST_734,Catherine-Marine Pruvost,Sainte Sabine-la-Forêt,Jordanie,46-60,Agency,2025-01-08,TikTok,1
+CUST_735,Emmanuelle Berger,WagnerVille,Indonésie,26-35,Startup,2024-02-25,Google Search,1
+CUST_736,Adrien de la Besnard,François-sur-Maury,Afghanistan,46-60,Enterprise,2024-02-11,LinkedIn,1
+CUST_737,Jeannine Bernier Le Fleury,Bouchet,Sénégal,26-35,Startup,2025-03-05,Event Walk-in,0
+CUST_738,Anastasie Boutin,Payetdan,Liban,26-35,Agency,2024-06-14,Partnership,0
+CUST_739,Benjamin Raymond,Sainte Alice-sur-Mer,Vanuatu,18-25,PME,2024-01-12,TikTok,1
+CUST_740,André Martins,Martel,Équateur,18-25,Startup,2024-09-25,Google Search,0
+CUST_741,Brigitte Poulain,Fabre,Mongolie,18-25,PME,2024-08-24,Google Search,1
+CUST_742,Adrienne Leroux Le Maillard,Sainte Marianne-la-Forêt,Guyane française,18-25,Agency,2025-06-22,Partnership,1
+CUST_743,Éric Clerc,Perez-sur-Hervé,Japon,46-60,Agency,2024-04-29,Referral,1
+CUST_744,Franck Blanc,Charrierboeuf,République tchèque,36-45,Agency,2025-03-13,Partnership,1
+CUST_745,Adrienne Bruneau,Buisson,Norvège,46-60,Enterprise,2024-11-16,Referral,0
+CUST_746,Henriette Leblanc,Garcia,Yougoslavie,36-45,Startup,2024-09-11,Referral,1
+CUST_747,Robert Dufour,Ruiz,Costa Rica,46-60,Freelance,2024-06-15,Instagram,0
+CUST_748,Josette Menard,Saint SophieBourg,Tunisie,26-35,Enterprise,2024-01-06,Instagram,0
+CUST_749,Pierre Lemonnier,MarquesVille,Antilles néerlandaises,26-35,Startup,2024-12-13,Google Search,0
+CUST_750,Nicolas de Giraud,Sanchez-sur-Mer,Niue,46-60,Startup,2024-08-25,TikTok,1
+CUST_751,Emmanuel Robin,Julien,Bulgarie,18-25,Freelance,2024-06-26,TikTok,1
+CUST_752,Paul Ferreira,Schmitt,Ouganda,18-25,Agency,2025-03-15,Event Walk-in,1
+CUST_753,William-Philippe Baudry,Guilbertnec,Bouvet (Îles),18-25,Startup,2024-05-02,Instagram,1
+CUST_754,Suzanne Allard du Camus,GuillaumeBourg,Togo,26-35,Enterprise,2024-04-30,Partnership,0
+CUST_755,Antoine Masson,Sainte Lorraine-les-Bains,Géorgie du Sud et Sandwich du Sud (Îles),26-35,Freelance,2024-11-17,Partnership,0
+CUST_756,Juliette Lecoq,Sainte MichelleVille,Arménie,26-35,Enterprise,2025-05-20,LinkedIn,0
+CUST_757,Marcelle Chauvin de la Bruneau,Picardnec,Féroé (Îles),18-25,Startup,2025-06-24,LinkedIn,1
+CUST_758,Célina-Arnaude Philippe,Sainte Élise-sur-Mer,Liechtenstein,36-45,Startup,2024-08-14,Instagram,1
+CUST_759,Gabriel-Théodore Gilbert,Clercdan,Bahamas,26-35,Freelance,2025-02-18,Google Search,1
+CUST_760,Hugues Bousquet du Lecoq,Sainte Daniel,Croatie,36-45,PME,2024-12-12,Event Walk-in,0
+CUST_761,Daniel Pelletier,Rodriguez,Géorgie,46-60,PME,2024-07-10,Partnership,0
+CUST_762,Alix Colin,Saint Rémy,Nicaragua,46-60,Agency,2025-05-25,Referral,0
+CUST_763,Daniel de Pierre,ChartierBourg,Palau,18-25,Freelance,2024-12-18,Google Search,1
+CUST_764,Martin Chauveau,Gay-les-Bains,Falkland (Île),26-35,PME,2025-05-23,LinkedIn,0
+CUST_765,Maurice Dias,Maillet,Mexique,46-60,PME,2024-05-17,Referral,1
+CUST_766,Marthe Legendre,Thierry-sur-Jacquot,Pérou,46-60,Agency,2024-03-20,Instagram,1
+CUST_767,Matthieu Petitjean,Dijoux-sur-Mahe,Honduras,26-35,Freelance,2024-01-18,Google Search,0
+CUST_768,Adrien Lebon,Salmonboeuf,Philippines,18-25,Agency,2024-06-23,Partnership,1
+CUST_769,Jérôme Le Bonnin,Bernier-la-Forêt,Djibouti,36-45,Startup,2024-12-09,Partnership,0
+CUST_770,Luc-Nicolas Didier,Goncalves,Thailande,26-35,Freelance,2025-06-13,Instagram,0
+CUST_771,Denise Hamon,Normand,République tchèque,46-60,PME,2024-05-19,Referral,1
+CUST_772,Jeanne Goncalves,Sainte Stéphane,Liban,26-35,Startup,2024-03-21,Partnership,1
+CUST_773,Édith Descamps de la Couturier,Saint Alice-la-Forêt,Maldives (Îles),46-60,PME,2024-08-21,Event Walk-in,1
+CUST_774,Aimé Traore,Saint Jacqueline,Bahamas,36-45,Agency,2024-11-09,Instagram,0
+CUST_775,Gilles Philippe-Roux,LaineVille,Vierges britanniques (Îles),46-60,PME,2025-06-12,Google Search,1
+CUST_776,Stéphanie Lefèvre de Riou,Blanc,Yougoslavie,46-60,Agency,2025-06-22,Google Search,1
+CUST_777,Margot Allain du Maurice,Leroux,Lesotho,18-25,Agency,2025-04-02,Instagram,0
+CUST_778,Chantal-Lucie Mallet,Petit-les-Bains,Zimbabwe,36-45,PME,2024-06-14,Google Search,1
+CUST_779,Josette Torres,Rousset,Égypte,26-35,Agency,2024-08-04,Instagram,1
+CUST_780,Cécile Gomez,Goncalves,Territoire britannique de l'océan Indien,46-60,Freelance,2025-05-16,Google Search,0
+CUST_781,Olivier Dubois-Mary,DevauxBourg,Yougoslavie,26-35,Freelance,2025-03-15,Google Search,1
+CUST_782,Henri Lacombe,Saint Gabriel-les-Bains,Palau,18-25,Enterprise,2024-07-09,Instagram,0
+CUST_783,Lorraine Louis de la Leblanc,Guillot,Malaisie,18-25,PME,2024-05-06,LinkedIn,1
+CUST_784,Thibaut Le Pages,Saint Alexandria,Papouasie-Nouvelle-Guinée,26-35,Freelance,2024-11-15,Partnership,0
+CUST_785,Astrid Fernandez,Rocher,Christmas (Île),18-25,PME,2025-02-09,Instagram,1
+CUST_786,Christophe de Peltier,Buisson,Inde,18-25,PME,2024-01-28,LinkedIn,0
+CUST_787,Suzanne Étienne-Rocher,Boutin-sur-Mer,Sri Lanka,26-35,PME,2024-04-04,Partnership,0
+CUST_788,Adrien Bodin,Leduc-la-Forêt,Luxembourg,46-60,Freelance,2024-10-23,Event Walk-in,0
+CUST_789,Christine Texier,Da Silva,Nicaragua,18-25,Agency,2024-04-20,Referral,0
+CUST_790,Benjamin Pottier,Martins,Guyane,26-35,Startup,2024-09-05,TikTok,0
+CUST_791,Dominique Blondel,Laporte,Djibouti,18-25,Enterprise,2024-11-18,LinkedIn,1
+CUST_792,Roland Marin,Saint Tristanboeuf,Belize,36-45,Startup,2024-10-07,LinkedIn,0
+CUST_793,Christophe Lefort-Goncalves,Lecoq-sur-Camus,Venezuela,46-60,Startup,2024-08-29,Referral,1
+CUST_794,Inès Fischer,Bonnet,Kiribati,18-25,Startup,2024-10-24,TikTok,0
+CUST_795,Jean-Alphonse Lacombe,Gaydan,Monaco,26-35,Enterprise,2024-04-13,Google Search,1
+CUST_796,Christelle Bigot,LopesVille,République tchèque,26-35,Startup,2025-02-10,Partnership,1
+CUST_797,Frédérique de Imbert,Blondel-la-Forêt,Bangladesh,18-25,PME,2024-07-18,Referral,1
+CUST_798,Guy Verdier,Saint SusanneBourg,Réunion (La),36-45,PME,2024-06-19,LinkedIn,0
+CUST_799,Océane Leblanc,Techer,Cocos (Îles),36-45,PME,2024-03-10,TikTok,0
+CUST_800,Émile Gonzalez de Léger,Martins,Inde,26-35,Enterprise,2024-04-03,LinkedIn,0
+CUST_801,Catherine Weber,Sainte Jeanninenec,Liechtenstein,36-45,Enterprise,2024-12-13,TikTok,1
+CUST_802,Pierre Tanguy,Dumont-les-Bains,Bangladesh,36-45,PME,2024-05-09,Referral,0
+CUST_803,Alice Lopez,Guillaume,Brunei,36-45,Freelance,2024-11-22,LinkedIn,1
+CUST_804,Arnaude Rivière Le Pons,Pires-sur-Mer,Pakistan,26-35,Enterprise,2025-01-09,TikTok,0
+CUST_805,Étienne Toussaint,Sainte Madeleine-sur-Mer,Israël,26-35,Startup,2025-02-15,Google Search,1
+CUST_806,Denis de Lebrun,Payet,Macédoine du Nord,26-35,Freelance,2024-09-02,LinkedIn,1
+CUST_807,Thibault Gomes,Leclerc,Érythrée,46-60,Freelance,2024-05-25,Referral,0
+CUST_808,Jacques-Richard Coulon,Clerc,Hongrie,36-45,PME,2024-08-28,Referral,0
+CUST_809,Arnaude Nicolas,Rémy-sur-Gimenez,Antilles néerlandaises,26-35,Startup,2024-06-09,LinkedIn,1
+CUST_810,Joseph Boyer,Léger,Norfolk (Îles),46-60,Freelance,2024-02-20,Instagram,0
+CUST_811,Antoine Le Goff,Payet,Équateur,18-25,PME,2024-12-15,LinkedIn,1
+CUST_812,Virginie Langlois,Garcianec,Irlande,26-35,Enterprise,2024-10-08,Partnership,0
+CUST_813,Colette Bouvier,Bouchet,Afghanistan,46-60,PME,2025-06-04,Partnership,0
+CUST_814,Thibaut Lopes,Marion,Zimbabwe,46-60,Startup,2024-08-09,TikTok,1
+CUST_815,Christelle Barbier,Saint Camille,Biélorussie,18-25,Agency,2025-05-30,Referral,0
+CUST_816,Étienne Briand,Le Roux,Îles Mineures Éloignées des États-Unis,46-60,Startup,2024-12-26,Partnership,0
+CUST_817,Zacharie Ferreira,Delannoy-sur-Schmitt,Gibraltar,26-35,PME,2025-03-24,Instagram,1
+CUST_818,Adèle Meyer du Rodrigues,BrunetBourg,Islande,26-35,Freelance,2024-05-28,LinkedIn,0
+CUST_819,Élodie-Colette Vincent,Bourgeois,Liechtenstein,26-35,Freelance,2024-10-19,Instagram,0
+CUST_820,Nicolas Aubry-Martins,Lefort-sur-Barbe,Suisse,36-45,Agency,2024-06-05,Instagram,1
+CUST_821,Stéphane Bruneau,Gomez,Roumanie,18-25,Enterprise,2024-04-15,Instagram,0
+CUST_822,Emmanuelle Boutin de Boyer,DijouxBourg,Liechtenstein,18-25,PME,2024-10-18,Instagram,0
+CUST_823,Martin Becker,Maillot,Danemark,26-35,PME,2024-03-03,Google Search,1
+CUST_824,Valérie Leleu,Mallet-les-Bains,Polynésie française,26-35,Freelance,2024-11-13,Partnership,1
+CUST_825,Maurice Rocher de la Baudry,Rémy,Norvège,26-35,Startup,2024-06-23,Instagram,0
+CUST_826,Philippe Royer du Weber,Le Roux-sur-Moreau,Myanmar,26-35,Enterprise,2025-06-09,TikTok,1
+CUST_827,Georges Hervé,Bigotboeuf,Samoa,18-25,Freelance,2025-04-16,TikTok,1
+CUST_828,Andrée du Pruvost,Bonneau,Japon,36-45,Startup,2024-04-26,Instagram,0
+CUST_829,Astrid-Claudine Arnaud,Moulin,Tchad,26-35,Enterprise,2024-03-30,Instagram,1
+CUST_830,Noémi Vallée,Sainte Lucenec,Myanmar,18-25,Enterprise,2024-11-13,Google Search,1
+CUST_831,Gabriel Lemaître,Lucasdan,Fidji (République des),46-60,Enterprise,2024-04-06,TikTok,1
+CUST_832,Stéphane Duval,Torres,Pakistan,18-25,Freelance,2024-02-24,Google Search,1
+CUST_833,Eugène Laine,Boulay-les-Bains,Taiwan,36-45,Enterprise,2024-08-19,LinkedIn,0
+CUST_834,Madeleine Launay,Saint François-les-Bains,Brunei,26-35,Enterprise,2024-04-13,Partnership,1
+CUST_835,Thérèse Alves,Sainte Roger,Samoa,18-25,Enterprise,2024-04-06,LinkedIn,1
+CUST_836,Alexandre Riou,Durand,Benin,36-45,Enterprise,2024-02-03,Partnership,0
+CUST_837,Clémence Aubert-Andre,Jacobboeuf,Yemen,18-25,Freelance,2025-06-01,LinkedIn,1
+CUST_838,Gilles Camus,Joseph,Micronésie (États fédérés de),36-45,Freelance,2024-07-28,TikTok,0
+CUST_839,Dorothée Guyot,Saint Adèledan,Liechtenstein,46-60,Enterprise,2024-07-02,Google Search,0
+CUST_840,Valérie Bègue-Étienne,BourgeoisBourg,Burkina Faso,36-45,Enterprise,2024-10-01,Referral,0
+CUST_841,Rémy-Noël Thibault,Dijoux-la-Forêt,Italie,26-35,Freelance,2024-10-17,Google Search,1
+CUST_842,Lucie Lefèvre,Sainte Raymond,Micronésie (États fédérés de),36-45,Enterprise,2024-08-20,Partnership,0
+CUST_843,Catherine-Hélène Blanchard,Buisson,Gibraltar,36-45,Agency,2025-03-07,Event Walk-in,0
+CUST_844,Marcelle Potier du Pichon,Guillon,Territoire britannique de l'océan Indien,18-25,Freelance,2025-06-20,Referral,1
+CUST_845,Stéphane-Joseph Gomez,Albert-sur-Riou,Venezuela,36-45,PME,2024-01-02,Event Walk-in,0
+CUST_846,Philippe Dufour,Perez,Norfolk (Îles),36-45,Startup,2024-10-01,TikTok,0
+CUST_847,Thibault Costa,Pinto-sur-Aubert,Anguilla,26-35,Agency,2025-01-15,LinkedIn,0
+CUST_848,Michelle Deschamps,Fischer,Bahrain,18-25,Startup,2024-02-08,TikTok,1
+CUST_849,Antoinette Brunet,Hubertboeuf,Cocos (Îles),26-35,Agency,2024-11-14,Google Search,0
+CUST_850,Audrey Monnier,Traore-sur-Guillon,Allemagne,26-35,Agency,2024-01-20,Instagram,1
+CUST_851,Marcel Barbier,Legrand,Féroé (Îles),46-60,Startup,2025-06-08,Event Walk-in,0
+CUST_852,Georges du Deschamps,Saint ÉmileBourg,Kirghizistan,36-45,Startup,2024-10-21,Partnership,1
+CUST_853,Constance Simon,Michel-sur-Regnier,Sénégal,26-35,Startup,2024-09-02,Event Walk-in,0
+CUST_854,Roland Lemaître,Pinto-sur-Mer,Groenland,18-25,Startup,2024-07-10,Google Search,1
+CUST_855,Michèle Vaillant-Gonzalez,Delannoy,Kiribati,26-35,PME,2024-05-22,Instagram,1
+CUST_856,Virginie Klein,Philippe,Vatican (Etat du),46-60,Agency,2025-04-11,Partnership,1
+CUST_857,Jérôme-Augustin Sanchez,Courtois,Réunion (La),18-25,Agency,2024-09-30,LinkedIn,0
+CUST_858,Constance Pons-Lemaire,Hubert,Suriname,26-35,Freelance,2024-12-02,Referral,1
+CUST_859,Margot Dupré-Roussel,Étiennenec,Maurice,36-45,PME,2024-11-16,LinkedIn,0
+CUST_860,Jules Michel,Aubert,Belize,46-60,Startup,2024-01-04,LinkedIn,0
+CUST_861,Hugues Faivre-Thomas,François-sur-Vidal,Haïti,46-60,Startup,2024-01-10,Referral,0
+CUST_862,Roland Lebreton,Peron,Thailande,26-35,Startup,2025-06-19,Instagram,1
+CUST_863,Virginie Cohen,Humbert-sur-Léger,Suède,36-45,Enterprise,2024-07-01,Google Search,1
+CUST_864,Éléonore de la Garnier,Renard-sur-Mer,Guinée,46-60,Agency,2025-05-06,Partnership,1
+CUST_865,Richard Menard,Hardy-sur-Lejeune,Bolivie,46-60,Freelance,2024-12-15,Referral,0
+CUST_866,Martin Monnier de la Delahaye,Saint Michelle-les-Bains,Pologne,26-35,Enterprise,2025-05-21,Partnership,0
+CUST_867,Rémy Bigot,Pereira-sur-Pineau,Lettonie,26-35,PME,2025-03-15,TikTok,1
+CUST_868,Philippe de la Rey,Sainte Christine,France,36-45,Agency,2024-08-11,TikTok,0
+CUST_869,Raymond Berthelot,Morin,Cameroun,18-25,Agency,2024-12-05,LinkedIn,1
+CUST_870,Jeanne-Noémi Dos Santos,Le Roux-les-Bains,Nicaragua,36-45,Enterprise,2025-02-01,Referral,0
+CUST_871,Manon Ribeiro,Joubert-sur-Pages,Azerbaïdjan,18-25,Enterprise,2025-06-29,TikTok,0
+CUST_872,Michel-Augustin Lenoir,Voisin,Sainte Lucie,46-60,Agency,2025-06-17,LinkedIn,0
+CUST_873,Jean Lebrun,Pinto,Arabie saoudite,36-45,PME,2024-04-13,Referral,1
+CUST_874,Inès Neveu,Dubois-la-Forêt,Libéria,36-45,Enterprise,2024-03-19,Google Search,0
+CUST_875,Victoire Valette,Perret-les-Bains,Égypte,46-60,Startup,2024-07-18,Instagram,1
+CUST_876,Antoine Lacroix,Hardy,Guyane française,18-25,PME,2024-05-05,LinkedIn,0
+CUST_877,Marc Guyon,Lemonnierdan,Maldives (Îles),36-45,PME,2025-06-15,Instagram,0
+CUST_878,Camille Delmas de Royer,Saint Georges,Botswana,46-60,Freelance,2024-07-04,Google Search,0
+CUST_879,Robert Vincent,Gaillard-sur-Guillet,Kirghizistan,18-25,Freelance,2024-12-13,Referral,0
+CUST_880,Alix Blanchard,Mary,Niue,18-25,Agency,2024-09-04,Partnership,1
+CUST_881,Denis-Grégoire Boutin,Peltier,Arabie saoudite,46-60,PME,2024-10-18,Instagram,0
+CUST_882,Suzanne Daniel,Muller-les-Bains,El Salvador,36-45,Enterprise,2024-12-17,Event Walk-in,0
+CUST_883,Tristan Léger du Seguin,Delannoy-sur-Raynaud,Bahrain,46-60,Freelance,2024-11-03,Instagram,1
+CUST_884,Gérard Boutin,Hamonboeuf,Guam,18-25,PME,2025-03-03,LinkedIn,1
+CUST_885,Noël Henry,Lefort,Saint Pierre et Miquelon,26-35,Freelance,2024-04-09,Referral,1
+CUST_886,Inès Meyer,Fontainedan,Îles Mineures Éloignées des États-Unis,26-35,Agency,2024-09-23,TikTok,1
+CUST_887,Bernadette Blin,Caron-sur-Mer,Islande,46-60,Agency,2024-02-18,TikTok,1
+CUST_888,Hortense-Danielle Charrier,Olivier,Saint Pierre et Miquelon,46-60,PME,2024-04-22,Instagram,1
+CUST_889,Thibault Dupré,Vidal,Espagne,46-60,Freelance,2025-05-19,Partnership,1
+CUST_890,Grégoire Ribeiro-Mercier,Navarro-sur-Caron,Portugal,36-45,Freelance,2024-08-20,Instagram,0
+CUST_891,Aimée Arnaud,Gros,Saint-Kitts et Nevis,36-45,Agency,2024-12-08,Event Walk-in,0
+CUST_892,Astrid Gay,Pelletier-sur-Rémy,Panama,26-35,PME,2024-01-13,Referral,1
+CUST_893,Michelle de Ruiz,Rolland-la-Forêt,Mongolie,18-25,PME,2024-05-23,Google Search,1
+CUST_894,Bernadette Andre,Weber,Micronésie (États fédérés de),26-35,Enterprise,2025-03-01,Google Search,0
+CUST_895,Augustin Pasquier,Saint Audrey-la-Forêt,Guinée,36-45,Agency,2024-10-09,Partnership,1
+CUST_896,Stéphane Aubert,Rodrigues,Argentine,36-45,Enterprise,2024-07-07,LinkedIn,1
+CUST_897,Édouard Roy,Petitjean-sur-Teixeira,São Tomé et Príncipe (Rép.),46-60,Agency,2024-05-11,LinkedIn,1
+CUST_898,Grégoire Renaud,Ledoux-sur-Berthelot,Guyane française,36-45,Agency,2024-10-07,Instagram,0
+CUST_899,Jérôme Le Germain,Cohen-sur-Costa,Cambodge,36-45,Startup,2025-02-22,TikTok,0
+CUST_900,Augustin Lamy,Lévêque,Luxembourg,26-35,Freelance,2024-10-22,Instagram,1
+CUST_901,Valentine Denis,Roger,Svalbard et Jan Mayen (Îles),36-45,PME,2024-09-03,Google Search,0
+CUST_902,Honoré Perrin de la Gilbert,Jacob,Pays-Bas,18-25,Freelance,2024-08-24,Instagram,1
+CUST_903,Olivier Guilbert du Marty,GomesVille,Palau,26-35,Agency,2024-04-02,TikTok,0
+CUST_904,Patrick Durand,Traore,Mauritanie,36-45,Freelance,2024-02-14,Google Search,0
+CUST_905,Anastasie Guyon,CamusVille,Vanuatu,46-60,Enterprise,2024-08-14,Instagram,1
+CUST_906,Émile Fournier,Renaud,Fidji (République des),46-60,Agency,2024-01-23,LinkedIn,1
+CUST_907,Jeannine Giraud,Thibault-la-Forêt,Égypte,18-25,Startup,2024-06-13,Referral,0
+CUST_908,Manon-Diane Clément,Legros,Kirghizistan,18-25,Freelance,2024-09-07,Partnership,1
+CUST_909,Victoire Rodriguez de la Chauvet,Guichard,Îles Mineures Éloignées des États-Unis,18-25,Agency,2024-09-05,LinkedIn,0
+CUST_910,Susan Cohen Le Pereira,Mace,Heard et McDonald (Îles),18-25,Agency,2025-01-24,Event Walk-in,0
+CUST_911,Raymond Dias,Saint Adélaïdedan,Ghana,46-60,Freelance,2024-04-18,TikTok,1
+CUST_912,Danielle Bigot,Masson,Falkland (Île),46-60,Enterprise,2024-01-19,Google Search,1
+CUST_913,Benoît Lemoine,Peron,Afghanistan,18-25,PME,2024-05-11,Referral,0
+CUST_914,Émilie Humbert,Brun-sur-Mer,Ethiopie,36-45,Agency,2024-09-04,Instagram,1
+CUST_915,Amélie-Marine Gonzalez,Chevalliernec,Comores,36-45,Enterprise,2025-06-29,TikTok,0
+CUST_916,Guillaume Girard,Weber,Polynésie française,36-45,Freelance,2024-03-24,Partnership,0
+CUST_917,Maurice Paris de Meunier,Da Costa-sur-Payet,Mexique,46-60,Agency,2024-10-13,Referral,0
+CUST_918,Guillaume Joly,Benoit-sur-Bertin,Vierges (Îles),18-25,Enterprise,2024-12-24,Referral,1
+CUST_919,Philippine Lagarde,Meunier,Philippines,26-35,PME,2025-04-25,Referral,1
+CUST_920,Victoire Pichon,Blondel-sur-Mer,Gibraltar,46-60,Enterprise,2024-11-30,Instagram,0
+CUST_921,Benjamin Lelièvre,Paris,Angola,46-60,Freelance,2024-04-08,TikTok,0
+CUST_922,Maurice Le Lemonnier,PetitBourg,Zimbabwe,26-35,Startup,2024-04-02,Instagram,1
+CUST_923,Caroline Teixeira,LebretonBourg,Palau,18-25,Startup,2024-06-23,LinkedIn,1
+CUST_924,Marc de la Rodrigues,Menard-sur-Langlois,Territoire britannique de l'océan Indien,26-35,Enterprise,2024-04-29,Partnership,0
+CUST_925,Marthe-Adèle Antoine,Brunel-sur-Turpin,Guinée Equatoriale,26-35,PME,2025-02-15,Partnership,0
+CUST_926,Odette Lebreton,Saint Margotdan,Haïti,36-45,Agency,2024-09-25,Instagram,1
+CUST_927,Laetitia Delaunay du Dupuis,Pasquierboeuf,Honduras,46-60,Agency,2024-08-19,LinkedIn,0
+CUST_928,Guillaume Gimenez,Guillou,Portugal,26-35,Agency,2025-01-10,Instagram,0
+CUST_929,Marcelle Camus,Laurent-la-Forêt,Égypte,36-45,Enterprise,2025-06-21,Referral,1
+CUST_930,Aimé Georges-Godard,Nicolas,Luxembourg,46-60,Startup,2024-12-25,TikTok,1
+CUST_931,Philippe Salmon-Vaillant,Guilbertdan,Libye,46-60,Enterprise,2025-03-17,Partnership,1
+CUST_932,Jean-Joseph Bailly,Couturier-les-Bains,Suriname,18-25,Enterprise,2024-02-10,TikTok,1
+CUST_933,Simone Gomez de la Hardy,Lemaître-les-Bains,Mexique,46-60,PME,2024-03-20,Instagram,0
+CUST_934,Denise Legros,Sainte Raymond,Hong Kong,46-60,Startup,2024-09-19,Partnership,0
+CUST_935,Christelle-Adrienne Allard,Barre,Tunisie,36-45,Freelance,2025-03-01,Google Search,0
+CUST_936,Susan de la Didier,Massonnec,Nigeria,18-25,Freelance,2024-08-31,Event Walk-in,1
+CUST_937,Olivier Teixeira,Petit,Îles Mineures Éloignées des États-Unis,46-60,PME,2025-03-04,LinkedIn,1
+CUST_938,Jeanne Perrin-Allain,Peronboeuf,Afghanistan,36-45,Agency,2024-10-07,Google Search,1
+CUST_939,Luce Lambert,Antoine,Arménie,26-35,Agency,2024-12-15,TikTok,0
+CUST_940,Joséphine du Maillet,Sainte Noël,Ukraine,18-25,Agency,2025-04-08,Google Search,1
+CUST_941,Hélène Marie,Marie-la-Forêt,Vierges britanniques (Îles),36-45,PME,2024-02-24,Google Search,0
+CUST_942,Guillaume Fleury,Bernard,Géorgie,18-25,Enterprise,2024-10-13,LinkedIn,1
+CUST_943,Cécile Langlois,Sainte Nicole,Cayman (Îles),18-25,Freelance,2024-06-08,LinkedIn,1
+CUST_944,Adélaïde Jacques,Renaud,Polynésie française,26-35,Agency,2025-01-10,Event Walk-in,1
+CUST_945,Michèle Turpin,Meunier,Maroc,46-60,Agency,2024-01-26,LinkedIn,0
+CUST_946,Claude Ledoux,Vaillant-les-Bains,Mongolie,18-25,Agency,2024-11-06,Google Search,0
+CUST_947,Richard de Perret,Hebert-sur-Lévy,Cook (Îles),36-45,Agency,2024-10-23,Referral,1
+CUST_948,Auguste Boucher,LopesBourg,Finlande,46-60,Enterprise,2024-05-01,TikTok,1
+CUST_949,Jules-Pierre Rolland,CordierBourg,Vierges britanniques (Îles),36-45,Startup,2024-03-15,LinkedIn,0
+CUST_950,Élisabeth Blanc,Rivière-sur-Huet,Guam,18-25,Freelance,2024-07-03,TikTok,1
+CUST_951,Constance Costa,Saint René,Sainte Lucie,46-60,Enterprise,2024-08-06,Google Search,0
+CUST_952,Antoinette Lombard,Sainte Caroline,Monaco,36-45,Freelance,2025-03-31,Instagram,0
+CUST_953,Nathalie Le Noël,Rocher-sur-Mer,Australie,46-60,PME,2024-10-10,LinkedIn,0
+CUST_954,Patrick Lopes de la Merle,Regnier-sur-Millet,Roumanie,26-35,Enterprise,2024-09-20,Partnership,1
+CUST_955,Dominique Colin Le Lebrun,CharrierBourg,Lithuanie,36-45,Freelance,2024-05-08,LinkedIn,1
+CUST_956,Alexandrie Martinez-Dos Santos,Sainte Cécile,Niger,18-25,Startup,2024-12-16,LinkedIn,1
+CUST_957,Anastasie de Charrier,Vasseurdan,Vanuatu,46-60,Agency,2024-07-09,Partnership,0
+CUST_958,Nath Roux de la Maillot,Descamps,Trinité et Tobago,18-25,Agency,2024-08-20,Partnership,0
+CUST_959,Franck Gérard,Bègue,Vanuatu,36-45,Startup,2025-01-17,Google Search,0
+CUST_960,Alice Bazin,Texier,Cocos (Îles),26-35,PME,2024-04-09,Event Walk-in,0
+CUST_961,Marcel Meunier,Ribeiroboeuf,Vanuatu,46-60,Startup,2024-09-05,Referral,0
+CUST_962,Martine Gomes Le Weber,BonnetVille,Myanmar,36-45,Agency,2025-02-28,Instagram,1
+CUST_963,Antoinette-Élisabeth Durand,Toussaint,Croatie,18-25,PME,2024-01-18,LinkedIn,1
+CUST_964,Benjamin Petit,Colas-sur-Garnier,Gibraltar,36-45,Agency,2025-05-05,LinkedIn,0
+CUST_965,Augustin Marin,Delorme-sur-Weiss,Costa Rica,18-25,Freelance,2024-06-14,Event Walk-in,0
+CUST_966,Céline Martineau,Saint Timothée,Chypre,18-25,PME,2024-02-28,Event Walk-in,1
+CUST_967,Nathalie-Maggie Marques,Saint Georges,El Salvador,36-45,Enterprise,2025-01-20,LinkedIn,0
+CUST_968,Thomas Adam Le Paul,Prévostdan,Kiribati,36-45,Agency,2024-10-17,Instagram,0
+CUST_969,Georges-Arthur Laurent,Lejeune,Estonie,46-60,PME,2024-10-29,Event Walk-in,0
+CUST_970,Margaux Boutin,Gaudindan,Nigeria,18-25,Enterprise,2024-04-23,LinkedIn,0
+CUST_971,Hugues Traore,Saint Margaux-la-Forêt,Oman,46-60,PME,2025-05-26,Event Walk-in,0
+CUST_972,Denis Muller,Le Goff,Vietnam,36-45,Enterprise,2024-10-08,Referral,1
+CUST_973,Pierre Bonnet-Vallet,Ferrand-sur-Leblanc,Antilles néerlandaises,36-45,Enterprise,2024-06-17,TikTok,1
+CUST_974,Julien-Arthur Lefèvre,DelaunayBourg,Estonie,46-60,Freelance,2024-03-18,Google Search,1
+CUST_975,Guillaume Simon,Martins-sur-Perrin,Guadeloupe,18-25,PME,2025-05-20,Instagram,0
+CUST_976,Étienne Leleu,Labbé-les-Bains,Taiwan,46-60,Agency,2024-09-22,Event Walk-in,0
+CUST_977,Margaud Joly-Millet,Denis,Ouganda,36-45,Agency,2025-06-21,Event Walk-in,1
+CUST_978,Yves Legendre,Saint Émilie,Somalie,18-25,Freelance,2024-04-16,Google Search,0
+CUST_979,Antoine Lemoine,Ferrand-sur-Colin,Grenade,36-45,Enterprise,2024-05-04,LinkedIn,1
+CUST_980,Anaïs-Nathalie Maillet,Weiss,Réunion (La),36-45,Startup,2024-10-07,Google Search,0
+CUST_981,Hortense de la Hoarau,RoyerVille,Malaisie,26-35,PME,2024-02-05,Instagram,0
+CUST_982,Benjamin Roux-Petitjean,Lenoir,Australie,26-35,Freelance,2024-06-07,Referral,1
+CUST_983,Édouard Le Goff,Gomesnec,Martinique,36-45,PME,2025-06-21,Partnership,0
+CUST_984,Margaret Langlois-Georges,Guillou-sur-Bigot,Malaisie,46-60,Startup,2025-02-18,Google Search,0
+CUST_985,Anne Lopez,Sainte Nicolas,Niger,18-25,Startup,2024-07-30,LinkedIn,0
+CUST_986,Georges Letellier,Bailly,Singapour,36-45,Enterprise,2024-06-17,Instagram,0
+CUST_987,Susan-Andrée Dias,Le Roux-sur-Masson,Afghanistan,46-60,PME,2025-01-14,Event Walk-in,1
+CUST_988,Joséphine Laroche,Sainte Victor,Azerbaïdjan,18-25,Startup,2025-02-28,Partnership,1
+CUST_989,Bertrand Bertin,Launay,Antigua et Barbuda,18-25,PME,2024-02-05,Google Search,0
+CUST_990,Adrien Joubert,Pruvost,Libéria,18-25,Agency,2025-01-29,Event Walk-in,0
+CUST_991,Martin Monnier,Imbert,Estonie,18-25,Enterprise,2025-01-24,LinkedIn,1
+CUST_992,Josette Duval de Regnier,Courtois-sur-Lemonnier,Royaume-Uni,18-25,PME,2024-09-12,Referral,1
+CUST_993,Laurent Verdier,Faure-la-Forêt,Cambodge,46-60,Freelance,2024-01-03,Referral,1
+CUST_994,Michel Morvan,Lacroixnec,Saint-Marin (Rép. de),46-60,Agency,2024-01-01,Event Walk-in,0
+CUST_995,Emmanuelle Delmas-Albert,Chauvet,Ukraine,18-25,Freelance,2024-09-05,TikTok,0
+CUST_996,Sylvie-Lucie Dubois,GaudinVille,Guyane,26-35,PME,2024-01-15,TikTok,1
+CUST_997,Hélène-Sylvie Jourdan,Saint Christiane,Niger,46-60,PME,2024-03-30,Instagram,0
+CUST_998,Timothée Besnard,Fernandez,Burkina Faso,26-35,Agency,2024-02-22,Instagram,1
+CUST_999,Victor Teixeira Le Michaud,Bertin,Timor,36-45,Freelance,2024-11-20,Partnership,1
+CUST_1000,Bertrand Allard,Saint Adrien,Suisse,26-35,Enterprise,2024-12-01,Referral,1
+CUST_1001,Pierre Le Brunel,Raynaud,Cocos (Îles),18-25,Agency,2025-05-15,LinkedIn,0
+CUST_1002,Alain Girard,MoulinVille,Albanie,36-45,PME,2025-04-05,Google Search,0
+CUST_1003,Océane Robert,Dupont,Chine (Rép. pop.),36-45,Freelance,2024-12-11,Referral,1
+CUST_1004,Isaac Le Lemonnier,Saint Nathalie,Guinée,26-35,Freelance,2025-01-12,Partnership,0
+CUST_1005,Agnès Lemoine,Grondin-les-Bains,Somalie,26-35,PME,2025-05-23,Partnership,0
+CUST_1006,David Pages,LaporteVille,Kazakhstan,46-60,Startup,2024-06-10,LinkedIn,0
+CUST_1007,François Lecoq,Valentin-la-Forêt,Andorre,26-35,Agency,2024-05-16,Referral,1
+CUST_1008,Dominique Étienne,Lambert,Rép. Dém. du Congo,26-35,Agency,2025-05-07,TikTok,1
+CUST_1009,Benjamin Parent,Guibert,Malte,46-60,PME,2024-03-11,Event Walk-in,0
+CUST_1010,Laurence Delannoy de la Fischer,BertrandVille,Zimbabwe,36-45,Freelance,2024-06-13,Partnership,0
+CUST_1011,Victoire Toussaint,Mathieu,Togo,18-25,Enterprise,2024-07-11,Instagram,0
+CUST_1012,Olivier-Gabriel Lagarde,Lefèvre-sur-Mer,Territoire britannique de l'océan Indien,46-60,PME,2024-06-17,Google Search,1
+CUST_1013,Marcel Aubry,Techer,Zaïre,46-60,Enterprise,2025-04-14,Google Search,0
+CUST_1014,Édith Prévost,Bouvier-sur-Maurice,Finlande,18-25,Enterprise,2024-03-15,Instagram,1
+CUST_1015,Gabrielle Guilbert,Lagarde,Bahrain,26-35,PME,2024-03-07,Instagram,1
+CUST_1016,Pénélope de Delannoy,Charrier-sur-Jacob,Porto Rico,26-35,Agency,2025-02-12,Event Walk-in,1
+CUST_1017,Adrien Fernandez,Bazin-sur-Gilbert,Maldives (Îles),46-60,Agency,2024-07-01,TikTok,0
+CUST_1018,Frédéric Guichard,Rossi-sur-Michaud,Belize,46-60,Enterprise,2024-03-23,Event Walk-in,0
+CUST_1019,Michelle Masson,Roussel,Argentine,36-45,Enterprise,2025-06-14,Referral,0
+CUST_1020,Lucas-Thomas Cousin,Gomez-sur-Delahaye,Vatican (Etat du),36-45,PME,2024-04-13,Partnership,1
+CUST_1021,Agnès Legendre-Martel,Lebrun-les-Bains,Finlande,46-60,PME,2024-05-15,Google Search,1
+CUST_1022,Olivie-Anastasie Blanc,Guérin-sur-Mer,Cook (Îles),26-35,Agency,2025-03-12,Referral,1
+CUST_1023,Martine de la Lacroix,Maury,Jordanie,36-45,Agency,2024-04-21,LinkedIn,0
+CUST_1024,Aimé Coulon,Millet,Kazakhstan,18-25,Enterprise,2024-03-29,TikTok,0
+CUST_1025,Sébastien Gautier-Perrin,Sainte Thomas-les-Bains,São Tomé et Príncipe (Rép.),36-45,Agency,2025-03-26,Event Walk-in,0
+CUST_1026,Julien Charpentier,Maillot,Allemagne,36-45,PME,2024-04-24,LinkedIn,1
+CUST_1027,Marcelle Gautier du Payet,Deschamps,Russie,26-35,Startup,2024-01-19,Event Walk-in,0
+CUST_1028,Laurent Laine,Vallet,Myanmar,26-35,Enterprise,2024-04-26,Partnership,0
+CUST_1029,Élisabeth Pinto,Guibert,Norvège,26-35,Enterprise,2025-02-10,Google Search,1
+CUST_1030,Simone Julien,Breton-la-Forêt,Pérou,26-35,Enterprise,2025-05-30,LinkedIn,0
+CUST_1031,Laurence Bigot,JosephBourg,Mayotte,18-25,Enterprise,2024-10-29,Event Walk-in,1
+CUST_1032,Maurice Laroche,Perez,Pérou,18-25,Freelance,2024-10-07,Event Walk-in,0
+CUST_1033,Denis Dufour,Traore,Espagne,46-60,Enterprise,2024-09-16,Partnership,1
+CUST_1034,Nicole Roger,Valentin,Suriname,46-60,Agency,2024-01-13,TikTok,1
+CUST_1035,Thérèse Léger-Legros,Marchand,Libéria,46-60,Enterprise,2025-03-05,Partnership,1
+CUST_1036,Laure Voisin-Julien,Navarro-sur-Marchal,Canada,36-45,Freelance,2024-05-08,Referral,1
+CUST_1037,Bernadette Boulay,Dupuis-la-Forêt,Cook (Îles),18-25,Agency,2024-08-20,TikTok,0
+CUST_1038,Aimé Renaud,Guillot-la-Forêt,Pays-Bas,36-45,Enterprise,2024-05-08,TikTok,1
+CUST_1039,Anastasie Bousquet,Sainte Joséphine,Hongrie,26-35,PME,2025-06-21,Referral,0
+CUST_1040,Valentine Roux de la François,Labbé,Niger,46-60,Freelance,2025-02-16,TikTok,0
+CUST_1041,Tristan Dubois,Saint CarolineVille,Afghanistan,36-45,Startup,2024-03-05,Referral,1
+CUST_1042,Claude Bazin,Saint OlivierVille,Suède,18-25,Enterprise,2025-06-08,Google Search,0
+CUST_1043,Stéphanie Fontaine,Lucas,Sierra Leone,18-25,Startup,2024-11-05,TikTok,0
+CUST_1044,Agathe-Suzanne Michaud,Sainte FrançoiseBourg,Gambie,18-25,PME,2025-04-23,Event Walk-in,0
+CUST_1045,Éric-Jules Coulon,BigotBourg,Japon,26-35,PME,2024-07-11,Event Walk-in,0
+CUST_1046,Marthe De Oliveira Le Boulanger,Saint Alphonse,Haïti,18-25,PME,2024-09-22,TikTok,1
+CUST_1047,Louis Dias,Saint Brigitte-les-Bains,"Corée, Sud",36-45,PME,2025-05-22,TikTok,1
+CUST_1048,Sophie Peltier,Sainte Grégoire-la-Forêt,Mongolie,26-35,Enterprise,2024-01-18,Google Search,0
+CUST_1049,Denis Dumas,Grenier,Hongrie,46-60,Freelance,2025-03-29,Partnership,1
+CUST_1050,Marcelle Colas-Normand,Maillot-sur-Daniel,Papouasie-Nouvelle-Guinée,26-35,Agency,2024-11-28,Instagram,0
+CUST_1051,Laure Rémy,Lefort-sur-Bourdon,Macau,26-35,Agency,2024-01-18,Referral,1
+CUST_1052,Alex-Frédérique Lopes,Sainte Mariannenec,Guam,18-25,Startup,2025-03-27,Event Walk-in,0
+CUST_1053,Roland Loiseau-Normand,Toussaint-sur-Weber,Îles Mineures Éloignées des États-Unis,36-45,Agency,2024-11-22,Referral,0
+CUST_1054,Marc Legrand,LecoqBourg,Ouzbékistan,36-45,Startup,2024-11-24,Referral,1
+CUST_1055,Honoré Marques,Saint Hugues,Martinique,46-60,Startup,2025-05-10,Google Search,0
+CUST_1056,Gilbert Le Berthelot,Teixeiradan,Singapour,26-35,PME,2024-12-30,Partnership,0
+CUST_1057,André-Thibault Leblanc,Turpin,Iran,36-45,Agency,2024-09-08,TikTok,1
+CUST_1058,Rémy Chrétien-Julien,Saint Aimée,Arabie saoudite,18-25,Enterprise,2025-05-04,Google Search,1
+CUST_1059,Rémy Dupuy,Sainte Isaac,Palau,36-45,Enterprise,2025-05-05,Partnership,1
+CUST_1060,Noël Leroux,Turpin,Sahara Occidental,46-60,Agency,2025-01-18,Google Search,1
+CUST_1061,Noémi Blin du Riou,Munoz,Territoires français du sud,46-60,Agency,2025-02-08,Event Walk-in,0
+CUST_1062,Nathalie Lemaître,Saint Anastasie,Argentine,36-45,Freelance,2024-12-27,Referral,0
+CUST_1063,André Laporte,Barbe,Haïti,18-25,Agency,2025-04-24,Instagram,1
+CUST_1064,Jean Blin,Royer-sur-Dumas,Tanzanie,46-60,Agency,2024-08-01,TikTok,0
+CUST_1065,Bernard Tanguy,Saint Camilledan,Kenya,46-60,Startup,2025-01-03,Referral,1
+CUST_1066,Philippe-Frédéric Thierry,Germain,Trinité et Tobago,46-60,Freelance,2024-11-10,Event Walk-in,1
+CUST_1067,Laetitia de Parent,Guérin-les-Bains,Turquie,36-45,Startup,2024-11-09,Event Walk-in,0
+CUST_1068,Hortense Ramos,Saint Marc,Géorgie,18-25,Freelance,2025-02-07,Event Walk-in,1
+CUST_1069,Alix de Roux,Vincent,Niue,36-45,Enterprise,2024-01-13,Partnership,1
+CUST_1070,Alexandria Rémy,Sainte Michelle,Nauru,26-35,Enterprise,2024-01-20,Event Walk-in,1
+CUST_1071,Alix Fleury,Petitjean,Bolivie,36-45,Startup,2024-10-06,Referral,1
+CUST_1072,Éléonore Bernier,Fournier,Guadeloupe,36-45,Freelance,2024-01-22,Event Walk-in,0
+CUST_1073,Élise Tessier-Delorme,Hamel-les-Bains,Sahara Occidental,18-25,Agency,2025-02-25,LinkedIn,1
+CUST_1074,Léon Dias,Sainte Joseph,Libéria,18-25,PME,2024-06-29,Event Walk-in,0
+CUST_1075,Constance Garnier,Leleu-sur-Bodin,Wallis et Futuna (Îles),46-60,Agency,2024-11-30,Instagram,1
+CUST_1076,Nath-Jeanne Marty,Sainte Zoédan,Vanuatu,26-35,PME,2025-05-18,Google Search,0
+CUST_1077,Christophe-Théophile Caron,Munoz-sur-Riou,Cuba,18-25,Agency,2025-04-18,Partnership,0
+CUST_1078,Martine Texier,Dupont,Mayotte,26-35,Enterprise,2024-03-22,Google Search,1
+CUST_1079,Marc Meunier,Devauxboeuf,Costa Rica,36-45,Enterprise,2024-08-17,Referral,0
+CUST_1080,Christelle Munoz Le Arnaud,Rousseau,Vierges britanniques (Îles),18-25,Enterprise,2024-03-27,Instagram,1
+CUST_1081,Louise Navarro,Brun-la-Forêt,République Dominicaine,26-35,PME,2024-05-18,Event Walk-in,1
+CUST_1082,Gilbert Lévêque Le Pages,Maillet,Falkland (Île),18-25,Freelance,2024-09-09,Instagram,0
+CUST_1083,Martin Bonneau,Pichon,Moldavie,18-25,Enterprise,2025-01-03,TikTok,1
+CUST_1084,Aimé Bouchet,Jacques,Soudan,18-25,PME,2024-06-20,TikTok,1
+CUST_1085,Julien Charpentier,Guicharddan,Tadjikistan,46-60,Agency,2024-02-17,Event Walk-in,0
+CUST_1086,Agathe Regnier,Rodrigues,Svalbard et Jan Mayen (Îles),46-60,Startup,2025-02-04,Partnership,1
+CUST_1087,Jérôme du Meunier,Clément,Saint Vincent et les Grenadines,36-45,Startup,2024-08-23,Partnership,0
+CUST_1088,Adrienne Bègue,DumasBourg,Slovénie,46-60,Agency,2025-06-18,LinkedIn,1
+CUST_1089,Gilbert François,Bernier-sur-Guichard,Cameroun,46-60,PME,2024-05-11,Partnership,1
+CUST_1090,Paul Leblanc,Sainte MartheBourg,Aruba,26-35,Enterprise,2025-04-14,Event Walk-in,1
+CUST_1091,Laurent Dupuis-Lombard,Sainte Jacqueline,Panama,26-35,Freelance,2024-05-17,TikTok,1
+CUST_1092,Guy-Thibault Lambert,Germain,Djibouti,18-25,Startup,2024-04-15,Google Search,1
+CUST_1093,Dominique Charrier,Saint Constanceboeuf,Indonésie,18-25,Agency,2025-04-05,LinkedIn,1
+CUST_1094,Valentine Toussaint-Andre,Lesage,Bouvet (Îles),18-25,Enterprise,2024-08-12,Partnership,0
+CUST_1095,Thérèse du Martineau,Fleury-sur-Prévost,Hongrie,18-25,PME,2024-03-14,Event Walk-in,1
+CUST_1096,Marie Humbert,Leduc-sur-Lopes,Mariannes du Nord (Îles),46-60,Freelance,2025-06-06,Referral,1
+CUST_1097,Pierre de la Roy,Bouchetnec,Samoa,36-45,Agency,2024-09-18,LinkedIn,0
+CUST_1098,Denise Huet,Vallet,Fidji (République des),26-35,Freelance,2025-06-12,Instagram,0
+CUST_1099,Luc Dumas,Saint Guillaume-les-Bains,Mayotte,36-45,Freelance,2025-05-10,TikTok,0
+CUST_1100,Thérèse du Laporte,Marty-sur-Daniel,Égypte,18-25,Agency,2025-03-28,LinkedIn,1
+CUST_1101,Claude Giraud,Berthelot-sur-Dijoux,Cameroun,26-35,Startup,2025-02-15,Partnership,1
+CUST_1102,Édouard Legendre,Roussel,Bangladesh,18-25,PME,2024-12-18,Event Walk-in,1
+CUST_1103,Manon Ollivier Le Labbé,Rey-sur-Lejeune,Chili,46-60,Enterprise,2024-08-05,Partnership,1
+CUST_1104,Hugues Ollivier,Saint Nicolas,Territoires français du sud,46-60,PME,2024-09-14,Google Search,0
+CUST_1105,David Carre-Alexandre,Sainte Benoît,Hongrie,26-35,Startup,2024-02-24,TikTok,0
+CUST_1106,Martin Leblanc,Moreno-les-Bains,Angola,36-45,Agency,2024-08-17,Referral,1
+CUST_1107,Noël Bonnin,Lebretonnec,Vietnam,18-25,PME,2025-03-12,Google Search,1
+CUST_1108,Christophe Potier,Julien,Nouvelle Calédonie,18-25,Startup,2024-01-20,TikTok,1
+CUST_1109,Patricia Morin du Roy,Pires,Papouasie-Nouvelle-Guinée,46-60,Startup,2024-09-06,TikTok,0
+CUST_1110,Jacques Cohen,Bertrand,Falkland (Île),26-35,Startup,2025-03-25,Referral,0
+CUST_1111,Tristan Teixeira,Benard,Saint-Kitts et Nevis,18-25,Freelance,2025-06-01,Partnership,1
+CUST_1112,Laure Renault du Cousin,Delannoy-sur-Mer,Belize,18-25,Startup,2024-11-10,LinkedIn,1
+CUST_1113,Hortense-Claire Becker,TecherBourg,Rwanda,18-25,Enterprise,2025-04-30,TikTok,0
+CUST_1114,Noémi Perrin-Couturier,Blondel,Vatican (Etat du),36-45,PME,2024-07-12,Google Search,1
+CUST_1115,Eugène Grenier,Parent,Antigua et Barbuda,26-35,PME,2025-02-18,Referral,1
+CUST_1116,Rémy Laroche,Grenier,Trinité et Tobago,46-60,Agency,2024-07-16,Referral,0
+CUST_1117,Geneviève du Collin,Saint Denis,Géorgie du Sud et Sandwich du Sud (Îles),36-45,Freelance,2024-11-23,TikTok,1
+CUST_1118,Robert Lemaître,Gomes,Islande,46-60,Enterprise,2025-05-13,Google Search,1
+CUST_1119,Christine Perret de Dupuy,Lebreton-la-Forêt,Belize,46-60,PME,2024-01-25,Google Search,0
+CUST_1120,Denise Tessier,Delorme,Portugal,18-25,Agency,2024-08-03,Instagram,0
+CUST_1121,Jules Legrand,Fournier,Géorgie,46-60,PME,2024-02-14,Event Walk-in,0
+CUST_1122,Alain Gay,Simon,Chine (Rép. pop.),46-60,Startup,2024-05-21,LinkedIn,1
+CUST_1123,Nathalie-Margaret Fouquet,Alexandrenec,Paraguay,36-45,Freelance,2024-08-27,Instagram,0
+CUST_1124,Alain-Thomas Joly,Fischer-sur-Lesage,Mali,26-35,Agency,2024-07-12,Google Search,1
+CUST_1125,Andrée Leclercq,Bruneau,Taiwan,36-45,Startup,2024-10-01,TikTok,1
+CUST_1126,Arnaude-Sabine Pereira,Gros,Belize,18-25,Enterprise,2025-05-21,LinkedIn,1
+CUST_1127,Laure Charpentier,JourdanBourg,Bhoutan,36-45,Enterprise,2024-12-05,Referral,1
+CUST_1128,Audrey Lacroix,Sainte CarolineBourg,Grenade,46-60,Agency,2024-05-07,Referral,0
+CUST_1129,Denis Gillet-Joseph,Legrandnec,Pologne,46-60,PME,2024-09-23,Partnership,1
+CUST_1130,Guy Leclerc-Lefèvre,Saint Thibaultboeuf,Finlande,26-35,Enterprise,2025-06-09,Event Walk-in,0
+CUST_1131,Josette Ruiz,Gérard,Zaïre,36-45,Startup,2024-09-19,LinkedIn,1
+CUST_1132,Alphonse Faure,Techerdan,Benin,36-45,Freelance,2025-03-25,Instagram,1
+CUST_1133,Caroline Da Silva,Laine-la-Forêt,Bulgarie,36-45,Agency,2025-01-06,TikTok,1
+CUST_1134,Laure Lambert,Berger-sur-Couturier,Bermudes (Les),46-60,Freelance,2025-01-29,LinkedIn,1
+CUST_1135,Lucas Didier,Michel,Cambodge,26-35,Startup,2024-07-04,Event Walk-in,1
+CUST_1136,Julie Hardy,Pineau,Tonga,46-60,PME,2024-06-28,Google Search,1
+CUST_1137,Isaac Perrot,Riou,La Barbad,18-25,Agency,2025-04-24,Google Search,0
+CUST_1138,Lucy Jacquot,Laroche,Argentine,18-25,Startup,2025-02-06,Google Search,0
+CUST_1139,Roland-Benjamin Pereira,Rey,Liechtenstein,36-45,Freelance,2024-11-23,Partnership,1
+CUST_1140,Jean Gay-Chauvet,Gérard,Iran,18-25,PME,2024-04-17,Event Walk-in,1
+CUST_1141,Xavier Alexandre,Parisnec,Thailande,46-60,Enterprise,2025-02-21,Event Walk-in,0
+CUST_1142,Isabelle Guilbert,Jourdan,Timor,36-45,Startup,2024-08-18,TikTok,0
+CUST_1143,Stéphanie Blanchard,Saint Michèle,Bouvet (Îles),26-35,Agency,2024-09-02,LinkedIn,1
+CUST_1144,David Thomas-Lopes,Maury-sur-Dupuis,Bhoutan,26-35,Enterprise,2024-08-04,Google Search,0
+CUST_1145,Charlotte Dupont,Dupont-les-Bains,Sahara Occidental,18-25,Agency,2024-03-25,Partnership,0
+CUST_1146,Daniel Lebreton,Saint Élodie,Tokelau,18-25,Enterprise,2024-01-03,LinkedIn,1
+CUST_1147,Agnès Hardy,Duval,Svalbard et Jan Mayen (Îles),36-45,Freelance,2025-03-19,Partnership,0
+CUST_1148,Simone Joubert,Sainte Michel-la-Forêt,République centrafricaine,26-35,Freelance,2024-03-07,Partnership,0
+CUST_1149,Luc Mace-Cousin,Joseph,Botswana,26-35,PME,2024-06-24,Google Search,1
+CUST_1150,Eugène Sanchez de la Ferrand,AlexandreBourg,Haïti,36-45,Freelance,2024-05-19,Referral,1
+CUST_1151,Margaux Le Cordier,Sainte Michelle-sur-Mer,Cambodge,26-35,PME,2025-06-04,Event Walk-in,0
+CUST_1152,Georges Fleury,Maurydan,Vierges britanniques (Îles),36-45,Enterprise,2024-04-12,LinkedIn,1
+CUST_1153,Robert Devaux,Le GallBourg,Laos,26-35,Agency,2025-05-02,Instagram,0
+CUST_1154,Catherine-Audrey Humbert,Saint David,Corée du Nord,26-35,PME,2024-12-22,Partnership,0
+CUST_1155,Laure Faure,Valentin,Swaziland,46-60,Freelance,2025-02-16,LinkedIn,0
+CUST_1156,Thérèse Techer,Sainte Arnaude-la-Forêt,Côte d'Ivoire,18-25,Enterprise,2025-04-27,TikTok,1
+CUST_1157,Victor Maury,Guillet,Antigua et Barbuda,26-35,Startup,2025-06-24,Event Walk-in,0
+CUST_1158,Laurence Allain-Vasseur,HubertVille,Italie,26-35,Agency,2025-05-01,Event Walk-in,1
+CUST_1159,Tristan Le Lombard,Saint Benoît,Timor,18-25,Freelance,2024-09-06,Instagram,0
+CUST_1160,Guillaume Vallet,BègueVille,Sénégal,26-35,Enterprise,2024-12-25,Event Walk-in,1
+CUST_1161,Benjamin Ribeiro,Collin,Kiribati,26-35,Enterprise,2025-06-05,TikTok,0
+CUST_1162,Suzanne Le Mercier,DupuisBourg,Arabie saoudite,46-60,PME,2024-12-30,TikTok,1
+CUST_1163,Nicolas de la Durand,Saint Astrid-les-Bains,Macau,46-60,Enterprise,2024-04-22,LinkedIn,0
+CUST_1164,Antoine Le Rolland,Hubert,Pologne,18-25,Freelance,2024-09-01,Google Search,1
+CUST_1165,André Torres,Sainte Adélaïde,Nauru,26-35,PME,2025-05-26,Instagram,0
+CUST_1166,Sabine Lacombe-Georges,Menard-sur-Dupuy,Saint Pierre et Miquelon,46-60,Enterprise,2024-04-07,LinkedIn,0
+CUST_1167,Gilles Sanchez,Guillonnec,Sénégal,26-35,Enterprise,2025-01-10,LinkedIn,0
+CUST_1168,Suzanne Lebrun,Robin,Turks et Caïques (Îles),18-25,Agency,2024-11-21,Partnership,1
+CUST_1169,Thierry Laine,Seguin,Bangladesh,36-45,Enterprise,2025-05-31,LinkedIn,1
+CUST_1170,Christiane Denis,Roger-les-Bains,Colombie,26-35,Freelance,2025-02-23,Google Search,1
+CUST_1171,Inès Peltier,Sainte Thérèse,Mozambique,18-25,Startup,2024-10-01,Referral,1
+CUST_1172,Louis Pottier,Marchal-sur-Leclercq,Ouzbékistan,36-45,Startup,2024-11-07,Referral,1
+CUST_1173,Constance-Marthe Caron,Barbier-les-Bains,Norfolk (Îles),36-45,Startup,2024-01-29,Event Walk-in,1
+CUST_1174,Franck Mercier,Morel-sur-Dos Santos,Venezuela,18-25,Agency,2025-05-15,Referral,1
+CUST_1175,Isaac-Henri Pires,Blanchetdan,Australie,26-35,Agency,2024-07-19,Referral,0
+CUST_1176,Gilbert de Olivier,Saint Pauline,El Salvador,36-45,Startup,2025-06-11,Instagram,0
+CUST_1177,René-Vincent Bonnet,Roche,Saint Pierre et Miquelon,26-35,Startup,2025-03-02,TikTok,0
+CUST_1178,Jeannine Mary,Ferreira-les-Bains,Myanmar,26-35,Agency,2025-06-27,Google Search,1
+CUST_1179,Célina-Stéphanie Paul,Blin,Paraguay,46-60,Agency,2025-05-23,TikTok,0
+CUST_1180,Hugues Martinez,Paris-sur-Bodin,Benin,26-35,PME,2024-01-14,TikTok,1
+CUST_1181,Véronique Parent,FabreBourg,Antigua et Barbuda,46-60,PME,2024-09-10,TikTok,1
+CUST_1182,Suzanne Le Lombard,Marchal-sur-Delahaye,Djibouti,18-25,Startup,2025-03-27,Referral,1
+CUST_1183,Nicolas Renaud,Moreno-sur-Mer,Polynésie française,26-35,Freelance,2024-09-25,Instagram,1
+CUST_1184,Noël Gauthier,Hernandezdan,Saint Vincent et les Grenadines,36-45,Freelance,2025-05-30,Referral,1
+CUST_1185,Xavier Voisin,Caron,Islande,46-60,Startup,2024-04-13,Partnership,0
+CUST_1186,Claire Garnier,Daniel-sur-Munoz,Vierges britanniques (Îles),46-60,Enterprise,2024-10-26,Google Search,0
+CUST_1187,Alfred Chevalier de Bazin,Saint Théophile,Mauritanie,26-35,Freelance,2024-09-09,LinkedIn,1
+CUST_1188,Michelle-Astrid Besnard,Alexandre,Azerbaïdjan,46-60,Enterprise,2024-02-12,TikTok,1
+CUST_1189,Paul Joly,Monnier,Brésil,46-60,Agency,2024-01-10,Event Walk-in,1
+CUST_1190,Robert Bonneau-Gros,Delattre,Guam,46-60,Freelance,2024-09-26,Referral,0
+CUST_1191,Aurore Turpin de la Louis,LopezVille,Portugal,26-35,Agency,2024-07-31,LinkedIn,0
+CUST_1192,Anaïs Baron,Saint Henriettedan,Vanuatu,18-25,Enterprise,2024-02-01,Partnership,0
+CUST_1193,Antoinette Sauvage,Petit,Luxembourg,36-45,PME,2025-01-22,LinkedIn,0
+CUST_1194,Franck Gosselin de la Nguyen,Maillot-la-Forêt,Irlande,46-60,Enterprise,2024-07-08,Instagram,0
+CUST_1195,Valentine Navarro,Allard,Afrique du sud,46-60,Agency,2024-05-01,TikTok,0
+CUST_1196,Isaac du Fleury,Aubertnec,Turkménistan,18-25,Agency,2025-06-21,Instagram,0
+CUST_1197,Joséphine Blot,Le Goff,Namibie,26-35,Enterprise,2024-08-10,Instagram,0
+CUST_1198,Benjamin Poulain,Renard,Turks et Caïques (Îles),18-25,Startup,2025-06-05,Referral,0
+CUST_1199,Bernard Marie,Duhamel-sur-Renaud,Gibraltar,46-60,Startup,2025-01-21,Event Walk-in,1
+CUST_1200,Corinne Garnier,Mendès,Guinée-Bissau,26-35,Agency,2024-06-01,TikTok,0
+CUST_1201,Isabelle-Anne Jourdan,Collin,Gabon,18-25,Startup,2024-07-01,Google Search,1
+CUST_1202,Nicolas Masse,BertrandVille,Gabon,46-60,PME,2025-01-17,LinkedIn,0
+CUST_1203,Clémence Moulin,Camus-sur-Bègue,Lithuanie,26-35,Enterprise,2024-07-31,Event Walk-in,1
+CUST_1204,Maurice Joly du Georges,Saint Xavier,Swaziland,46-60,Agency,2025-06-03,Google Search,0
+CUST_1205,Aurore Robin,Weber,Inde,36-45,Enterprise,2025-06-30,Event Walk-in,0
+CUST_1206,Bertrand Guillet du Guillaume,Guillot,Hongrie,18-25,Agency,2024-12-15,Partnership,0
+CUST_1207,Théodore Delaunay,GodardVille,Cap Vert,18-25,PME,2025-04-10,Referral,1
+CUST_1208,Margot Germain,Sainte Éric-sur-Mer,Gabon,26-35,Agency,2025-03-06,Referral,0
+CUST_1209,Tristan Ramos,VasseurBourg,Estonie,26-35,Freelance,2024-09-07,Partnership,1
+CUST_1210,Roland Maillard,Gosselin-la-Forêt,Yemen,36-45,Enterprise,2024-06-07,Referral,1
+CUST_1211,Marcel Perrot,DufourVille,Burundi,36-45,Startup,2024-04-30,Instagram,1
+CUST_1212,Jérôme Rousseau,LesageVille,Chypre,36-45,Agency,2024-12-20,Google Search,0
+CUST_1213,Madeleine Adam,Neveu-sur-Jacquet,Trinité et Tobago,46-60,Agency,2024-01-28,Partnership,1
+CUST_1214,Nathalie Bruneau,Sainte Catherine-la-Forêt,Yemen,18-25,Agency,2024-01-11,TikTok,0
+CUST_1215,Michel Chauvet,Saint Isabelle,Sainte Lucie,18-25,Agency,2024-03-23,Referral,0
+CUST_1216,Édith Nicolas du Fontaine,LaurentVille,Nicaragua,36-45,Freelance,2025-04-14,Event Walk-in,0
+CUST_1217,Clémence Perrier,Denis,Costa Rica,36-45,Agency,2025-06-30,TikTok,0
+CUST_1218,Luce Payet,Benard,Bermudes (Les),18-25,Freelance,2024-02-06,Partnership,1
+CUST_1219,Rémy Lebreton,Le Goffboeuf,Tokelau,18-25,PME,2025-05-16,TikTok,1
+CUST_1220,Louise Guillon-Lemonnier,Da Costa,Cook (Îles),46-60,Startup,2024-07-25,Referral,1
+CUST_1221,Édith Godard,Martinez-la-Forêt,Colombie,18-25,PME,2024-02-11,Referral,1
+CUST_1222,Louis Briand du Guillet,Lévynec,Royaume-Uni,18-25,Agency,2025-06-22,LinkedIn,0
+CUST_1223,Augustin Renaud,HoarauVille,Venezuela,26-35,Startup,2024-01-30,TikTok,0
+CUST_1224,Émilie Carlier,Gauthier,Irlande,36-45,PME,2024-10-16,Instagram,0
+CUST_1225,Léon Teixeira,Roche,Guadeloupe,26-35,Enterprise,2024-06-18,Event Walk-in,1
+CUST_1226,Éléonore Mercier du Prévost,Boucher,Japon,46-60,Enterprise,2024-09-09,Instagram,0
+CUST_1227,Thierry Mathieu de Gilles,Moulin,Zambie,36-45,Freelance,2024-09-11,Google Search,1
+CUST_1228,Virginie Henry,Lebretonnec,Venezuela,36-45,Freelance,2024-08-30,Instagram,1
+CUST_1229,Laurent Aubry-Guillot,Bouvetdan,Comores,46-60,Agency,2024-03-23,Partnership,0
+CUST_1230,Frédéric Blot,Saint Bertrand,République Dominicaine,26-35,Agency,2024-09-20,TikTok,1
+CUST_1231,Lorraine Reynaud,Leroy-les-Bains,Tonga,46-60,Startup,2024-03-13,Referral,1
+CUST_1232,Philippine Roussel de Hebert,Guillon,Zambie,46-60,Enterprise,2024-04-23,TikTok,1
+CUST_1233,Henri Nguyen,Mahe,Nouvelle-Zélande,18-25,Enterprise,2024-05-30,Referral,0
+CUST_1234,Pauline-Célina Rolland,Alexandre-sur-Dumont,Tuvalu,46-60,Agency,2024-12-03,Event Walk-in,1
+CUST_1235,Arnaude Lebrun,SamsonVille,Monaco,18-25,PME,2025-05-12,Event Walk-in,1
+CUST_1236,Stéphane Sanchez,Sainte Dianenec,Tchad,46-60,Agency,2024-09-10,TikTok,0
+CUST_1237,Andrée Gaudin,Sainte MathildeBourg,Saint Pierre et Miquelon,26-35,Agency,2024-11-07,Instagram,1
+CUST_1238,Bertrand Noël,Saint Madeleine-les-Bains,Albanie,46-60,Agency,2024-11-27,Referral,1
+CUST_1239,Suzanne Da Costa,Goncalves,Luxembourg,46-60,Freelance,2024-07-29,Partnership,1
+CUST_1240,Gilles Masson,Lebrun,Vanuatu,46-60,PME,2024-07-14,Google Search,0
+CUST_1241,Valentine Samson,Lefort,Yemen,26-35,Agency,2024-03-09,Event Walk-in,0
+CUST_1242,Stéphanie Benard,Bouchet,Mozambique,46-60,Startup,2024-03-18,Instagram,1
+CUST_1243,Nath Vasseur,Sainte ThibaultVille,Christmas (Île),26-35,Freelance,2024-12-03,Google Search,0
+CUST_1244,Henriette Gaillard,Bouvier-sur-Mer,Cameroun,46-60,Agency,2024-07-31,Instagram,0
+CUST_1245,Catherine-Agathe Robert,Saint Aimée,Falkland (Île),26-35,PME,2024-05-29,Referral,0
+CUST_1246,Joséphine Gilbert-Lejeune,Bernard,Cocos (Îles),46-60,PME,2025-05-05,Google Search,1
+CUST_1247,Margot Besnard,Martinsboeuf,Nouvelle-Zélande,36-45,Freelance,2024-09-08,Instagram,0
+CUST_1248,Colette Maurice du Le Goff,Albert,Finlande,36-45,Freelance,2025-04-06,Event Walk-in,1
+CUST_1249,Andrée Collet,Pottier,Zaïre,26-35,Freelance,2025-01-17,LinkedIn,1
+CUST_1250,Nathalie Delannoy de Cohen,Saint Clémence,Niue,46-60,Freelance,2024-09-27,TikTok,1
+CUST_1251,Robert Valentin-Joubert,Sainte Élodie-les-Bains,Pologne,18-25,Enterprise,2024-03-09,LinkedIn,0
+CUST_1252,Anastasie-Nathalie Reynaud,Ledoux,Chypre,26-35,Freelance,2024-10-15,Google Search,1
+CUST_1253,Honoré Lefebvre du Da Costa,Roux,Jordanie,36-45,PME,2025-02-18,TikTok,1
+CUST_1254,Charlotte Da Costa-Caron,Gérard,Saint-Kitts et Nevis,36-45,Freelance,2024-08-05,Event Walk-in,1
+CUST_1255,Anaïs Benoit,Bouchet,Zimbabwe,36-45,Enterprise,2025-02-19,Referral,0
+CUST_1256,Julien de la Dupuy,Saint Émile-les-Bains,Timor,36-45,Enterprise,2024-11-03,Referral,0
+CUST_1257,Inès de la Ramos,Mercier-sur-Durand,Libye,36-45,Enterprise,2024-11-17,TikTok,0
+CUST_1258,Noël du Letellier,Hernandez-les-Bains,Géorgie du Sud et Sandwich du Sud (Îles),46-60,Startup,2024-11-13,Referral,1
+CUST_1259,Luc Lucas,Guillet,Mali,26-35,Freelance,2024-03-10,TikTok,1
+CUST_1260,Danielle Gay,Noël,Jamaïque,26-35,Startup,2024-04-05,TikTok,0
+CUST_1261,Gabrielle Michel,Leclercq,Liechtenstein,18-25,Freelance,2025-03-16,Instagram,1
+CUST_1262,Françoise Adam,Valentin,Saint Pierre et Miquelon,46-60,Startup,2025-01-29,LinkedIn,0
+CUST_1263,Susan Schmitt,Raynaud,Slovaquie,46-60,PME,2024-01-29,TikTok,1
+CUST_1264,Madeleine Goncalves,Boulayboeuf,Macau,36-45,Freelance,2025-02-18,Partnership,1
+CUST_1265,Camille Teixeira du Meunier,Dufour,Bahrain,26-35,Startup,2024-12-30,Event Walk-in,1
+CUST_1266,Roger Guillaume,Bertrand,Ouzbékistan,26-35,Startup,2024-03-10,TikTok,0
+CUST_1267,Adrien de la Vaillant,Rolland-sur-Vincent,Érythrée,18-25,Enterprise,2024-07-07,Partnership,1
+CUST_1268,Daniel Caron,Becker,Ouganda,36-45,Startup,2025-05-16,TikTok,1
+CUST_1269,Simone Baron,Boulanger,Angola,18-25,Enterprise,2024-02-09,Partnership,1
+CUST_1270,Michelle Klein,Jacquot,Vierges (Îles),36-45,Enterprise,2025-05-15,Instagram,1
+CUST_1271,François Blanchet,GaillardVille,Maldives (Îles),36-45,Startup,2024-12-23,LinkedIn,0
+CUST_1272,Robert Muller,GirardBourg,Slovaquie,36-45,Enterprise,2024-11-10,Event Walk-in,0
+CUST_1273,Astrid Bègue,Louis-sur-Gérard,Madagascar,36-45,Enterprise,2024-03-05,Referral,0
+CUST_1274,Laetitia Marty,Vaillant,Espagne,46-60,Agency,2024-03-24,Partnership,1
+CUST_1275,Vincent du Imbert,Moreau,Suisse,46-60,Freelance,2025-05-09,Google Search,0
+CUST_1276,Henri de la Aubry,Bègue,Vatican (Etat du),26-35,Agency,2024-06-01,TikTok,1
+CUST_1277,Martin Daniel,Maury,Papouasie-Nouvelle-Guinée,26-35,Startup,2024-07-29,LinkedIn,0
+CUST_1278,Pénélope Chevalier-Charles,Morel-sur-Delannoy,Burkina Faso,36-45,Startup,2024-08-22,Event Walk-in,1
+CUST_1279,Guy Allard-Gomez,Munoz,Qatar,36-45,PME,2024-09-07,TikTok,1
+CUST_1280,Julie-Sylvie Nicolas,Lebon-sur-Ruiz,Sahara Occidental,18-25,Agency,2025-02-11,TikTok,0
+CUST_1281,Simone Leclercq-David,Bertin-sur-Bertin,Niger,26-35,Freelance,2025-03-20,Referral,0
+CUST_1282,Roland Gallet de la Marion,PineauBourg,Sainte Hélène,46-60,Agency,2025-06-27,Event Walk-in,0
+CUST_1283,Marcelle Ollivier-Maillard,Duhamel,Groenland,46-60,Freelance,2025-06-09,Google Search,1
+CUST_1284,Élise Le Payet,Saint Thibault,Gabon,18-25,Startup,2024-03-10,Event Walk-in,0
+CUST_1285,Valentine Fontaine,Sainte Maurice,Arménie,46-60,Freelance,2025-05-28,Instagram,1
+CUST_1286,Gabriel Caron-Humbert,Potier,Zambie,18-25,Agency,2024-08-16,Partnership,0
+CUST_1287,Gabriel Martinez-Marie,Renault,Hong Kong,46-60,PME,2024-05-20,Partnership,1
+CUST_1288,Charlotte Payet,Joubertnec,Corée du Nord,36-45,PME,2025-06-26,Partnership,0
+CUST_1289,Benoît Chauvet,Rémy-sur-Nguyen,Burundi,46-60,Agency,2024-08-29,Event Walk-in,1
+CUST_1290,Philippe-Thibault Legrand,Cordier,Honduras,36-45,Startup,2025-03-02,TikTok,1
+CUST_1291,Arthur Hubert,Maurice,Syrie,18-25,PME,2024-03-19,Instagram,1
+CUST_1292,Louise du Dumont,Collet,Égypte,36-45,Enterprise,2024-12-22,Google Search,1
+CUST_1293,Aimée Laine-Legros,Garnierdan,Suède,18-25,Freelance,2024-06-15,Referral,0
+CUST_1294,Arnaude Normand,DevauxBourg,Géorgie du Sud et Sandwich du Sud (Îles),36-45,Enterprise,2024-02-21,Referral,0
+CUST_1295,Gabriel Martineau,LeclercqBourg,Sri Lanka,46-60,Agency,2024-12-19,LinkedIn,1
+CUST_1296,Christophe Joubert de Lévy,Lefèvre,Zaïre,36-45,Enterprise,2024-07-23,Partnership,0
+CUST_1297,Franck Roux-Raymond,Lévy-la-Forêt,Qatar,36-45,Startup,2024-11-29,TikTok,1
+CUST_1298,Daniel Rolland,Lefèvre,Martinique,18-25,PME,2024-07-09,Google Search,0
+CUST_1299,Guillaume Baron de Colas,Sainte ÉdithVille,Saint-Marin (Rép. de),18-25,PME,2025-03-12,TikTok,1
+CUST_1300,Yves Chauvet,Ferreira,Norvège,18-25,Enterprise,2025-01-20,Referral,0
+CUST_1301,Édouard de Peltier,LegrandVille,Bolivie,26-35,Enterprise,2024-02-22,TikTok,1
+CUST_1302,Benoît Bousquet,Lesage,Cook (Îles),36-45,Freelance,2025-01-26,TikTok,1
+CUST_1303,Denis-Antoine Blanchard,RobinBourg,Nepal,26-35,Enterprise,2024-07-15,Event Walk-in,0
+CUST_1304,Marine Langlois,Saint Théodore,Belize,26-35,PME,2024-07-05,Partnership,0
+CUST_1305,Anne Bonneau,Gilles,Guinée-Bissau,18-25,Freelance,2024-09-17,Google Search,1
+CUST_1306,Stéphane Marie,Saint Margotdan,Oman,46-60,Agency,2024-09-18,LinkedIn,0
+CUST_1307,Élodie Adam,BouchetBourg,Chine (Rép. pop.),46-60,Agency,2024-01-27,Referral,1
+CUST_1308,Bertrand Le Da Costa,Aubert,Tadjikistan,26-35,Freelance,2024-02-17,Referral,1
+CUST_1309,Lorraine-Frédérique Leconte,Thibault,Kiribati,26-35,Startup,2024-08-12,Google Search,0
+CUST_1310,Isaac David,Saint Valentine,Chili,18-25,PME,2024-12-09,LinkedIn,1
+CUST_1311,Roland Leblanc-Leduc,Bodin-la-Forêt,Géorgie,18-25,PME,2024-07-03,TikTok,1
+CUST_1312,Agathe de la Bailly,Delaunay,Soudan,36-45,PME,2024-04-14,Partnership,1
+CUST_1313,Lorraine Bourdon,Lesage,Nouvelle Calédonie,46-60,PME,2025-05-16,Google Search,1
+CUST_1314,André-Théodore Thierry,De Sousa,Monaco,18-25,Enterprise,2024-09-30,Event Walk-in,0
+CUST_1315,Xavier Leconte,Legrand,Sénégal,36-45,Startup,2024-04-28,Partnership,0
+CUST_1316,Christiane Laporte,Giraud,Biélorussie,18-25,Freelance,2025-03-14,Partnership,0
+CUST_1317,Nathalie Boucher,Schmittboeuf,La Barbad,18-25,Agency,2024-06-25,TikTok,1
+CUST_1318,Juliette Brun de la Morvan,BodinBourg,Danemark,46-60,Startup,2025-02-09,TikTok,1
+CUST_1319,Philippe-Philippe Petitjean,Sainte Marianne-les-Bains,Équateur,26-35,Freelance,2024-10-01,Event Walk-in,0
+CUST_1320,Auguste David,Pinto-sur-Gautier,Guyane française,36-45,PME,2024-12-13,TikTok,1
+CUST_1321,Michelle Fleury,Chevallier-sur-Ledoux,Vatican (Etat du),46-60,Enterprise,2024-10-10,LinkedIn,1
+CUST_1322,Joséphine Le Leroux,Étienne-sur-Mer,Pays-Bas,18-25,Startup,2025-02-22,Event Walk-in,0
+CUST_1323,Margaud Ollivier-Lacroix,Saint Louiseboeuf,Féroé (Îles),36-45,Agency,2024-01-11,LinkedIn,0
+CUST_1324,Camille Pelletier,Lacroixdan,Jordanie,36-45,PME,2024-04-14,TikTok,1
+CUST_1325,Thierry de la Gallet,Antoine,Antigua et Barbuda,26-35,Startup,2024-10-20,LinkedIn,0
+CUST_1326,Bernard Colas,Marie,Zambie,36-45,Enterprise,2024-07-11,LinkedIn,0
+CUST_1327,Renée Le Collin,LévyBourg,Micronésie (États fédérés de),36-45,Enterprise,2025-03-01,TikTok,0
+CUST_1328,Raymond Brunet,Dupuis,Dominique,46-60,Startup,2024-06-06,Referral,0
+CUST_1329,Jules Leroy-Fouquet,CordierVille,Chine (Rép. pop.),46-60,Freelance,2025-04-20,Instagram,0
+CUST_1330,Marc Raymond du Alexandre,Rossiboeuf,Soudan,36-45,Enterprise,2025-01-26,Google Search,1
+CUST_1331,Victor Thierry,LecoqVille,Roumanie,26-35,PME,2025-02-05,Referral,1
+CUST_1332,Claire Lemonnier,CouturierBourg,Paraguay,18-25,Startup,2024-11-01,Google Search,1
+CUST_1333,Diane de Labbé,Imbert-les-Bains,Érythrée,36-45,Startup,2024-10-05,Referral,1
+CUST_1334,Jérôme Vasseur de Millet,Wagner,Géorgie,46-60,Enterprise,2025-04-28,Event Walk-in,0
+CUST_1335,Antoinette Fournier,Blanchard-sur-Allain,Christmas (Île),46-60,Freelance,2025-01-07,TikTok,1
+CUST_1336,Odette-Diane Boulay,BazinBourg,Allemagne,26-35,Startup,2024-02-27,Event Walk-in,0
+CUST_1337,Margaux Vallée,Leduc-sur-Mendès,Sainte Lucie,46-60,Startup,2025-05-04,Google Search,0
+CUST_1338,Marcel Lopez-Benard,Da Costa,Turquie,46-60,Freelance,2024-03-06,Event Walk-in,0
+CUST_1339,Brigitte Germain-Gilles,Baron,Cap Vert,36-45,Enterprise,2024-10-10,Partnership,1
+CUST_1340,Céline Gros,Dupont,Comores,18-25,Startup,2025-03-19,Google Search,0
+CUST_1341,Michelle Le Hoareau,Sainte Nathalie,Norfolk (Îles),46-60,PME,2024-02-26,Google Search,0
+CUST_1342,Stéphanie-Anouk Leconte,Albert,Andorre,26-35,Freelance,2024-09-15,Instagram,1
+CUST_1343,Christelle Poulain,DelmasBourg,Cameroun,36-45,Agency,2024-01-09,Instagram,1
+CUST_1344,Isaac Roche du Ferrand,Renault-sur-Da Silva,Cameroun,26-35,Startup,2025-03-22,TikTok,0
+CUST_1345,Isaac Chartier-Gauthier,Sainte Corinne,Ouzbékistan,26-35,Freelance,2024-06-20,TikTok,0
+CUST_1346,Sébastien Rey,Imbert-les-Bains,Cook (Îles),18-25,Agency,2025-03-12,Instagram,0
+CUST_1347,Valentine Marchand,Sainte Richard,Timor,18-25,Agency,2024-12-17,Referral,0
+CUST_1348,Célina-Marianne Lemonnier,Vasseur,Djibouti,18-25,Enterprise,2024-12-03,Google Search,0
+CUST_1349,Céline-Brigitte Peron,Sainte Arnaude,Estonie,26-35,PME,2024-07-24,Google Search,1
+CUST_1350,Thérèse Mahe,Sainte FranckBourg,Israël,26-35,Freelance,2024-05-19,Event Walk-in,1
+CUST_1351,Gilbert de la Leclerc,Sainte Éric,Haïti,18-25,Agency,2025-03-18,Partnership,1
+CUST_1352,Stéphanie-Nathalie Bonneau,Camusboeuf,Mayotte,46-60,Startup,2024-08-12,Google Search,1
+CUST_1353,Zoé Delahaye,Delorme-sur-Toussaint,Espagne,18-25,Startup,2024-01-25,Event Walk-in,1
+CUST_1354,Denis Gaudin-Dos Santos,Guyonnec,République centrafricaine,46-60,PME,2024-03-02,Referral,0
+CUST_1355,Alice Gallet,Lamyboeuf,Chine (Rép. pop.),46-60,PME,2024-11-22,LinkedIn,1
+CUST_1356,Laetitia Barre,Leroux,Bosnie-Herzégovine,18-25,PME,2025-05-15,Google Search,1
+CUST_1357,Jacques Barbe,Rey,Myanmar,26-35,Agency,2024-02-14,LinkedIn,1
+CUST_1358,Jean Lopez,Loiseau,Colombie,36-45,Startup,2024-12-06,TikTok,1
+CUST_1359,André-Richard Lombard,Boulanger,Myanmar,26-35,PME,2024-02-22,LinkedIn,0
+CUST_1360,Françoise Legendre,Bodin,Anguilla,36-45,Startup,2024-01-30,Google Search,1
+CUST_1361,Marie Renard,Jacob,Monaco,46-60,Enterprise,2025-02-07,Google Search,0
+CUST_1362,Philippine Caron Le Lemonnier,DijouxVille,El Salvador,26-35,Freelance,2024-08-18,Instagram,1
+CUST_1363,Alexandria de la Philippe,Guillon,Svalbard et Jan Mayen (Îles),18-25,Freelance,2024-11-21,Google Search,1
+CUST_1364,Marc Perez-Gomes,Julien,Grenade,46-60,Startup,2024-04-04,Partnership,1
+CUST_1365,Martine du Andre,De Oliveiraboeuf,Angola,26-35,Startup,2024-09-29,Google Search,0
+CUST_1366,Renée Pages,Rey,Heard et McDonald (Îles),18-25,Enterprise,2024-05-28,Referral,0
+CUST_1367,Richard-Thibault Guyot,Guillou-les-Bains,Îles Mineures Éloignées des États-Unis,36-45,PME,2024-10-27,Event Walk-in,0
+CUST_1368,Danielle De Sousa,Parent-la-Forêt,Vierges britanniques (Îles),18-25,Startup,2024-12-31,Event Walk-in,0
+CUST_1369,Robert Faure de la Raynaud,AntoineVille,Pérou,36-45,Startup,2024-02-08,Instagram,0
+CUST_1370,Andrée Lejeune,Charlesdan,Cayman (Îles),36-45,Freelance,2024-06-22,Google Search,0
+CUST_1371,Arthur Ferrand,Becker,Bermudes (Les),26-35,PME,2024-11-11,TikTok,1
+CUST_1372,Adèle Benoit,Lombard,Saint Pierre et Miquelon,36-45,Agency,2024-11-17,Referral,0
+CUST_1373,Claude Salmon,Lombard-les-Bains,Biélorussie,18-25,Startup,2024-05-08,Google Search,1
+CUST_1374,Laurent Andre,Legros,Grenade,36-45,Enterprise,2024-08-08,Partnership,1
+CUST_1375,Marcelle Parent,Saint François,Zaïre,46-60,Freelance,2025-04-26,Event Walk-in,1
+CUST_1376,André Brunet,Morel,Irlande,46-60,PME,2024-08-04,Instagram,0
+CUST_1377,Susanne Costa,Hoareau,Danemark,36-45,PME,2024-06-24,Google Search,0
+CUST_1378,Léon Rocher,Camus,Ouzbékistan,46-60,Enterprise,2024-07-04,LinkedIn,1
+CUST_1379,Olivier Teixeira de Renault,Normand,Corée du Nord,18-25,Freelance,2024-02-26,TikTok,0
+CUST_1380,Susanne Rousset,Sainte Stéphane,Niger,46-60,PME,2025-05-29,Google Search,0
+CUST_1381,Laurence Lemonnier,Thibault,Groenland,36-45,Freelance,2025-06-23,Event Walk-in,1
+CUST_1382,Emmanuel Garnier,Martineau,Hong Kong,46-60,Agency,2025-01-25,TikTok,0
+CUST_1383,Robert Blin,Berger,Uruguay,46-60,Agency,2024-03-07,Referral,0
+CUST_1384,Amélie Clerc-Louis,Colas,Pérou,46-60,PME,2025-04-11,TikTok,0
+CUST_1385,Aimée Gomez,Gimenez,Benin,18-25,PME,2024-09-01,LinkedIn,1
+CUST_1386,Vincent Cordier,Roy,Côte d'Ivoire,26-35,Startup,2024-12-20,Event Walk-in,0
+CUST_1387,Timothée Gillet,Perretnec,Cameroun,18-25,PME,2025-01-09,Partnership,0
+CUST_1388,Thibaut Hebert,Guillet,Wallis et Futuna (Îles),36-45,Freelance,2024-12-22,Event Walk-in,1
+CUST_1389,Margaux Dufour,Sainte Nathalie,Botswana,46-60,Agency,2024-06-21,Event Walk-in,1
+CUST_1390,Victoire Lecomte-Petit,Grosboeuf,Aruba,36-45,Startup,2024-01-26,Referral,0
+CUST_1391,Hugues Hubert,Masson,République centrafricaine,26-35,Enterprise,2025-01-23,LinkedIn,0
+CUST_1392,Laetitia-Hélène Paul,Saint Thomas-la-Forêt,Turkménistan,26-35,Agency,2024-04-25,Partnership,1
+CUST_1393,Valérie Le Rivière,Gauthier-sur-Renaud,Vatican (Etat du),36-45,Agency,2024-07-14,TikTok,1
+CUST_1394,Astrid Martinez,FrançoisVille,Gibraltar,36-45,Enterprise,2024-04-26,Referral,0
+CUST_1395,Michel Gilbert,AndreBourg,Timor,36-45,Startup,2024-07-28,Google Search,1
+CUST_1396,David-Auguste Barbe,PerrierVille,Tokelau,18-25,Startup,2024-06-05,TikTok,1
+CUST_1397,Marine Jean,Verdier,Moldavie,26-35,PME,2025-03-17,LinkedIn,1
+CUST_1398,Alexandre Picard,Denis,Chine (Rép. pop.),18-25,Freelance,2025-01-03,Google Search,0
+CUST_1399,Benjamin Boulay,Camus-sur-Mer,Guam,36-45,Freelance,2024-02-17,Partnership,1
+CUST_1400,Louis Mendès,Sainte Josette-les-Bains,Guinée,46-60,Agency,2025-02-13,LinkedIn,1
+CUST_1401,Margot-Corinne Étienne,Saint Jean,Chypre,18-25,PME,2025-03-05,Referral,1
+CUST_1402,Élisabeth-Susan Léger,Sainte Susan,Kirghizistan,46-60,Startup,2025-05-30,Referral,1
+CUST_1403,Caroline Fleury,Simon-sur-Cousin,Tanzanie,26-35,Freelance,2024-05-07,TikTok,0
+CUST_1404,Marie Paul,Da Costa,Nauru,46-60,Enterprise,2024-09-05,Event Walk-in,1
+CUST_1405,Hortense Merle Le Maurice,Laroche-sur-Mer,Irlande,18-25,Startup,2025-01-24,TikTok,1
+CUST_1406,Marguerite de Bonnet,RuizBourg,Vietnam,46-60,Startup,2025-05-06,TikTok,0
+CUST_1407,Matthieu Le Fouquet,Cousinboeuf,Géorgie du Sud et Sandwich du Sud (Îles),18-25,PME,2024-02-01,Referral,1
+CUST_1408,Olivie Ramos,Saint Charlotte,Seychelles,18-25,Enterprise,2024-02-11,Referral,1
+CUST_1409,Claudine Hebert,Simon,Micronésie (États fédérés de),18-25,Enterprise,2025-02-17,Google Search,1
+CUST_1410,Lorraine du Arnaud,Julien,Territoire britannique de l'océan Indien,18-25,Enterprise,2024-03-20,Instagram,0
+CUST_1411,Hélène Dupuy,Allard,Uruguay,46-60,Enterprise,2025-06-04,Partnership,1
+CUST_1412,Louis Hervé,Saint AlphonseBourg,Malawi,26-35,Startup,2025-03-19,Instagram,0
+CUST_1413,Suzanne Joly,Sainte Adrienne,Inde,18-25,Freelance,2025-05-07,Referral,0
+CUST_1414,François Renaud-Descamps,Noëlboeuf,Samoa,26-35,Enterprise,2025-04-10,Referral,1
+CUST_1415,Marianne-Constance De Sousa,Guillaume-la-Forêt,Fidji (République des),18-25,Startup,2024-01-10,Partnership,1
+CUST_1416,Daniel Lejeune,Perret,Maldives (Îles),36-45,Agency,2025-05-18,Instagram,0
+CUST_1417,Maggie Chauvin de Torres,GomesVille,Svalbard et Jan Mayen (Îles),26-35,Freelance,2024-10-03,Instagram,0
+CUST_1418,Nicole Ramos,Saint Jacquelinenec,Samoa,36-45,Startup,2025-04-26,Event Walk-in,0
+CUST_1419,Pierre Carlier de Millet,Saint Hélène,Guinée-Bissau,18-25,Enterprise,2024-10-17,Partnership,0
+CUST_1420,Alix Perrot-Pottier,Marion,Djibouti,26-35,Agency,2025-03-29,TikTok,0
+CUST_1421,Marcelle Benoit,Delahaye,Côte d'Ivoire,26-35,PME,2024-06-26,Event Walk-in,0
+CUST_1422,Matthieu Dupuy-Pires,Colas,Vatican (Etat du),36-45,PME,2024-08-10,Referral,0
+CUST_1423,Corinne Cohen,Sainte Anouk,Honduras,18-25,Enterprise,2024-05-12,Partnership,0
+CUST_1424,Luc Evrard-Moulin,Bonnet,Finlande,26-35,Enterprise,2024-12-24,Event Walk-in,1
+CUST_1425,Thibault Renaud,Michel,Ukraine,18-25,PME,2025-03-19,Referral,1
+CUST_1426,Chantal Lefebvre,BlinBourg,"Corée, Sud",46-60,PME,2024-07-08,TikTok,1
+CUST_1427,André Letellier du Auger,Hernandez,Malaisie,18-25,PME,2024-06-27,Instagram,1
+CUST_1428,Michelle Ramos-Leroux,Fernandes-les-Bains,Liechtenstein,26-35,PME,2024-10-10,Event Walk-in,0
+CUST_1429,Zoé Camus,Saint Célina-la-Forêt,Nigeria,18-25,PME,2025-03-19,Instagram,0
+CUST_1430,Susanne Pascal,PelletierVille,Soudan,46-60,Freelance,2024-08-28,Event Walk-in,0
+CUST_1431,Lucas Boucher,Merle,République tchèque,36-45,Startup,2025-02-26,TikTok,1
+CUST_1432,Claude Didier,Bernard-sur-Mer,France,18-25,Enterprise,2025-05-25,Partnership,0
+CUST_1433,Thérèse-Marcelle Raymond,Maillard,Tuvalu,26-35,PME,2024-07-29,Referral,0
+CUST_1434,Claire Bonnet,Paris,Suriname,46-60,Agency,2024-12-26,Referral,1
+CUST_1435,Auguste Marin,Gautier,Nepal,46-60,Agency,2025-02-03,TikTok,0
+CUST_1436,Antoine Rivière du Neveu,Perrier,Belize,36-45,Freelance,2024-11-27,Referral,0
+CUST_1437,Alphonse Bernard,Riou,Cuba,46-60,Startup,2025-03-08,Partnership,1
+CUST_1438,Daniel Descamps,Wagner,Maldives (Îles),46-60,Freelance,2024-03-25,Referral,1
+CUST_1439,Claire-Jeannine Boyer,Weiss,Mongolie,36-45,Freelance,2025-05-05,Event Walk-in,1
+CUST_1440,Inès Wagner,Saint Célina,Seychelles,18-25,Freelance,2025-01-05,Partnership,1
+CUST_1441,Georges Martins,Rocher,Colombie,26-35,Agency,2024-01-30,Instagram,1
+CUST_1442,Céline Pereira,Lopezboeuf,Érythrée,46-60,Startup,2025-02-13,Partnership,1
+CUST_1443,Hortense de Bernard,Morel,Argentine,26-35,PME,2024-01-29,Event Walk-in,1
+CUST_1444,Timothée Delahaye-Philippe,Roy,Argentine,18-25,Freelance,2024-06-10,Partnership,1
+CUST_1445,Élisabeth Lefebvre-Gros,Boyer,Érythrée,18-25,PME,2024-02-11,Partnership,1
+CUST_1446,Aimé Andre,Saint Emmanuel,Ukraine,46-60,Freelance,2024-01-08,Referral,0
+CUST_1447,Roger-Théophile Hervé,Rodriguez,Oman,46-60,PME,2024-02-08,LinkedIn,0
+CUST_1448,Antoine Petitjean,Moreau,Colombie,18-25,PME,2024-01-07,LinkedIn,1
+CUST_1449,Marcelle Dumas Le Chauvin,Coulondan,Cuba,26-35,Freelance,2025-06-20,LinkedIn,0
+CUST_1450,Augustin Blanc,Rodrigues,Guadeloupe,26-35,Freelance,2024-09-12,Event Walk-in,1
+CUST_1451,Benoît Fernandes,Léger-la-Forêt,Suède,26-35,Enterprise,2024-12-09,Partnership,0
+CUST_1452,Alain Chevallier,Ruizboeuf,Guadeloupe,26-35,Enterprise,2024-12-06,Google Search,1
+CUST_1453,Margaud-Élisabeth Raynaud,Bousquet-la-Forêt,Nouvelle Calédonie,26-35,Enterprise,2024-09-13,Event Walk-in,0
+CUST_1454,Victor Chevallier,Evrard,Côte d'Ivoire,18-25,Enterprise,2025-01-13,LinkedIn,0
+CUST_1455,Margaud Renault,Sainte Isabelle,Algérie,36-45,PME,2024-06-18,TikTok,1
+CUST_1456,Cécile Bousquet,Didier,Indonésie,26-35,Startup,2024-10-14,Instagram,1
+CUST_1457,André Delmas,Sainte Gabrielledan,Bulgarie,46-60,Agency,2024-02-10,Partnership,1
+CUST_1458,Agnès Leduc Le Vallée,Martineauboeuf,Uruguay,26-35,Agency,2024-12-07,Google Search,0
+CUST_1459,Alexandrie-Joséphine Maillot,Sainte Marcel,Grèce,18-25,Enterprise,2024-08-12,Referral,1
+CUST_1460,Christiane Hamon du Lebreton,Bourdon,Émirats arabes unis,18-25,Freelance,2024-01-07,Event Walk-in,1
+CUST_1461,Martin de Guibert,Renard-les-Bains,Iran,18-25,Freelance,2025-01-14,Instagram,0
+CUST_1462,Pierre Roger,Sainte Jules,Kazakhstan,26-35,Freelance,2024-10-18,LinkedIn,0
+CUST_1463,Jeanne Fernandez,Saint Genevièvedan,Grèce,36-45,Freelance,2024-04-04,Event Walk-in,1
+CUST_1464,Olivier Philippe,Lecomte,Croatie,26-35,Startup,2025-06-23,TikTok,1
+CUST_1465,Jacques Le Goff,Rolland,Paraguay,36-45,Enterprise,2025-04-03,Partnership,0
+CUST_1466,Robert Fischer,Weiss,Ethiopie,26-35,Agency,2024-02-09,Google Search,0
+CUST_1467,Christophe-Vincent Besnard,Monnier,Brésil,36-45,Enterprise,2024-01-29,LinkedIn,0
+CUST_1468,Denis Lucas,Poulain,Cambodge,36-45,Enterprise,2024-05-30,LinkedIn,1
+CUST_1469,Olivier Martinez de Valette,Sainte Benjamin,La Barbad,18-25,Startup,2025-03-02,Google Search,1
+CUST_1470,Laure Blondel,Imbert-sur-Vaillant,Sénégal,18-25,Agency,2024-02-03,Instagram,1
+CUST_1471,Noël Didier,Verdier,Sahara Occidental,26-35,PME,2025-01-12,Partnership,1
+CUST_1472,Claire Cousin,Chauvin,Bulgarie,36-45,Startup,2024-04-06,TikTok,0
+CUST_1473,Olivie Delattre-Poirier,Laporte,Antilles néerlandaises,18-25,PME,2025-01-13,Google Search,0
+CUST_1474,Adrienne Maillet,ThierryVille,Qatar,18-25,PME,2024-09-24,Event Walk-in,0
+CUST_1475,Bernard-Eugène Marchal,Clerc,Bolivie,36-45,PME,2025-03-22,Referral,1
+CUST_1476,Élise Boulay,Gomes-sur-Rossi,Thailande,46-60,Enterprise,2024-11-29,Partnership,1
+CUST_1477,Laurent Pasquier-Barbe,Dufour-sur-Guillon,Israël,26-35,Enterprise,2024-04-29,LinkedIn,0
+CUST_1478,Laetitia Robert de la Tessier,Jourdanboeuf,Suriname,26-35,Agency,2024-05-28,Google Search,0
+CUST_1479,Roger Lesage-Lesage,Massedan,Saint-Marin (Rép. de),18-25,Enterprise,2025-05-08,Google Search,1
+CUST_1480,Isabelle-Dominique Louis,Mathieu-sur-Lemoine,Kirghizistan,36-45,PME,2025-06-14,TikTok,0
+CUST_1481,Margaret Michaud,Chrétien,Guyane française,18-25,Freelance,2025-06-29,Partnership,0
+CUST_1482,Stéphanie Le Gall,Alexandre,Bermudes (Les),26-35,Startup,2024-10-01,Referral,0
+CUST_1483,Antoinette Maillot,Sainte Augustin,Pakistan,26-35,Startup,2025-02-03,LinkedIn,1
+CUST_1484,Emmanuelle Berger,Sainte Martin,Érythrée,18-25,Freelance,2025-03-18,LinkedIn,0
+CUST_1485,Marguerite Chauvet,Gay,Nouvelle-Zélande,46-60,Enterprise,2024-01-06,Referral,0
+CUST_1486,Inès-Adélaïde Bigot,Hubert,Zambie,46-60,Agency,2024-10-17,Partnership,1
+CUST_1487,Vincent Le Allain,Berthelot-les-Bains,Sainte Hélène,46-60,Freelance,2024-08-19,Instagram,0
+CUST_1488,Véronique Lemaître-Hamel,Besnardnec,Cap Vert,18-25,Startup,2024-12-21,Google Search,0
+CUST_1489,Marc Klein,Saint Madeleine-la-Forêt,Thailande,26-35,Freelance,2024-07-13,LinkedIn,0
+CUST_1490,Marine Barre,Sainte Xavier,Mozambique,46-60,PME,2025-04-26,TikTok,0
+CUST_1491,Marc Charrier,ClercBourg,Belgique,36-45,Agency,2025-04-25,Google Search,0
+CUST_1492,Michelle Andre du Chauvet,Morin-sur-Traore,Botswana,18-25,Startup,2024-04-02,TikTok,0
+CUST_1493,Marcel Hardy,Lamy-sur-Mer,Canada,18-25,PME,2025-04-23,Event Walk-in,0
+CUST_1494,Émile Gaillard-Roux,Thibault-les-Bains,Thailande,36-45,Freelance,2025-01-05,Referral,0
+CUST_1495,Hélène Riou,Maury-sur-Mer,Vietnam,26-35,Enterprise,2024-05-23,LinkedIn,0
+CUST_1496,Mathilde Le Mallet,Jacquotnec,Pérou,26-35,Startup,2025-06-30,Google Search,0
+CUST_1497,Dominique-Olivie Gérard,Sainte Chantal,Maroc,46-60,PME,2024-10-22,Google Search,0
+CUST_1498,Josette Petit,Perrier-sur-Mer,Estonie,26-35,Agency,2024-12-13,Google Search,0
+CUST_1499,François Texier,Bourdon,Mali,18-25,Startup,2025-01-12,Google Search,0
+CUST_1500,Jérôme Guillot,Bègue,Namibie,26-35,PME,2024-02-08,Partnership,1

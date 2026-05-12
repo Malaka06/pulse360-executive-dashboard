@@ -1,0 +1,1501 @@
+customer_id,customer_name,city,country,age_group,segment,signup_date,acquisition_channel,is_member
+CUST_1,Diane Rivera,Lake Haleyland,Botswana,18-25,Découverte,2024-10-08,TikTok,0
+CUST_2,Walter Diaz,Sharonhaven,Cayman Islands,26-35,Découverte,2024-03-30,Referral,1
+CUST_3,Jacob Brown,West Staceyville,Tokelau,18-25,Découverte,2024-04-05,TikTok,0
+CUST_4,Steven Cherry,Kristopherbury,Belize,18-25,Créateur,2024-07-22,Event Walk-in,1
+CUST_5,Susan Wilson,Paulaton,Gambia,26-35,Corporate,2024-10-11,Partnership,0
+CUST_6,Amber Cervantes,New Michelle,British Indian Ocean Territory (Chagos Archipelago),26-35,Corporate,2024-12-14,LinkedIn,0
+CUST_7,Christopher Le,Lake Nicole,Mongolia,26-35,Premium,2024-04-14,Instagram,1
+CUST_8,Brittany Gilbert,Port Jocelynstad,Vanuatu,18-25,Premium,2024-12-18,Referral,1
+CUST_9,Johnathan Serrano,West Nicole,Grenada,18-25,Corporate,2024-05-07,Google Search,0
+CUST_10,David Miller,Jessicafurt,Canada,36-45,Créateur,2025-01-05,Referral,0
+CUST_11,Terri Moore,Lake Vanessa,San Marino,18-25,Découverte,2024-08-21,Partnership,1
+CUST_12,Amy Simon,Porterbury,United Kingdom,18-25,Régulier,2024-04-13,Google Search,1
+CUST_13,Beth Wallace,Pattersonborough,El Salvador,46-60,Premium,2024-06-15,LinkedIn,1
+CUST_14,Savannah Wade,Jenningsborough,Kiribati,26-35,Premium,2024-03-14,Referral,0
+CUST_15,James Clark,West Josephshire,Faroe Islands,26-35,Régulier,2025-04-18,Google Search,1
+CUST_16,Tony Larson,Hernandezton,Japan,26-35,Premium,2024-02-27,TikTok,0
+CUST_17,Gregory Mack,Lake Joseph,Wallis and Futuna,36-45,Corporate,2024-10-01,Instagram,0
+CUST_18,Jennifer Anderson,North Roberto,Belize,36-45,Régulier,2025-05-26,Google Search,1
+CUST_19,John Roman,Lake Kristinamouth,Vietnam,26-35,Premium,2024-05-22,TikTok,1
+CUST_20,Janet Wallace,Alanborough,Faroe Islands,46-60,Créateur,2025-02-12,LinkedIn,0
+CUST_21,Jeffrey Morales,Michaelton,Finland,26-35,Créateur,2025-05-20,Instagram,0
+CUST_22,Kayla Nash,Lake Michael,Saint Barthelemy,18-25,Régulier,2024-06-12,Partnership,1
+CUST_23,Austin Campbell,South Davidport,Sri Lanka,18-25,Corporate,2025-01-25,Referral,1
+CUST_24,Kevin Ortiz,Howardborough,Ecuador,36-45,Créateur,2024-01-12,Event Walk-in,0
+CUST_25,Chad Cunningham,North Mark,Croatia,36-45,Premium,2024-04-24,LinkedIn,1
+CUST_26,Deborah Fletcher,Cameronhaven,Cyprus,26-35,Corporate,2024-01-04,Event Walk-in,1
+CUST_27,Lauren Bowers,Johnchester,Spain,26-35,Créateur,2024-04-18,Partnership,1
+CUST_28,Roger Jones,Hernandezmouth,Cyprus,26-35,Régulier,2025-01-17,Partnership,0
+CUST_29,Mary Adams,Jimenezland,Micronesia,18-25,Créateur,2024-11-27,Google Search,0
+CUST_30,Krystal Wagner,Johnberg,Western Sahara,18-25,Premium,2024-11-10,TikTok,0
+CUST_31,Stacey French,Lake Wendyland,North Macedonia,26-35,Créateur,2024-03-21,Instagram,1
+CUST_32,Brent Bell,Loveport,Bahrain,18-25,Créateur,2024-05-08,TikTok,1
+CUST_33,Sheila Lloyd,Christopherfort,Kuwait,26-35,Premium,2025-06-24,Partnership,1
+CUST_34,Stephen Cox,Bishopburgh,Seychelles,26-35,Créateur,2024-07-24,Event Walk-in,1
+CUST_35,Joseph Peterson,Randolphmouth,Mauritania,46-60,Premium,2025-03-24,Referral,1
+CUST_36,Rebecca Harmon,North Samantha,Belize,18-25,Régulier,2024-08-18,Instagram,1
+CUST_37,Grant Ramos,Cherylmouth,Turkmenistan,18-25,Créateur,2024-08-23,Referral,0
+CUST_38,Donald Perry,Johnburgh,Guam,18-25,Découverte,2024-03-01,TikTok,0
+CUST_39,Joseph Chang,West Brandonfort,Chad,18-25,Premium,2024-03-13,Referral,0
+CUST_40,Nicole Myers,Sampsonhaven,Greenland,36-45,Corporate,2024-08-07,Referral,0
+CUST_41,Michelle Freeman,Josephhaven,Andorra,46-60,Régulier,2025-04-29,Partnership,1
+CUST_42,Tamara Walker,Lake Devinview,Paraguay,26-35,Découverte,2024-04-09,Event Walk-in,1
+CUST_43,Lindsey Bryan,West Pamela,Chile,36-45,Corporate,2025-02-24,Google Search,0
+CUST_44,Anthony Willis,New Richardton,Ireland,18-25,Découverte,2025-02-16,Event Walk-in,1
+CUST_45,Pamela Sandoval,South Rachel,Cuba,18-25,Régulier,2024-07-15,TikTok,1
+CUST_46,Matthew Ellis,Howardbury,Barbados,26-35,Corporate,2024-07-06,LinkedIn,1
+CUST_47,Stephanie Chapman,Nashland,Denmark,26-35,Découverte,2025-03-29,Partnership,0
+CUST_48,Lee Riggs,East Sean,Russian Federation,18-25,Créateur,2024-01-16,Instagram,0
+CUST_49,Alexis Bowen,Larsenhaven,Germany,26-35,Corporate,2025-05-12,Google Search,0
+CUST_50,Jeffrey Fowler,New Jeffreyview,Greece,46-60,Découverte,2024-06-17,Google Search,0
+CUST_51,Paul Allen,Ellisshire,Gabon,46-60,Premium,2025-04-10,LinkedIn,1
+CUST_52,Joshua Ward,Piercechester,British Indian Ocean Territory (Chagos Archipelago),46-60,Régulier,2024-07-13,LinkedIn,0
+CUST_53,Dawn Holland,Aguilarland,Saint Helena,18-25,Créateur,2024-03-03,Event Walk-in,1
+CUST_54,Brandon Scott,Anneview,Grenada,18-25,Découverte,2025-05-03,Referral,0
+CUST_55,Yolanda Hall,North John,Guinea-Bissau,18-25,Créateur,2024-03-23,Partnership,0
+CUST_56,Andrew Duffy,Ochoaton,Croatia,18-25,Créateur,2024-03-10,Event Walk-in,0
+CUST_57,Sandra Walker,Johnborough,Angola,46-60,Découverte,2024-09-09,Referral,0
+CUST_58,Sheila Jones,West Brent,Guyana,18-25,Corporate,2025-06-19,LinkedIn,1
+CUST_59,Julia Davis,Bradyside,Cuba,26-35,Premium,2024-09-01,LinkedIn,1
+CUST_60,Wanda Mercado,Marquezstad,Azerbaijan,26-35,Premium,2025-04-13,LinkedIn,0
+CUST_61,Christopher Gibbs,Krausefort,Saint Kitts and Nevis,18-25,Corporate,2024-04-12,Instagram,0
+CUST_62,Lisa Cantrell,Salinasmouth,Pakistan,36-45,Régulier,2024-12-23,Instagram,0
+CUST_63,Matthew Gill,Berryville,Guatemala,36-45,Premium,2024-06-10,Google Search,1
+CUST_64,Michael Pineda,North Bill,Grenada,18-25,Créateur,2024-11-02,Event Walk-in,0
+CUST_65,Matthew Bernard,North Sandra,Italy,26-35,Premium,2024-04-28,Instagram,0
+CUST_66,Jeffery Powell,Grantville,Cook Islands,36-45,Premium,2024-08-03,Event Walk-in,1
+CUST_67,Bridget Kelly,Lake Tyler,Guinea,26-35,Premium,2025-06-01,Google Search,1
+CUST_68,Juan Alvarez,New Jenniferside,United Arab Emirates,18-25,Découverte,2025-03-09,Partnership,1
+CUST_69,Jo Shelton,Port Melissaville,Aruba,18-25,Découverte,2024-12-07,Partnership,0
+CUST_70,Abigail Martinez,Evelynside,Suriname,36-45,Régulier,2025-03-28,Referral,1
+CUST_71,Dawn Leonard,Danielleborough,Isle of Man,18-25,Découverte,2024-03-18,Event Walk-in,0
+CUST_72,Larry Arnold,New Javierberg,Malta,18-25,Premium,2024-05-31,Google Search,0
+CUST_73,Miss Alison Gray,Johnview,American Samoa,18-25,Premium,2025-01-08,Partnership,0
+CUST_74,Michelle Wallace,Baldwinberg,Finland,36-45,Régulier,2024-09-12,Event Walk-in,0
+CUST_75,Erica Jones,North Michelle,Belarus,36-45,Créateur,2025-02-20,Referral,0
+CUST_76,Eric Martinez,Port Kathy,Belgium,26-35,Régulier,2024-06-30,Google Search,0
+CUST_77,Dorothy Davis,East Justintown,Ecuador,26-35,Premium,2025-02-25,Partnership,0
+CUST_78,Jennifer Perkins,West Grant,Korea,36-45,Régulier,2024-04-20,Google Search,0
+CUST_79,Michael Glover,Johnsonside,Togo,46-60,Régulier,2024-07-23,Partnership,1
+CUST_80,James Boone,West Natasha,Poland,36-45,Premium,2024-08-21,TikTok,0
+CUST_81,Tyrone Chapman,New Kristaside,Saudi Arabia,26-35,Corporate,2024-12-02,LinkedIn,0
+CUST_82,David Mcclure,Baldwinside,Somalia,36-45,Premium,2025-06-05,Google Search,1
+CUST_83,Bryan Nunez,South Daltonchester,Mongolia,18-25,Découverte,2024-09-24,TikTok,1
+CUST_84,Wendy Edwards,Amandafurt,New Zealand,18-25,Découverte,2025-03-20,LinkedIn,1
+CUST_85,Austin Cooper,South Josephside,Cuba,46-60,Créateur,2025-06-07,Instagram,1
+CUST_86,Sara Carpenter,Juanberg,Kenya,26-35,Premium,2024-02-15,Event Walk-in,1
+CUST_87,Adam Coleman,Aaronmouth,United States Minor Outlying Islands,18-25,Créateur,2024-07-20,LinkedIn,1
+CUST_88,Gary Petersen,South Brettchester,Chile,18-25,Premium,2024-11-17,Event Walk-in,0
+CUST_89,Amanda Nash,Lake Allen,New Caledonia,36-45,Créateur,2024-11-12,Event Walk-in,1
+CUST_90,Allen Collier,Heathermouth,Barbados,36-45,Corporate,2024-10-29,Referral,0
+CUST_91,Joseph White,Port Kimview,Tonga,26-35,Corporate,2025-01-23,Event Walk-in,0
+CUST_92,Jennifer Lowe,Zacharyport,Israel,36-45,Corporate,2024-01-01,LinkedIn,1
+CUST_93,Megan Brady,Gregorystad,Argentina,26-35,Corporate,2024-11-25,Google Search,1
+CUST_94,Mary Perez,Davidhaven,Guinea,46-60,Régulier,2025-06-07,Google Search,0
+CUST_95,Mary Chapman,East Alicia,Saint Martin,18-25,Premium,2025-06-11,Event Walk-in,1
+CUST_96,Tyrone Scott,Martinbury,Tuvalu,18-25,Régulier,2024-11-13,TikTok,0
+CUST_97,Mr. Joshua Bird,East Ryan,Isle of Man,26-35,Découverte,2024-02-17,TikTok,1
+CUST_98,Traci Chapman,Bassside,Ghana,18-25,Corporate,2025-02-28,Event Walk-in,0
+CUST_99,Tyler Martinez,Williamsview,Germany,46-60,Corporate,2025-02-13,TikTok,0
+CUST_100,Cristian Fry,Tinaview,British Indian Ocean Territory (Chagos Archipelago),18-25,Découverte,2025-03-11,TikTok,0
+CUST_101,Ashley Reid,Lake Christineton,Tonga,46-60,Découverte,2024-09-12,Partnership,0
+CUST_102,Lisa Lee,Marcusport,Nauru,46-60,Régulier,2025-04-20,Event Walk-in,1
+CUST_103,Kelly Arroyo,Josephland,Madagascar,46-60,Créateur,2025-05-31,Google Search,1
+CUST_104,Travis Shaw,Carolinefurt,British Indian Ocean Territory (Chagos Archipelago),26-35,Corporate,2025-04-05,LinkedIn,0
+CUST_105,John Hull,West Courtney,Nauru,36-45,Créateur,2025-05-11,Event Walk-in,0
+CUST_106,Jennifer Ferguson,Troyberg,Austria,36-45,Corporate,2024-03-20,Event Walk-in,1
+CUST_107,Julie Dodson,Lake Crystalmouth,Bahamas,26-35,Premium,2024-12-09,LinkedIn,0
+CUST_108,Christine Mullins,East Mollymouth,Oman,26-35,Régulier,2024-08-24,Google Search,0
+CUST_109,Stephanie Irwin,North Kristinmouth,Kiribati,26-35,Découverte,2025-02-28,Google Search,1
+CUST_110,Nicholas Stark DDS,Alexborough,Saint Barthelemy,46-60,Corporate,2024-03-04,TikTok,1
+CUST_111,Brandon Smith,Timothyton,British Virgin Islands,46-60,Créateur,2024-01-21,Partnership,1
+CUST_112,Colleen Mitchell,West Mckenzieport,Mayotte,46-60,Découverte,2024-12-26,LinkedIn,1
+CUST_113,Rhonda Cooper,Floreston,Nigeria,46-60,Créateur,2024-08-13,Google Search,0
+CUST_114,Sharon Reynolds,Mcclureville,Iran,36-45,Corporate,2025-05-12,Instagram,1
+CUST_115,Cody Rodriguez,Brandonfort,Namibia,36-45,Corporate,2024-06-18,Partnership,1
+CUST_116,Laura Sanchez,West Sylvia,Palestinian Territory,26-35,Créateur,2025-06-30,Instagram,1
+CUST_117,Christina White,East Patricia,Reunion,18-25,Découverte,2025-03-14,TikTok,1
+CUST_118,Isaac Lowe,Morrowport,Cape Verde,26-35,Découverte,2024-09-23,Google Search,1
+CUST_119,Lori Marshall,Lake Leonard,Belarus,26-35,Corporate,2024-11-30,LinkedIn,1
+CUST_120,Natalie Greene,Lake Ronald,Venezuela,36-45,Corporate,2024-09-15,Partnership,0
+CUST_121,Marie James,Janeborough,Botswana,46-60,Découverte,2024-02-23,LinkedIn,0
+CUST_122,Stuart Evans,Washingtonfort,Israel,18-25,Découverte,2024-02-01,TikTok,0
+CUST_123,Jessica Newton,New Julie,Afghanistan,18-25,Créateur,2024-06-05,TikTok,0
+CUST_124,Lindsey Hoffman,Palmerport,Zambia,46-60,Découverte,2024-08-11,Google Search,1
+CUST_125,Stephen Miller,Robinsonview,Switzerland,36-45,Régulier,2024-04-27,Partnership,0
+CUST_126,Ashley Medina,Troytown,Venezuela,36-45,Découverte,2024-01-27,LinkedIn,1
+CUST_127,Ashley Morgan,South Alicialand,Antigua and Barbuda,46-60,Régulier,2024-03-18,Referral,0
+CUST_128,Christopher Lee,Lake Codyland,China,18-25,Premium,2024-05-03,Partnership,0
+CUST_129,Brian Rodgers,Lake Rebeccachester,Saint Martin,36-45,Créateur,2025-03-14,Event Walk-in,1
+CUST_130,Mark Brown,North Laura,Finland,18-25,Créateur,2024-12-15,Instagram,1
+CUST_131,Dominic Knight,Judyton,Cape Verde,46-60,Découverte,2025-03-19,LinkedIn,1
+CUST_132,James Russell,Port Brittanymouth,Montenegro,26-35,Corporate,2024-06-29,Event Walk-in,1
+CUST_133,John Hanna,Hoffmanton,Iceland,46-60,Corporate,2025-03-22,Partnership,1
+CUST_134,Justin Rice,Lake Ashleyside,Brunei Darussalam,36-45,Régulier,2024-03-29,LinkedIn,1
+CUST_135,Douglas Martin,Perkinsland,Rwanda,26-35,Corporate,2025-01-23,LinkedIn,0
+CUST_136,Elizabeth Grimes,West Cody,Bahrain,46-60,Premium,2024-07-05,Google Search,0
+CUST_137,Thomas Cross,Andrewville,French Guiana,36-45,Premium,2024-12-14,LinkedIn,1
+CUST_138,Margaret Chen,South Ryan,Nepal,18-25,Créateur,2024-07-14,Instagram,0
+CUST_139,Tara Graham,East Anthony,Cote d'Ivoire,46-60,Corporate,2024-09-03,Event Walk-in,1
+CUST_140,Becky Gonzales,Carriebury,Northern Mariana Islands,46-60,Corporate,2024-01-18,Instagram,1
+CUST_141,Sarah Young,Cameronberg,Lithuania,26-35,Corporate,2024-09-06,LinkedIn,1
+CUST_142,Lisa Cantrell,Jonathanville,Libyan Arab Jamahiriya,46-60,Créateur,2025-06-27,LinkedIn,1
+CUST_143,Amanda Fuller,Matthewmouth,Sao Tome and Principe,36-45,Premium,2025-04-09,LinkedIn,1
+CUST_144,Angela Stewart,Hernandezland,Indonesia,36-45,Régulier,2024-05-03,Event Walk-in,0
+CUST_145,Regina Lang,Harrisburgh,Saint Helena,36-45,Découverte,2024-07-08,TikTok,0
+CUST_146,Leah Jackson,Port Kevinside,Benin,46-60,Premium,2025-06-21,Referral,1
+CUST_147,Rhonda Gibson,Stephensmouth,Luxembourg,18-25,Régulier,2024-10-30,TikTok,1
+CUST_148,Eric Lloyd,New Katherine,Christmas Island,26-35,Premium,2024-01-15,Event Walk-in,0
+CUST_149,Chelsey Reid,Port Anthonyfort,Solomon Islands,36-45,Découverte,2024-02-25,Referral,1
+CUST_150,Kenneth Hodges,New Emilyport,Cuba,26-35,Corporate,2024-04-15,Partnership,0
+CUST_151,Diane Dunn,North Janetburgh,Chad,36-45,Corporate,2025-05-05,Google Search,1
+CUST_152,Krista Lee,South Michaelton,Mali,26-35,Découverte,2024-09-15,Partnership,1
+CUST_153,Brandi Gomez,West Rebeccaview,Norfolk Island,18-25,Découverte,2025-02-14,Google Search,0
+CUST_154,Amy Lane,East Julie,Zambia,18-25,Régulier,2024-06-01,Partnership,1
+CUST_155,Cynthia Romero,North Jessicaville,Jersey,18-25,Régulier,2024-05-01,Referral,1
+CUST_156,Antonio Smith,Robertshire,Iceland,26-35,Créateur,2025-01-24,Google Search,1
+CUST_157,John Chandler,East William,Netherlands Antilles,36-45,Créateur,2025-03-15,LinkedIn,0
+CUST_158,Jeffrey Hodges,North Kimberly,Reunion,18-25,Régulier,2024-08-04,LinkedIn,0
+CUST_159,Wendy Hill,Port Nicole,United Kingdom,26-35,Régulier,2024-06-26,Referral,0
+CUST_160,Holly Porter,Timothybury,Ireland,26-35,Découverte,2025-02-22,Google Search,1
+CUST_161,Alan Castillo,Josephton,Bangladesh,36-45,Découverte,2024-08-25,LinkedIn,1
+CUST_162,Brittany Swanson,Christopherland,Tunisia,46-60,Découverte,2024-08-27,LinkedIn,0
+CUST_163,Eric Jackson,Amandaborough,Mongolia,46-60,Découverte,2024-08-18,Event Walk-in,0
+CUST_164,Eric Green,New Connorberg,Latvia,36-45,Régulier,2024-03-14,Instagram,0
+CUST_165,Karen Garcia,Lake Michael,Liechtenstein,36-45,Créateur,2024-10-22,Google Search,0
+CUST_166,David Whitney,South Jasmine,Peru,46-60,Premium,2025-02-16,LinkedIn,1
+CUST_167,Melissa Buckley,Philipville,Antigua and Barbuda,46-60,Découverte,2024-02-10,Google Search,1
+CUST_168,William George,East Carl,Micronesia,36-45,Découverte,2024-04-03,TikTok,0
+CUST_169,Victoria Combs,Barneshaven,French Southern Territories,36-45,Créateur,2024-02-11,Partnership,0
+CUST_170,Jeremiah Brown,Burkebury,Gabon,46-60,Créateur,2025-03-28,LinkedIn,0
+CUST_171,Mary Jacobs,Port Megan,British Virgin Islands,46-60,Corporate,2024-04-03,Google Search,1
+CUST_172,John Whitehead,East Barbarashire,Guyana,46-60,Premium,2024-11-24,Event Walk-in,0
+CUST_173,Colin White,Birdview,Switzerland,26-35,Premium,2025-02-25,Event Walk-in,1
+CUST_174,Cheryl Richardson,New Nicole,Faroe Islands,36-45,Corporate,2024-02-07,Google Search,0
+CUST_175,Susan Thomas,Matthewshire,Cameroon,36-45,Premium,2024-11-27,Instagram,1
+CUST_176,Maurice Harris,Tinaland,Vietnam,18-25,Créateur,2025-04-18,Google Search,0
+CUST_177,Natasha Kramer,Ramosland,Jordan,26-35,Créateur,2025-01-05,Referral,1
+CUST_178,Tommy Anderson,West Sarah,North Macedonia,46-60,Découverte,2024-07-27,LinkedIn,0
+CUST_179,Heather Rodgers DDS,Port Molly,Pitcairn Islands,36-45,Corporate,2025-05-11,Instagram,0
+CUST_180,Jessica Barnes,Ericaberg,Dominica,26-35,Régulier,2024-11-14,Referral,0
+CUST_181,Amanda Gutierrez,New Alejandro,Luxembourg,46-60,Découverte,2024-08-18,Partnership,0
+CUST_182,John Martinez,West Beth,Mozambique,46-60,Découverte,2024-06-06,Google Search,1
+CUST_183,Amanda Thomas,New Charles,Greenland,36-45,Corporate,2025-05-09,Google Search,0
+CUST_184,Jerome Kennedy,Pollardfurt,Bolivia,46-60,Créateur,2024-05-28,Google Search,0
+CUST_185,Patricia Holmes,East Timothyshire,Macao,26-35,Découverte,2024-10-09,Partnership,1
+CUST_186,Madison Armstrong,South Julieville,Taiwan,36-45,Créateur,2024-09-30,Partnership,0
+CUST_187,William Mercado,Lake Ryan,Denmark,36-45,Premium,2025-05-16,Partnership,0
+CUST_188,Peter Wood,Lake Angela,Pitcairn Islands,46-60,Créateur,2025-05-10,LinkedIn,1
+CUST_189,Laura Harper,New Amandaborough,El Salvador,46-60,Corporate,2024-11-25,Partnership,0
+CUST_190,Amanda Tran,Ryanport,Comoros,26-35,Créateur,2025-01-27,TikTok,1
+CUST_191,Paige Smith,Jimmyberg,Panama,18-25,Premium,2025-04-29,Event Walk-in,1
+CUST_192,Robert Bailey,Caitlinshire,Cook Islands,46-60,Régulier,2025-05-22,Instagram,0
+CUST_193,Stephanie Pope,Gregoryview,Netherlands,36-45,Découverte,2025-03-26,Instagram,1
+CUST_194,Heather Dennis,Port Danielleton,Dominica,18-25,Régulier,2025-02-23,Partnership,0
+CUST_195,Sydney Simon,Lake Christopher,Zambia,18-25,Corporate,2024-09-28,LinkedIn,1
+CUST_196,David Duke,Rubioland,Iran,18-25,Premium,2025-06-30,Google Search,1
+CUST_197,Mary Kelly,Garciamouth,Cambodia,46-60,Créateur,2024-02-06,Referral,0
+CUST_198,April Hill,Shellyfurt,Lithuania,26-35,Premium,2024-08-20,Event Walk-in,0
+CUST_199,Jordan Johnson,West Lindaport,Micronesia,46-60,Découverte,2024-04-12,Google Search,0
+CUST_200,Jose Clark,Hillview,Sweden,36-45,Découverte,2024-02-17,LinkedIn,0
+CUST_201,Kimberly Gamble,Spearsmouth,Saint Helena,36-45,Premium,2025-01-18,Google Search,0
+CUST_202,Ryan Harris,East Dawn,Tunisia,26-35,Créateur,2025-02-25,Referral,0
+CUST_203,Amy Massey,Hollyland,Hong Kong,26-35,Régulier,2024-03-21,Referral,1
+CUST_204,Gary Ellis,Hendersonmouth,Mayotte,26-35,Corporate,2024-05-26,TikTok,1
+CUST_205,Cynthia Short MD,West Susan,Holy See (Vatican City State),36-45,Corporate,2024-09-18,Event Walk-in,0
+CUST_206,Elizabeth Martin,Bennettburgh,Greenland,46-60,Premium,2024-06-10,Instagram,1
+CUST_207,Zachary Taylor,Garrettfort,Faroe Islands,36-45,Créateur,2024-11-02,Event Walk-in,1
+CUST_208,Stephanie Sims,New Jenniferberg,Northern Mariana Islands,36-45,Corporate,2024-11-05,TikTok,1
+CUST_209,Shannon Jensen,Port Jeffreyland,Serbia,46-60,Découverte,2024-08-30,Google Search,1
+CUST_210,Angela Harris,West Brookeburgh,Singapore,36-45,Premium,2024-01-23,Partnership,1
+CUST_211,Michael Davies,Smithfort,Moldova,36-45,Découverte,2024-02-20,Referral,1
+CUST_212,Gregory Cameron,Johnathanberg,Mayotte,36-45,Régulier,2024-12-26,TikTok,0
+CUST_213,Daniel Dixon,Dunnburgh,Anguilla,36-45,Régulier,2024-04-09,Event Walk-in,0
+CUST_214,Michelle Thomas,Elliottbury,India,36-45,Corporate,2024-02-04,Referral,1
+CUST_215,Jordan Salazar,Friedmanview,Algeria,26-35,Découverte,2024-10-29,LinkedIn,1
+CUST_216,John Vasquez,Whitetown,Bulgaria,26-35,Régulier,2024-05-15,Partnership,1
+CUST_217,Joshua Callahan,North Williammouth,Liberia,36-45,Régulier,2024-09-20,Partnership,1
+CUST_218,Ariana Wright,East Sheila,Kuwait,36-45,Premium,2024-04-27,Google Search,0
+CUST_219,Angela Maynard,Williamport,Sudan,26-35,Régulier,2025-02-10,Partnership,1
+CUST_220,James Sanders,Underwoodtown,Cape Verde,18-25,Corporate,2024-01-15,LinkedIn,0
+CUST_221,Jamie Matthews,East Shane,Liechtenstein,46-60,Premium,2024-09-25,Referral,1
+CUST_222,Carrie Eaton,Julieshire,Thailand,36-45,Découverte,2024-08-27,Google Search,0
+CUST_223,Joshua Molina,Anthonybury,Pitcairn Islands,36-45,Créateur,2024-08-14,Event Walk-in,0
+CUST_224,Katherine Gordon,Carlosville,Austria,46-60,Premium,2025-02-22,Instagram,0
+CUST_225,Erica Roberts,Port Jessica,Sierra Leone,18-25,Découverte,2024-11-07,Google Search,0
+CUST_226,Michele Lopez,Sharonfurt,Jordan,18-25,Régulier,2024-05-18,Google Search,1
+CUST_227,Lawrence King,Pachecotown,Poland,36-45,Créateur,2025-03-05,Referral,0
+CUST_228,Carmen Kirk,Jessicaburgh,Norfolk Island,46-60,Découverte,2025-05-16,Referral,1
+CUST_229,Drew Morrison,Farmerfort,Syrian Arab Republic,36-45,Découverte,2025-01-14,TikTok,1
+CUST_230,Monica Peterson,Port Lancefurt,Eritrea,46-60,Régulier,2025-01-06,Instagram,1
+CUST_231,Anthony Hartman,West Jonathonborough,Saint Martin,36-45,Découverte,2025-02-11,LinkedIn,0
+CUST_232,Scott Johnson,Victoriamouth,Swaziland,18-25,Corporate,2024-04-03,Event Walk-in,0
+CUST_233,Gabriel Friedman,Pereztown,Korea,18-25,Découverte,2024-12-07,TikTok,0
+CUST_234,Paige Mendez,Lake John,Italy,26-35,Découverte,2024-07-31,Referral,0
+CUST_235,Evan Lewis,East Lisa,Montserrat,26-35,Premium,2024-05-31,Partnership,0
+CUST_236,Paul Thomas,Ballbury,United Arab Emirates,36-45,Régulier,2024-05-13,Referral,1
+CUST_237,Sandra Bailey,Danielsside,Gabon,26-35,Découverte,2024-01-27,TikTok,0
+CUST_238,Kimberly Caldwell,Snyderfurt,Somalia,36-45,Régulier,2024-11-27,Instagram,0
+CUST_239,Anthony Walsh,Lake Wesley,Uzbekistan,36-45,Découverte,2024-05-09,Event Walk-in,1
+CUST_240,Jennifer Pugh,Danielstad,Martinique,18-25,Découverte,2025-05-02,Google Search,1
+CUST_241,Marissa Hammond,Hillside,Wallis and Futuna,18-25,Corporate,2025-05-30,TikTok,0
+CUST_242,Ronnie Williams,Evansberg,Pakistan,36-45,Corporate,2024-02-01,Instagram,1
+CUST_243,Samantha Mccullough,Justinbury,Burkina Faso,46-60,Corporate,2024-04-20,Google Search,1
+CUST_244,Samuel House,Jacobsonhaven,Seychelles,18-25,Découverte,2024-11-25,Referral,0
+CUST_245,Ricky Robertson,North Anne,Germany,18-25,Régulier,2024-10-08,Referral,1
+CUST_246,Maria Nelson,Mcbridefort,Nauru,46-60,Créateur,2025-06-27,LinkedIn,1
+CUST_247,Kenneth Taylor,New Alexanderhaven,Jamaica,46-60,Découverte,2024-04-27,Partnership,0
+CUST_248,Melanie Ray,Taylorshire,Syrian Arab Republic,46-60,Corporate,2024-08-21,Google Search,1
+CUST_249,Leroy Pierce,New Karenstad,Uruguay,46-60,Corporate,2025-03-01,Event Walk-in,0
+CUST_250,Bryan Walker,East John,Papua New Guinea,36-45,Corporate,2024-11-16,Event Walk-in,1
+CUST_251,Michele Gonzalez,Berryview,Saint Kitts and Nevis,36-45,Régulier,2025-04-30,Instagram,0
+CUST_252,Andre Andrade,West Matthewside,British Indian Ocean Territory (Chagos Archipelago),18-25,Découverte,2025-03-18,Instagram,1
+CUST_253,Elizabeth Perez,Lake Rachel,Russian Federation,26-35,Créateur,2024-03-02,Referral,1
+CUST_254,Robert Martinez,Arnoldport,Pakistan,18-25,Corporate,2024-12-28,Partnership,1
+CUST_255,Gerald Simon,North John,Paraguay,18-25,Premium,2024-11-15,LinkedIn,0
+CUST_256,Angela Bowman,Delacruzbury,Peru,26-35,Régulier,2025-05-08,TikTok,0
+CUST_257,Debra Campos,New Jacobbury,Belize,36-45,Créateur,2025-01-11,Instagram,1
+CUST_258,Ricky Conway,Lake Kathleenstad,Guam,26-35,Corporate,2024-01-27,Referral,1
+CUST_259,Ronald Green,Michaelbury,Uruguay,18-25,Régulier,2024-10-06,Event Walk-in,1
+CUST_260,Caitlin Smith,East Ashley,Belarus,36-45,Premium,2024-01-07,TikTok,0
+CUST_261,Andrea Sherman,Brownchester,Venezuela,46-60,Découverte,2024-05-25,Event Walk-in,0
+CUST_262,Julian Garcia,Bryanberg,Afghanistan,18-25,Créateur,2024-08-08,Google Search,1
+CUST_263,Elizabeth Horne,Patrickstad,Faroe Islands,46-60,Premium,2024-06-10,LinkedIn,1
+CUST_264,Jennifer Grant,North Carolinemouth,Sierra Leone,36-45,Créateur,2024-03-27,Instagram,0
+CUST_265,Tina Green,Williamsview,Montenegro,26-35,Créateur,2024-02-20,Event Walk-in,0
+CUST_266,Norma Hart,Lisaside,Canada,36-45,Corporate,2025-03-10,Google Search,1
+CUST_267,Steven Roth,Brianshire,Australia,46-60,Premium,2024-08-08,Partnership,0
+CUST_268,Justin Stuart,Christopherstad,Somalia,36-45,Corporate,2024-04-23,LinkedIn,1
+CUST_269,Amber Garcia,West Deborah,Kiribati,36-45,Découverte,2024-08-13,Google Search,0
+CUST_270,Andrea Williams,Kelseymouth,Japan,18-25,Régulier,2024-11-04,TikTok,0
+CUST_271,Brandon Cook,Wagnerside,Aruba,36-45,Premium,2024-12-01,Instagram,0
+CUST_272,Miguel Holmes,Suttonview,Belgium,46-60,Corporate,2024-06-28,TikTok,1
+CUST_273,Cynthia Wilcox,New Marymouth,Belize,26-35,Créateur,2024-12-28,Instagram,1
+CUST_274,John Watson,New Richard,Switzerland,18-25,Corporate,2024-01-20,Google Search,0
+CUST_275,Kelly Miller,Markside,Estonia,36-45,Créateur,2025-03-15,Referral,1
+CUST_276,Joseph Thompson,Ramostown,Hungary,46-60,Premium,2024-04-27,Google Search,0
+CUST_277,Victoria Black,Port Michelle,Jersey,36-45,Régulier,2025-04-16,Partnership,1
+CUST_278,Cathy Taylor,Port Michael,Latvia,18-25,Corporate,2024-04-18,TikTok,1
+CUST_279,Diana Fernandez,Andersenchester,Czech Republic,46-60,Créateur,2024-03-21,Google Search,1
+CUST_280,Julia Thompson,Port Stephen,Pakistan,36-45,Régulier,2024-12-07,Partnership,0
+CUST_281,Ashley Raymond,West Barbaraside,Indonesia,18-25,Créateur,2024-04-26,Referral,0
+CUST_282,Sierra Robertson,West Ericaview,Isle of Man,36-45,Premium,2024-05-31,TikTok,0
+CUST_283,Colleen Dean,East Samanthafort,Guatemala,26-35,Premium,2024-07-21,TikTok,0
+CUST_284,Melissa Lang DDS,Grantburgh,Seychelles,18-25,Régulier,2025-05-20,Google Search,1
+CUST_285,Denise Lopez DDS,New Jordan,Ghana,36-45,Premium,2024-06-03,Google Search,0
+CUST_286,Heather Baker,Richardfort,Paraguay,46-60,Corporate,2024-11-06,Partnership,1
+CUST_287,Amy Larson,New Timothy,Singapore,18-25,Premium,2025-06-03,Instagram,1
+CUST_288,Richard Giles,Hallville,Venezuela,46-60,Corporate,2024-02-08,Instagram,1
+CUST_289,Matthew Williams,Port Ravenmouth,Turks and Caicos Islands,36-45,Découverte,2024-04-02,Referral,1
+CUST_290,Deborah Ross,Aaronview,French Polynesia,46-60,Créateur,2024-02-12,Google Search,0
+CUST_291,Michael Pacheco,Gonzalesview,San Marino,36-45,Créateur,2025-05-02,Referral,0
+CUST_292,Charles Black,Lake Williamton,Jamaica,18-25,Corporate,2024-04-15,Partnership,1
+CUST_293,Raymond Burnett,Ambermouth,Comoros,18-25,Créateur,2024-06-25,Instagram,0
+CUST_294,Jennifer Johnson,East John,North Macedonia,46-60,Corporate,2025-06-20,Referral,0
+CUST_295,Logan Sanchez,Shieldschester,Ireland,36-45,Premium,2024-10-16,Google Search,1
+CUST_296,Robert Smith,Richardsonview,Tanzania,36-45,Créateur,2024-02-23,Partnership,1
+CUST_297,Andrew Wilson,Johnsonland,Jordan,18-25,Premium,2024-04-06,Referral,1
+CUST_298,Jeremy Nguyen,Lake Deborah,Morocco,36-45,Premium,2024-06-02,LinkedIn,0
+CUST_299,Carol Edwards,South Hailey,United Kingdom,26-35,Premium,2024-11-13,Event Walk-in,1
+CUST_300,Amanda Williams,Alexanderfurt,Eritrea,26-35,Créateur,2024-03-27,LinkedIn,1
+CUST_301,Jason Clark,Port Catherine,Papua New Guinea,36-45,Régulier,2025-06-23,Instagram,1
+CUST_302,Lance Rodriguez,Lake Danielton,Sao Tome and Principe,36-45,Découverte,2025-01-06,LinkedIn,0
+CUST_303,Sarah Perez,Martinfort,Uzbekistan,26-35,Premium,2025-05-12,TikTok,0
+CUST_304,Timothy Williams,Lake Sylvia,Liechtenstein,26-35,Régulier,2024-03-20,LinkedIn,0
+CUST_305,Amy Burns,Port Jeremiah,Togo,18-25,Premium,2024-05-14,Referral,1
+CUST_306,Andrew Andrews,North Karen,Senegal,26-35,Régulier,2024-07-04,Partnership,0
+CUST_307,Zachary White,Lake Anthony,Australia,46-60,Découverte,2025-02-24,LinkedIn,0
+CUST_308,Brandon Allen,Noblebury,Bangladesh,46-60,Créateur,2024-10-18,Partnership,1
+CUST_309,Kristin Hall,North Angelachester,Zimbabwe,26-35,Créateur,2024-09-01,LinkedIn,1
+CUST_310,Katie Richards,East Karenmouth,Vanuatu,26-35,Premium,2025-03-27,Google Search,1
+CUST_311,Robert Middleton DVM,New Tammy,Bahrain,46-60,Créateur,2025-06-24,Google Search,0
+CUST_312,Yolanda Smith,Port Sherrytown,Fiji,26-35,Créateur,2024-05-21,Partnership,1
+CUST_313,Kyle Green,Carterberg,Isle of Man,18-25,Corporate,2025-01-15,Referral,0
+CUST_314,Rachel Larson,Leeville,Swaziland,18-25,Premium,2024-03-26,Partnership,0
+CUST_315,Courtney Davidson,West Jamesmouth,Costa Rica,36-45,Corporate,2025-06-09,TikTok,1
+CUST_316,Elizabeth Clark,Lake Christopherhaven,Lesotho,18-25,Régulier,2025-04-06,LinkedIn,0
+CUST_317,Travis Powers,Kevinville,Slovenia,46-60,Découverte,2025-02-09,Referral,1
+CUST_318,Crystal Jones,Lisaville,Norway,26-35,Corporate,2024-03-24,LinkedIn,0
+CUST_319,Sandra Brooks,Harrisonhaven,Congo,18-25,Premium,2024-04-11,Partnership,1
+CUST_320,Anthony Huang,Stephenville,Malaysia,26-35,Régulier,2024-02-09,LinkedIn,1
+CUST_321,Victoria Hernandez,Grahammouth,Turkey,26-35,Corporate,2025-04-04,Referral,0
+CUST_322,Randy Rivera,Lake Teresafurt,South Africa,18-25,Découverte,2024-09-19,TikTok,0
+CUST_323,Victor Stein,Port Sierrafort,Lesotho,46-60,Découverte,2024-10-22,TikTok,1
+CUST_324,Benjamin Roth,Lake Ashleyfort,India,18-25,Découverte,2024-09-01,Google Search,1
+CUST_325,Stephanie Wells,Port Dustin,China,18-25,Découverte,2025-05-26,Referral,0
+CUST_326,George Pham,North Mike,Fiji,26-35,Régulier,2024-10-25,Google Search,0
+CUST_327,Juan Carr,Estesbury,Micronesia,36-45,Régulier,2025-03-02,TikTok,0
+CUST_328,Lauren Collins,North Kevinfurt,Andorra,36-45,Découverte,2025-06-22,Referral,0
+CUST_329,Shawn Gonzalez,New Curtis,Georgia,46-60,Corporate,2024-02-14,Event Walk-in,1
+CUST_330,Kevin Marshall,Port Robert,Senegal,36-45,Premium,2024-01-17,LinkedIn,0
+CUST_331,Heather Johnson,Port Geraldshire,Cuba,36-45,Régulier,2024-04-16,Partnership,1
+CUST_332,Amy Bates,Lake Lisa,Iraq,26-35,Découverte,2024-12-26,Referral,1
+CUST_333,Peter Smith,Braytown,Sudan,26-35,Corporate,2025-05-05,Event Walk-in,0
+CUST_334,Alexa Hernandez,Joseberg,Swaziland,26-35,Découverte,2025-04-13,Instagram,1
+CUST_335,Robert Lawson,Kimberlymouth,China,26-35,Découverte,2024-07-23,Instagram,1
+CUST_336,Amy Fernandez,North Kevin,Kuwait,36-45,Créateur,2025-02-11,Partnership,1
+CUST_337,Samantha Jones,West Nathaniel,Yemen,36-45,Découverte,2024-07-14,LinkedIn,1
+CUST_338,Erin Koch,New Kathryn,Finland,18-25,Premium,2024-10-06,Instagram,1
+CUST_339,Robert Brooks,Rachelfort,Slovakia (Slovak Republic),46-60,Corporate,2025-03-26,Google Search,1
+CUST_340,William Parker,Port Margaret,Netherlands Antilles,26-35,Corporate,2025-05-24,LinkedIn,1
+CUST_341,Sandra Rodriguez,Andreashire,British Indian Ocean Territory (Chagos Archipelago),18-25,Corporate,2024-03-21,Google Search,0
+CUST_342,Johnathan Contreras,Tuckermouth,Mauritius,36-45,Premium,2024-04-15,Instagram,1
+CUST_343,Christine Murphy,Phillipsside,Indonesia,36-45,Premium,2025-04-01,Referral,1
+CUST_344,Michael Jones,Lake Becky,Norfolk Island,26-35,Corporate,2024-12-25,Google Search,0
+CUST_345,Regina Moore,Port Kristenside,Swaziland,36-45,Créateur,2025-03-21,LinkedIn,0
+CUST_346,Diana Henson,Milesstad,French Southern Territories,18-25,Corporate,2025-01-07,Referral,0
+CUST_347,Catherine Adams,Port Judyshire,Libyan Arab Jamahiriya,18-25,Régulier,2025-03-24,Instagram,0
+CUST_348,Melissa Gamble,Brycebury,United States of America,18-25,Régulier,2025-01-10,LinkedIn,1
+CUST_349,Brittany Lawson,New Shane,Turkmenistan,18-25,Créateur,2024-06-06,Event Walk-in,1
+CUST_350,Jessica Palmer,Williamschester,Lesotho,36-45,Premium,2025-03-30,Partnership,0
+CUST_351,Yvonne Boyd,Lopezburgh,Seychelles,26-35,Créateur,2025-01-10,Google Search,1
+CUST_352,Andrea Miller,South Allen,Liechtenstein,36-45,Régulier,2024-04-26,Instagram,0
+CUST_353,Nancy Rogers,New Jenniferville,Netherlands,46-60,Créateur,2025-01-31,Referral,0
+CUST_354,William Malone,Lisafurt,Aruba,36-45,Premium,2025-04-01,TikTok,1
+CUST_355,Nicholas Rogers,Port Lauratown,Cameroon,46-60,Régulier,2024-05-05,TikTok,0
+CUST_356,Andrew Santos,North Michaeltown,Saint Martin,46-60,Régulier,2025-03-31,Instagram,1
+CUST_357,David Goodwin,Joshuaside,Switzerland,36-45,Découverte,2024-10-24,LinkedIn,0
+CUST_358,Cody Olson,Rogerston,Pakistan,26-35,Premium,2025-06-04,TikTok,0
+CUST_359,Frank Bridges,Port Tammy,Solomon Islands,26-35,Régulier,2024-08-30,Partnership,1
+CUST_360,Sherry Stafford,East Ericview,France,18-25,Premium,2025-01-12,Google Search,0
+CUST_361,Christopher Mclaughlin,Ramoschester,Peru,18-25,Découverte,2024-11-12,Google Search,1
+CUST_362,Danny Torres,South Brenda,Jamaica,46-60,Corporate,2024-03-16,TikTok,1
+CUST_363,Justin Serrano,South Hollymouth,Kuwait,18-25,Corporate,2025-04-22,Event Walk-in,1
+CUST_364,James Johnson,Port Carolyn,Reunion,26-35,Créateur,2024-07-05,Partnership,0
+CUST_365,Joseph Bryant,Wilsonberg,Yemen,46-60,Créateur,2024-02-26,Partnership,0
+CUST_366,James Wiggins,Lake Ian,Saint Kitts and Nevis,26-35,Premium,2024-06-17,TikTok,1
+CUST_367,Brett Henderson,Franciscofort,Poland,26-35,Premium,2025-06-15,LinkedIn,0
+CUST_368,Timothy Thomas,South Zacharyburgh,Brazil,36-45,Régulier,2024-10-08,TikTok,1
+CUST_369,Stephen Roman,Williamborough,Mali,18-25,Créateur,2024-06-21,Referral,0
+CUST_370,Brandon Fry DVM,West Danny,Finland,26-35,Créateur,2024-12-11,Partnership,0
+CUST_371,Frederick Brown,East Patricia,San Marino,18-25,Découverte,2024-02-16,Event Walk-in,1
+CUST_372,Julie Cruz,Austinton,United Arab Emirates,26-35,Créateur,2025-03-02,Referral,0
+CUST_373,Cheryl Castillo,New Julie,North Macedonia,46-60,Créateur,2024-10-23,Event Walk-in,1
+CUST_374,Samantha Perez,Lake Stephenside,Russian Federation,46-60,Régulier,2025-02-19,LinkedIn,1
+CUST_375,Jessica Barnes,Amyville,France,18-25,Découverte,2024-06-10,Google Search,1
+CUST_376,Susan Buckley,Gonzalesfort,Korea,46-60,Corporate,2024-07-27,LinkedIn,0
+CUST_377,Manuel Raymond,Riveraborough,Bermuda,36-45,Premium,2024-12-19,Google Search,0
+CUST_378,Aaron Mcguire,Lake Phillipside,Georgia,36-45,Créateur,2024-04-18,LinkedIn,0
+CUST_379,Sara Rivera,South Larryport,Cambodia,46-60,Découverte,2024-09-30,Google Search,0
+CUST_380,Christopher Lee,Port Shawn,Nepal,26-35,Découverte,2024-02-21,LinkedIn,1
+CUST_381,Eric Mckenzie,Hendrixstad,Palestinian Territory,46-60,Régulier,2024-06-12,Partnership,1
+CUST_382,Kaitlin Mcgrath MD,Lake Justintown,Haiti,36-45,Régulier,2024-06-12,Google Search,1
+CUST_383,Ashley Mack,Lake Brian,Macao,46-60,Premium,2025-05-24,Instagram,0
+CUST_384,Dr. Sarah Fields,South Billyland,Puerto Rico,46-60,Créateur,2025-04-13,TikTok,0
+CUST_385,Joseph Lewis,South Marcusport,Cameroon,36-45,Découverte,2024-02-21,LinkedIn,1
+CUST_386,Crystal Alvarado,South Brian,Lebanon,46-60,Premium,2024-01-09,Partnership,0
+CUST_387,Thomas Thomas,Allisonshire,Sierra Leone,46-60,Régulier,2024-09-27,Event Walk-in,1
+CUST_388,Andre Garcia,Hopkinsfort,Estonia,46-60,Premium,2024-02-16,Google Search,0
+CUST_389,Hailey Smith,Cooleyland,Bulgaria,26-35,Premium,2024-10-22,Instagram,1
+CUST_390,Austin Herrera,South Edwardview,Kazakhstan,46-60,Créateur,2024-10-13,Partnership,0
+CUST_391,Destiny Maldonado,Lake Anthonyland,Antarctica (the territory South of 60 deg S),26-35,Découverte,2025-02-07,LinkedIn,1
+CUST_392,Amber Price,Michaelstad,Hungary,36-45,Régulier,2024-07-22,Referral,1
+CUST_393,Jeremy Davis,North Cynthia,Samoa,18-25,Découverte,2024-02-09,TikTok,1
+CUST_394,Angel Orr,Davismouth,Armenia,46-60,Créateur,2025-04-12,TikTok,0
+CUST_395,Denise Miller,South Tammyberg,Yemen,36-45,Créateur,2024-11-22,TikTok,1
+CUST_396,Cynthia Anderson,Bakerfort,Martinique,36-45,Créateur,2024-12-10,Referral,1
+CUST_397,Joan Glenn,South Rebecca,Cyprus,36-45,Corporate,2024-01-18,LinkedIn,1
+CUST_398,Kelly Randall,Jacksonland,Hong Kong,18-25,Corporate,2024-11-11,Partnership,0
+CUST_399,Kevin Nichols,Lake Danielmouth,Cambodia,46-60,Premium,2024-08-21,Event Walk-in,0
+CUST_400,Anita Richardson,Williamstad,Liechtenstein,46-60,Régulier,2025-06-20,Event Walk-in,1
+CUST_401,Jennifer Washington,Hoffmanfurt,Liberia,26-35,Régulier,2024-02-02,Referral,0
+CUST_402,Oscar Brennan,Edwardsburgh,Guinea-Bissau,26-35,Découverte,2025-03-27,LinkedIn,1
+CUST_403,Jerome Hoffman,South Christopher,Lithuania,26-35,Corporate,2024-07-27,Google Search,1
+CUST_404,Amanda Lee,Williamschester,Luxembourg,18-25,Régulier,2025-06-15,TikTok,1
+CUST_405,Susan Kane,East Jose,Sudan,46-60,Créateur,2025-01-20,LinkedIn,0
+CUST_406,Sharon Moody,West Edward,Saint Lucia,46-60,Créateur,2024-12-16,Referral,1
+CUST_407,Jennifer Rodriguez,East Nicoleshire,Somalia,36-45,Créateur,2025-05-10,TikTok,0
+CUST_408,Cory Ferguson,Brandonside,Nigeria,36-45,Créateur,2024-11-01,TikTok,1
+CUST_409,Ashley Jackson,Elizabethville,Turkey,36-45,Régulier,2025-05-15,LinkedIn,1
+CUST_410,David Buckley,South Alexander,Iran,36-45,Créateur,2024-10-07,LinkedIn,0
+CUST_411,Gary Weaver,Kristinview,Cyprus,46-60,Corporate,2024-12-19,Partnership,0
+CUST_412,Sydney Nixon,Rodriguezside,Libyan Arab Jamahiriya,36-45,Découverte,2024-10-21,Event Walk-in,0
+CUST_413,James Allison,Lewiston,Korea,36-45,Corporate,2024-09-19,Event Walk-in,1
+CUST_414,Lisa Doyle,Denisemouth,Bahrain,26-35,Régulier,2024-10-04,Referral,1
+CUST_415,Joseph Crawford,Williamsborough,Faroe Islands,26-35,Découverte,2024-09-02,TikTok,0
+CUST_416,Daniel Fox,South Robin,Iraq,26-35,Régulier,2024-02-23,Instagram,1
+CUST_417,Karen Chase,Port Angela,Netherlands Antilles,36-45,Corporate,2024-04-12,Event Walk-in,0
+CUST_418,Betty Dillon,Michaelhaven,Greenland,18-25,Créateur,2024-06-10,Google Search,1
+CUST_419,Christopher Barker,South Brian,Anguilla,46-60,Régulier,2024-10-21,LinkedIn,1
+CUST_420,Charles Ponce,South Valerie,Myanmar,18-25,Découverte,2024-08-25,Referral,0
+CUST_421,Kyle Lloyd,Smithland,Kuwait,26-35,Corporate,2024-06-29,Instagram,1
+CUST_422,John Oliver,East James,Cocos (Keeling) Islands,46-60,Régulier,2024-10-23,Instagram,0
+CUST_423,Casey Lopez,South Joyceton,Isle of Man,36-45,Créateur,2024-04-19,LinkedIn,1
+CUST_424,Alexander Sloan,Lake Amanda,Paraguay,46-60,Créateur,2025-06-20,Google Search,0
+CUST_425,Jeremy Cook,East Christopher,Nepal,46-60,Premium,2024-07-16,Partnership,0
+CUST_426,Maria Garrett,Kellyburgh,Equatorial Guinea,36-45,Régulier,2025-04-14,Event Walk-in,1
+CUST_427,Joseph Lane,New Coreyport,Sri Lanka,26-35,Découverte,2024-12-11,Partnership,1
+CUST_428,Michelle Jenkins,Christopherstad,Zimbabwe,26-35,Régulier,2025-02-19,Partnership,1
+CUST_429,Felicia Silva,North Daleport,Netherlands Antilles,36-45,Découverte,2025-02-14,Event Walk-in,0
+CUST_430,Amanda Gonzales,East Jenniferton,Niue,26-35,Régulier,2025-05-03,LinkedIn,0
+CUST_431,Jesse Williams,East Julieland,Antarctica (the territory South of 60 deg S),18-25,Premium,2025-01-27,TikTok,1
+CUST_432,Chase Gillespie,New Christine,Solomon Islands,36-45,Premium,2024-11-05,Referral,0
+CUST_433,Albert Cabrera,Craigmouth,Bouvet Island (Bouvetoya),36-45,Premium,2024-08-29,Instagram,0
+CUST_434,Michelle Rowe,New Eddie,Saint Martin,46-60,Premium,2024-06-12,Google Search,1
+CUST_435,Matthew Smith,West Kristineberg,Burkina Faso,18-25,Premium,2025-01-11,Referral,0
+CUST_436,Jennifer Holmes,Sawyerstad,Sri Lanka,26-35,Régulier,2025-05-04,TikTok,1
+CUST_437,Christy Ryan,Mooretown,Cambodia,36-45,Corporate,2025-04-27,Partnership,0
+CUST_438,Mrs. Janet Hinton,Bonnieburgh,Brazil,26-35,Créateur,2024-03-24,Referral,1
+CUST_439,Sean Richard,New Brandonbury,Niue,36-45,Découverte,2024-04-24,Instagram,0
+CUST_440,Mark Valencia,Sarahmouth,Peru,26-35,Régulier,2024-12-01,Partnership,1
+CUST_441,Rachel Freeman,Lake Cheryl,Barbados,18-25,Régulier,2025-05-15,Instagram,1
+CUST_442,Joshua Collins,South Aprilhaven,Antarctica (the territory South of 60 deg S),18-25,Corporate,2024-05-15,Referral,1
+CUST_443,Jose Russell,Griffithborough,China,46-60,Créateur,2024-02-29,Referral,1
+CUST_444,Amy Gregory,North David,Venezuela,36-45,Découverte,2025-02-09,LinkedIn,0
+CUST_445,Anna Wright,Lake Megan,Canada,26-35,Créateur,2024-03-15,Instagram,1
+CUST_446,Jessica Mack DVM,West Luisburgh,Bolivia,36-45,Découverte,2024-03-02,Instagram,1
+CUST_447,Erica Cooper,Lake Jonathan,Myanmar,18-25,Premium,2025-02-22,TikTok,0
+CUST_448,David Webster,North Samanthaburgh,Tunisia,46-60,Premium,2025-01-26,Google Search,1
+CUST_449,Bruce Walter,Lake Gabriela,Peru,46-60,Découverte,2024-05-16,Event Walk-in,1
+CUST_450,Heidi Williams,Antonioberg,Tonga,18-25,Régulier,2025-02-06,Referral,0
+CUST_451,Robert Williams,Melanieberg,Mayotte,26-35,Découverte,2024-01-24,LinkedIn,1
+CUST_452,Kelly Martin,Sarahtown,Syrian Arab Republic,46-60,Créateur,2025-01-23,Partnership,0
+CUST_453,Kimberly Harris,Mirandastad,Kyrgyz Republic,26-35,Corporate,2024-12-20,TikTok,1
+CUST_454,Chris Rowe,Aguilartown,Pitcairn Islands,26-35,Découverte,2024-02-02,Partnership,1
+CUST_455,Douglas Brooks,Olsonstad,Latvia,18-25,Régulier,2024-07-30,Instagram,0
+CUST_456,Michelle Hartman,Adamshire,Seychelles,18-25,Corporate,2024-02-19,TikTok,0
+CUST_457,Stephanie Ross,Torresmouth,Georgia,46-60,Corporate,2024-08-27,Referral,0
+CUST_458,Tracy Young,East Justinstad,Guinea,18-25,Régulier,2025-05-30,LinkedIn,0
+CUST_459,Kelly Ramos,Jacquelinebury,Korea,36-45,Créateur,2024-11-24,TikTok,1
+CUST_460,Michael Martin,Nicoletown,Nigeria,26-35,Créateur,2024-08-14,Google Search,1
+CUST_461,Paul Stanley,Steveview,Russian Federation,36-45,Découverte,2024-06-28,Event Walk-in,1
+CUST_462,Charles Collier,Watkinsfort,Germany,46-60,Découverte,2024-12-18,Event Walk-in,1
+CUST_463,Courtney Thompson,South Jessica,Canada,36-45,Corporate,2025-02-22,TikTok,1
+CUST_464,William Zimmerman,Lewisport,United Arab Emirates,46-60,Régulier,2025-04-29,TikTok,0
+CUST_465,Jennifer Whitney,Kaitlynton,Czech Republic,36-45,Régulier,2025-04-19,Instagram,1
+CUST_466,Wendy Gonzalez,Carterside,Barbados,46-60,Créateur,2025-06-26,TikTok,1
+CUST_467,Ariel Sullivan,South Seantown,Brazil,26-35,Premium,2024-07-27,LinkedIn,0
+CUST_468,Jo Rush,Lake Joel,Belize,46-60,Premium,2024-04-04,Referral,0
+CUST_469,Stephen Parker,Blairshire,Holy See (Vatican City State),18-25,Premium,2025-01-21,Event Walk-in,0
+CUST_470,Jessica Williams,Martinezstad,Central African Republic,18-25,Régulier,2024-08-10,Google Search,0
+CUST_471,Allison Dean,Moralesmouth,Greenland,36-45,Premium,2024-01-16,TikTok,0
+CUST_472,Sonya Reyes,Pierceshire,French Polynesia,18-25,Corporate,2024-09-05,Event Walk-in,0
+CUST_473,Matthew Jackson,North Donna,Croatia,46-60,Régulier,2024-11-25,Partnership,1
+CUST_474,Joseph Serrano,Zacharytown,Tuvalu,46-60,Corporate,2025-06-30,Event Walk-in,1
+CUST_475,Bryan Eaton,Lake Jeffreyside,New Caledonia,36-45,Premium,2025-01-03,Referral,1
+CUST_476,Chloe Henry,New Valerieport,Taiwan,46-60,Découverte,2025-04-25,Partnership,1
+CUST_477,Edward Trujillo,Jessicaland,Syrian Arab Republic,26-35,Premium,2024-11-16,Google Search,0
+CUST_478,Brianna Wright,Jacobborough,Slovakia (Slovak Republic),26-35,Régulier,2024-01-17,LinkedIn,1
+CUST_479,Denise Smith,North Patricia,Cape Verde,36-45,Régulier,2024-07-19,LinkedIn,0
+CUST_480,Michelle Harper,Lake Michaelport,Guernsey,46-60,Créateur,2024-09-08,Google Search,1
+CUST_481,Derek Brown,South Alvinmouth,El Salvador,36-45,Corporate,2025-05-17,Google Search,0
+CUST_482,Joan Lane,Garciaport,Bahamas,36-45,Régulier,2024-05-23,Event Walk-in,1
+CUST_483,Scott Gentry,Scottfurt,Australia,26-35,Créateur,2024-03-01,Referral,0
+CUST_484,Mark Ellis,Lake Spencerstad,Austria,18-25,Découverte,2024-01-07,Google Search,0
+CUST_485,Darren Carter Jr.,Lake Dawnport,Paraguay,26-35,Découverte,2024-06-03,Instagram,0
+CUST_486,Nancy Turner,New Amandaport,Burkina Faso,46-60,Premium,2024-03-02,Referral,1
+CUST_487,Jessica Patrick,West Daniel,New Zealand,46-60,Découverte,2024-01-07,Referral,1
+CUST_488,Anthony Perez,South Johnland,Kazakhstan,18-25,Découverte,2025-06-26,Event Walk-in,1
+CUST_489,Christopher Perez,North Tonya,Bahrain,36-45,Découverte,2025-05-29,Partnership,1
+CUST_490,Timothy Erickson,Chelseaborough,United Kingdom,26-35,Découverte,2024-04-08,Referral,0
+CUST_491,Joseph Doyle,Port Jeffton,Qatar,26-35,Régulier,2025-06-23,LinkedIn,1
+CUST_492,Mr. Eric Howell,Jacquelineshire,Togo,36-45,Corporate,2024-03-21,LinkedIn,1
+CUST_493,Deborah Whitehead,Jonland,Kiribati,46-60,Créateur,2024-09-06,Event Walk-in,0
+CUST_494,Travis Wade,West Sarahside,Kazakhstan,36-45,Découverte,2024-02-02,Instagram,1
+CUST_495,Peter Molina,Chadport,Fiji,46-60,Corporate,2025-05-02,Instagram,0
+CUST_496,Angelica Spencer,Hallbury,New Caledonia,26-35,Découverte,2025-05-26,Partnership,1
+CUST_497,Brittany Clark,Phillipsstad,Guinea,36-45,Créateur,2024-04-07,Referral,0
+CUST_498,Alicia Jacobs,Josephmouth,Saint Helena,26-35,Régulier,2025-05-01,LinkedIn,0
+CUST_499,Erin Salinas,North Keithshire,Papua New Guinea,18-25,Premium,2024-02-03,TikTok,1
+CUST_500,Brian Yu,Robinport,Jamaica,18-25,Régulier,2024-05-27,Partnership,1
+CUST_501,George Peters,Lake John,India,18-25,Premium,2024-06-15,Referral,0
+CUST_502,Erin Hunt,Cooperville,Grenada,46-60,Créateur,2024-12-05,Google Search,0
+CUST_503,Jessica Rowe,Andersonmouth,Saint Kitts and Nevis,18-25,Créateur,2024-12-20,Instagram,0
+CUST_504,Brendan Smith,Robertsonburgh,Czech Republic,46-60,Régulier,2024-03-18,LinkedIn,1
+CUST_505,Michael Barker,Kristamouth,Solomon Islands,36-45,Découverte,2024-10-06,Partnership,1
+CUST_506,Christopher Rodgers,East Louis,Azerbaijan,46-60,Régulier,2024-12-30,Referral,1
+CUST_507,Kelly Cooper,Michaelburgh,New Caledonia,46-60,Régulier,2025-01-24,Instagram,1
+CUST_508,Jessica Ayers,Port Davidland,Tanzania,26-35,Découverte,2024-03-25,LinkedIn,0
+CUST_509,William Jones,Chelseaport,Cape Verde,46-60,Régulier,2025-02-02,LinkedIn,1
+CUST_510,Joseph Lucas,North Claudiaview,Colombia,18-25,Découverte,2024-01-06,LinkedIn,1
+CUST_511,Adrienne Medina,West Justinbury,Swaziland,36-45,Premium,2024-04-14,TikTok,0
+CUST_512,Jonathan Carney,Jameshaven,Estonia,26-35,Corporate,2025-04-04,Referral,1
+CUST_513,Amanda Gilmore,Bretttown,Taiwan,18-25,Découverte,2024-04-01,LinkedIn,0
+CUST_514,Jonathan Jones,Port Christinefort,Liberia,36-45,Corporate,2024-01-13,LinkedIn,1
+CUST_515,Darius Freeman,New Corey,North Macedonia,46-60,Découverte,2024-09-05,Referral,0
+CUST_516,Vanessa Bryant DDS,Brownstad,Serbia,46-60,Régulier,2024-05-22,LinkedIn,1
+CUST_517,Anthony Gardner,Lake Christian,South Africa,36-45,Corporate,2024-05-29,Instagram,0
+CUST_518,Charles Hill,New Tamaraberg,Qatar,46-60,Premium,2025-03-07,LinkedIn,1
+CUST_519,Tammy Ford,Cathyton,Russian Federation,18-25,Premium,2024-09-14,TikTok,1
+CUST_520,John Perez,North Amy,San Marino,26-35,Corporate,2024-04-19,TikTok,1
+CUST_521,Joseph Morgan,East Christina,Bulgaria,18-25,Corporate,2024-12-06,Partnership,1
+CUST_522,Tristan Fischer,Port Amy,San Marino,36-45,Corporate,2024-12-08,Google Search,0
+CUST_523,Carl Barber,Garciafurt,Swaziland,36-45,Premium,2024-07-24,Google Search,1
+CUST_524,Stacey Myers,New Derek,Bolivia,26-35,Corporate,2024-11-22,LinkedIn,1
+CUST_525,Brandon Rowland,West Hollyview,Saint Pierre and Miquelon,26-35,Premium,2025-01-20,LinkedIn,1
+CUST_526,Jonathan Taylor,South Christine,New Caledonia,36-45,Découverte,2024-07-23,Referral,0
+CUST_527,Holly Hoffman,West Jasonhaven,Paraguay,18-25,Corporate,2024-08-02,Google Search,1
+CUST_528,Jacob Paul,Jensenhaven,Armenia,18-25,Corporate,2025-05-26,TikTok,1
+CUST_529,Katherine Lewis,North Christinefort,Cook Islands,26-35,Premium,2024-06-06,Event Walk-in,1
+CUST_530,Francisco Mora,South Matthew,Wallis and Futuna,46-60,Découverte,2025-04-04,Referral,1
+CUST_531,Jennifer Reynolds,Anneburgh,Malta,46-60,Créateur,2025-06-02,Partnership,1
+CUST_532,Jason Christian,South Davidbury,Heard Island and McDonald Islands,18-25,Premium,2024-03-28,Instagram,0
+CUST_533,Anne Lee,Laurenmouth,Montserrat,36-45,Régulier,2024-02-15,Referral,1
+CUST_534,Dennis Kline,East Robert,Christmas Island,36-45,Corporate,2024-04-18,Instagram,0
+CUST_535,Thomas Wilson,Combsberg,Comoros,36-45,Régulier,2025-06-06,Event Walk-in,0
+CUST_536,Scott Cook MD,New Karen,Indonesia,46-60,Premium,2025-02-04,Google Search,0
+CUST_537,Kelly Jones,East Tyler,Bhutan,36-45,Découverte,2025-05-09,Instagram,1
+CUST_538,Laura Page,Port Jamesview,Burkina Faso,46-60,Découverte,2024-04-28,Partnership,0
+CUST_539,Morgan Mitchell,Port Markmouth,Grenada,36-45,Premium,2024-12-17,Google Search,0
+CUST_540,Anthony Mitchell,Smithberg,Azerbaijan,46-60,Premium,2025-05-02,Instagram,1
+CUST_541,Diane Klein,Hartmanhaven,Turks and Caicos Islands,46-60,Premium,2024-03-09,LinkedIn,0
+CUST_542,Shawn Rodriguez,West Jamiechester,Korea,18-25,Découverte,2024-12-17,Event Walk-in,0
+CUST_543,Alicia Jordan,East Leviville,Argentina,26-35,Régulier,2025-06-12,TikTok,0
+CUST_544,Jared Adkins,Riveramouth,Iran,36-45,Créateur,2025-03-12,Google Search,0
+CUST_545,Shane Burton,Lake Adam,South Georgia and the South Sandwich Islands,46-60,Régulier,2024-07-09,Event Walk-in,1
+CUST_546,David Small,Port Sean,French Polynesia,46-60,Découverte,2024-07-21,Google Search,1
+CUST_547,Donald Walker,Johnmouth,Guinea,46-60,Découverte,2024-08-07,TikTok,1
+CUST_548,Amy Farrell,Shellymouth,Slovakia (Slovak Republic),18-25,Créateur,2024-04-14,Partnership,0
+CUST_549,Scott Fitzgerald,New Marilynfurt,Sweden,36-45,Premium,2024-07-20,Google Search,0
+CUST_550,Anthony Wilson,Perezshire,Martinique,36-45,Corporate,2025-06-24,Event Walk-in,1
+CUST_551,Connie Carney,East Lori,Latvia,46-60,Créateur,2025-02-05,Referral,0
+CUST_552,Gregory Spears,Port Anna,Benin,36-45,Premium,2025-04-13,Referral,0
+CUST_553,Christina Campbell,South James,Mayotte,36-45,Créateur,2024-03-27,Event Walk-in,0
+CUST_554,Debra Hansen,Port Alan,Kuwait,36-45,Découverte,2024-09-01,LinkedIn,0
+CUST_555,Mary Grimes,New Jenniferland,Heard Island and McDonald Islands,26-35,Premium,2024-05-24,Referral,1
+CUST_556,Holly Sweeney,Ericborough,Nepal,46-60,Créateur,2024-05-21,Referral,1
+CUST_557,John Perry,New Darrenside,Anguilla,46-60,Régulier,2025-05-13,Event Walk-in,0
+CUST_558,Holly Schneider,North Christopherstad,Bouvet Island (Bouvetoya),26-35,Corporate,2024-10-22,TikTok,0
+CUST_559,Nicole Vance,North David,United Arab Emirates,36-45,Corporate,2024-02-24,Partnership,1
+CUST_560,Samantha Jimenez,Lake Steve,San Marino,18-25,Corporate,2024-05-19,TikTok,1
+CUST_561,Kevin Lucas,East Andreachester,Dominican Republic,46-60,Corporate,2025-05-18,Google Search,1
+CUST_562,Veronica Sharp,Brittanyshire,United States of America,46-60,Régulier,2024-03-25,Referral,0
+CUST_563,Christine Martinez,Lake Susan,Benin,26-35,Premium,2024-02-03,LinkedIn,0
+CUST_564,Colleen Robertson,Shawnfort,Luxembourg,36-45,Régulier,2025-04-13,Referral,1
+CUST_565,Jaime Walsh,Cynthiaside,Poland,18-25,Créateur,2024-04-26,LinkedIn,1
+CUST_566,Kayla Foster,Kellychester,Argentina,18-25,Corporate,2024-08-11,Google Search,0
+CUST_567,Preston Morales,Katiehaven,Cook Islands,26-35,Premium,2024-02-03,Google Search,1
+CUST_568,Elizabeth Wallace,Evanstad,Mali,36-45,Découverte,2025-03-25,Partnership,0
+CUST_569,Thomas Forbes,Graymouth,Saint Barthelemy,26-35,Régulier,2024-12-25,Partnership,1
+CUST_570,Shawn Carey,Gregoryside,Western Sahara,26-35,Créateur,2024-05-22,Partnership,0
+CUST_571,Kristen Nash,New Ryan,Palestinian Territory,26-35,Découverte,2024-12-25,Referral,1
+CUST_572,Lisa Jones,Skinnershire,Liberia,26-35,Premium,2024-10-26,LinkedIn,1
+CUST_573,Andrew Jones,Rodriguezhaven,Luxembourg,18-25,Régulier,2025-02-25,Instagram,1
+CUST_574,Nicole Robinson,Davidchester,Fiji,26-35,Régulier,2024-09-12,TikTok,1
+CUST_575,Katherine Massey,New Thomasfurt,Andorra,26-35,Corporate,2025-05-16,TikTok,1
+CUST_576,Amy Hamilton,Fostermouth,Saint Martin,46-60,Corporate,2025-04-07,Instagram,0
+CUST_577,Stephanie Gray,Hawkinsville,Svalbard & Jan Mayen Islands,46-60,Créateur,2024-10-11,Event Walk-in,1
+CUST_578,Rebecca Garcia,Lake Stephanietown,Tajikistan,46-60,Corporate,2024-12-01,Referral,0
+CUST_579,Michael Sosa,North Kellyside,Estonia,18-25,Corporate,2025-01-01,Partnership,0
+CUST_580,Edward Meyer,North Timothytown,Cuba,46-60,Régulier,2025-03-15,Partnership,0
+CUST_581,Christian Parsons,Port Brandi,Italy,46-60,Premium,2024-11-26,Partnership,1
+CUST_582,Emily Werner,East Briannastad,Cambodia,36-45,Créateur,2024-05-13,Referral,1
+CUST_583,Veronica Dawson,South Stephen,Norway,36-45,Découverte,2024-02-17,Instagram,1
+CUST_584,Michael Carroll,Jordanmouth,Guadeloupe,18-25,Découverte,2024-06-10,Google Search,1
+CUST_585,Melissa Parrish,Kellyton,Kuwait,18-25,Corporate,2024-07-26,Event Walk-in,0
+CUST_586,Jonathan Roberts,New Erin,Moldova,36-45,Régulier,2024-10-07,Instagram,1
+CUST_587,Teresa Shelton,East Virginiaview,Sierra Leone,36-45,Découverte,2025-01-15,Event Walk-in,0
+CUST_588,Chad Mercado,Kennethport,Martinique,18-25,Corporate,2024-11-08,Event Walk-in,0
+CUST_589,Michael Marshall,Lydiahaven,Peru,46-60,Découverte,2024-04-07,Instagram,0
+CUST_590,Michael Gallagher,Brandonview,Italy,46-60,Découverte,2024-05-15,Referral,0
+CUST_591,Kristin Hall,Anthonyside,Micronesia,46-60,Découverte,2024-01-09,Event Walk-in,1
+CUST_592,James White,Calderonshire,Liechtenstein,18-25,Corporate,2024-05-15,Google Search,0
+CUST_593,Tara Arnold,South Karenport,Korea,26-35,Corporate,2024-04-01,Event Walk-in,0
+CUST_594,Edward Williams,South Toddborough,Lesotho,18-25,Premium,2025-01-11,LinkedIn,0
+CUST_595,Jennifer Russo,Jacksonland,Trinidad and Tobago,46-60,Régulier,2024-05-26,Instagram,0
+CUST_596,Brian Bell,Millerbury,Greenland,26-35,Corporate,2024-12-25,Event Walk-in,0
+CUST_597,Rachel Weber,North Ann,Bolivia,26-35,Corporate,2025-03-29,Partnership,0
+CUST_598,Heather Baker,West Wendy,Greece,18-25,Découverte,2024-05-23,Partnership,0
+CUST_599,Malik Allen,Michaelfurt,Burundi,46-60,Premium,2025-03-15,LinkedIn,0
+CUST_600,Amber Wade,East Carol,Wallis and Futuna,26-35,Premium,2024-03-27,TikTok,1
+CUST_601,Kimberly Nichols,Villarrealchester,Switzerland,18-25,Premium,2024-07-29,Referral,0
+CUST_602,James Vaughn,Michaeltown,Sierra Leone,46-60,Premium,2024-02-25,Partnership,0
+CUST_603,Robert Reyes,Marshallmouth,Cocos (Keeling) Islands,46-60,Corporate,2024-04-25,TikTok,1
+CUST_604,Randall Hobbs,Thomasstad,Lao People's Democratic Republic,18-25,Créateur,2024-01-13,LinkedIn,1
+CUST_605,Michael Michael,Weberfort,Martinique,26-35,Corporate,2025-03-06,LinkedIn,0
+CUST_606,David Daniel,New Jenny,Cape Verde,46-60,Découverte,2024-01-18,Referral,0
+CUST_607,Carol Guzman,West Christopherstad,Tonga,18-25,Premium,2024-08-08,Instagram,0
+CUST_608,Debra Castaneda,Port Kathleen,Cyprus,46-60,Créateur,2024-10-20,Event Walk-in,1
+CUST_609,Thomas Vargas,West Mary,Netherlands,46-60,Corporate,2024-03-25,Event Walk-in,0
+CUST_610,James Austin,Lanemouth,San Marino,36-45,Découverte,2024-11-13,Instagram,0
+CUST_611,Laura Jones,West Dave,Central African Republic,26-35,Créateur,2024-11-30,Google Search,0
+CUST_612,Rebecca Price,Tylerbury,Pakistan,36-45,Corporate,2024-09-01,Instagram,0
+CUST_613,David Hood,Port Alexandra,Bahamas,18-25,Corporate,2024-04-28,Google Search,0
+CUST_614,Daniel Watkins,East Chelsea,Sao Tome and Principe,36-45,Régulier,2024-05-02,Instagram,0
+CUST_615,Tiffany Weiss,South Sallyport,Belize,18-25,Régulier,2025-05-23,LinkedIn,1
+CUST_616,Jordan Gutierrez,Lake Anitastad,Montserrat,26-35,Premium,2024-05-09,Event Walk-in,1
+CUST_617,David Hunter,Wrighttown,Lebanon,18-25,Découverte,2024-12-09,Partnership,1
+CUST_618,Kerry Rose,Ortizbury,Angola,36-45,Créateur,2024-03-06,LinkedIn,0
+CUST_619,Jennifer Woods,South Shelia,Nicaragua,46-60,Corporate,2025-06-07,LinkedIn,0
+CUST_620,Brett Norris,Stewartbury,Montserrat,46-60,Créateur,2024-06-19,LinkedIn,0
+CUST_621,Christopher Steele,Maddoxbury,Tuvalu,36-45,Découverte,2024-04-28,TikTok,0
+CUST_622,Charles Weber IV,Port Sonya,Saint Lucia,18-25,Découverte,2024-09-07,Instagram,1
+CUST_623,Brian Franklin,Port Sean,China,36-45,Corporate,2024-06-02,TikTok,0
+CUST_624,David Potter,Lake Margaretport,Palau,46-60,Régulier,2024-11-25,TikTok,1
+CUST_625,George Thompson,South Leonardton,Morocco,36-45,Premium,2024-03-20,Referral,1
+CUST_626,Scott Nelson,Samanthafurt,Dominica,18-25,Créateur,2024-02-23,TikTok,0
+CUST_627,Diane Oneill,West Williamstad,Cyprus,18-25,Corporate,2024-03-11,Google Search,1
+CUST_628,Shannon Montgomery,South Raymond,Russian Federation,36-45,Premium,2024-03-29,Referral,1
+CUST_629,Karen Barnes,North Dawn,El Salvador,18-25,Premium,2024-07-24,LinkedIn,1
+CUST_630,Jeremy Green,South Sandra,Finland,26-35,Corporate,2025-01-12,Referral,1
+CUST_631,Michael Anderson,Georgechester,British Virgin Islands,26-35,Créateur,2024-09-08,TikTok,0
+CUST_632,Jason Bell,East John,Korea,46-60,Découverte,2024-08-26,Referral,1
+CUST_633,Jade Marquez,Shannonchester,American Samoa,18-25,Premium,2024-01-02,Partnership,1
+CUST_634,Alexis Bradley,Goodwinland,Vanuatu,36-45,Découverte,2024-07-29,Referral,0
+CUST_635,Zachary Conrad,West Katieburgh,Namibia,46-60,Corporate,2024-03-02,TikTok,1
+CUST_636,Michelle Weber,Morganchester,Lithuania,18-25,Découverte,2024-08-25,Partnership,1
+CUST_637,Gary Lee,Perezburgh,Anguilla,36-45,Corporate,2024-03-27,Referral,0
+CUST_638,Cheryl Mccall,Danielmouth,Cook Islands,26-35,Corporate,2024-03-17,Referral,0
+CUST_639,April Shaffer,New Andrew,Argentina,46-60,Régulier,2024-08-30,LinkedIn,1
+CUST_640,Katherine Williams,East Nancy,Cuba,36-45,Corporate,2024-11-30,LinkedIn,1
+CUST_641,Destiny Jackson,East Emma,Panama,36-45,Régulier,2024-03-17,TikTok,0
+CUST_642,David Walker,North Rebeccamouth,Armenia,18-25,Régulier,2024-04-18,TikTok,1
+CUST_643,Steven Torres,Lake Christopherberg,Martinique,46-60,Premium,2025-02-20,Instagram,1
+CUST_644,Anna Villa,New Valeriefurt,Costa Rica,26-35,Corporate,2024-11-11,Google Search,1
+CUST_645,Robin Stewart,East Emma,Fiji,18-25,Découverte,2024-06-10,Partnership,1
+CUST_646,Michael Allen,Port Teresa,Korea,18-25,Régulier,2024-12-01,TikTok,0
+CUST_647,Robert Booker,West Marisaton,Peru,26-35,Premium,2025-02-09,Referral,0
+CUST_648,Shawn Carrillo,North Jeffrey,Guernsey,36-45,Premium,2024-06-27,Instagram,1
+CUST_649,Dr. April Kelly,Kennethfort,Martinique,46-60,Créateur,2024-09-12,Instagram,1
+CUST_650,Robert Oconnell PhD,New Troy,Cayman Islands,18-25,Régulier,2024-05-04,Instagram,0
+CUST_651,Timothy Weiss,North Dennis,Liechtenstein,26-35,Régulier,2024-07-21,Partnership,1
+CUST_652,Warren King,Loganville,Somalia,36-45,Découverte,2024-09-22,Partnership,0
+CUST_653,Donna Davis,Ericville,United Arab Emirates,18-25,Découverte,2024-07-21,Event Walk-in,1
+CUST_654,Debra Fisher,Hunttown,Antigua and Barbuda,26-35,Découverte,2024-12-05,Instagram,0
+CUST_655,Stephanie Neal,New Latoyaborough,Jordan,46-60,Découverte,2024-06-21,Referral,1
+CUST_656,Alan Johnston,Barryport,Peru,46-60,Corporate,2024-01-31,Google Search,1
+CUST_657,Tonya Decker,Darleneburgh,Malaysia,26-35,Premium,2024-08-07,TikTok,1
+CUST_658,Christine Adams,Reginaldtown,Peru,36-45,Corporate,2024-06-01,Instagram,0
+CUST_659,Emily Mcneil,Brittanyberg,Kazakhstan,36-45,Corporate,2025-02-25,Referral,1
+CUST_660,Sarah Nelson,Joshuamouth,Italy,18-25,Découverte,2024-10-13,Google Search,0
+CUST_661,Richard James,North Angela,Czech Republic,46-60,Régulier,2025-06-22,TikTok,0
+CUST_662,Tamara Levy PhD,Port Carly,Syrian Arab Republic,46-60,Premium,2025-05-06,Referral,1
+CUST_663,William Holmes,Carlsonhaven,Mali,36-45,Créateur,2025-05-29,LinkedIn,1
+CUST_664,Gabriel Gonzalez,Port Ashley,Myanmar,36-45,Régulier,2024-01-27,LinkedIn,0
+CUST_665,Kimberly Thomas,Wesleyfurt,Cook Islands,18-25,Premium,2024-02-29,Partnership,1
+CUST_666,Elizabeth Bishop,Jacobfort,Canada,36-45,Créateur,2024-08-26,TikTok,0
+CUST_667,Teresa Johnson,Tylerview,Western Sahara,26-35,Régulier,2024-09-29,Referral,0
+CUST_668,Alison Barron,North Christina,French Southern Territories,26-35,Créateur,2025-02-01,LinkedIn,0
+CUST_669,David Cunningham,South Laura,Seychelles,26-35,Régulier,2024-11-21,Partnership,1
+CUST_670,James Lopez,Fullermouth,Korea,18-25,Premium,2024-05-25,Referral,0
+CUST_671,Christopher Adams,East Christytown,Luxembourg,46-60,Créateur,2024-11-12,TikTok,1
+CUST_672,Kristina Robinson,North Emilyborough,Paraguay,18-25,Découverte,2024-02-27,TikTok,0
+CUST_673,Tyler Moore,West Christine,Korea,18-25,Créateur,2025-05-04,Instagram,1
+CUST_674,Bryan Carpenter,Derrickport,United States Virgin Islands,26-35,Régulier,2024-12-14,Event Walk-in,0
+CUST_675,Patrick Meyer,Susanville,Sudan,36-45,Découverte,2024-01-23,TikTok,0
+CUST_676,Barbara Frey,Cantufort,Bahamas,18-25,Créateur,2025-01-08,Instagram,1
+CUST_677,Susan Olson,Danielside,Falkland Islands (Malvinas),46-60,Créateur,2024-04-13,LinkedIn,1
+CUST_678,Charles Bryant,Port Brian,Brunei Darussalam,36-45,Régulier,2024-06-10,Event Walk-in,1
+CUST_679,Mark Hernandez,Stephenshire,Mongolia,46-60,Premium,2024-06-27,Event Walk-in,1
+CUST_680,Sonya Sutton,New Michelle,Montenegro,26-35,Créateur,2024-06-28,Google Search,1
+CUST_681,Mary Simmons,South Robert,Belgium,36-45,Régulier,2024-06-30,Event Walk-in,0
+CUST_682,Jessica Hansen,Farrellville,Thailand,46-60,Créateur,2024-02-03,TikTok,1
+CUST_683,Shannon Hernandez,New Jeremytown,Saudi Arabia,26-35,Créateur,2024-04-16,Google Search,0
+CUST_684,Lauren Williams,South Christinetown,Vanuatu,36-45,Découverte,2024-08-31,LinkedIn,1
+CUST_685,Karl Arnold,Garciaside,Andorra,26-35,Découverte,2024-12-09,Google Search,0
+CUST_686,Misty Bell DDS,Jeffreyville,Equatorial Guinea,36-45,Régulier,2024-09-12,Event Walk-in,0
+CUST_687,Brenda Matthews,Antoniochester,Rwanda,36-45,Premium,2024-04-20,Event Walk-in,0
+CUST_688,Susan Christensen,East Jessicachester,Romania,18-25,Corporate,2025-03-24,Event Walk-in,1
+CUST_689,Laura Patterson,Hillview,Christmas Island,26-35,Corporate,2025-05-19,Google Search,1
+CUST_690,Lisa Kelley,West Billy,Grenada,46-60,Découverte,2025-05-05,Partnership,0
+CUST_691,Tiffany Sweeney,Websterport,Costa Rica,26-35,Corporate,2024-03-16,Partnership,0
+CUST_692,Natalie Butler,Lindaton,South Africa,36-45,Découverte,2024-11-22,LinkedIn,0
+CUST_693,Michael Mckinney,South Emily,Senegal,18-25,Premium,2024-06-23,Google Search,0
+CUST_694,Nicholas Collier,Rodriguezshire,Marshall Islands,18-25,Créateur,2024-04-05,LinkedIn,1
+CUST_695,Rebekah Dalton,South Michelle,Czech Republic,18-25,Corporate,2024-06-17,Referral,1
+CUST_696,Christina Hanson,East Darrenberg,Dominican Republic,26-35,Découverte,2024-04-13,LinkedIn,0
+CUST_697,Sylvia Lopez,Chenland,Iceland,26-35,Corporate,2024-09-28,Event Walk-in,1
+CUST_698,Brian Buckley,Adkinsfurt,Eritrea,36-45,Régulier,2024-04-08,Instagram,1
+CUST_699,Michael Garcia,North Ericmouth,Cameroon,46-60,Régulier,2024-02-25,LinkedIn,0
+CUST_700,William Curry,North Bradley,Kyrgyz Republic,46-60,Découverte,2024-10-28,Partnership,1
+CUST_701,Stephanie Wilson,South Andrea,Congo,26-35,Découverte,2024-01-27,TikTok,0
+CUST_702,Shawn Wood,Navarromouth,Ethiopia,36-45,Découverte,2025-04-29,Partnership,0
+CUST_703,Jeffrey Bryant,Jessicaland,Israel,36-45,Corporate,2025-04-27,Google Search,1
+CUST_704,Tyler Schmidt,Richardtown,Pakistan,18-25,Créateur,2025-01-31,TikTok,1
+CUST_705,Courtney Davis,New Stevenfort,Brazil,46-60,Premium,2024-07-10,Google Search,0
+CUST_706,Wesley Montoya,New David,Uruguay,36-45,Corporate,2025-04-21,LinkedIn,0
+CUST_707,Joseph Lewis,Lake Karlmouth,Poland,36-45,Créateur,2024-03-04,TikTok,0
+CUST_708,Brandon Williams MD,Christianport,Puerto Rico,18-25,Premium,2025-02-27,Partnership,0
+CUST_709,Mr. David Cox Jr.,Port Jonathanview,Timor-Leste,18-25,Corporate,2025-06-19,Google Search,1
+CUST_710,Matthew Hart,Cindyport,Belize,26-35,Corporate,2024-11-02,Instagram,1
+CUST_711,Timothy Wagner,Robertbury,Montenegro,18-25,Créateur,2025-06-13,Partnership,0
+CUST_712,Danielle Edwards,Woodsview,Panama,18-25,Corporate,2024-06-26,TikTok,0
+CUST_713,Jeremy Fernandez,Josemouth,Venezuela,26-35,Régulier,2024-02-13,Google Search,0
+CUST_714,Jason Brown,Michaelmouth,Zimbabwe,46-60,Régulier,2024-05-31,Partnership,1
+CUST_715,Micheal Vargas,Phillipstown,Mexico,36-45,Découverte,2024-03-30,Google Search,1
+CUST_716,Wendy Rowe,Jeffreymouth,Venezuela,36-45,Premium,2025-06-16,Google Search,0
+CUST_717,Brittany Houston,Bennettland,Tajikistan,46-60,Découverte,2025-02-28,TikTok,0
+CUST_718,Jose Ruiz,Ingramville,French Guiana,18-25,Découverte,2024-04-13,Partnership,1
+CUST_719,Matthew Garza,South Jerryport,Mauritania,36-45,Corporate,2024-09-27,Google Search,1
+CUST_720,Ronald Moore,Campbellmouth,Honduras,46-60,Découverte,2024-06-25,LinkedIn,1
+CUST_721,Crystal Ward,Samuelfurt,Congo,26-35,Créateur,2025-02-15,Instagram,1
+CUST_722,Amanda Dixon,Michelleview,British Virgin Islands,36-45,Régulier,2024-02-20,Event Walk-in,1
+CUST_723,Julie Kelly,Lake Latashamouth,Martinique,36-45,Premium,2024-01-21,LinkedIn,1
+CUST_724,Tammy Smith,East Sean,United Arab Emirates,36-45,Premium,2025-05-18,Partnership,0
+CUST_725,Erica Snow,Lake Dana,Saint Kitts and Nevis,26-35,Régulier,2024-11-03,Event Walk-in,1
+CUST_726,Thomas Barton,Andreastad,Vanuatu,36-45,Premium,2025-03-02,Referral,0
+CUST_727,Jessica Rogers,New Jasmine,Nigeria,26-35,Corporate,2024-08-04,Partnership,1
+CUST_728,Joseph Singleton,Carolynville,Cayman Islands,46-60,Créateur,2025-01-17,Partnership,0
+CUST_729,Gina Casey,Jensenport,Ireland,26-35,Découverte,2024-11-14,Event Walk-in,1
+CUST_730,Trevor Jefferson,North Jason,Hungary,26-35,Créateur,2024-01-30,TikTok,0
+CUST_731,Amber Robinson,Evanshaven,Congo,26-35,Découverte,2024-09-12,Instagram,1
+CUST_732,Ronnie Murray,Fordfurt,Finland,18-25,Premium,2024-07-22,LinkedIn,1
+CUST_733,Colin Ross,East Thomasside,Sao Tome and Principe,46-60,Créateur,2025-02-10,Event Walk-in,0
+CUST_734,Madison Logan,South Brooke,Australia,18-25,Régulier,2025-01-16,Google Search,1
+CUST_735,Lori Mccoy,West Michaelmouth,Iceland,26-35,Corporate,2024-12-24,LinkedIn,0
+CUST_736,Christina Banks,Hunterberg,Russian Federation,36-45,Découverte,2024-10-18,Instagram,1
+CUST_737,Shawn Reyes,Wangburgh,Burundi,18-25,Régulier,2024-08-07,Partnership,0
+CUST_738,Hunter Gray,Margaretchester,Brunei Darussalam,26-35,Régulier,2024-10-02,Event Walk-in,1
+CUST_739,James Olson,South Ray,Palau,18-25,Découverte,2025-04-30,TikTok,0
+CUST_740,Haley Elliott,Davisstad,Guernsey,18-25,Régulier,2024-09-15,Referral,1
+CUST_741,Jason Ramirez,Pearsonmouth,Fiji,36-45,Corporate,2025-01-20,Partnership,1
+CUST_742,Roberta Alvarado,Danielshire,Finland,46-60,Premium,2024-08-11,Google Search,1
+CUST_743,Victoria Aguilar,Clarkborough,Equatorial Guinea,46-60,Créateur,2024-04-14,Instagram,1
+CUST_744,Timothy Johnson,New Teresa,India,36-45,Premium,2024-04-20,Google Search,0
+CUST_745,Heather Fleming,Adamshaven,Mozambique,36-45,Premium,2024-11-28,Partnership,1
+CUST_746,Gregory Martinez,Katrinaborough,Cape Verde,36-45,Premium,2024-07-11,TikTok,0
+CUST_747,George White,South Ronaldland,Kazakhstan,18-25,Créateur,2025-02-17,Event Walk-in,1
+CUST_748,Shirley Whitaker,East Jason,Burundi,26-35,Découverte,2025-05-24,LinkedIn,1
+CUST_749,Thomas Hardin,New Andrewbury,Equatorial Guinea,46-60,Corporate,2025-02-01,Event Walk-in,0
+CUST_750,Joshua Johnson,South Jennifer,Finland,26-35,Premium,2024-08-15,Event Walk-in,1
+CUST_751,Emily Brooks,Keithbury,Guam,36-45,Créateur,2024-11-03,Partnership,0
+CUST_752,Karen Lewis,West Kathryn,North Macedonia,26-35,Premium,2024-04-09,Google Search,0
+CUST_753,Mark Jackson,Rodriguezstad,Aruba,36-45,Créateur,2024-07-06,Event Walk-in,1
+CUST_754,Mackenzie Black,Barbaratown,San Marino,18-25,Régulier,2024-12-29,TikTok,1
+CUST_755,Aaron Anderson,Lake Jacob,Austria,46-60,Premium,2025-01-15,LinkedIn,1
+CUST_756,Robert Kaufman,Port Stephenburgh,Costa Rica,46-60,Découverte,2025-04-26,Instagram,0
+CUST_757,Susan Gomez,West Gregorymouth,Thailand,46-60,Régulier,2025-05-27,Instagram,1
+CUST_758,Jason Andersen,New Kimberly,Ethiopia,36-45,Corporate,2024-02-25,Partnership,0
+CUST_759,Robin Taylor,Aaronmouth,Tuvalu,26-35,Régulier,2024-12-16,Google Search,1
+CUST_760,Jessica Hall,Jonathanland,Seychelles,26-35,Premium,2024-07-03,Partnership,0
+CUST_761,Natalie Wells,East Amyside,Mongolia,46-60,Premium,2024-06-30,LinkedIn,0
+CUST_762,Craig Delgado,Jacobschester,Dominica,18-25,Corporate,2024-10-07,TikTok,0
+CUST_763,John Dawson,Juliebury,North Macedonia,26-35,Corporate,2024-03-31,TikTok,1
+CUST_764,Erica Jimenez,North Mirandaport,Palau,46-60,Corporate,2025-03-15,Google Search,1
+CUST_765,Amanda Powell,Port Danielmouth,Algeria,18-25,Découverte,2025-06-30,TikTok,1
+CUST_766,Matthew Benson,North Jasonberg,Rwanda,18-25,Premium,2025-06-27,TikTok,0
+CUST_767,Karina Greene,Daveberg,Iran,18-25,Régulier,2024-08-19,Event Walk-in,1
+CUST_768,Jennifer Richmond,Kevinfort,Bouvet Island (Bouvetoya),36-45,Régulier,2024-04-15,Google Search,1
+CUST_769,James Kennedy,East Kathy,Turks and Caicos Islands,26-35,Découverte,2024-02-16,LinkedIn,1
+CUST_770,Justin Washington,North Alexandria,Azerbaijan,46-60,Créateur,2025-06-20,LinkedIn,1
+CUST_771,Joy Vega,Vaughnberg,Belarus,26-35,Premium,2025-05-16,LinkedIn,0
+CUST_772,Justin Watts,Davisborough,Grenada,26-35,Corporate,2024-01-20,TikTok,0
+CUST_773,Justin Rangel,West Susan,Suriname,26-35,Régulier,2024-01-23,Referral,0
+CUST_774,Samantha Norton,West Jonathanport,San Marino,18-25,Premium,2024-02-08,Google Search,1
+CUST_775,Kevin Stephens,Candicetown,Cambodia,18-25,Créateur,2024-02-19,Event Walk-in,0
+CUST_776,Andrea Cowan,Gonzalezview,Tuvalu,18-25,Découverte,2024-04-28,Google Search,1
+CUST_777,Yvonne Martinez,Sydneymouth,Norway,46-60,Découverte,2024-09-15,Google Search,0
+CUST_778,Mark Smith,Copelandton,Namibia,26-35,Découverte,2024-11-04,Google Search,0
+CUST_779,Frederick Morgan,Madisonchester,Cote d'Ivoire,36-45,Créateur,2024-05-20,Google Search,0
+CUST_780,Rachael Simpson,Lake Nancy,Nicaragua,18-25,Premium,2024-04-26,Partnership,0
+CUST_781,Brooke Smith,Port Nicolehaven,Iran,46-60,Régulier,2024-07-23,Partnership,1
+CUST_782,Marie Hahn,East Xavier,Latvia,26-35,Premium,2025-02-23,LinkedIn,0
+CUST_783,Richard Parrish,East John,Malaysia,18-25,Créateur,2025-05-23,TikTok,1
+CUST_784,Mark Watson,North Aaronshire,Luxembourg,36-45,Régulier,2024-01-03,Instagram,0
+CUST_785,Dawn Turner,Arellanochester,Slovenia,18-25,Créateur,2025-05-20,TikTok,0
+CUST_786,James Brown,Morrisonton,Kiribati,18-25,Découverte,2024-09-19,Event Walk-in,0
+CUST_787,Annette Poole,New Gregorymouth,Anguilla,46-60,Premium,2024-09-27,Google Search,0
+CUST_788,Nathan Cortez,Maloneton,Benin,18-25,Régulier,2024-02-10,Partnership,1
+CUST_789,James Flores,East Ronaldstad,Poland,36-45,Premium,2025-03-12,Event Walk-in,0
+CUST_790,Pedro Blake,Port Michaelfort,Montserrat,18-25,Découverte,2024-01-10,Partnership,0
+CUST_791,Joseph Adams,West Alejandrofort,Ethiopia,26-35,Premium,2025-01-01,Google Search,1
+CUST_792,Amanda Garcia,East Jasonstad,Spain,18-25,Premium,2024-12-16,TikTok,0
+CUST_793,Caitlin Hernandez,Lake Joseview,Slovenia,46-60,Corporate,2025-04-12,LinkedIn,1
+CUST_794,Elizabeth Young,Lake Philipview,United Kingdom,46-60,Corporate,2024-06-19,Instagram,0
+CUST_795,William Bryant,North Autumn,Marshall Islands,18-25,Régulier,2024-04-16,Google Search,1
+CUST_796,Walter Nelson,Lake Jennifershire,Kuwait,46-60,Régulier,2025-01-23,Partnership,1
+CUST_797,Tamara Davis,East Brendatown,Cameroon,18-25,Régulier,2025-05-09,Google Search,0
+CUST_798,Misty Hernandez,South Susan,Paraguay,46-60,Corporate,2024-02-17,Instagram,1
+CUST_799,Elizabeth Taylor,New Daniel,Slovakia (Slovak Republic),36-45,Découverte,2025-06-21,Partnership,0
+CUST_800,Jason Terry,Lake Dwayneton,Saint Pierre and Miquelon,36-45,Créateur,2025-06-19,Event Walk-in,0
+CUST_801,Heather Baker,Port Chelsea,Belgium,46-60,Régulier,2025-05-08,LinkedIn,1
+CUST_802,Frederick Chavez,Katherinetown,Suriname,26-35,Créateur,2024-02-25,Instagram,0
+CUST_803,Adam Morales,New Tammyburgh,Micronesia,46-60,Corporate,2024-06-18,Instagram,1
+CUST_804,Rodney Thompson,Brockshire,Tonga,36-45,Régulier,2024-12-04,LinkedIn,0
+CUST_805,Frank Norman,New Danielburgh,Mongolia,26-35,Créateur,2025-01-22,Google Search,0
+CUST_806,Charles Ferguson,Scotttown,Bulgaria,18-25,Corporate,2025-03-30,Partnership,1
+CUST_807,Carl Campbell,North Vanessahaven,El Salvador,18-25,Corporate,2025-04-02,LinkedIn,0
+CUST_808,Michael Rowland,Brendaview,Benin,46-60,Découverte,2024-04-15,Google Search,1
+CUST_809,Anthony Dean,South Melissaville,Lesotho,18-25,Créateur,2024-01-01,Partnership,0
+CUST_810,Betty King,Fowlerbury,Sudan,36-45,Créateur,2024-07-30,Event Walk-in,1
+CUST_811,Mike Gonzalez,North Cassandraland,Australia,36-45,Premium,2024-02-25,Partnership,0
+CUST_812,John Duarte,Parkerville,Korea,46-60,Premium,2025-04-29,Event Walk-in,1
+CUST_813,Misty Vang,Lake Jeffreyport,Reunion,46-60,Découverte,2024-04-09,Partnership,0
+CUST_814,Shelly Williams,South Jennifer,Argentina,18-25,Premium,2024-12-29,Partnership,1
+CUST_815,Laura Haynes,Martinview,United States Virgin Islands,36-45,Découverte,2024-02-16,TikTok,1
+CUST_816,Jose Potter,West Sara,Guatemala,26-35,Corporate,2024-04-19,LinkedIn,0
+CUST_817,Derek Crawford,East Jamesside,Turkmenistan,26-35,Découverte,2025-02-06,TikTok,1
+CUST_818,Brian Jenkins,North Tony,Bolivia,26-35,Premium,2024-04-20,Partnership,1
+CUST_819,Ashley Crawford,Powellland,Cocos (Keeling) Islands,18-25,Créateur,2024-05-06,Partnership,1
+CUST_820,Amanda Ramirez,Lindatown,Ireland,46-60,Créateur,2025-05-31,TikTok,1
+CUST_821,Robyn Patterson,Port Lisa,Gabon,18-25,Créateur,2024-02-19,Referral,1
+CUST_822,Laura Thomas MD,South Kaylastad,Malawi,46-60,Créateur,2024-06-30,Event Walk-in,0
+CUST_823,Brian Miller,Millerfurt,Morocco,26-35,Découverte,2025-01-31,Event Walk-in,1
+CUST_824,Jason Myers,Deborahland,Mexico,46-60,Corporate,2024-09-11,LinkedIn,1
+CUST_825,Kevin Davis,Hollystad,Belize,36-45,Premium,2025-04-08,Partnership,0
+CUST_826,Rachel Miles,North Maryhaven,Pakistan,26-35,Corporate,2025-06-08,LinkedIn,1
+CUST_827,Morgan Obrien,Wrightberg,Trinidad and Tobago,26-35,Régulier,2024-08-02,Referral,1
+CUST_828,Jesse Nguyen,Kathleenport,Gabon,36-45,Régulier,2024-07-01,Referral,1
+CUST_829,Jennifer Campbell,Ibarrafort,Holy See (Vatican City State),18-25,Premium,2025-05-06,Referral,1
+CUST_830,Terry Abbott,Lake Lindatown,Algeria,36-45,Corporate,2024-01-14,Referral,0
+CUST_831,Daniel Garcia,South Sarahtown,Burundi,18-25,Corporate,2024-05-28,Instagram,0
+CUST_832,Christopher Rice,Jamesberg,Mongolia,26-35,Premium,2024-06-13,LinkedIn,1
+CUST_833,Nathaniel Andrews,Edwardstown,Bangladesh,26-35,Découverte,2024-10-29,TikTok,0
+CUST_834,Cory Wells,New Johnberg,Uzbekistan,36-45,Corporate,2024-04-14,Referral,0
+CUST_835,Yolanda Walker,Andersonstad,Turks and Caicos Islands,46-60,Régulier,2025-06-07,Partnership,1
+CUST_836,David Moore,Wilsonburgh,Slovakia (Slovak Republic),18-25,Corporate,2025-01-31,Google Search,1
+CUST_837,Madison Mata,Russellport,Costa Rica,18-25,Découverte,2024-09-14,TikTok,1
+CUST_838,Alex Dudley,Jasonbury,Armenia,26-35,Premium,2024-07-20,Partnership,0
+CUST_839,Peter Harris,Jensenton,Tunisia,36-45,Corporate,2024-06-30,Event Walk-in,0
+CUST_840,Heidi Welch,Ruizside,South Georgia and the South Sandwich Islands,26-35,Régulier,2025-06-10,Instagram,1
+CUST_841,Kathryn Goodwin,Port Jeremy,Cocos (Keeling) Islands,18-25,Corporate,2024-10-12,Referral,1
+CUST_842,Calvin Thomas,Stevenland,Haiti,26-35,Régulier,2024-09-18,Instagram,1
+CUST_843,Kathy Price,Callahanfurt,Latvia,46-60,Régulier,2024-02-10,TikTok,1
+CUST_844,Rebecca King,Lake Robinborough,Benin,18-25,Créateur,2024-11-04,Google Search,1
+CUST_845,Laura Walker,Anthonyhaven,Hungary,18-25,Premium,2025-06-22,TikTok,0
+CUST_846,Stacy Price,Wendyburgh,Cambodia,18-25,Créateur,2024-06-12,Google Search,1
+CUST_847,Steven Oconnor,East Kaylachester,Indonesia,18-25,Premium,2024-08-14,TikTok,1
+CUST_848,Kristina Allen,Martinview,Burkina Faso,36-45,Premium,2024-10-27,TikTok,1
+CUST_849,Karen Parsons,New Albert,India,18-25,Découverte,2024-12-20,Google Search,0
+CUST_850,Angela Evans,Kristenfort,Macao,26-35,Découverte,2024-11-24,Google Search,0
+CUST_851,Emily Goodman,Chadhaven,Bulgaria,46-60,Premium,2024-10-16,Instagram,1
+CUST_852,Elizabeth Nash,West Nathan,Bermuda,46-60,Corporate,2024-02-14,LinkedIn,0
+CUST_853,Jennifer Larson,Seanmouth,San Marino,36-45,Créateur,2024-03-25,Instagram,0
+CUST_854,Jeffrey Parker,Markstad,Australia,18-25,Découverte,2024-08-03,Event Walk-in,0
+CUST_855,Erika Raymond,Figueroaview,Nicaragua,46-60,Découverte,2024-07-29,Referral,1
+CUST_856,Russell Boone,Terrellberg,Mauritius,18-25,Régulier,2024-01-25,Google Search,1
+CUST_857,Frank English,Dillonton,El Salvador,18-25,Découverte,2024-03-16,Instagram,0
+CUST_858,Ralph Owens,Lake Mary,Norway,36-45,Créateur,2024-03-13,Referral,0
+CUST_859,Kimberly Morales,Carrollchester,Wallis and Futuna,36-45,Corporate,2025-02-01,Google Search,1
+CUST_860,Michael George,Robertofurt,Madagascar,46-60,Premium,2024-01-18,Google Search,0
+CUST_861,Kevin Jones,New Brendaberg,Nepal,18-25,Créateur,2024-03-05,Partnership,0
+CUST_862,Brenda Schmitt,Jordanport,Nepal,18-25,Premium,2025-05-29,Instagram,1
+CUST_863,Daniel Cabrera,New Donald,Burundi,36-45,Créateur,2024-03-29,LinkedIn,1
+CUST_864,Kendra White,Riverabury,San Marino,46-60,Corporate,2024-02-01,Google Search,0
+CUST_865,Gene King,Juliahaven,Nauru,26-35,Régulier,2025-02-04,Partnership,1
+CUST_866,Derrick Hunter,North Charleshaven,Hungary,26-35,Premium,2025-01-17,Instagram,0
+CUST_867,Marc Nguyen,New John,Niue,18-25,Découverte,2024-01-06,Referral,1
+CUST_868,Suzanne Ramirez,Port Daniel,Iraq,18-25,Premium,2024-08-03,Event Walk-in,1
+CUST_869,Molly Lee,New Marissaside,Uganda,26-35,Corporate,2025-06-08,TikTok,0
+CUST_870,Jonathan Stanley,Rodriguezland,Mongolia,26-35,Régulier,2024-09-15,TikTok,0
+CUST_871,Donald Bishop,East Jason,Saudi Arabia,26-35,Créateur,2024-02-25,Partnership,1
+CUST_872,Andrew Pierce,Smithbury,Myanmar,18-25,Premium,2024-03-09,LinkedIn,0
+CUST_873,Teresa Taylor,Millerbury,Palestinian Territory,26-35,Créateur,2025-05-13,LinkedIn,1
+CUST_874,Dawn Hall,New John,Gabon,26-35,Régulier,2024-04-12,LinkedIn,0
+CUST_875,Michael Bauer,Cartertown,Yemen,26-35,Premium,2025-05-12,Google Search,1
+CUST_876,Joseph Gutierrez,West Donald,Iraq,36-45,Créateur,2024-06-05,Referral,1
+CUST_877,Mary Duncan,Jessicaland,United States Virgin Islands,36-45,Corporate,2024-06-21,Instagram,1
+CUST_878,Samantha Bell,Port Johnmouth,Antarctica (the territory South of 60 deg S),26-35,Régulier,2025-03-22,LinkedIn,1
+CUST_879,Megan Reyes,Dianamouth,Zambia,26-35,Premium,2025-05-06,Google Search,1
+CUST_880,Heather Ochoa,Aliberg,Jamaica,36-45,Premium,2025-05-13,Referral,0
+CUST_881,Angela Miller,New Scottfort,Nicaragua,26-35,Créateur,2024-03-24,Partnership,1
+CUST_882,Mandy Brown,Batesfort,Japan,26-35,Créateur,2024-07-20,LinkedIn,0
+CUST_883,Laura Reeves,Sullivanborough,Malta,18-25,Découverte,2025-06-03,Event Walk-in,0
+CUST_884,Melissa Chapman,Petermouth,Paraguay,46-60,Créateur,2024-08-05,Instagram,1
+CUST_885,Lisa Burnett,East Jaredtown,Palestinian Territory,46-60,Régulier,2025-01-09,Google Search,0
+CUST_886,Michael Orozco,Cristianfort,Bangladesh,36-45,Régulier,2025-04-20,Referral,0
+CUST_887,Jessica Dean,Hollymouth,Malawi,46-60,Premium,2025-05-29,Instagram,0
+CUST_888,Mark Johnson,Lisafort,United States Virgin Islands,26-35,Créateur,2024-05-23,Google Search,0
+CUST_889,Robert Lopez,South Anita,Saint Lucia,26-35,Créateur,2024-05-29,Event Walk-in,1
+CUST_890,Hannah French,Burgessmouth,Maldives,36-45,Découverte,2024-08-12,Partnership,1
+CUST_891,Karen Holland,East Pamela,Armenia,26-35,Découverte,2024-09-27,LinkedIn,0
+CUST_892,Stephanie Wright,Mcgrathton,Russian Federation,18-25,Régulier,2025-06-14,Partnership,1
+CUST_893,Mary Booker,South Charlesmouth,Guyana,46-60,Corporate,2025-04-10,Instagram,0
+CUST_894,Erin Hayes,Smithchester,Bolivia,36-45,Découverte,2025-06-17,Event Walk-in,1
+CUST_895,Laura Dixon,Pearsonside,Saint Helena,36-45,Créateur,2024-06-27,Google Search,1
+CUST_896,Kayla Mckinney,Melaniemouth,Iceland,36-45,Créateur,2024-03-20,Referral,1
+CUST_897,Tammy Cooper,Housemouth,Canada,46-60,Régulier,2025-06-12,Google Search,1
+CUST_898,Micheal Hoover,Lake Heatherview,American Samoa,36-45,Corporate,2025-05-08,Referral,0
+CUST_899,Karla Farley,New Michael,Nauru,26-35,Corporate,2024-06-18,TikTok,0
+CUST_900,Karen Smith,Watkinsview,Romania,36-45,Régulier,2024-06-02,TikTok,0
+CUST_901,Mrs. Madison Smith MD,Williamhaven,China,36-45,Créateur,2024-05-01,Event Walk-in,0
+CUST_902,Jesse Gonzalez,Phelpsmouth,Austria,46-60,Premium,2024-04-26,Google Search,1
+CUST_903,Kathy Harris,Kevinmouth,Ireland,46-60,Régulier,2024-06-14,Event Walk-in,1
+CUST_904,Thomas Richardson,Daniellestad,Zimbabwe,18-25,Régulier,2024-02-14,TikTok,0
+CUST_905,Holly Adams,Port Norman,Guatemala,26-35,Créateur,2024-02-10,Referral,0
+CUST_906,Linda Navarro,East Cassandrabury,Portugal,18-25,Régulier,2024-09-21,TikTok,1
+CUST_907,Lauren Johnson,Amandaville,Tokelau,18-25,Premium,2024-03-28,TikTok,1
+CUST_908,Amanda Fletcher,Kathleenland,Vietnam,46-60,Corporate,2024-06-23,TikTok,1
+CUST_909,Amy Kirk,Robinport,Oman,26-35,Créateur,2024-07-05,Referral,1
+CUST_910,Kathryn Smith,Lake Christopherport,Pakistan,26-35,Premium,2025-04-09,Referral,0
+CUST_911,Mark Harris,Weissfort,Bouvet Island (Bouvetoya),26-35,Corporate,2025-01-29,TikTok,0
+CUST_912,Aaron Bautista,Port Amber,Turks and Caicos Islands,18-25,Régulier,2025-06-19,Partnership,1
+CUST_913,Carol Glover,Jacquelinetown,Samoa,26-35,Créateur,2024-04-08,TikTok,1
+CUST_914,Wesley Santiago Jr.,Lake William,Vanuatu,18-25,Créateur,2025-05-30,Partnership,0
+CUST_915,Henry Walsh,Bryanland,Myanmar,18-25,Corporate,2024-05-13,Referral,0
+CUST_916,Darlene Hines,Katherineburgh,Equatorial Guinea,46-60,Créateur,2025-03-06,LinkedIn,0
+CUST_917,John Hartman,Jennifershire,Bhutan,46-60,Régulier,2025-05-08,Partnership,1
+CUST_918,Megan Martin,Lake Johnport,Mali,36-45,Créateur,2024-04-10,Google Search,0
+CUST_919,Wayne Lewis,Ralphchester,Pitcairn Islands,36-45,Corporate,2024-08-26,Partnership,0
+CUST_920,Tracy Moreno,Lake Ryanmouth,Kenya,36-45,Créateur,2025-02-22,LinkedIn,0
+CUST_921,Judy Fields,East Timothy,Syrian Arab Republic,18-25,Découverte,2025-06-19,Instagram,0
+CUST_922,Elizabeth Cervantes,Port Jasmine,Botswana,46-60,Régulier,2024-11-19,Google Search,1
+CUST_923,Evan Davila,East Mark,Lesotho,18-25,Régulier,2025-03-12,Event Walk-in,1
+CUST_924,Mark Flynn,Christianview,Malawi,36-45,Créateur,2025-03-09,Referral,1
+CUST_925,Matthew Acevedo,North Amymouth,Oman,36-45,Corporate,2024-07-27,Google Search,1
+CUST_926,George Morton,East Nicholas,Cape Verde,26-35,Premium,2025-05-10,LinkedIn,1
+CUST_927,Ryan Joseph,Rileyview,French Guiana,36-45,Corporate,2024-05-21,Partnership,0
+CUST_928,David Pena,Palmerhaven,British Indian Ocean Territory (Chagos Archipelago),26-35,Corporate,2024-06-14,Instagram,0
+CUST_929,Dawn Green,New Lisa,Finland,46-60,Premium,2024-02-23,TikTok,1
+CUST_930,Melissa Miller,Tammyshire,Costa Rica,18-25,Découverte,2024-05-28,Google Search,1
+CUST_931,Kimberly Brown,Lewismouth,Trinidad and Tobago,18-25,Découverte,2024-09-26,TikTok,1
+CUST_932,Christian Carter,Port Autumnville,South Africa,18-25,Créateur,2024-02-08,Event Walk-in,1
+CUST_933,Jeffrey Brown,West Mary,Israel,46-60,Créateur,2025-06-17,LinkedIn,0
+CUST_934,Jonathan Ellis,Port Juanport,Turks and Caicos Islands,26-35,Corporate,2025-03-25,Instagram,0
+CUST_935,Rachel Spencer,North Jeffrey,Honduras,36-45,Régulier,2024-02-04,Partnership,0
+CUST_936,Tamara Flores,Phamshire,Saint Kitts and Nevis,26-35,Découverte,2025-01-03,TikTok,0
+CUST_937,Jennifer Wells,New Shawn,Gibraltar,26-35,Découverte,2024-10-09,Partnership,1
+CUST_938,Jacqueline Houston,Kathyland,Western Sahara,36-45,Corporate,2025-02-19,Referral,0
+CUST_939,Kathryn Cook,Mauricetown,Hungary,18-25,Découverte,2024-04-02,Referral,1
+CUST_940,Jesse Hodges,Port Michaelside,Aruba,36-45,Premium,2024-10-10,TikTok,0
+CUST_941,Nicholas Humphrey,North Donna,Belarus,46-60,Corporate,2024-01-05,LinkedIn,0
+CUST_942,April Moore,Guzmanfort,Bolivia,46-60,Créateur,2024-04-19,Referral,0
+CUST_943,Michael Pearson,Griffinport,Heard Island and McDonald Islands,36-45,Premium,2024-04-29,Partnership,1
+CUST_944,Megan Grant,New Charlesview,Czech Republic,36-45,Corporate,2025-01-21,Referral,1
+CUST_945,Amy Martinez,Port Ashleyfort,Guyana,26-35,Premium,2025-04-14,Event Walk-in,1
+CUST_946,Gregg Garcia,Port Rachelside,Saudi Arabia,18-25,Corporate,2024-04-29,LinkedIn,0
+CUST_947,Bradley Sparks,Lake Josephfurt,Nepal,46-60,Régulier,2024-08-23,Partnership,1
+CUST_948,Jill Odonnell,Martinezburgh,Austria,46-60,Premium,2025-06-12,Referral,0
+CUST_949,Alec Gomez,Carterville,Somalia,36-45,Régulier,2024-10-21,Instagram,1
+CUST_950,Dana Stark,Arroyoshire,Pitcairn Islands,36-45,Découverte,2024-07-01,Google Search,1
+CUST_951,Robert Wade,Kimberg,Uzbekistan,36-45,Régulier,2024-10-02,TikTok,0
+CUST_952,Hailey Shelton,Kimberlyton,Jordan,46-60,Régulier,2024-08-28,Event Walk-in,0
+CUST_953,Sarah Gonzalez,South Jacob,Mongolia,36-45,Régulier,2024-08-22,TikTok,0
+CUST_954,Melissa Molina,Lisabury,Gibraltar,36-45,Régulier,2024-04-19,Instagram,0
+CUST_955,Autumn Wiley,New Diana,Svalbard & Jan Mayen Islands,46-60,Créateur,2024-01-07,Partnership,0
+CUST_956,Anthony Sutton,Jeffreyport,Saint Helena,46-60,Premium,2024-11-18,Google Search,1
+CUST_957,Matthew Sosa,North Tonyville,Reunion,46-60,Régulier,2025-06-07,LinkedIn,1
+CUST_958,Shannon Williamson,Mooreshire,Japan,26-35,Créateur,2024-05-11,Instagram,1
+CUST_959,Robert Cox,Brandonstad,American Samoa,46-60,Créateur,2024-02-03,Referral,1
+CUST_960,Lisa Mann,West Margaret,North Macedonia,46-60,Régulier,2025-04-13,Instagram,1
+CUST_961,Steven Blair,East Sandra,Albania,36-45,Découverte,2024-01-13,Event Walk-in,0
+CUST_962,Theodore Trujillo,Halltown,Maldives,46-60,Créateur,2024-04-13,LinkedIn,1
+CUST_963,Michael Hughes,North Carla,Saint Martin,36-45,Régulier,2024-09-26,TikTok,1
+CUST_964,Luis Burns,North Jeffreyfort,Turkmenistan,46-60,Créateur,2024-12-17,LinkedIn,0
+CUST_965,Ashley Perez,Sheilaborough,Nauru,46-60,Corporate,2024-08-03,Google Search,1
+CUST_966,Michael Scott,Port Samuelville,Palestinian Territory,36-45,Corporate,2024-10-13,Google Search,0
+CUST_967,Mark Campbell,North Matthew,Hungary,26-35,Créateur,2024-08-22,Partnership,0
+CUST_968,Joshua Parks,East Michael,United States of America,36-45,Régulier,2025-03-18,Partnership,1
+CUST_969,Shelley Faulkner,Castanedaview,Bosnia and Herzegovina,26-35,Régulier,2024-06-02,Google Search,0
+CUST_970,Marie Russell,Lake Bradleyville,San Marino,26-35,Corporate,2025-05-26,TikTok,1
+CUST_971,Rodney Phillips,Mendozamouth,Austria,46-60,Premium,2024-09-13,Referral,0
+CUST_972,Ryan Wood,Lopezberg,Peru,46-60,Découverte,2024-06-16,Instagram,0
+CUST_973,Eric Khan,Hollyfurt,Iceland,36-45,Corporate,2024-04-08,Google Search,1
+CUST_974,Donald Dixon DDS,Deleontown,French Southern Territories,36-45,Premium,2025-01-03,Referral,1
+CUST_975,Leslie Sutton,Port Melindaport,Falkland Islands (Malvinas),36-45,Découverte,2025-02-25,Instagram,1
+CUST_976,Douglas Brewer,Caldwellchester,United Arab Emirates,26-35,Créateur,2024-06-27,Partnership,1
+CUST_977,Andrew Davidson,Port Christopherview,Seychelles,36-45,Premium,2025-06-06,Google Search,1
+CUST_978,Jeffrey Mathis,Lake Holly,Turks and Caicos Islands,18-25,Corporate,2024-10-20,Google Search,0
+CUST_979,Danielle Williams,East Autumn,Gambia,26-35,Premium,2025-03-07,Event Walk-in,1
+CUST_980,Darin Simmons,West Wayne,Northern Mariana Islands,18-25,Découverte,2024-06-14,LinkedIn,0
+CUST_981,Julie Lowe,Andersonbury,Saudi Arabia,36-45,Premium,2024-10-25,Event Walk-in,1
+CUST_982,Kristina Jones,Michellemouth,Dominica,46-60,Premium,2025-03-31,Partnership,1
+CUST_983,Robert Wilson,Jonathanview,Albania,46-60,Corporate,2024-06-20,TikTok,0
+CUST_984,Joshua Williams,Castanedashire,Ukraine,26-35,Régulier,2024-09-14,Event Walk-in,0
+CUST_985,Douglas Garza,East Davidville,Belize,26-35,Régulier,2025-02-10,Instagram,0
+CUST_986,Jenna Rodriguez,Scottshire,Bosnia and Herzegovina,18-25,Corporate,2024-02-25,Instagram,1
+CUST_987,Danielle Tate,East Sarahburgh,Peru,18-25,Découverte,2024-09-25,Referral,0
+CUST_988,Tina Duncan,East Dana,Congo,18-25,Corporate,2024-11-12,TikTok,0
+CUST_989,Brandon Floyd,North Markberg,Venezuela,36-45,Corporate,2024-05-09,TikTok,0
+CUST_990,Diane Newton,North Jamiemouth,Lao People's Democratic Republic,18-25,Découverte,2024-12-31,Partnership,1
+CUST_991,Kathleen Hamilton,Yvonnechester,Burkina Faso,46-60,Corporate,2024-10-05,Referral,1
+CUST_992,Kim Melendez,West Patriciachester,Liechtenstein,26-35,Créateur,2024-06-30,Referral,1
+CUST_993,Samuel Greene,Garciatown,Bulgaria,46-60,Créateur,2025-06-30,LinkedIn,1
+CUST_994,Sydney Bell,Wrightview,Turks and Caicos Islands,46-60,Créateur,2024-08-20,Partnership,0
+CUST_995,Stephen Anderson,Torresburgh,Egypt,46-60,Premium,2025-01-09,Google Search,1
+CUST_996,Calvin Pierce,New Tara,French Polynesia,26-35,Premium,2024-01-11,Instagram,0
+CUST_997,Joshua Wright,New Alishaburgh,Bolivia,36-45,Premium,2025-04-25,Referral,0
+CUST_998,Teresa Mack,South Laurieview,Northern Mariana Islands,46-60,Corporate,2024-11-02,Instagram,1
+CUST_999,Erin Martin,Davidborough,China,36-45,Créateur,2024-08-24,Partnership,0
+CUST_1000,Natasha Rios,New Peterfurt,Bahrain,36-45,Régulier,2025-02-25,Referral,1
+CUST_1001,Robert Gonzalez,Shieldsborough,Moldova,46-60,Régulier,2024-06-16,Event Walk-in,1
+CUST_1002,Dustin Simmons,Mooreside,Jordan,46-60,Régulier,2024-09-26,Instagram,1
+CUST_1003,Jill Matthews,Wrightville,Yemen,26-35,Créateur,2024-10-05,LinkedIn,1
+CUST_1004,William Burke,Benjaminstad,Samoa,46-60,Régulier,2024-03-11,TikTok,0
+CUST_1005,Lisa Harrington,North Jenna,Gambia,36-45,Découverte,2025-04-11,Referral,1
+CUST_1006,Rebecca Valdez,Jamesside,French Polynesia,36-45,Créateur,2025-05-18,TikTok,1
+CUST_1007,Renee Ramirez,North Tracy,Mozambique,18-25,Régulier,2024-02-20,Referral,0
+CUST_1008,Christopher Gray,Sarahside,Grenada,26-35,Découverte,2024-10-15,LinkedIn,0
+CUST_1009,Sandra Horn,Michelletown,Turkmenistan,46-60,Découverte,2024-08-26,Instagram,0
+CUST_1010,Rachel Garcia,New Johnland,Maldives,18-25,Corporate,2024-08-10,LinkedIn,1
+CUST_1011,James Daniels,East Jamesfort,Guam,36-45,Corporate,2025-01-15,Google Search,0
+CUST_1012,Brian Wall,Taylorside,Finland,36-45,Découverte,2024-05-29,Instagram,1
+CUST_1013,Maria Nelson,New Janice,Lithuania,46-60,Découverte,2025-04-26,TikTok,0
+CUST_1014,Summer Bailey,North Misty,Grenada,36-45,Corporate,2024-01-13,Instagram,0
+CUST_1015,Terry Davidson,Rachaelport,Romania,46-60,Corporate,2024-09-10,Event Walk-in,0
+CUST_1016,Robert Moore,Port Adamstad,Ecuador,26-35,Corporate,2024-04-06,Referral,0
+CUST_1017,Whitney Moore,Beardfort,Namibia,46-60,Corporate,2024-11-15,LinkedIn,0
+CUST_1018,Yvette Henderson,West Jennifer,Faroe Islands,18-25,Créateur,2025-06-17,Instagram,1
+CUST_1019,Jennifer Brown,Marymouth,Thailand,46-60,Premium,2024-07-22,LinkedIn,0
+CUST_1020,Wyatt Waters,South Amandashire,American Samoa,26-35,Découverte,2024-08-29,Event Walk-in,1
+CUST_1021,Kerry Smith,Port Laurie,Lesotho,36-45,Découverte,2024-06-20,Partnership,1
+CUST_1022,Shane Martin,North Paul,Paraguay,18-25,Corporate,2024-09-05,Instagram,0
+CUST_1023,Gina Molina,Patriciaburgh,Japan,46-60,Créateur,2024-06-07,LinkedIn,0
+CUST_1024,Sheila Gross,Port Travis,Guam,26-35,Régulier,2025-05-26,Instagram,1
+CUST_1025,Caroline Mendez,Williamsberg,Cook Islands,18-25,Découverte,2024-12-30,Event Walk-in,0
+CUST_1026,James Marsh,Coryville,Canada,18-25,Régulier,2025-05-14,TikTok,1
+CUST_1027,Vanessa Perez,Carrside,Christmas Island,36-45,Corporate,2024-07-16,Instagram,1
+CUST_1028,Curtis Turner,New Edwardstad,Mozambique,36-45,Régulier,2024-09-13,Instagram,1
+CUST_1029,Kathy Curtis,North Cynthiachester,Ecuador,46-60,Créateur,2024-10-28,Referral,1
+CUST_1030,Mark Caldwell,Steelehaven,Chile,26-35,Créateur,2024-07-10,Referral,1
+CUST_1031,Suzanne Howard,Kathleenland,New Caledonia,36-45,Corporate,2024-10-08,Partnership,0
+CUST_1032,Sarah Clark,Lunachester,Reunion,18-25,Créateur,2024-06-07,Google Search,1
+CUST_1033,Louis Parker,Garciaport,Sudan,36-45,Créateur,2025-01-10,Google Search,0
+CUST_1034,Laura Walter,Jessicamouth,Hungary,46-60,Régulier,2024-01-20,Referral,1
+CUST_1035,Stephanie Jones,Jacksonbury,Timor-Leste,26-35,Premium,2024-03-05,Event Walk-in,1
+CUST_1036,Samantha Sanchez,Leehaven,Senegal,26-35,Créateur,2025-05-24,Partnership,0
+CUST_1037,Suzanne Sandoval,North Kristina,Yemen,36-45,Premium,2025-02-23,Event Walk-in,1
+CUST_1038,Samantha Clark,New Lauraville,Sao Tome and Principe,18-25,Découverte,2025-06-19,Event Walk-in,0
+CUST_1039,Tina Roman,Lake Andrew,South Georgia and the South Sandwich Islands,18-25,Régulier,2024-07-01,Partnership,0
+CUST_1040,Marcus Liu,Shannonberg,Saint Helena,26-35,Découverte,2025-05-12,TikTok,0
+CUST_1041,Chad Reid,Smithton,Nicaragua,18-25,Créateur,2025-02-01,Event Walk-in,1
+CUST_1042,Elaine Grant,West Brandyborough,Sudan,36-45,Découverte,2025-01-10,TikTok,0
+CUST_1043,Alison Clark,South Glenmouth,Nigeria,18-25,Régulier,2025-05-18,Partnership,0
+CUST_1044,Jose Warner,North Derrickburgh,Tunisia,46-60,Découverte,2025-01-04,Referral,1
+CUST_1045,Michelle Ortega,East Stephenview,Guatemala,36-45,Découverte,2024-09-29,Referral,0
+CUST_1046,Keith White,Danaberg,Finland,18-25,Premium,2024-03-20,TikTok,0
+CUST_1047,Ann Johnson,Lake Nathanielmouth,Niue,18-25,Régulier,2025-06-28,Google Search,0
+CUST_1048,Christine Gonzalez,Townsendburgh,Togo,26-35,Créateur,2024-09-11,Referral,0
+CUST_1049,Barbara Davis,West Tara,Macao,46-60,Découverte,2025-01-01,Event Walk-in,1
+CUST_1050,Jeffrey Waters,Howardside,Taiwan,46-60,Découverte,2024-06-19,Partnership,0
+CUST_1051,Cynthia Whitaker,Penningtonport,Sao Tome and Principe,46-60,Créateur,2024-12-11,Event Walk-in,0
+CUST_1052,Mark Thompson,East Troy,Cayman Islands,46-60,Premium,2024-11-18,Referral,1
+CUST_1053,Bobby Davis,Lewiston,Uruguay,36-45,Corporate,2025-03-16,Partnership,1
+CUST_1054,Steven Flores,South David,Netherlands,26-35,Créateur,2024-08-07,Google Search,1
+CUST_1055,Dr. John Jones,New Jeremyhaven,Indonesia,36-45,Corporate,2025-04-03,Google Search,0
+CUST_1056,Sandra Dalton,Brownstad,Barbados,18-25,Premium,2024-01-17,Referral,0
+CUST_1057,Katrina Marquez,East Christina,Mayotte,36-45,Découverte,2024-11-03,TikTok,0
+CUST_1058,Tara Ball,Travisbury,Peru,36-45,Découverte,2024-10-09,Referral,0
+CUST_1059,Mr. Edward Diaz,Johnport,Niue,18-25,Découverte,2025-04-16,LinkedIn,0
+CUST_1060,Mr. Christopher Baker,New Carrie,Sierra Leone,26-35,Premium,2025-01-10,Referral,0
+CUST_1061,Jeffrey Cooke,Portershire,Cambodia,26-35,Premium,2024-11-03,Instagram,1
+CUST_1062,Angela Lee,Lake Mark,Seychelles,26-35,Découverte,2024-11-28,Partnership,1
+CUST_1063,Lisa Hall,West William,Azerbaijan,26-35,Corporate,2024-04-07,Referral,1
+CUST_1064,Martin Baker,West Brianside,French Polynesia,18-25,Créateur,2025-01-25,Instagram,0
+CUST_1065,Mr. Kevin Tanner,Jeffreyville,Gambia,36-45,Premium,2025-03-20,Google Search,0
+CUST_1066,Richard Hall,Halebury,Argentina,26-35,Créateur,2024-01-12,Event Walk-in,1
+CUST_1067,Megan Tucker,Thorntonbury,Benin,18-25,Premium,2025-06-20,Instagram,1
+CUST_1068,Stephanie White,Jillianchester,Benin,26-35,Premium,2025-05-29,Event Walk-in,0
+CUST_1069,Jennifer Schneider,South Monica,Timor-Leste,26-35,Découverte,2025-02-06,Google Search,0
+CUST_1070,Lori Potter,Irwinside,Portugal,26-35,Corporate,2024-10-23,Partnership,1
+CUST_1071,Amy Curry,Jeffreytown,Benin,26-35,Régulier,2024-12-10,Instagram,1
+CUST_1072,David Hicks,Brownshire,Norfolk Island,18-25,Créateur,2025-02-12,LinkedIn,0
+CUST_1073,Tyler Martin,Laurenport,Tonga,46-60,Créateur,2025-03-20,Partnership,0
+CUST_1074,Anna Kidd,Ericport,Northern Mariana Islands,26-35,Corporate,2024-07-21,Google Search,1
+CUST_1075,John Robinson,South Michael,Trinidad and Tobago,26-35,Créateur,2025-06-20,TikTok,0
+CUST_1076,Vanessa Williamson,Andrefurt,Isle of Man,18-25,Premium,2025-03-16,LinkedIn,0
+CUST_1077,Ann Brown,South Danielport,Albania,18-25,Corporate,2025-03-09,LinkedIn,1
+CUST_1078,Billy Stokes,Dennisfort,Brazil,26-35,Premium,2024-12-18,Referral,0
+CUST_1079,Brandy Patterson,East Robertchester,Lebanon,36-45,Régulier,2024-12-24,Referral,1
+CUST_1080,Bethany Webster,North Mary,Sao Tome and Principe,26-35,Corporate,2024-02-15,Partnership,0
+CUST_1081,Ronald Holt,Garciatown,South Georgia and the South Sandwich Islands,26-35,Premium,2024-06-08,Partnership,0
+CUST_1082,Mr. Maurice Diaz,South Lauren,Cayman Islands,18-25,Découverte,2024-09-05,Referral,0
+CUST_1083,David Roach,Lake Theresa,Bouvet Island (Bouvetoya),36-45,Découverte,2024-12-17,Event Walk-in,0
+CUST_1084,Mark Fisher,West Julie,Oman,36-45,Corporate,2025-04-27,Instagram,1
+CUST_1085,Michael Mason,Ballton,Aruba,26-35,Créateur,2024-08-04,TikTok,1
+CUST_1086,Cathy Tran,Alexanderport,Holy See (Vatican City State),46-60,Créateur,2024-05-24,Event Walk-in,0
+CUST_1087,Matthew White,Lake Leslie,Korea,46-60,Créateur,2025-06-23,Instagram,1
+CUST_1088,Kimberly Haynes,West Trevorfurt,Saint Vincent and the Grenadines,26-35,Découverte,2024-10-17,TikTok,1
+CUST_1089,Anita Miller,Lake Donaldtown,Palestinian Territory,18-25,Corporate,2024-01-09,Instagram,1
+CUST_1090,Jeremiah Estrada,Port Alejandro,British Indian Ocean Territory (Chagos Archipelago),36-45,Premium,2024-04-20,Instagram,1
+CUST_1091,Dorothy Woods,Port Matthewburgh,Bahamas,46-60,Régulier,2025-01-24,Referral,0
+CUST_1092,Cheyenne Bradford,Port Pamelaton,Jamaica,36-45,Corporate,2025-06-28,Instagram,0
+CUST_1093,Rebecca Phillips,New Kimberlyburgh,Mongolia,26-35,Créateur,2025-04-13,Referral,0
+CUST_1094,Carol Gonzales,West Cristina,Norfolk Island,18-25,Régulier,2025-06-26,LinkedIn,1
+CUST_1095,Kyle Lloyd,Lake Brenda,Turkmenistan,46-60,Corporate,2024-06-09,Instagram,1
+CUST_1096,Brittany Harvey,Cassandraton,Eritrea,36-45,Premium,2024-11-05,TikTok,1
+CUST_1097,Ashley Watson,Garciabury,Niue,18-25,Premium,2025-01-31,Partnership,0
+CUST_1098,Anna Hendrix,Riceborough,Burkina Faso,36-45,Régulier,2024-06-04,LinkedIn,1
+CUST_1099,Laurie Knight,South Jameston,Maldives,26-35,Découverte,2025-01-26,Referral,0
+CUST_1100,Lisa Webb,Martinfort,Bahamas,46-60,Régulier,2024-06-05,Google Search,1
+CUST_1101,Jaime Snyder,Port Justinbury,Angola,36-45,Corporate,2024-05-14,TikTok,0
+CUST_1102,Brian Marsh,Mortonmouth,Micronesia,26-35,Régulier,2024-11-12,Event Walk-in,0
+CUST_1103,Sheila Gilbert,South Cynthialand,Cayman Islands,46-60,Régulier,2024-06-10,LinkedIn,0
+CUST_1104,Joseph Green,Coryberg,Sudan,18-25,Régulier,2024-11-21,Partnership,0
+CUST_1105,Jennifer Stone,West Randy,Puerto Rico,18-25,Premium,2025-02-27,Google Search,1
+CUST_1106,Laurie Smith,South Luis,Nauru,46-60,Premium,2024-06-04,Partnership,0
+CUST_1107,Sean Choi,Debrachester,Finland,18-25,Régulier,2024-07-08,Instagram,1
+CUST_1108,Mrs. Erin Vasquez MD,North John,Iran,26-35,Créateur,2024-08-25,TikTok,0
+CUST_1109,Robin Owen,New Jeffreyshire,Estonia,36-45,Découverte,2025-05-03,TikTok,1
+CUST_1110,Michael Buchanan,North Johnfort,Germany,36-45,Régulier,2025-01-31,Google Search,1
+CUST_1111,Brandi Freeman,Rhodeschester,Western Sahara,26-35,Régulier,2024-07-16,TikTok,0
+CUST_1112,Gregory Pierce,Ashleymouth,Liberia,46-60,Découverte,2024-10-03,Google Search,0
+CUST_1113,Jamie Ferguson,East Brandonport,Dominican Republic,26-35,Régulier,2024-03-08,TikTok,1
+CUST_1114,Paula Grant,Torrestown,Netherlands,46-60,Premium,2025-04-13,TikTok,1
+CUST_1115,Stephanie Morales,Boyerside,Benin,46-60,Découverte,2025-01-24,Event Walk-in,1
+CUST_1116,Austin Smith,New Jonathon,Netherlands,46-60,Créateur,2025-06-21,Event Walk-in,0
+CUST_1117,Justin Ramos,Kennethhaven,Eritrea,18-25,Corporate,2025-04-12,Partnership,0
+CUST_1118,Nicholas Travis,Lake Brandytown,Estonia,26-35,Créateur,2025-02-09,Event Walk-in,0
+CUST_1119,Jennifer Hancock,Lake Jeffery,French Southern Territories,46-60,Créateur,2024-02-20,TikTok,1
+CUST_1120,Stephen Sparks,Woodsfurt,Finland,46-60,Corporate,2024-11-07,Partnership,1
+CUST_1121,Jennifer Coleman,North Christinafort,Barbados,46-60,Régulier,2025-03-08,LinkedIn,0
+CUST_1122,Blake White,Caitlinton,Bermuda,26-35,Corporate,2025-04-07,Instagram,0
+CUST_1123,Cynthia Mason,North Dustinland,Turkmenistan,26-35,Créateur,2024-05-18,Google Search,1
+CUST_1124,Matthew Harrison,Gallowayview,Kyrgyz Republic,36-45,Corporate,2024-01-26,TikTok,1
+CUST_1125,Jill Franklin,East Juliaborough,New Caledonia,26-35,Corporate,2024-04-02,LinkedIn,1
+CUST_1126,Andrea Wells,Brownport,Brunei Darussalam,26-35,Découverte,2024-04-03,Instagram,1
+CUST_1127,Angela Graham,New Abigail,Botswana,36-45,Découverte,2025-06-20,Event Walk-in,1
+CUST_1128,Sherri Fuentes,Carterview,Greenland,26-35,Corporate,2025-01-24,Instagram,0
+CUST_1129,Tina Bennett,Chapmanton,Russian Federation,36-45,Créateur,2024-06-02,TikTok,0
+CUST_1130,Jeffrey Torres,Henryhaven,Georgia,26-35,Découverte,2025-03-05,LinkedIn,1
+CUST_1131,Christina Hall,Aliciafurt,French Polynesia,46-60,Premium,2024-07-04,Instagram,0
+CUST_1132,Sarah Hodge,Murphyville,Romania,26-35,Découverte,2024-09-16,Instagram,1
+CUST_1133,Alexis Sanchez,Davisview,Israel,46-60,Corporate,2024-01-06,Referral,1
+CUST_1134,Brenda Silva,West Matthew,New Zealand,26-35,Régulier,2025-05-02,Google Search,1
+CUST_1135,Steven Potts,North Norma,Djibouti,46-60,Découverte,2024-01-07,TikTok,1
+CUST_1136,Elaine Floyd,Russellmouth,Barbados,26-35,Découverte,2024-07-08,TikTok,0
+CUST_1137,Joseph Campbell,Williamsmouth,Iran,36-45,Découverte,2024-05-28,Partnership,0
+CUST_1138,Deborah Martin,Lake Hollyview,Macao,36-45,Premium,2024-03-30,Instagram,0
+CUST_1139,Brian Best,Brookechester,United Arab Emirates,46-60,Régulier,2024-06-14,Event Walk-in,1
+CUST_1140,Heather Burke,Brownshire,Montserrat,26-35,Corporate,2025-01-03,Instagram,0
+CUST_1141,Thomas Martin,Mcphersonside,Cayman Islands,36-45,Premium,2025-01-12,Google Search,0
+CUST_1142,Gary Rodriguez,Lake Kimberlyport,Burundi,46-60,Créateur,2024-03-07,LinkedIn,1
+CUST_1143,John Haley,Kristaberg,New Zealand,26-35,Découverte,2024-10-08,LinkedIn,1
+CUST_1144,Rachel Garner,West Bryanport,Burundi,26-35,Régulier,2024-02-29,Instagram,0
+CUST_1145,Kristen Ballard,Port Jasonland,Ecuador,46-60,Créateur,2024-10-21,Google Search,1
+CUST_1146,Lauren Howard,Wrightstad,Guam,36-45,Créateur,2024-12-28,TikTok,1
+CUST_1147,Randy Jensen,Samuelmouth,Gabon,46-60,Corporate,2024-07-03,Referral,0
+CUST_1148,Sherry Bray,West Danny,Malawi,36-45,Régulier,2024-01-02,Instagram,0
+CUST_1149,Patricia Evans,New Kendrafurt,Palau,46-60,Découverte,2024-07-31,Partnership,1
+CUST_1150,Christopher Mills,Lake Gary,Kazakhstan,46-60,Découverte,2024-12-07,LinkedIn,0
+CUST_1151,Lisa Phillips,Alexandraton,Spain,18-25,Régulier,2024-10-15,LinkedIn,0
+CUST_1152,Daniel Best,Lake Dawnside,Korea,36-45,Premium,2025-06-02,Referral,1
+CUST_1153,Brenda Davis,South Vanessa,Macao,18-25,Découverte,2024-12-07,LinkedIn,1
+CUST_1154,Autumn Phillips,East Jason,Tonga,18-25,Régulier,2024-07-17,LinkedIn,1
+CUST_1155,Megan Williams,New Justin,Hong Kong,46-60,Corporate,2024-02-06,Event Walk-in,0
+CUST_1156,David Long,West Dan,Mauritania,46-60,Régulier,2025-04-16,Partnership,1
+CUST_1157,Miss Michelle Becker,Christinamouth,Chile,46-60,Corporate,2024-02-27,Partnership,1
+CUST_1158,Adam Bell,Port Tracy,Trinidad and Tobago,36-45,Créateur,2024-01-20,TikTok,1
+CUST_1159,Oscar Morales,North Ana,Lesotho,36-45,Découverte,2024-06-01,LinkedIn,0
+CUST_1160,Heather Santos,New Robert,Niue,36-45,Corporate,2024-06-18,Referral,1
+CUST_1161,Christopher Gonzales,New Amanda,Latvia,26-35,Créateur,2024-04-29,Partnership,1
+CUST_1162,Molly Petty,New Michael,United States Minor Outlying Islands,36-45,Découverte,2024-10-05,Google Search,0
+CUST_1163,Noah Jennings,North Debra,Guernsey,46-60,Régulier,2025-01-15,Google Search,1
+CUST_1164,Alexis Brown,Hannahshire,Zambia,26-35,Créateur,2024-11-05,TikTok,0
+CUST_1165,Tina Martin,South Kellyshire,Bangladesh,36-45,Découverte,2024-07-25,Instagram,1
+CUST_1166,Julie Mills,Port Jeffreyborough,Mongolia,18-25,Corporate,2025-05-27,TikTok,0
+CUST_1167,Peter Olsen,Roberthaven,Guernsey,36-45,Corporate,2025-06-20,LinkedIn,1
+CUST_1168,Chloe Jackson,Parkerbury,Montserrat,26-35,Découverte,2025-06-12,Event Walk-in,0
+CUST_1169,Thomas Mclaughlin,New Elizabeth,Romania,26-35,Découverte,2025-04-15,Google Search,0
+CUST_1170,Keith Bell,East Joannabury,Bermuda,18-25,Premium,2024-02-15,Event Walk-in,0
+CUST_1171,Jonathan Tapia,Ruizstad,Guadeloupe,36-45,Corporate,2024-02-17,Instagram,1
+CUST_1172,James Rodgers,Brittanyfurt,Brazil,18-25,Créateur,2024-11-15,Event Walk-in,0
+CUST_1173,Elizabeth Cantrell,Port Heatherside,Algeria,36-45,Régulier,2024-07-16,LinkedIn,1
+CUST_1174,Brenda Nelson,Johnsonshire,Turks and Caicos Islands,36-45,Corporate,2024-04-30,LinkedIn,0
+CUST_1175,Taylor Clements,Johnsonmouth,Paraguay,26-35,Premium,2024-04-27,Instagram,0
+CUST_1176,Cathy Perkins,Port Markmouth,Saint Helena,26-35,Créateur,2024-12-24,Referral,1
+CUST_1177,William Miller,Brittanyfurt,Grenada,36-45,Régulier,2024-10-17,Referral,0
+CUST_1178,Matthew Cruz,Debraside,Liechtenstein,26-35,Découverte,2024-11-14,Referral,1
+CUST_1179,Dr. Katie Cruz,West Lindabury,Finland,46-60,Découverte,2024-05-13,Instagram,1
+CUST_1180,James Hernandez,Toddshire,Kiribati,18-25,Découverte,2025-01-27,Instagram,0
+CUST_1181,Morgan Morrow,Brownmouth,Malta,46-60,Corporate,2024-07-02,Event Walk-in,1
+CUST_1182,Jocelyn Williams,Eduardoside,Mozambique,36-45,Premium,2024-12-06,Partnership,0
+CUST_1183,Samuel Garcia,Bobbyberg,Philippines,18-25,Corporate,2024-05-14,Instagram,1
+CUST_1184,Bonnie Willis,Phammouth,Luxembourg,18-25,Corporate,2024-11-13,Event Walk-in,1
+CUST_1185,Robert Logan,Ortizfort,Wallis and Futuna,46-60,Régulier,2024-08-17,TikTok,1
+CUST_1186,Mr. Kevin Flowers Jr.,South Laura,Singapore,36-45,Corporate,2024-07-06,Event Walk-in,1
+CUST_1187,Willie Aguilar,Copelandbury,Tunisia,36-45,Corporate,2025-05-14,Instagram,0
+CUST_1188,Crystal Valdez,Paulaview,Liechtenstein,46-60,Découverte,2024-12-25,Google Search,1
+CUST_1189,Samuel Marshall,West Marcusview,Nicaragua,26-35,Premium,2024-12-22,Referral,0
+CUST_1190,Melissa Riley,Christinabury,Mayotte,18-25,Corporate,2024-04-19,LinkedIn,0
+CUST_1191,Joseph James,Johnsonton,Senegal,36-45,Créateur,2025-04-17,Google Search,1
+CUST_1192,Molly Fletcher,Archerton,Benin,26-35,Créateur,2024-09-06,Referral,0
+CUST_1193,Scott Robinson,Anthonyborough,Heard Island and McDonald Islands,46-60,Corporate,2024-03-08,LinkedIn,0
+CUST_1194,Megan Murphy,North Alfred,Cayman Islands,46-60,Corporate,2024-12-16,Referral,0
+CUST_1195,Tyler Pena,Stephensonshire,Switzerland,26-35,Découverte,2025-05-13,Instagram,1
+CUST_1196,Daniel Gilmore,Port Renee,British Indian Ocean Territory (Chagos Archipelago),36-45,Créateur,2024-04-09,Partnership,1
+CUST_1197,Alexander Mclean,West Tina,Antigua and Barbuda,26-35,Premium,2025-02-19,Instagram,0
+CUST_1198,Paul Cole,Roweberg,India,46-60,Premium,2025-05-21,Event Walk-in,0
+CUST_1199,Laura Reese,Thomasfurt,Malawi,18-25,Régulier,2024-05-22,Referral,0
+CUST_1200,Alex Scott,Paulaside,Korea,26-35,Régulier,2025-04-08,Referral,1
+CUST_1201,Mrs. Jackie Rhodes,Coleborough,Sudan,46-60,Créateur,2025-04-02,TikTok,0
+CUST_1202,Valerie Maldonado,South Roberthaven,Sudan,36-45,Premium,2024-11-07,Google Search,1
+CUST_1203,John Hayes,Sarahstad,Gibraltar,18-25,Créateur,2024-01-09,Referral,1
+CUST_1204,Ashley Smith,North Katherineland,Iraq,26-35,Premium,2024-03-04,LinkedIn,0
+CUST_1205,Latasha Thompson,Johnsonburgh,Saint Lucia,18-25,Créateur,2025-01-02,Instagram,1
+CUST_1206,Cheryl Bell,West Kristi,Oman,18-25,Régulier,2025-03-18,Event Walk-in,1
+CUST_1207,Rebekah Zimmerman,Lake Jessica,Rwanda,36-45,Corporate,2025-02-19,Google Search,1
+CUST_1208,Daniel Richard,East Stephen,Cape Verde,26-35,Régulier,2025-05-01,TikTok,0
+CUST_1209,Ricardo Pearson,Lake Danielletown,Somalia,46-60,Premium,2025-03-03,TikTok,1
+CUST_1210,Joshua Pierce,Hernandezton,Isle of Man,26-35,Régulier,2024-01-12,Instagram,0
+CUST_1211,Gregory Klein,Port Kevinside,Tokelau,26-35,Corporate,2025-03-23,TikTok,0
+CUST_1212,Kevin Parker,East Jameston,Malawi,26-35,Corporate,2025-04-11,Partnership,1
+CUST_1213,Barbara Walters,Joannaport,Bermuda,26-35,Corporate,2025-06-05,Google Search,1
+CUST_1214,Troy Jarvis,Elizabethside,Brazil,46-60,Premium,2024-08-19,TikTok,1
+CUST_1215,Kyle Baker,Lake Thomas,Grenada,18-25,Créateur,2025-05-25,Partnership,0
+CUST_1216,Rose Cruz,Millschester,New Zealand,36-45,Corporate,2025-01-10,Instagram,0
+CUST_1217,Deborah Banks,Cooperhaven,Malta,46-60,Premium,2024-04-25,Referral,1
+CUST_1218,Leonard Cole,Smithmouth,Seychelles,18-25,Régulier,2025-06-23,Partnership,1
+CUST_1219,Patricia Flowers,Heatherview,Mauritania,46-60,Créateur,2024-03-21,Referral,0
+CUST_1220,Linda Walker,Conleyport,Christmas Island,26-35,Corporate,2024-03-20,Event Walk-in,1
+CUST_1221,Ronald Carey,Andersonchester,Canada,18-25,Premium,2024-01-12,Google Search,1
+CUST_1222,Chelsey Campbell,North Michelle,Spain,46-60,Créateur,2024-12-05,Google Search,1
+CUST_1223,Ashley Graves,New Allisonland,Yemen,36-45,Premium,2024-06-20,Instagram,1
+CUST_1224,Michelle Holloway,Morrisstad,Qatar,36-45,Découverte,2025-04-29,Referral,0
+CUST_1225,Lori Ross,Clarkton,Burkina Faso,18-25,Premium,2024-01-28,LinkedIn,1
+CUST_1226,Lacey Williams,East Amandaland,Turks and Caicos Islands,18-25,Régulier,2025-06-01,Instagram,1
+CUST_1227,Kevin English,North Troyberg,Switzerland,36-45,Régulier,2024-10-14,LinkedIn,1
+CUST_1228,Mr. Christopher Williams,Hannahside,Heard Island and McDonald Islands,18-25,Découverte,2024-06-27,Referral,0
+CUST_1229,Joseph Lee,Lake Jenniferbury,Montserrat,46-60,Premium,2024-06-28,LinkedIn,0
+CUST_1230,Joshua Baldwin,South Michael,Serbia,46-60,Régulier,2025-06-24,Partnership,0
+CUST_1231,Dean Watkins,Tylerport,Tunisia,36-45,Découverte,2024-05-28,Referral,0
+CUST_1232,Jennifer Thomas,Adamfort,Jersey,46-60,Corporate,2025-01-27,TikTok,1
+CUST_1233,Ryan Huff,North Derekton,Cape Verde,26-35,Régulier,2024-12-19,Instagram,1
+CUST_1234,Kylie Mccoy,Sullivanfurt,Thailand,18-25,Découverte,2024-06-20,Google Search,1
+CUST_1235,Leah Schmidt,North Michael,Cayman Islands,46-60,Premium,2025-05-02,Event Walk-in,0
+CUST_1236,John Ball,North Briantown,Vanuatu,46-60,Corporate,2025-04-30,LinkedIn,0
+CUST_1237,Taylor Nichols,Merrittton,Monaco,46-60,Découverte,2024-10-22,Partnership,1
+CUST_1238,Jeffrey Pena,New Christine,Norfolk Island,46-60,Premium,2025-06-26,Event Walk-in,0
+CUST_1239,Jessica Key,Gutierreztown,Taiwan,18-25,Créateur,2024-12-28,Partnership,1
+CUST_1240,Lisa West,Jenniferstad,Anguilla,36-45,Premium,2024-10-03,LinkedIn,0
+CUST_1241,Michael Johnson,Howardburgh,Rwanda,36-45,Créateur,2025-02-04,Google Search,0
+CUST_1242,Amber Cox,South Caleb,Guinea,26-35,Créateur,2024-12-11,Event Walk-in,0
+CUST_1243,Barbara Gregory,North Karenbury,Malawi,36-45,Créateur,2024-01-11,Event Walk-in,0
+CUST_1244,Mitchell Edwards,West Samuelfort,Liechtenstein,18-25,Découverte,2025-02-25,Instagram,0
+CUST_1245,Nathan Bradley,Lake Amanda,American Samoa,46-60,Premium,2024-08-12,Event Walk-in,1
+CUST_1246,Kiara Davidson,Kingmouth,Singapore,36-45,Régulier,2024-02-04,Instagram,0
+CUST_1247,Carly Dunn,Cooperside,Rwanda,18-25,Créateur,2024-08-10,Referral,0
+CUST_1248,Amber Martin,Dianaview,Malaysia,18-25,Découverte,2024-05-13,Google Search,0
+CUST_1249,Bruce Padilla,West Tonymouth,Isle of Man,18-25,Régulier,2024-09-16,LinkedIn,1
+CUST_1250,Jessica Maxwell,East Caitlyn,Norway,18-25,Corporate,2024-10-10,Partnership,1
+CUST_1251,Amber Brown,North Leonardmouth,Nauru,36-45,Premium,2024-06-14,Partnership,0
+CUST_1252,Joshua Herman,Lake Derekport,Tunisia,36-45,Découverte,2025-01-26,Google Search,1
+CUST_1253,Christopher Cain,North Jean,Korea,18-25,Premium,2024-09-28,TikTok,1
+CUST_1254,Lindsay Noble,Patrickbury,Tanzania,18-25,Corporate,2024-07-24,Referral,1
+CUST_1255,Hannah Lopez,Kyleview,Pitcairn Islands,26-35,Corporate,2024-04-21,TikTok,1
+CUST_1256,Charles Alexander,Richardburgh,United Kingdom,26-35,Créateur,2024-04-18,Google Search,1
+CUST_1257,Michael Larson,Mooneymouth,Japan,18-25,Découverte,2024-03-15,Instagram,1
+CUST_1258,Jesus Martin,Matthewchester,Romania,46-60,Découverte,2025-05-24,TikTok,0
+CUST_1259,Terri Thompson,Joycestad,Guernsey,18-25,Corporate,2024-09-29,TikTok,1
+CUST_1260,Allison Oneal,Hopkinstown,Saint Lucia,46-60,Créateur,2024-01-04,Referral,1
+CUST_1261,David Wade,Susanland,Guadeloupe,46-60,Corporate,2025-02-17,Partnership,0
+CUST_1262,Trevor Wood,Ericstad,Trinidad and Tobago,26-35,Découverte,2025-01-28,Event Walk-in,1
+CUST_1263,Joshua Johnson,Lake Morganview,Romania,18-25,Créateur,2025-01-02,LinkedIn,1
+CUST_1264,Stephen Johnson,Kimberlyfort,Thailand,46-60,Découverte,2024-04-02,LinkedIn,1
+CUST_1265,Donald Daniel,Kruegertown,Haiti,18-25,Corporate,2024-10-23,Event Walk-in,0
+CUST_1266,Jennifer Ferguson,Josephborough,Lao People's Democratic Republic,26-35,Créateur,2024-02-10,Google Search,0
+CUST_1267,James Patterson,Port Vickifurt,Lithuania,36-45,Corporate,2024-04-19,Event Walk-in,1
+CUST_1268,Tracy Myers,Chrisburgh,Czech Republic,46-60,Découverte,2025-03-24,Event Walk-in,0
+CUST_1269,Michael Johns,North Christine,Bahamas,26-35,Découverte,2024-07-16,Instagram,0
+CUST_1270,Thomas Barr,West Rachael,French Guiana,46-60,Corporate,2024-03-05,Partnership,1
+CUST_1271,Jason Hawkins,Maryfort,Greenland,46-60,Créateur,2025-04-05,Instagram,0
+CUST_1272,Tanya Ali,West Jennaport,Aruba,36-45,Découverte,2024-12-11,Partnership,0
+CUST_1273,Karen Moore,Mcgeeberg,Cook Islands,46-60,Découverte,2024-08-04,Partnership,1
+CUST_1274,Michael Butler,East Nancy,New Caledonia,26-35,Créateur,2024-08-26,Instagram,0
+CUST_1275,Linda Baird,Howardburgh,Anguilla,26-35,Corporate,2024-01-20,Google Search,0
+CUST_1276,Kenneth Shaw,Fullerstad,South Georgia and the South Sandwich Islands,26-35,Régulier,2024-01-15,TikTok,0
+CUST_1277,Dr. Christopher Erickson MD,Port Julietown,United Kingdom,36-45,Découverte,2025-04-12,Referral,0
+CUST_1278,Gregory Doyle,South Sharonhaven,Saint Martin,18-25,Découverte,2024-04-26,Google Search,0
+CUST_1279,Adam Green,Strongport,Grenada,18-25,Régulier,2025-03-12,LinkedIn,1
+CUST_1280,Laura Fleming,East Jeffery,Nepal,36-45,Découverte,2024-05-20,LinkedIn,0
+CUST_1281,Andrew Taylor,Angelaborough,Saudi Arabia,18-25,Créateur,2024-06-26,LinkedIn,0
+CUST_1282,Carolyn Carter,Jimenezshire,Saint Barthelemy,18-25,Premium,2024-05-24,Partnership,1
+CUST_1283,Michael Williams,Port Bobbybury,Liberia,26-35,Premium,2024-06-17,Google Search,0
+CUST_1284,Mark Smith,North Rogerton,Maldives,18-25,Régulier,2024-04-12,Partnership,1
+CUST_1285,Margaret Morrison,Nealville,United Arab Emirates,26-35,Découverte,2025-05-13,Instagram,0
+CUST_1286,Brooke Navarro,Nicoleport,Equatorial Guinea,18-25,Régulier,2024-04-01,Event Walk-in,1
+CUST_1287,Alyssa Costa,Port John,Norway,46-60,Corporate,2024-05-09,TikTok,0
+CUST_1288,Nancy Shaffer,West Erica,Lebanon,36-45,Créateur,2025-04-06,Google Search,0
+CUST_1289,Daniel Jones,Kyleberg,Papua New Guinea,26-35,Créateur,2024-02-08,Referral,0
+CUST_1290,William Li,Lake Amberview,Pitcairn Islands,46-60,Créateur,2024-03-31,Event Walk-in,1
+CUST_1291,Evan Simpson,Port Peterfort,Chad,36-45,Corporate,2024-01-05,Referral,0
+CUST_1292,John Rivera,North April,Turks and Caicos Islands,26-35,Découverte,2025-06-26,Instagram,1
+CUST_1293,Courtney Martinez,New Brittneyside,Samoa,26-35,Corporate,2024-08-01,LinkedIn,0
+CUST_1294,Monique Mcgee,New Susanfurt,Ecuador,26-35,Découverte,2024-06-01,Event Walk-in,1
+CUST_1295,April Durham,South Jennifer,Swaziland,46-60,Régulier,2024-06-12,Event Walk-in,0
+CUST_1296,David Adams,New Debbie,Malaysia,18-25,Premium,2024-10-18,TikTok,1
+CUST_1297,Lisa Hampton,Morsemouth,Guinea-Bissau,36-45,Premium,2025-04-09,Instagram,0
+CUST_1298,Marcia Strickland,East Bryanside,Uganda,18-25,Créateur,2024-06-29,TikTok,0
+CUST_1299,Anthony Gillespie,East Kennethburgh,Mayotte,46-60,Créateur,2024-04-28,Instagram,0
+CUST_1300,Amy Chavez,North Fred,Kuwait,46-60,Créateur,2024-11-29,Google Search,0
+CUST_1301,Gloria Ramirez,Port Joseph,Guyana,36-45,Régulier,2024-04-22,LinkedIn,0
+CUST_1302,Larry Burnett,Martinezchester,Italy,18-25,Régulier,2025-02-26,Partnership,0
+CUST_1303,Stephanie Johnson,Port Ashleyland,Romania,46-60,Régulier,2024-03-16,Google Search,1
+CUST_1304,Pamela Kennedy,New Davidtown,Israel,18-25,Corporate,2024-05-28,TikTok,1
+CUST_1305,Kimberly Gonzales,Hoton,Fiji,26-35,Corporate,2025-01-17,TikTok,1
+CUST_1306,David Collins,Patelburgh,Nicaragua,26-35,Premium,2024-10-03,TikTok,1
+CUST_1307,Kent Martinez,Palmerside,Saint Lucia,26-35,Découverte,2024-03-02,LinkedIn,0
+CUST_1308,Jason Bell,Randyside,Mayotte,18-25,Corporate,2025-04-14,Google Search,0
+CUST_1309,Thomas Graham,Randyberg,Denmark,36-45,Régulier,2024-10-29,Referral,0
+CUST_1310,William Hernandez,Lake Alexandrafort,Antigua and Barbuda,26-35,Créateur,2024-08-23,Instagram,1
+CUST_1311,Amanda Fuentes,Cherryland,Saint Vincent and the Grenadines,46-60,Régulier,2025-04-29,Partnership,1
+CUST_1312,Timothy Mckee,Kramerhaven,France,36-45,Découverte,2025-03-14,Event Walk-in,0
+CUST_1313,Matthew Wilson,East Kathryn,Puerto Rico,26-35,Premium,2025-03-20,Referral,0
+CUST_1314,Erika Thomas,Meganton,Sudan,26-35,Créateur,2024-01-06,Google Search,0
+CUST_1315,Jocelyn Dorsey,Rodneyport,Burundi,18-25,Corporate,2025-05-31,Instagram,1
+CUST_1316,Krystal Lewis,West Paulborough,Reunion,46-60,Corporate,2024-04-10,Google Search,1
+CUST_1317,Amy Browning,East Jonathan,Guernsey,26-35,Découverte,2024-01-13,Event Walk-in,1
+CUST_1318,Marvin Wolf,Heatherton,Nicaragua,26-35,Régulier,2025-01-02,LinkedIn,0
+CUST_1319,Jacqueline Anderson,Tinahaven,Bahamas,18-25,Découverte,2025-05-06,Event Walk-in,1
+CUST_1320,Elizabeth Ortiz,Hebertberg,Ethiopia,26-35,Corporate,2024-01-25,Google Search,1
+CUST_1321,Jacqueline Martin,Lake Crystalfort,Qatar,26-35,Corporate,2024-07-08,Partnership,1
+CUST_1322,Nicholas Huynh,Woodmouth,Comoros,46-60,Découverte,2024-03-13,Google Search,1
+CUST_1323,Travis Santos,Lake Christopherberg,Burundi,18-25,Premium,2025-03-12,Partnership,1
+CUST_1324,Stacey Johnson,Lake Andreaburgh,Nauru,26-35,Découverte,2024-12-09,Event Walk-in,0
+CUST_1325,Raymond Barker,Lake Tammy,Qatar,36-45,Découverte,2024-04-23,Google Search,1
+CUST_1326,Adam Long,Stevenfort,Guatemala,46-60,Créateur,2024-02-11,LinkedIn,1
+CUST_1327,Douglas Young,Clarkfurt,Libyan Arab Jamahiriya,26-35,Créateur,2024-03-09,Referral,0
+CUST_1328,Deanna Stewart,Bryanburgh,Zambia,26-35,Premium,2024-09-01,Referral,0
+CUST_1329,Denise Andrews,East Karaburgh,Netherlands Antilles,46-60,Créateur,2024-08-02,Partnership,0
+CUST_1330,Christian Coleman,East Barryville,Guinea,36-45,Premium,2024-09-30,Referral,1
+CUST_1331,Alexander Ruiz,Port Karenton,Andorra,36-45,Découverte,2024-03-05,LinkedIn,1
+CUST_1332,Mark Kelley,Fletcherton,Montserrat,46-60,Corporate,2025-05-28,Referral,0
+CUST_1333,Melissa Lynch,Carolynview,Hungary,46-60,Créateur,2025-06-29,LinkedIn,1
+CUST_1334,Felicia Mccormick,Port Jeffrey,Korea,36-45,Découverte,2024-07-11,Google Search,0
+CUST_1335,Robert Morris,Colleenshire,Nicaragua,18-25,Corporate,2024-07-02,LinkedIn,0
+CUST_1336,Bonnie Brown,South Annberg,British Indian Ocean Territory (Chagos Archipelago),18-25,Régulier,2024-10-09,Instagram,0
+CUST_1337,Nicole Brooks,Port Emma,British Indian Ocean Territory (Chagos Archipelago),46-60,Régulier,2024-07-28,Referral,0
+CUST_1338,Desiree Hall,North Donald,Georgia,36-45,Corporate,2024-05-15,Google Search,1
+CUST_1339,Vanessa Olson,East Mason,Turkmenistan,46-60,Corporate,2024-01-22,LinkedIn,0
+CUST_1340,David Hendricks,Rebeccastad,Uganda,18-25,Découverte,2024-08-25,Partnership,1
+CUST_1341,Joel Tran,Schultzbury,North Macedonia,46-60,Créateur,2024-12-17,Event Walk-in,1
+CUST_1342,Travis Jackson,Owensview,Malta,46-60,Créateur,2025-06-26,Partnership,1
+CUST_1343,Stephanie Smith,Lake Darius,British Virgin Islands,46-60,Premium,2024-05-15,Partnership,1
+CUST_1344,Lacey Lewis,Alexville,Papua New Guinea,26-35,Premium,2024-08-20,Google Search,1
+CUST_1345,Leah Smith,Georgefort,Marshall Islands,36-45,Découverte,2024-05-31,LinkedIn,1
+CUST_1346,Zachary Brewer,East Erin,Central African Republic,46-60,Régulier,2024-06-13,Event Walk-in,1
+CUST_1347,Dalton Oneill,Guzmanberg,Tajikistan,26-35,Régulier,2024-06-06,TikTok,0
+CUST_1348,Leslie Cordova,Gutierrezton,Saint Barthelemy,18-25,Découverte,2024-11-20,Referral,0
+CUST_1349,Nicole King,East Davidville,Svalbard & Jan Mayen Islands,46-60,Premium,2025-01-13,TikTok,0
+CUST_1350,Jacqueline Mathis,West Andreaborough,Namibia,18-25,Premium,2024-12-18,TikTok,1
+CUST_1351,Elizabeth Lewis,West Martha,Myanmar,46-60,Créateur,2024-06-15,Referral,1
+CUST_1352,Sara Valdez,Jenkinsland,Thailand,18-25,Découverte,2025-02-18,Google Search,0
+CUST_1353,Timothy Perez,North Jessica,Luxembourg,46-60,Premium,2024-06-08,Instagram,1
+CUST_1354,Richard Lee,Port Cynthiaborough,Denmark,36-45,Corporate,2024-10-23,Partnership,0
+CUST_1355,Christopher Hood,New Jennifer,Poland,46-60,Premium,2024-04-25,Event Walk-in,1
+CUST_1356,Mark Williamson,New Lisafort,Gibraltar,18-25,Régulier,2024-04-29,LinkedIn,0
+CUST_1357,Justin Rangel,West Amber,Papua New Guinea,46-60,Créateur,2024-08-13,Google Search,1
+CUST_1358,Christina Cooke,Houstonfort,Botswana,18-25,Premium,2024-02-26,Referral,0
+CUST_1359,Peter Mills,Pruittton,Turkey,26-35,Premium,2024-07-19,Instagram,0
+CUST_1360,Dana Adkins,South Ricardoland,Samoa,46-60,Découverte,2025-06-08,Google Search,0
+CUST_1361,Misty Brown,Aprilburgh,Cuba,46-60,Premium,2025-06-07,Instagram,1
+CUST_1362,Christopher Carroll,Baxterburgh,Barbados,46-60,Régulier,2025-03-13,LinkedIn,1
+CUST_1363,Mary Ibarra,Terryport,Lithuania,36-45,Découverte,2024-10-18,LinkedIn,1
+CUST_1364,Scott Barker,Jacksonfurt,Suriname,36-45,Corporate,2024-03-30,TikTok,1
+CUST_1365,Debra Fleming,Johnfurt,Netherlands Antilles,46-60,Corporate,2024-10-22,TikTok,1
+CUST_1366,Candice Robinson,Cameronland,Botswana,46-60,Régulier,2024-03-29,TikTok,0
+CUST_1367,Christopher Smith,Dunnmouth,Guam,36-45,Corporate,2025-06-21,LinkedIn,0
+CUST_1368,Sara Chapman,East Annette,Qatar,46-60,Découverte,2024-01-07,Google Search,1
+CUST_1369,Shannon Patrick,Mosleyberg,Myanmar,46-60,Régulier,2025-04-18,Event Walk-in,0
+CUST_1370,James Rubio,Brendachester,Jersey,26-35,Régulier,2025-01-25,LinkedIn,1
+CUST_1371,Christopher Perez,East Sonyatown,Argentina,18-25,Premium,2024-11-07,Google Search,1
+CUST_1372,Brian Wagner,Brittanyfort,Papua New Guinea,26-35,Découverte,2024-01-03,TikTok,1
+CUST_1373,Crystal Castro,Bradleyland,Romania,36-45,Corporate,2024-05-07,Event Walk-in,1
+CUST_1374,Jasmine Williams,Kellyview,Macao,46-60,Régulier,2025-05-18,Event Walk-in,0
+CUST_1375,Joseph White,New Kelli,Dominica,18-25,Découverte,2024-10-10,Google Search,0
+CUST_1376,Bobby Adams,East Alexandra,Djibouti,36-45,Créateur,2025-05-07,Referral,1
+CUST_1377,Mark Henry,Jenniferville,Gibraltar,36-45,Corporate,2024-05-02,LinkedIn,0
+CUST_1378,Joseph Smith,Allentown,Cambodia,36-45,Régulier,2024-02-29,TikTok,1
+CUST_1379,Paul Martin MD,Olsenville,Liechtenstein,46-60,Régulier,2024-12-31,TikTok,0
+CUST_1380,Tyler White,Nicolasview,Togo,36-45,Premium,2025-03-05,Event Walk-in,1
+CUST_1381,Eddie Floyd,Port Michelle,Lesotho,18-25,Premium,2024-10-25,Referral,0
+CUST_1382,Francis Cruz,Lake Jessicaville,Indonesia,26-35,Régulier,2024-04-06,Referral,0
+CUST_1383,James Hanson,North Ryanburgh,Tajikistan,36-45,Premium,2024-11-04,LinkedIn,1
+CUST_1384,Andrew Herrera,Shawchester,Comoros,18-25,Créateur,2024-12-26,Partnership,0
+CUST_1385,Robert Caldwell,South Morganfurt,Pitcairn Islands,18-25,Régulier,2025-06-14,LinkedIn,1
+CUST_1386,Patricia Scott,North Taylorport,Bangladesh,46-60,Corporate,2024-12-14,TikTok,0
+CUST_1387,William Terry,East Paula,Ecuador,26-35,Régulier,2025-05-30,TikTok,0
+CUST_1388,Aaron Duran,Woodsshire,Papua New Guinea,18-25,Corporate,2025-04-16,Instagram,0
+CUST_1389,Matthew Munoz,Lake Diamond,Bhutan,26-35,Découverte,2025-05-06,LinkedIn,1
+CUST_1390,Cindy Gallegos,Kristenburgh,South Africa,36-45,Régulier,2025-03-28,Referral,1
+CUST_1391,Christopher Stephens,Lyonston,Iraq,26-35,Premium,2024-01-30,Event Walk-in,0
+CUST_1392,Kathryn Mercado,South Madelinehaven,Tuvalu,26-35,Régulier,2024-05-25,Event Walk-in,0
+CUST_1393,John Miller,Derekshire,Zambia,36-45,Régulier,2024-08-02,TikTok,0
+CUST_1394,Robert Lopez,South Carolyn,Jamaica,46-60,Découverte,2024-03-20,Instagram,1
+CUST_1395,Ruth Williamson,East Nathan,Chile,46-60,Découverte,2024-07-20,Instagram,0
+CUST_1396,Christopher Lee,Monicatown,Pitcairn Islands,18-25,Corporate,2024-05-01,LinkedIn,0
+CUST_1397,Terry Becker,Smithbury,Bulgaria,18-25,Premium,2024-01-11,Partnership,0
+CUST_1398,Jeffrey Bradshaw,East Ricky,Pakistan,18-25,Créateur,2024-07-29,Referral,0
+CUST_1399,Matthew Martinez,Donaldborough,Andorra,26-35,Premium,2024-01-30,Instagram,0
+CUST_1400,Richard Murray,New Keith,Antarctica (the territory South of 60 deg S),36-45,Créateur,2024-12-22,LinkedIn,0
+CUST_1401,Lisa Cortez,West Michellemouth,Afghanistan,26-35,Créateur,2024-03-10,Instagram,0
+CUST_1402,Sandra Price,Gardnerborough,Egypt,26-35,Régulier,2024-10-15,TikTok,0
+CUST_1403,Mr. David Wade DDS,West Alantown,Heard Island and McDonald Islands,18-25,Régulier,2025-05-31,Partnership,1
+CUST_1404,Travis Washington,South Brendaborough,Azerbaijan,36-45,Créateur,2024-07-08,Google Search,0
+CUST_1405,Theresa Pace,Freemanfort,Antarctica (the territory South of 60 deg S),26-35,Premium,2025-01-23,Google Search,0
+CUST_1406,William Jacobs,North Jennifertown,Chad,26-35,Corporate,2024-04-25,Partnership,1
+CUST_1407,Brittany Jones,Francoland,Germany,18-25,Corporate,2024-04-22,Referral,0
+CUST_1408,James Ballard,New Anitaville,Monaco,46-60,Premium,2024-10-22,Referral,0
+CUST_1409,Jennifer Shelton,West James,Thailand,18-25,Premium,2025-05-20,Instagram,1
+CUST_1410,Ryan Forbes,Dominicview,American Samoa,36-45,Corporate,2024-11-15,Event Walk-in,1
+CUST_1411,Kenneth Castillo,South Veronica,United Kingdom,26-35,Créateur,2025-02-21,LinkedIn,1
+CUST_1412,Wanda Peterson,Allenhaven,Mozambique,26-35,Découverte,2025-05-02,Event Walk-in,1
+CUST_1413,Natasha Woodard,Lake Frankland,Holy See (Vatican City State),26-35,Découverte,2025-05-18,Event Walk-in,0
+CUST_1414,Michele Gordon,Calhounview,Heard Island and McDonald Islands,46-60,Corporate,2025-06-19,Event Walk-in,0
+CUST_1415,Mary Ryan,Port Corey,Jamaica,18-25,Régulier,2025-02-08,Google Search,0
+CUST_1416,Gina Anderson,Warrenbury,Malaysia,26-35,Découverte,2025-01-07,TikTok,1
+CUST_1417,Carlos Robertson,Robinchester,Iceland,26-35,Créateur,2025-02-17,Instagram,0
+CUST_1418,Robin Wagner,Ernestland,Northern Mariana Islands,46-60,Corporate,2024-10-12,Partnership,1
+CUST_1419,Philip Moses,Danielville,Iran,46-60,Premium,2025-05-02,Event Walk-in,1
+CUST_1420,Michael Choi,Laurenberg,Iraq,46-60,Créateur,2024-10-12,TikTok,1
+CUST_1421,Claudia Pruitt,Justinmouth,Congo,18-25,Découverte,2024-09-13,Google Search,1
+CUST_1422,Jeffrey Mcfarland,Rodrigueztown,Colombia,26-35,Régulier,2024-01-31,Instagram,0
+CUST_1423,William Clark,Marioland,Benin,18-25,Corporate,2024-01-28,TikTok,1
+CUST_1424,Willie Harrell,New Lindseyville,Iran,36-45,Régulier,2024-11-06,Referral,0
+CUST_1425,April Oliver,Michaelton,South Georgia and the South Sandwich Islands,18-25,Créateur,2025-05-19,Partnership,1
+CUST_1426,Timothy Marshall II,Barrytown,Taiwan,26-35,Premium,2025-05-24,Google Search,1
+CUST_1427,Jeffrey Sharp,West Matthewview,Greece,36-45,Créateur,2024-01-19,Partnership,0
+CUST_1428,Mary Martin,Lake Davidhaven,Peru,46-60,Découverte,2025-01-27,Google Search,1
+CUST_1429,Tracy Carter,Robertsland,American Samoa,46-60,Corporate,2025-04-15,Instagram,0
+CUST_1430,Roger Gonzales,North Emilyton,Maldives,26-35,Créateur,2024-11-06,Event Walk-in,0
+CUST_1431,Billy Morgan,Port Jorge,Saint Pierre and Miquelon,46-60,Corporate,2024-05-17,LinkedIn,1
+CUST_1432,Danielle Silva,Ramirezmouth,Cayman Islands,46-60,Découverte,2025-05-17,Event Walk-in,1
+CUST_1433,Dawn Madden,Joshuahaven,Nicaragua,46-60,Créateur,2024-06-09,Referral,0
+CUST_1434,Brian Mclaughlin,North Georgetown,San Marino,46-60,Premium,2025-05-21,Referral,1
+CUST_1435,Brian Dixon,Lake Jessica,Saint Lucia,36-45,Premium,2024-11-24,Instagram,0
+CUST_1436,Timothy Moore,Phillipsmouth,Ghana,18-25,Régulier,2025-01-10,LinkedIn,0
+CUST_1437,Mrs. Amanda Jensen,Phillipsland,Mayotte,36-45,Corporate,2024-04-09,Google Search,1
+CUST_1438,Samantha Ramos,Patriciafort,Paraguay,36-45,Corporate,2024-12-25,Instagram,0
+CUST_1439,Sherri Sanchez,Lake Patricia,Mauritius,26-35,Régulier,2024-11-15,Referral,0
+CUST_1440,David Kelly,Smithchester,Peru,18-25,Premium,2024-04-27,LinkedIn,0
+CUST_1441,Molly Jensen,New Hannah,El Salvador,18-25,Créateur,2024-11-29,Instagram,1
+CUST_1442,Deanna Cooper,Port Tara,Comoros,46-60,Créateur,2025-06-11,Google Search,1
+CUST_1443,Raymond Clements,Larsontown,Saint Vincent and the Grenadines,18-25,Corporate,2024-01-23,LinkedIn,1
+CUST_1444,Howard Davis,North Sharon,United States Minor Outlying Islands,46-60,Premium,2024-04-10,Partnership,1
+CUST_1445,Justin Clark,East Mckenzieville,Taiwan,18-25,Régulier,2024-12-10,Google Search,1
+CUST_1446,Wendy Smith,Codymouth,Cayman Islands,26-35,Créateur,2024-11-02,LinkedIn,1
+CUST_1447,Emily Hernandez,West Rachel,Bulgaria,26-35,Corporate,2024-03-18,Partnership,0
+CUST_1448,Kimberly Jones,Johnville,Austria,36-45,Premium,2024-02-18,LinkedIn,1
+CUST_1449,Valerie Ross,Fullerville,Taiwan,26-35,Créateur,2024-04-04,Event Walk-in,0
+CUST_1450,Michael Valenzuela,Davidtown,Sri Lanka,36-45,Premium,2024-03-09,Referral,1
+CUST_1451,Jeffrey Lawrence,Williamsstad,Timor-Leste,46-60,Régulier,2024-12-21,Partnership,0
+CUST_1452,Cheryl Rubio,Crystalchester,Armenia,36-45,Créateur,2024-11-03,Google Search,1
+CUST_1453,Rachel Baker,Lake Erika,Maldives,26-35,Corporate,2025-02-15,LinkedIn,1
+CUST_1454,Tonya Taylor,New Stephen,Ukraine,26-35,Découverte,2025-06-12,Partnership,0
+CUST_1455,Luke Jennings,South Annafurt,Niger,46-60,Régulier,2025-04-23,LinkedIn,1
+CUST_1456,Katrina Parrish,West Garrett,British Indian Ocean Territory (Chagos Archipelago),18-25,Créateur,2024-07-24,LinkedIn,1
+CUST_1457,Emma Smith,Perezmouth,Botswana,26-35,Régulier,2024-06-03,Event Walk-in,1
+CUST_1458,Kimberly Santiago,Coxburgh,Kenya,46-60,Corporate,2024-11-22,Partnership,0
+CUST_1459,Deanna Gardner,East Candicemouth,Samoa,26-35,Corporate,2024-09-30,Partnership,1
+CUST_1460,Jessica Cruz,Christianport,Cameroon,26-35,Premium,2024-08-29,Google Search,0
+CUST_1461,Becky Haynes,Johnsonborough,Nauru,18-25,Régulier,2024-07-15,Instagram,0
+CUST_1462,Stephanie Cherry,Gillmouth,Malaysia,36-45,Corporate,2025-05-12,Referral,1
+CUST_1463,Gary Smith,Lake Jasonfort,Tonga,46-60,Découverte,2024-07-25,TikTok,1
+CUST_1464,Kenneth Sexton,New Nancy,Romania,26-35,Découverte,2024-09-21,Partnership,1
+CUST_1465,Tina Moss,East Kimberlyport,Guatemala,26-35,Découverte,2025-05-12,Partnership,0
+CUST_1466,Vincent Lucero,West Davidview,Belarus,18-25,Découverte,2024-11-17,Referral,1
+CUST_1467,William Williams,New Rebeccahaven,Guinea-Bissau,18-25,Corporate,2025-01-07,Event Walk-in,0
+CUST_1468,Tonya Richard,Sandystad,Korea,46-60,Régulier,2024-08-29,Instagram,0
+CUST_1469,Caitlin Hurley,Cynthiafurt,Kazakhstan,36-45,Corporate,2024-04-02,TikTok,0
+CUST_1470,Tammy Mcdonald,New Justin,Greenland,36-45,Premium,2025-02-03,Partnership,0
+CUST_1471,Harold Porter,East Jeremytown,Gibraltar,46-60,Régulier,2024-05-27,Instagram,0
+CUST_1472,Katherine Smith,Jorgeville,Sierra Leone,26-35,Premium,2025-03-26,Google Search,1
+CUST_1473,Anita Grant,Lake Toddbury,Guernsey,18-25,Corporate,2025-06-30,LinkedIn,0
+CUST_1474,Nicholas Waters,Colemanhaven,Canada,36-45,Créateur,2025-03-09,Google Search,0
+CUST_1475,Julie Chang,Lake Anthonyborough,Belarus,36-45,Régulier,2025-01-06,Google Search,1
+CUST_1476,Tracy Taylor MD,West Catherinefort,Saint Pierre and Miquelon,36-45,Découverte,2024-02-05,Partnership,0
+CUST_1477,Mr. Peter Casey,Hectorfurt,Marshall Islands,26-35,Premium,2025-01-28,LinkedIn,1
+CUST_1478,Cheyenne Crawford,Johnsonport,Philippines,18-25,Créateur,2024-08-30,Partnership,1
+CUST_1479,Ashley Murray,East Crystal,Isle of Man,46-60,Découverte,2025-02-06,LinkedIn,1
+CUST_1480,Stacy Hale,New Donna,Jordan,18-25,Régulier,2024-10-31,TikTok,0
+CUST_1481,Nicholas Edwards,South Jessicabury,Switzerland,46-60,Premium,2025-02-20,Partnership,0
+CUST_1482,Todd Andrews,Charlesville,Cambodia,36-45,Découverte,2025-05-18,Google Search,1
+CUST_1483,Julia Wiggins,East Brittanybury,Saint Vincent and the Grenadines,36-45,Corporate,2024-04-12,Partnership,0
+CUST_1484,Angela Kelly,Riverastad,Bermuda,36-45,Créateur,2024-03-08,LinkedIn,1
+CUST_1485,Andrea Hudson,Williamsstad,British Virgin Islands,36-45,Corporate,2024-01-29,Partnership,0
+CUST_1486,Edward Wilson,North Jerry,Angola,26-35,Corporate,2024-05-19,Instagram,1
+CUST_1487,Henry Glenn,Brownstad,Papua New Guinea,26-35,Premium,2024-11-17,Referral,0
+CUST_1488,Chelsea Freeman,West Mariachester,Netherlands Antilles,18-25,Régulier,2024-09-12,Referral,0
+CUST_1489,Cynthia Young,Jasminchester,Ireland,46-60,Premium,2025-04-07,Google Search,0
+CUST_1490,Mr. Christopher Spencer,Clarkville,Bermuda,36-45,Régulier,2024-12-01,Partnership,1
+CUST_1491,Todd Nguyen,West Sean,Bangladesh,26-35,Découverte,2025-02-28,LinkedIn,0
+CUST_1492,Jessica Simon,Bentonfort,Swaziland,46-60,Corporate,2024-08-17,Instagram,0
+CUST_1493,Kim Guerra,East Ginamouth,Congo,26-35,Découverte,2025-04-18,TikTok,1
+CUST_1494,Robert Lambert,Sethbury,French Polynesia,26-35,Découverte,2025-02-14,Referral,1
+CUST_1495,Amanda Cameron,Stephaniefort,Namibia,36-45,Régulier,2024-04-01,LinkedIn,0
+CUST_1496,Miss Teresa Mcclure,Jonesmouth,Pitcairn Islands,18-25,Découverte,2025-06-22,Google Search,1
+CUST_1497,James Sanders,North David,Serbia,46-60,Découverte,2024-08-17,Event Walk-in,0
+CUST_1498,William Smith,Darrenfort,Barbados,26-35,Premium,2024-10-21,Event Walk-in,1
+CUST_1499,Robert White,Maddenborough,Netherlands Antilles,46-60,Régulier,2025-03-17,Partnership,0
+CUST_1500,Cassidy Roth,Osbornside,Western Sahara,26-35,Premium,2024-07-12,Google Search,0

@@ -1,0 +1,1501 @@
+customer_id,customer_name,city,country,age_group,segment,signup_date,acquisition_channel,is_member
+CUST_1,Claude Bouvet,Saint Guynec,Paraguay,18-25,Découverte,2024-10-08,TikTok,0
+CUST_2,Corinne Meunier-Benoit,Jacquotboeuf,Tchad,26-35,Découverte,2024-03-30,Referral,1
+CUST_3,Thibaut Nicolas,Ferrand,Sainte Hélène,18-25,Découverte,2024-04-05,TikTok,0
+CUST_4,Adélaïde-Paulette Vallée,Barbier,Saint Vincent et les Grenadines,18-25,Créateur,2024-07-22,Event Walk-in,1
+CUST_5,Madeleine Perez,Fouquetdan,Cook (Îles),26-35,Corporate,2024-10-11,Partnership,0
+CUST_6,Robert Faure Le Briand,Blotboeuf,Seychelles,26-35,Corporate,2024-12-14,LinkedIn,0
+CUST_7,Marianne-Anouk Guillet,Sainte Arnaude,Taiwan,26-35,Premium,2024-04-14,Instagram,1
+CUST_8,Gilles Humbert,BlanchardBourg,Burkina Faso,18-25,Premium,2024-12-18,Referral,1
+CUST_9,Suzanne Joly,Toussaint-sur-Briand,Nigeria,18-25,Corporate,2024-05-07,Google Search,0
+CUST_10,Richard de Leconte,Sainte Hélène,Myanmar,36-45,Créateur,2025-01-05,Referral,0
+CUST_11,Paulette Muller,Saint AiméVille,Somalie,18-25,Découverte,2024-08-21,Partnership,1
+CUST_12,Étienne Diaz,Traore,Saint Pierre et Miquelon,18-25,Régulier,2024-04-13,Google Search,1
+CUST_13,Marthe Dijoux de la Blot,Barthelemy,Gabon,46-60,Premium,2024-06-15,LinkedIn,1
+CUST_14,Marguerite Le Lacroix,Lambert,Kazakhstan,26-35,Premium,2024-03-14,Referral,0
+CUST_15,Édith Wagner-Fournier,Chauveaunec,Swaziland,26-35,Régulier,2025-04-18,Google Search,1
+CUST_16,Jean Bousquet,Hardynec,Syrie,26-35,Premium,2024-02-27,TikTok,0
+CUST_17,Gérard Daniel,Alexandre,Canada,36-45,Corporate,2024-10-01,Instagram,0
+CUST_18,Susanne Chauveau,DelattreBourg,République Dominicaine,36-45,Régulier,2025-05-26,Google Search,1
+CUST_19,Henriette-Valérie Martel,Bonnin,Italie,26-35,Premium,2024-05-22,TikTok,1
+CUST_20,Jérôme-Augustin Rossi,Verdier,Gambie,46-60,Créateur,2025-02-12,LinkedIn,0
+CUST_21,Franck Peltier,Clerc,Jordanie,26-35,Créateur,2025-05-20,Instagram,0
+CUST_22,Christiane-Mathilde Clément,Milletnec,Vierges (Îles),18-25,Régulier,2024-06-12,Partnership,1
+CUST_23,Raymond Le Gomes,Sainte Adrienne,Swaziland,18-25,Corporate,2025-01-25,Referral,1
+CUST_24,Jacques Andre de Denis,Salmon-les-Bains,Falkland (Île),36-45,Créateur,2024-01-12,Event Walk-in,0
+CUST_25,Claude Rousseau-Pottier,Martinnec,Togo,36-45,Premium,2024-04-24,LinkedIn,1
+CUST_26,Laure Roger,Devaux,Ouganda,26-35,Corporate,2024-01-04,Event Walk-in,1
+CUST_27,Emmanuel Buisson,Lefèvre-sur-Mer,Andorre,26-35,Créateur,2024-04-18,Partnership,1
+CUST_28,Suzanne Bouvet,Andre,Seychelles,26-35,Régulier,2025-01-17,Partnership,0
+CUST_29,Raymond Leduc,Gaillard,Rép. Dém. du Congo,18-25,Créateur,2024-11-27,Google Search,0
+CUST_30,Laurent Prévost,Pichon,Côte d'Ivoire,18-25,Premium,2024-11-10,TikTok,0
+CUST_31,Amélie Lemaître,Sainte Chantal-la-Forêt,Azerbaïdjan,26-35,Créateur,2024-03-21,Instagram,1
+CUST_32,Alain Rocher,Delahaye-sur-Texier,Argentine,18-25,Créateur,2024-05-08,TikTok,1
+CUST_33,Inès Étienne-Masse,Laine-sur-Berger,Lettonie,26-35,Premium,2025-06-24,Partnership,1
+CUST_34,Louis Roux du Robert,Seguin-la-Forêt,Cap Vert,26-35,Créateur,2024-07-24,Event Walk-in,1
+CUST_35,Adélaïde du Mercier,Saint Véronique,Argentine,46-60,Premium,2025-03-24,Referral,1
+CUST_36,Capucine Klein,Marin,Guinée-Bissau,18-25,Régulier,2024-08-18,Instagram,1
+CUST_37,Édouard Nguyen-Salmon,Martel-sur-Rodrigues,Azerbaïdjan,18-25,Créateur,2024-08-23,Referral,0
+CUST_38,Raymond Briand,Sainte Grégoire,Bulgarie,18-25,Découverte,2024-03-01,TikTok,0
+CUST_39,Susanne-Catherine Evrard,Jean-sur-Roger,Territoires français du sud,18-25,Premium,2024-03-13,Referral,0
+CUST_40,Grégoire Wagner-Rey,Briand-sur-Mer,Somalie,36-45,Corporate,2024-08-07,Referral,0
+CUST_41,Étienne Imbert,Delannoy-sur-Mer,Kirghizistan,46-60,Régulier,2025-04-29,Partnership,1
+CUST_42,Thibault Olivier,Lefort,États-Unis,26-35,Découverte,2024-04-09,Event Walk-in,1
+CUST_43,David Laporte,Humbert,Mongolie,36-45,Corporate,2025-02-24,Google Search,0
+CUST_44,Claudine Humbert,Da Costadan,Bahamas,18-25,Découverte,2025-02-16,Event Walk-in,1
+CUST_45,Augustin Marques,De OliveiraVille,Nicaragua,18-25,Régulier,2024-07-15,TikTok,1
+CUST_46,Capucine Torres,Clerc,Gibraltar,26-35,Corporate,2024-07-06,LinkedIn,1
+CUST_47,Marine Martineau,Lopes,Sainte Lucie,26-35,Découverte,2025-03-29,Partnership,0
+CUST_48,Élodie Gaillard,Caron,Iran,18-25,Créateur,2024-01-16,Instagram,0
+CUST_49,Guy Gilles,Ruiz,Gambie,26-35,Corporate,2025-05-12,Google Search,0
+CUST_50,Noël Dumas,Potiernec,Nicaragua,46-60,Découverte,2024-06-17,Google Search,0
+CUST_51,Alphonse Hernandez,Saint Luc,Panama,46-60,Premium,2025-04-10,LinkedIn,1
+CUST_52,Luce Chartier,Diaz-sur-Lombard,Macédoine du Nord,46-60,Régulier,2024-07-13,LinkedIn,0
+CUST_53,Thibault Lamy,Maréchal-sur-Ferreira,Philippines,18-25,Créateur,2024-03-03,Event Walk-in,1
+CUST_54,Madeleine Bonnin,Sainte Philippine-les-Bains,Liechtenstein,18-25,Découverte,2025-05-03,Referral,0
+CUST_55,Patrick Gillet,Durand,Luxembourg,18-25,Créateur,2024-03-23,Partnership,0
+CUST_56,Françoise Auger Le Guillot,Sainte Françoisenec,Sainte Lucie,18-25,Créateur,2024-03-10,Event Walk-in,0
+CUST_57,Arnaude Roy,KleinVille,Porto Rico,46-60,Découverte,2024-09-09,Referral,0
+CUST_58,Lucy Voisin,Menard,Iran,18-25,Corporate,2025-06-19,LinkedIn,1
+CUST_59,Colette Camus,Marty,Suisse,26-35,Premium,2024-09-01,LinkedIn,1
+CUST_60,André Jacquot-Chartier,Samson,Mayotte,26-35,Premium,2025-04-13,LinkedIn,0
+CUST_61,Nicolas Le Martinez,Chauvin,Inde,18-25,Corporate,2024-04-12,Instagram,0
+CUST_62,Grégoire Gay,MercierVille,Tokelau,36-45,Régulier,2024-12-23,Instagram,0
+CUST_63,Thibault Allain du Bourdon,Courtois-les-Bains,Canada,36-45,Premium,2024-06-10,Google Search,1
+CUST_64,Charles-Jean Leleu,Fabre,Hongrie,18-25,Créateur,2024-11-02,Event Walk-in,0
+CUST_65,Grégoire du Guibert,Dumont,Bolivie,26-35,Premium,2024-04-28,Instagram,0
+CUST_66,André Blondel,Bodin-sur-Salmon,Swaziland,36-45,Premium,2024-08-03,Event Walk-in,1
+CUST_67,Antoine Dumas,Chartier,Liban,26-35,Premium,2025-06-01,Google Search,1
+CUST_68,Laurent-Nicolas Marie,Grondin,Bulgarie,18-25,Découverte,2025-03-09,Partnership,1
+CUST_69,Laetitia Philippe,Hamon,Suisse,18-25,Découverte,2024-12-07,Partnership,0
+CUST_70,Sabine Neveu,DumasVille,Macédoine du Nord,36-45,Régulier,2025-03-28,Referral,1
+CUST_71,Jacqueline Robert de Masse,Fernandez,Afrique du sud,18-25,Découverte,2024-03-18,Event Walk-in,0
+CUST_72,Olivier Torres,Leclerc,Svalbard et Jan Mayen (Îles),18-25,Premium,2024-05-31,Google Search,0
+CUST_73,Gabrielle Renard,Delattre-sur-Mer,Liban,18-25,Premium,2025-01-08,Partnership,0
+CUST_74,Alice Techer,Saint Frédéric-sur-Mer,Géorgie,36-45,Régulier,2024-09-12,Event Walk-in,0
+CUST_75,Édouard Albert,Lerouxdan,Pakistan,36-45,Créateur,2025-02-20,Referral,0
+CUST_76,Victor Techer,Da Silva-la-Forêt,Turkménistan,26-35,Régulier,2024-06-30,Google Search,0
+CUST_77,Aimée Lopes,David,Yougoslavie,26-35,Premium,2025-02-25,Partnership,0
+CUST_78,Émilie Guyon,Sainte Patriciadan,Slovaquie,36-45,Régulier,2024-04-20,Google Search,0
+CUST_79,Christiane-Margot Potier,Bazin-les-Bains,Saint Vincent et les Grenadines,46-60,Régulier,2024-07-23,Partnership,1
+CUST_80,Agnès Pereira,Fischer-sur-Mer,Tchad,36-45,Premium,2024-08-21,TikTok,0
+CUST_81,Constance Breton,Hamonnec,Colombie,26-35,Corporate,2024-12-02,LinkedIn,0
+CUST_82,Caroline Le Mallet,Hernandez,Israël,36-45,Premium,2025-06-05,Google Search,1
+CUST_83,Charlotte Rodrigues,Ribeiro-sur-Fernandez,Ouganda,18-25,Découverte,2024-09-24,TikTok,1
+CUST_84,Antoinette Dos Santos,Sainte Amélie,Australie,18-25,Découverte,2025-03-20,LinkedIn,1
+CUST_85,Céline Rodriguez,Sainte Cécile,Lesotho,46-60,Créateur,2025-06-07,Instagram,1
+CUST_86,Pierre Chartier du Ledoux,Blanchard-sur-Rodrigues,Géorgie du Sud et Sandwich du Sud (Îles),26-35,Premium,2024-02-15,Event Walk-in,1
+CUST_87,Virginie Blanchet,Brunel,Uruguay,18-25,Créateur,2024-07-20,LinkedIn,1
+CUST_88,Pénélope Maréchal,Carlier,Venezuela,18-25,Premium,2024-11-17,Event Walk-in,0
+CUST_89,Inès Carlier,Klein-sur-Lucas,Andorre,36-45,Créateur,2024-11-12,Event Walk-in,1
+CUST_90,Étienne du Teixeira,LagardeBourg,Guinée-Bissau,36-45,Corporate,2024-10-29,Referral,0
+CUST_91,Roger de la Baron,Pinto-sur-Meyer,Svalbard et Jan Mayen (Îles),26-35,Corporate,2025-01-23,Event Walk-in,0
+CUST_92,Nath Delannoy,Leconte,Suisse,36-45,Corporate,2024-01-01,LinkedIn,1
+CUST_93,Jules Lemaire,Léger,Nigeria,26-35,Corporate,2024-11-25,Google Search,1
+CUST_94,Théophile de la Boyer,Klein-les-Bains,Vietnam,46-60,Régulier,2025-06-07,Google Search,0
+CUST_95,Olivier Charles,Saint Timothée-les-Bains,Ethiopie,18-25,Premium,2025-06-11,Event Walk-in,1
+CUST_96,Gérard Boucher,Blanchard,Roumanie,18-25,Régulier,2024-11-13,TikTok,0
+CUST_97,Michelle Moreno,Sainte Audreynec,Zaïre,26-35,Découverte,2024-02-17,TikTok,1
+CUST_98,Patrick Hervé,Gosselin-la-Forêt,Saint-Marin (Rép. de),18-25,Corporate,2025-02-28,Event Walk-in,0
+CUST_99,Éric Grégoire,RenardBourg,Saint Vincent et les Grenadines,46-60,Corporate,2025-02-13,TikTok,0
+CUST_100,Luc Jacquet,Costedan,Venezuela,18-25,Découverte,2025-03-11,TikTok,0
+CUST_101,Grégoire Schmitt de Maillot,Guillounec,Tanzanie,46-60,Découverte,2024-09-12,Partnership,0
+CUST_102,Roland de la Didier,FerreiraVille,Wallis et Futuna (Îles),46-60,Régulier,2025-04-20,Event Walk-in,1
+CUST_103,Christine du Sauvage,BriandBourg,Uruguay,46-60,Créateur,2025-05-31,Google Search,1
+CUST_104,Gilbert Gauthier,Boulanger-sur-Mer,Monaco,26-35,Corporate,2025-04-05,LinkedIn,0
+CUST_105,Arthur Barbe,Lévy,Inde,36-45,Créateur,2025-05-11,Event Walk-in,0
+CUST_106,Sébastien Colin,Le Rouxboeuf,Afghanistan,36-45,Corporate,2024-03-20,Event Walk-in,1
+CUST_107,Arthur Bouvier-Boyer,Saint Benoît,Madagascar,26-35,Premium,2024-12-09,LinkedIn,0
+CUST_108,Élodie Hoarau,Saint Jacques-sur-Mer,Bhoutan,26-35,Régulier,2024-08-24,Google Search,0
+CUST_109,Catherine du Gillet,Dupré,Micronésie (États fédérés de),26-35,Découverte,2025-02-28,Google Search,1
+CUST_110,Anne Bertrand,Buisson-les-Bains,Sierra Leone,46-60,Corporate,2024-03-04,TikTok,1
+CUST_111,Christophe Le Bousquet,Saint Laure,Arabie saoudite,46-60,Créateur,2024-01-21,Partnership,1
+CUST_112,Victor Leroy Le Moreno,BouvierBourg,Vierges britanniques (Îles),46-60,Découverte,2024-12-26,LinkedIn,1
+CUST_113,Audrey Coulon-Denis,TanguyVille,Montserrat,46-60,Créateur,2024-08-13,Google Search,0
+CUST_114,Alfred du Royer,Le Goffdan,Bangladesh,36-45,Corporate,2025-05-12,Instagram,1
+CUST_115,Manon Dupont,Blanc-sur-Gomez,Thailande,36-45,Corporate,2024-06-18,Partnership,1
+CUST_116,Philippine Simon,Mace-sur-Breton,Territoire britannique de l'océan Indien,26-35,Créateur,2025-06-30,Instagram,1
+CUST_117,Élise Texier de la Robin,Saint ÉricVille,Antilles néerlandaises,18-25,Découverte,2025-03-14,TikTok,1
+CUST_118,Catherine Andre Le Lefebvre,Berger-sur-Leconte,Hong Kong,26-35,Découverte,2024-09-23,Google Search,1
+CUST_119,Caroline Voisin,Dubois,République centrafricaine,26-35,Corporate,2024-11-30,LinkedIn,1
+CUST_120,Alfred Renaud,Guyotdan,Royaume-Uni,36-45,Corporate,2024-09-15,Partnership,0
+CUST_121,Christophe-Xavier Lemaître,Durand,Émirats arabes unis,46-60,Découverte,2024-02-23,LinkedIn,0
+CUST_122,Olivie Jacquot,Ollivier,Malaisie,18-25,Découverte,2024-02-01,TikTok,0
+CUST_123,Hugues Lejeune,Simon-la-Forêt,São Tomé et Príncipe (Rép.),18-25,Créateur,2024-06-05,TikTok,0
+CUST_124,Patrick Pons,Regnier-sur-Mer,Ethiopie,46-60,Découverte,2024-08-11,Google Search,1
+CUST_125,Michelle Mercier,Gosselin-sur-Leclerc,Martinique,36-45,Régulier,2024-04-27,Partnership,0
+CUST_126,Adrienne Moulin,Petitjean,Irak,36-45,Découverte,2024-01-27,LinkedIn,1
+CUST_127,Nathalie Lévêque,Gautier-sur-Daniel,Finlande,46-60,Régulier,2024-03-18,Referral,0
+CUST_128,Margaret Colin,Tessier,Cameroun,18-25,Premium,2024-05-03,Partnership,0
+CUST_129,Manon Pages,Germain-sur-Maury,Saint-Marin (Rép. de),36-45,Créateur,2025-03-14,Event Walk-in,1
+CUST_130,Bernard-Martin Labbé,Sainte Guy,Palau,18-25,Créateur,2024-12-15,Instagram,1
+CUST_131,Alexandria Da Costa,Mercier-la-Forêt,Algérie,46-60,Découverte,2025-03-19,LinkedIn,1
+CUST_132,Luce Delannoy,Ramos,Comores,26-35,Corporate,2024-06-29,Event Walk-in,1
+CUST_133,Frédéric Meyer,Sainte David,Libye,46-60,Corporate,2025-03-22,Partnership,1
+CUST_134,Marianne Schneider,Fontaine,Îles Mineures Éloignées des États-Unis,36-45,Régulier,2024-03-29,LinkedIn,1
+CUST_135,Antoinette Ollivier,Rodriguez,Slovénie,26-35,Corporate,2025-01-23,LinkedIn,0
+CUST_136,Vincent-Daniel Lévêque,Sainte Nicolas,Kiribati,46-60,Premium,2024-07-05,Google Search,0
+CUST_137,Julie de Rossi,Vaillant,Émirats arabes unis,36-45,Premium,2024-12-14,LinkedIn,1
+CUST_138,Richard Leconte,Royer,Chili,18-25,Créateur,2024-07-14,Instagram,0
+CUST_139,Jean Vidal,Blanchard-sur-Andre,Nauru,46-60,Corporate,2024-09-03,Event Walk-in,1
+CUST_140,Guy Guérin de Voisin,Garcia-sur-Mer,Nicaragua,46-60,Corporate,2024-01-18,Instagram,1
+CUST_141,Agnès-Odette Potier,Sainte Aurélie-les-Bains,Féroé (Îles),26-35,Corporate,2024-09-06,LinkedIn,1
+CUST_142,Laure de Imbert,Merle,Slovénie,46-60,Créateur,2025-06-27,LinkedIn,1
+CUST_143,Tristan-Raymond Chauveau,Bonnindan,Arménie,36-45,Premium,2025-04-09,LinkedIn,1
+CUST_144,Augustin Techer,Lesage,Macédoine du Nord,36-45,Régulier,2024-05-03,Event Walk-in,0
+CUST_145,Yves Rodriguez de la Bazin,GonzalezBourg,Géorgie,36-45,Découverte,2024-07-08,TikTok,0
+CUST_146,Nicolas Rey,Perret-les-Bains,Rwanda,46-60,Premium,2025-06-21,Referral,1
+CUST_147,Michel Maury,Renaud,Ghana,18-25,Régulier,2024-10-30,TikTok,1
+CUST_148,Alix Deschamps Le Chartier,RouxVille,Bangladesh,26-35,Premium,2024-01-15,Event Walk-in,0
+CUST_149,Alphonse Vasseur,Reynaud,Inde,36-45,Découverte,2024-02-25,Referral,1
+CUST_150,Gabrielle Paris,Robert-les-Bains,Singapour,26-35,Corporate,2024-04-15,Partnership,0
+CUST_151,Alice Gosselin,Louis-sur-Allard,Brésil,36-45,Corporate,2025-05-05,Google Search,1
+CUST_152,Éléonore Richard de la Delmas,Adam-sur-Gérard,Pakistan,26-35,Découverte,2024-09-15,Partnership,1
+CUST_153,Jacques Besnard,ClercBourg,Pérou,18-25,Découverte,2025-02-14,Google Search,0
+CUST_154,Juliette Jacquot de Pereira,Saint Laurent,Dominique,18-25,Régulier,2024-06-01,Partnership,1
+CUST_155,Dorothée-Emmanuelle Grégoire,Sainte Monique,Bouvet (Îles),18-25,Régulier,2024-05-01,Referral,1
+CUST_156,Susan Lacombe Le Fischer,Saint Étienne-la-Forêt,Porto Rico,26-35,Créateur,2025-01-24,Google Search,1
+CUST_157,Honoré Schmitt-Pichon,Masson,Malawi,36-45,Créateur,2025-03-15,LinkedIn,0
+CUST_158,Marguerite Deschamps,BègueBourg,Fidji (République des),18-25,Régulier,2024-08-04,LinkedIn,0
+CUST_159,Emmanuelle Klein Le Tessier,Coulon-sur-Pires,Ukraine,26-35,Régulier,2024-06-26,Referral,0
+CUST_160,Eugène Carpentier Le Fontaine,BigotBourg,Christmas (Île),26-35,Découverte,2025-02-22,Google Search,1
+CUST_161,Odette Blin,Toussaintdan,Yemen,36-45,Découverte,2024-08-25,LinkedIn,1
+CUST_162,Bernadette Fernandez de Ramos,Sainte Claudine-la-Forêt,Malte,46-60,Découverte,2024-08-27,LinkedIn,0
+CUST_163,Christiane Joly-Lévêque,Leroy,Irlande,46-60,Découverte,2024-08-18,Event Walk-in,0
+CUST_164,Pauline de Godard,Saint Martin,Nauru,36-45,Régulier,2024-03-14,Instagram,0
+CUST_165,François Le Renard,Lopeznec,Namibie,36-45,Créateur,2024-10-22,Google Search,0
+CUST_166,Aimé Muller-Moreau,Rivièreboeuf,Chypre,46-60,Premium,2025-02-16,LinkedIn,1
+CUST_167,Marie Andre,Merle,Italie,46-60,Découverte,2024-02-10,Google Search,1
+CUST_168,Adrien Le Lombard,Saint Alex,Somalie,36-45,Découverte,2024-04-03,TikTok,0
+CUST_169,Céline Gallet,Collet-sur-Bonnin,Gabon,36-45,Créateur,2024-02-11,Partnership,0
+CUST_170,Henriette Royer,Boulanger,Kirghizistan,46-60,Créateur,2025-03-28,LinkedIn,0
+CUST_171,Arthur Hardy,JacquotVille,Jordanie,46-60,Corporate,2024-04-03,Google Search,1
+CUST_172,Camille Gallet,Gauthierdan,Cook (Îles),46-60,Premium,2024-11-24,Event Walk-in,0
+CUST_173,Thibault Poirier,CarlierVille,Lesotho,26-35,Premium,2025-02-25,Event Walk-in,1
+CUST_174,Eugène Robin-Georges,VidalVille,Mariannes du Nord (Îles),36-45,Corporate,2024-02-07,Google Search,0
+CUST_175,Lorraine Roy-De Oliveira,Clément,Tunisie,36-45,Premium,2024-11-27,Instagram,1
+CUST_176,Christelle Legros-Georges,PereiraBourg,Vietnam,18-25,Créateur,2025-04-18,Google Search,0
+CUST_177,Yves-Thibaut Vidal,Albert-la-Forêt,Mayotte,26-35,Créateur,2025-01-05,Referral,1
+CUST_178,Alexandre Lemaire-Bazin,Saint Nicolas-les-Bains,Vatican (Etat du),46-60,Découverte,2024-07-27,LinkedIn,0
+CUST_179,Michelle Pasquier,Marin,Arabie saoudite,36-45,Corporate,2025-05-11,Instagram,0
+CUST_180,Victor Laurent,Sainte AntoinetteVille,Niue,26-35,Régulier,2024-11-14,Referral,0
+CUST_181,Antoine-Alfred Hervé,GuillotBourg,Kiribati,46-60,Découverte,2024-08-18,Partnership,0
+CUST_182,Marcelle Salmon de la Barthelemy,Sainte Bernard,Botswana,46-60,Découverte,2024-06-06,Google Search,1
+CUST_183,Noël-Benoît Lejeune,Bourgeois,Pitcairn (Îles),36-45,Corporate,2025-05-09,Google Search,0
+CUST_184,Colette Maillet,Gaudin-les-Bains,Bahamas,46-60,Créateur,2024-05-28,Google Search,0
+CUST_185,Jérôme Wagner,Bonnet-sur-Picard,Saint Pierre et Miquelon,26-35,Découverte,2024-10-09,Partnership,1
+CUST_186,Diane Le Teixeira,Chrétien,Émirats arabes unis,36-45,Créateur,2024-09-30,Partnership,0
+CUST_187,Sylvie-Nathalie Barre,Perrierboeuf,Indonésie,36-45,Premium,2025-05-16,Partnership,0
+CUST_188,Julien Gosselin de la Muller,Leblanc,Algérie,46-60,Créateur,2025-05-10,LinkedIn,1
+CUST_189,Zoé de la Lemoine,Bouchet-sur-Mer,Norfolk (Îles),46-60,Corporate,2024-11-25,Partnership,0
+CUST_190,Joséphine Salmon,Légerdan,Samoa,26-35,Créateur,2025-01-27,TikTok,1
+CUST_191,Antoine Leroy,Carliernec,Comores,18-25,Premium,2025-04-29,Event Walk-in,1
+CUST_192,Paulette Lefebvre,Étienne,Irak,46-60,Régulier,2025-05-22,Instagram,0
+CUST_193,Pierre Mathieu,Bertrandboeuf,Émirats arabes unis,36-45,Découverte,2025-03-26,Instagram,1
+CUST_194,Charles Le Goff,Lopes,Féroé (Îles),18-25,Régulier,2025-02-23,Partnership,0
+CUST_195,Maurice Ferrand,Massondan,Kazakhstan,18-25,Corporate,2024-09-28,LinkedIn,1
+CUST_196,Georges Pinto,Blot,Irak,18-25,Premium,2025-06-30,Google Search,1
+CUST_197,Sylvie Le Payet,Grégoire-sur-Raynaud,Micronésie (États fédérés de),46-60,Créateur,2024-02-06,Referral,0
+CUST_198,Thérèse Leblanc de Dumas,Gosselin,Israël,26-35,Premium,2024-08-20,Event Walk-in,0
+CUST_199,Mathilde Arnaud,Charrierdan,Jordanie,46-60,Découverte,2024-04-12,Google Search,0
+CUST_200,Alfred-Thierry Meyer,Perrin-sur-Ramos,Gibraltar,36-45,Découverte,2024-02-17,LinkedIn,0
+CUST_201,Julien Besnard,Guérin,Gibraltar,36-45,Premium,2025-01-18,Google Search,0
+CUST_202,Valérie de la Bernard,Saint Jules-sur-Mer,Cuba,26-35,Créateur,2025-02-25,Referral,0
+CUST_203,Claude-Margaux Rossi,Saint Manon,Laos,26-35,Régulier,2024-03-21,Referral,1
+CUST_204,Étienne Dijoux,Baudry-les-Bains,Guinée Equatoriale,26-35,Corporate,2024-05-26,TikTok,1
+CUST_205,Alfred Renaud,Chartier,La Barbad,36-45,Corporate,2024-09-18,Event Walk-in,0
+CUST_206,Élodie Bègue de Benard,Saint Aimée,Mayotte,46-60,Premium,2024-06-10,Instagram,1
+CUST_207,Arthur Diallo,Saint Susan,Norfolk (Îles),36-45,Créateur,2024-11-02,Event Walk-in,1
+CUST_208,Benoît de Guillot,Carre-sur-Deschamps,Ouganda,36-45,Corporate,2024-11-05,TikTok,1
+CUST_209,Philippe Pottier,Hoaraunec,Aruba,46-60,Découverte,2024-08-30,Google Search,1
+CUST_210,Alfred Le Morel,Charrier,Bulgarie,36-45,Premium,2024-01-23,Partnership,1
+CUST_211,Matthieu Le Mahe,Saint Élodie,Bahrain,36-45,Découverte,2024-02-20,Referral,1
+CUST_212,Yves Bodin,Pottierdan,Nigeria,36-45,Régulier,2024-12-26,TikTok,0
+CUST_213,Michel Chauveau,Duhamelboeuf,Togo,36-45,Régulier,2024-04-09,Event Walk-in,0
+CUST_214,Victor Mallet,Vallet,Suède,36-45,Corporate,2024-02-04,Referral,1
+CUST_215,Thibaut Roussel,Sainte Andrée-la-Forêt,Pologne,26-35,Découverte,2024-10-29,LinkedIn,1
+CUST_216,Auguste Bernier,Briand-sur-Mer,Kiribati,26-35,Régulier,2024-05-15,Partnership,1
+CUST_217,Capucine Lebon,Saint Michellenec,Slovaquie,36-45,Régulier,2024-09-20,Partnership,1
+CUST_218,Inès Gaudin de Maréchal,Costa,Tunisie,36-45,Premium,2024-04-27,Google Search,0
+CUST_219,Benjamin Picard,Loiseau-les-Bains,Suède,26-35,Régulier,2025-02-10,Partnership,1
+CUST_220,Monique Pichon,Lefort-la-Forêt,Porto Rico,18-25,Corporate,2024-01-15,LinkedIn,0
+CUST_221,Bernard Lacombe,Torres,Samoa,46-60,Premium,2024-09-25,Referral,1
+CUST_222,Alphonse Bazin de Gomez,HebertBourg,Tchad,36-45,Découverte,2024-08-27,Google Search,0
+CUST_223,Édouard Barre,Gilletboeuf,Paraguay,36-45,Créateur,2024-08-14,Event Walk-in,0
+CUST_224,Antoine Aubert-Chevalier,Sainte Marine,Tokelau,46-60,Premium,2025-02-22,Instagram,0
+CUST_225,Margaux Clerc,CoulonVille,Syrie,18-25,Découverte,2024-11-07,Google Search,0
+CUST_226,Marguerite du Gomes,Gros,Guinée,18-25,Régulier,2024-05-18,Google Search,1
+CUST_227,Agathe Le Bousquet,Lainenec,Nouvelle Calédonie,36-45,Créateur,2025-03-05,Referral,0
+CUST_228,Clémence Guillaume,Saint Roger,Cayman (Îles),46-60,Découverte,2025-05-16,Referral,1
+CUST_229,Marie Payet de la Couturier,Schneider-les-Bains,Chine (Rép. pop.),36-45,Découverte,2025-01-14,TikTok,1
+CUST_230,Éric-Gilles Duval,Nicolas-sur-Gomes,Irlande,46-60,Régulier,2025-01-06,Instagram,1
+CUST_231,Philippine Clerc,Saint Jean-les-Bains,Jamaïque,36-45,Découverte,2025-02-11,LinkedIn,0
+CUST_232,Denise Delannoy Le Blin,Leroy,Colombie,18-25,Corporate,2024-04-03,Event Walk-in,0
+CUST_233,Bertrand Joseph-Pasquier,Merle-sur-Cohen,Uruguay,18-25,Découverte,2024-12-07,TikTok,0
+CUST_234,Paul Pineau,Seguin,Iran,26-35,Découverte,2024-07-31,Referral,0
+CUST_235,Camille Chartier,Sainte Yvesboeuf,Taiwan,26-35,Premium,2024-05-31,Partnership,0
+CUST_236,Lorraine Perez,Saint Zoé-la-Forêt,Pays-Bas,36-45,Régulier,2024-05-13,Referral,1
+CUST_237,Richard de la Guilbert,Gillesdan,Guatemala,26-35,Découverte,2024-01-27,TikTok,0
+CUST_238,Catherine de la Lesage,Monnier-sur-Roy,Espagne,36-45,Régulier,2024-11-27,Instagram,0
+CUST_239,Timothée Seguin-Dos Santos,Voisin,Rép. Dém. du Congo,36-45,Découverte,2024-05-09,Event Walk-in,1
+CUST_240,Lucas-Roger Alves,Monniernec,Somalie,18-25,Découverte,2025-05-02,Google Search,1
+CUST_241,Émilie Renard,Saint Christelle-sur-Mer,Ghana,18-25,Corporate,2025-05-30,TikTok,0
+CUST_242,Thierry-Bernard Perez,Benoit,Panama,36-45,Corporate,2024-02-01,Instagram,1
+CUST_243,Guillaume Dumont,Hoareau,Liban,46-60,Corporate,2024-04-20,Google Search,1
+CUST_244,Luce Mercier,Pasquier-sur-Navarro,République centrafricaine,18-25,Découverte,2024-11-25,Referral,0
+CUST_245,Laetitia Robert-Clerc,Saint Laure,Cambodge,18-25,Régulier,2024-10-08,Referral,1
+CUST_246,Adèle Leblanc,Saint Théophile,Guatemala,46-60,Créateur,2025-06-27,LinkedIn,1
+CUST_247,Joséphine Collet,Saint Josette,Somalie,46-60,Découverte,2024-04-27,Partnership,0
+CUST_248,Roland Louis-Lemaître,Charrier-sur-Guichard,Ghana,46-60,Corporate,2024-08-21,Google Search,1
+CUST_249,Dominique Langlois,RegnierVille,Bulgarie,46-60,Corporate,2025-03-01,Event Walk-in,0
+CUST_250,Roger Lelièvre,Maury,Équateur,36-45,Corporate,2024-11-16,Event Walk-in,1
+CUST_251,Timothée Grenier,Chrétien,Cap Vert,36-45,Régulier,2025-04-30,Instagram,0
+CUST_252,Susanne du Riou,Bouvet-sur-Mer,Macau,18-25,Découverte,2025-03-18,Instagram,1
+CUST_253,Gilles Gérard,Boulangerdan,Nauru,26-35,Créateur,2024-03-02,Referral,1
+CUST_254,Luc Lefèvre,Gilles,Guinée,18-25,Corporate,2024-12-28,Partnership,1
+CUST_255,Marthe Fischer,PaulBourg,Iran,18-25,Premium,2024-11-15,LinkedIn,0
+CUST_256,Margaret Guyon,Denis,Hong Kong,26-35,Régulier,2025-05-08,TikTok,0
+CUST_257,Roger Salmon,Devaux,République centrafricaine,36-45,Créateur,2025-01-11,Instagram,1
+CUST_258,Odette Voisin,Perrier,Luxembourg,26-35,Corporate,2024-01-27,Referral,1
+CUST_259,Amélie Alexandre Le Rossi,Saint Alainnec,Japon,18-25,Régulier,2024-10-06,Event Walk-in,1
+CUST_260,Julien Schmitt,RémyVille,Zimbabwe,36-45,Premium,2024-01-07,TikTok,0
+CUST_261,Céline Mahe,Marchalnec,Suriname,46-60,Découverte,2024-05-25,Event Walk-in,0
+CUST_262,Margot Jourdan,Salmon,Sainte Hélène,18-25,Créateur,2024-08-08,Google Search,1
+CUST_263,Charles Michaud de Grenier,Charles,Christmas (Île),46-60,Premium,2024-06-10,LinkedIn,1
+CUST_264,Théophile Dupré,LebretonBourg,Corée du Nord,36-45,Créateur,2024-03-27,Instagram,0
+CUST_265,Stéphanie Normand de Marchal,Sainte Manon,Botswana,26-35,Créateur,2024-02-20,Event Walk-in,0
+CUST_266,Thibaut Bonnin-Brunet,Boulanger,Canada,36-45,Corporate,2025-03-10,Google Search,1
+CUST_267,Gérard Ollivier,Saint Aurélienec,Réunion (La),46-60,Premium,2024-08-08,Partnership,0
+CUST_268,Bernard Thibault,Alexandre,Antarctique,36-45,Corporate,2024-04-23,LinkedIn,1
+CUST_269,Isaac-Honoré Maurice,Lebreton,Paraguay,36-45,Découverte,2024-08-13,Google Search,0
+CUST_270,Margaud Roche,Dufour,Andorre,18-25,Régulier,2024-11-04,TikTok,0
+CUST_271,Bernadette Leduc,Dias,Tonga,36-45,Premium,2024-12-01,Instagram,0
+CUST_272,Maggie Bonnet,PoulainBourg,Liechtenstein,46-60,Corporate,2024-06-28,TikTok,1
+CUST_273,Nicolas Maillet,Girard-sur-Maillard,Chili,26-35,Créateur,2024-12-28,Instagram,1
+CUST_274,Marguerite Humbert,Saint Laetitia-la-Forêt,Géorgie du Sud et Sandwich du Sud (Îles),18-25,Corporate,2024-01-20,Google Search,0
+CUST_275,Agnès Vallet,Julienboeuf,Taiwan,36-45,Créateur,2025-03-15,Referral,1
+CUST_276,Agnès Gauthier-Vidal,Saint Hortense,Irlande,46-60,Premium,2024-04-27,Google Search,0
+CUST_277,Auguste Marchand,Saint Auguste,Bulgarie,36-45,Régulier,2025-04-16,Partnership,1
+CUST_278,Gilbert Pruvost Le Diallo,Saint Alex-sur-Mer,Ukraine,18-25,Corporate,2024-04-18,TikTok,1
+CUST_279,Franck Rodrigues,Gosselin,Cap Vert,46-60,Créateur,2024-03-21,Google Search,1
+CUST_280,Georges Leconte,Saint Olivier,Argentine,36-45,Régulier,2024-12-07,Partnership,0
+CUST_281,Charles Gimenez Le Wagner,Léger-la-Forêt,Zambie,18-25,Créateur,2024-04-26,Referral,0
+CUST_282,Timothée Guyon,Duhamel-sur-Mer,Nouvelle-Zélande,36-45,Premium,2024-05-31,TikTok,0
+CUST_283,Marine Hervé,Bernier-la-Forêt,Slovaquie,26-35,Premium,2024-07-21,TikTok,0
+CUST_284,Simone Le Gauthier,Lefèvre,Laos,18-25,Régulier,2025-05-20,Google Search,1
+CUST_285,Noël-Michel Costa,Ferrand,Grenade,36-45,Premium,2024-06-03,Google Search,0
+CUST_286,Emmanuelle Grenier de la Traore,Brunetdan,Allemagne,46-60,Corporate,2024-11-06,Partnership,1
+CUST_287,Sabine Ledoux,Diaznec,Lithuanie,18-25,Premium,2025-06-03,Instagram,1
+CUST_288,Aimée Roussel,Fernandes,Maroc,46-60,Corporate,2024-02-08,Instagram,1
+CUST_289,Cécile Lacombe-Klein,Saint Deniseboeuf,Liban,36-45,Découverte,2024-04-02,Referral,1
+CUST_290,Élisabeth Laporte,Maury,Cap Vert,46-60,Créateur,2024-02-12,Google Search,0
+CUST_291,Laure de Briand,Dumont-sur-Coulon,Canada,36-45,Créateur,2025-05-02,Referral,0
+CUST_292,Inès du Aubert,Saint Jacqueline,Libye,18-25,Corporate,2024-04-15,Partnership,1
+CUST_293,Sylvie-Emmanuelle Baudry,Saint Margaret,Koweit,18-25,Créateur,2024-06-25,Instagram,0
+CUST_294,Éric Richard,Perret-sur-Blanc,Togo,46-60,Corporate,2025-06-20,Referral,0
+CUST_295,Virginie Leclerc,Sainte Sébastien-sur-Mer,Mexique,36-45,Premium,2024-10-16,Google Search,1
+CUST_296,Arthur Colin,Bègue-les-Bains,Luxembourg,36-45,Créateur,2024-02-23,Partnership,1
+CUST_297,Anaïs Collin,Renault-sur-Mer,Chypre,18-25,Premium,2024-04-06,Referral,1
+CUST_298,Margaret Breton,Rocher-sur-Fernandez,Inde,36-45,Premium,2024-06-02,LinkedIn,0
+CUST_299,Matthieu Gimenez,Fleury,Ouganda,26-35,Premium,2024-11-13,Event Walk-in,1
+CUST_300,Olivie Jacques,Raynaud,Zimbabwe,26-35,Créateur,2024-03-27,LinkedIn,1
+CUST_301,Joséphine Baudry,Lebon-sur-Mer,Luxembourg,36-45,Régulier,2025-06-23,Instagram,1
+CUST_302,Thomas Michel,Pelletier-sur-Jacquet,Nauru,36-45,Découverte,2025-01-06,LinkedIn,0
+CUST_303,Benoît Hoarau,Lemaître-la-Forêt,Moldavie,26-35,Premium,2025-05-12,TikTok,0
+CUST_304,Alexandre de la Delattre,Rodrigues,Liechtenstein,26-35,Régulier,2024-03-20,LinkedIn,0
+CUST_305,Éric de Le Gall,Saint David,Bouvet (Îles),18-25,Premium,2024-05-14,Referral,1
+CUST_306,Isaac Breton de Mace,Sainte Susan,Guinée,26-35,Régulier,2024-07-04,Partnership,0
+CUST_307,Stéphane Vallet,Saint Astridboeuf,Liechtenstein,46-60,Découverte,2025-02-24,LinkedIn,0
+CUST_308,Luce Duval,Saint Bertrand,Lithuanie,46-60,Créateur,2024-10-18,Partnership,1
+CUST_309,Louis Morel,Pascal-sur-Moulin,Roumanie,26-35,Créateur,2024-09-01,LinkedIn,1
+CUST_310,Paul Ferreira,Chauveau,Chili,26-35,Premium,2025-03-27,Google Search,1
+CUST_311,Jacques Ferrand,Petitjean,Australie,46-60,Créateur,2025-06-24,Google Search,0
+CUST_312,Marie Launay,Danielnec,Lithuanie,26-35,Créateur,2024-05-21,Partnership,1
+CUST_313,Gabriel de Ledoux,Saint Augustin,Seychelles,18-25,Corporate,2025-01-15,Referral,0
+CUST_314,Denis Garcia,Girard,Territoire britannique de l'océan Indien,18-25,Premium,2024-03-26,Partnership,0
+CUST_315,Adélaïde Peltier du François,Sainte Robertdan,Brunei,36-45,Corporate,2025-06-09,TikTok,1
+CUST_316,Auguste Masson,Meunier,Sénégal,18-25,Régulier,2025-04-06,LinkedIn,0
+CUST_317,Alphonse Chartier du Grenier,BoulayVille,Turks et Caïques (Îles),46-60,Découverte,2025-02-09,Referral,1
+CUST_318,Suzanne Clerc-Chauvet,Pelletierdan,Mozambique,26-35,Corporate,2024-03-24,LinkedIn,0
+CUST_319,Céline Lemaître,Jean-sur-Lamy,Vatican (Etat du),18-25,Premium,2024-04-11,Partnership,1
+CUST_320,Léon de la Gros,Martin,Cayman (Îles),26-35,Régulier,2024-02-09,LinkedIn,1
+CUST_321,Mathilde Boucher,Techer,Vierges (Îles),26-35,Corporate,2025-04-04,Referral,0
+CUST_322,Victor Mallet de Marion,Sainte Noël,Iran,18-25,Découverte,2024-09-19,TikTok,0
+CUST_323,François Nguyen,GuyonBourg,Ethiopie,46-60,Découverte,2024-10-22,TikTok,1
+CUST_324,Franck de Laporte,Saint Mathilde,Porto Rico,18-25,Découverte,2024-09-01,Google Search,1
+CUST_325,Geneviève Rocher,Ledoux,Rép. Dém. du Congo,18-25,Découverte,2025-05-26,Referral,0
+CUST_326,Antoine du Marchal,Noël-sur-Bazin,Territoire britannique de l'océan Indien,26-35,Régulier,2024-10-25,Google Search,0
+CUST_327,Josette Guilbert-Voisin,Sainte Thomas,Philippines,36-45,Régulier,2025-03-02,TikTok,0
+CUST_328,Hélène Blondel,Lemaître-sur-Clerc,Grenade,36-45,Découverte,2025-06-22,Referral,0
+CUST_329,Antoine Didier de la Nguyen,Sainte Valérie-sur-Mer,Philippines,46-60,Corporate,2024-02-14,Event Walk-in,1
+CUST_330,Roger Besson du Carlier,Laroche,Bangladesh,36-45,Premium,2024-01-17,LinkedIn,0
+CUST_331,Susan du Dupuy,Sainte Jacqueline,Sahara Occidental,36-45,Régulier,2024-04-16,Partnership,1
+CUST_332,Laetitia Lefebvre-Delaunay,Renard,Sainte Hélène,26-35,Découverte,2024-12-26,Referral,1
+CUST_333,Marcel Hernandez,Saint Édithnec,Irlande,26-35,Corporate,2025-05-05,Event Walk-in,0
+CUST_334,Isabelle Rousseau,Lopes,Anguilla,26-35,Découverte,2025-04-13,Instagram,1
+CUST_335,Laure Da Silva,LebrunBourg,Tanzanie,26-35,Découverte,2024-07-23,Instagram,1
+CUST_336,Adèle Perrot-Leblanc,Berniernec,Liban,36-45,Créateur,2025-02-11,Partnership,1
+CUST_337,Catherine Fernandes,Lemoinedan,Qatar,36-45,Découverte,2024-07-14,LinkedIn,1
+CUST_338,Odette Boutin,Coste,Vierges britanniques (Îles),18-25,Premium,2024-10-06,Instagram,1
+CUST_339,Isabelle-Laetitia Daniel,Chartierdan,Jordanie,46-60,Corporate,2025-03-26,Google Search,1
+CUST_340,Nathalie Wagner,Pottier,Corée du Nord,26-35,Corporate,2025-05-24,LinkedIn,1
+CUST_341,Olivier De Oliveira-Hoarau,Loiseau-la-Forêt,Territoires français du sud,18-25,Corporate,2024-03-21,Google Search,0
+CUST_342,Frédérique de la Thierry,Nicolas,Syrie,36-45,Premium,2024-04-15,Instagram,1
+CUST_343,Margaux Blanchard,Aubry,Panama,36-45,Premium,2025-04-01,Referral,1
+CUST_344,Jacques Charrier,Saint Michèle,Espagne,26-35,Corporate,2024-12-25,Google Search,0
+CUST_345,Thibaut Pruvost,Leclerc-sur-Mer,Argentine,36-45,Créateur,2025-03-21,LinkedIn,0
+CUST_346,Luce de Aubry,Boutin,Hong Kong,18-25,Corporate,2025-01-07,Referral,0
+CUST_347,Astrid Germain,Lerouxboeuf,Guatemala,18-25,Régulier,2025-03-24,Instagram,0
+CUST_348,Robert Lamy,Saint Margaretnec,Somalie,18-25,Régulier,2025-01-10,LinkedIn,1
+CUST_349,Gérard-Matthieu Goncalves,RichardBourg,Pérou,18-25,Créateur,2024-06-06,Event Walk-in,1
+CUST_350,Véronique Coulon,Morvan,Cameroun,36-45,Premium,2025-03-30,Partnership,0
+CUST_351,Thérèse Torres,Caron,Guyane,26-35,Créateur,2025-01-10,Google Search,1
+CUST_352,Louise Fleury,Bertranddan,Antilles néerlandaises,36-45,Régulier,2024-04-26,Instagram,0
+CUST_353,Eugène Coste,Hoarau,Brésil,46-60,Créateur,2025-01-31,Referral,0
+CUST_354,Émilie Barthelemy,Poulain,Saint-Kitts et Nevis,36-45,Premium,2025-04-01,TikTok,1
+CUST_355,Hugues de la Bertrand,Saint Claude,Honduras,46-60,Régulier,2024-05-05,TikTok,0
+CUST_356,Renée Rodrigues,Gauthier,Australie,46-60,Régulier,2025-03-31,Instagram,1
+CUST_357,Margaux Blanchard,Roger-sur-Garnier,Croatie,36-45,Découverte,2024-10-24,LinkedIn,0
+CUST_358,Roland-Patrick Bertin,Saint Alexandre,Cap Vert,26-35,Premium,2025-06-04,TikTok,0
+CUST_359,Honoré Lagarde,François-sur-Mer,Oman,26-35,Régulier,2024-08-30,Partnership,1
+CUST_360,Frédéric Carre Le Carpentier,DiasBourg,Russie,18-25,Premium,2025-01-12,Google Search,0
+CUST_361,Alix Dufour de Barbier,Blanc-sur-Collin,Lettonie,18-25,Découverte,2024-11-12,Google Search,1
+CUST_362,Julien Charpentier,Pineau,Islande,46-60,Corporate,2024-03-16,TikTok,1
+CUST_363,Raymond Guillet,Louis,Norvège,18-25,Corporate,2025-04-22,Event Walk-in,1
+CUST_364,Joséphine Clément,ImbertBourg,Oman,26-35,Créateur,2024-07-05,Partnership,0
+CUST_365,Thibault Baudry,Guillon-les-Bains,Tokelau,46-60,Créateur,2024-02-26,Partnership,0
+CUST_366,Susanne Moreno,Leclercq,Guinée-Bissau,26-35,Premium,2024-06-17,TikTok,1
+CUST_367,Alfred Nguyen,Hardy-les-Bains,Japon,26-35,Premium,2025-06-15,LinkedIn,0
+CUST_368,Françoise Gautier-Alexandre,Chrétien,Kirghizistan,36-45,Régulier,2024-10-08,TikTok,1
+CUST_369,Martin Leconte,Rodrigues-sur-Collin,République centrafricaine,18-25,Créateur,2024-06-21,Referral,0
+CUST_370,Inès Guillou,Sainte Édith,Nouvelle Calédonie,26-35,Créateur,2024-12-11,Partnership,0
+CUST_371,Michèle Goncalves,David,Russie,18-25,Découverte,2024-02-16,Event Walk-in,1
+CUST_372,Françoise Léger,DiasBourg,Yemen,26-35,Créateur,2025-03-02,Referral,0
+CUST_373,Brigitte Prévost-Gauthier,Jacquot,Madagascar,46-60,Créateur,2024-10-23,Event Walk-in,1
+CUST_374,Marguerite Dupré du Merle,Arnaudboeuf,Uruguay,46-60,Régulier,2025-02-19,LinkedIn,1
+CUST_375,Pénélope Valette,Boucherboeuf,Sahara Occidental,18-25,Découverte,2024-06-10,Google Search,1
+CUST_376,Olivie Marques du Chevallier,Da Silva,Égypte,46-60,Corporate,2024-07-27,LinkedIn,0
+CUST_377,Henri Hoareau,Duval,Russie,36-45,Premium,2024-12-19,Google Search,0
+CUST_378,Jeannine Navarro,Hamel,Côte d'Ivoire,36-45,Créateur,2024-04-18,LinkedIn,0
+CUST_379,Margot-Isabelle Blondel,David,Kazakhstan,46-60,Découverte,2024-09-30,Google Search,0
+CUST_380,Caroline Roger,GautierVille,Saint-Kitts et Nevis,26-35,Découverte,2024-02-21,LinkedIn,1
+CUST_381,Tristan Le Boutin,Fischer,Tunisie,46-60,Régulier,2024-06-12,Partnership,1
+CUST_382,Anaïs Boucher du Pereira,Chevalier,Antilles néerlandaises,36-45,Régulier,2024-06-12,Google Search,1
+CUST_383,François Colas,Sainte Édouard,Belgique,46-60,Premium,2025-05-24,Instagram,0
+CUST_384,Théophile Bourgeois,Rousset,Papouasie-Nouvelle-Guinée,46-60,Créateur,2025-04-13,TikTok,0
+CUST_385,Émile Rossi,Saint StéphanieBourg,Soudan,36-45,Découverte,2024-02-21,LinkedIn,1
+CUST_386,Alexandria Aubert,Sainte Odettedan,Guyane française,46-60,Premium,2024-01-09,Partnership,0
+CUST_387,Timothée Leblanc,Chevallier-la-Forêt,Qatar,46-60,Régulier,2024-09-27,Event Walk-in,1
+CUST_388,Alphonse-Gilles Guibert,Lemoine-sur-Laporte,Lettonie,46-60,Premium,2024-02-16,Google Search,0
+CUST_389,Eugène Langlois-Thibault,Blanchardnec,Kirghizistan,26-35,Premium,2024-10-22,Instagram,1
+CUST_390,Alphonse Fouquet-Albert,Gallet,Koweit,46-60,Créateur,2024-10-13,Partnership,0
+CUST_391,Océane Blin-Joseph,Dupont,Vatican (Etat du),26-35,Découverte,2025-02-07,LinkedIn,1
+CUST_392,Juliette Adam,Paul,Côte d'Ivoire,36-45,Régulier,2024-07-22,Referral,1
+CUST_393,Adélaïde Guilbert,Delahayedan,Namibie,18-25,Découverte,2024-02-09,TikTok,1
+CUST_394,Lucas Blin,Saint Aurélie-sur-Mer,Espagne,46-60,Créateur,2025-04-12,TikTok,0
+CUST_395,Laurent Arnaud,Laporte,Sainte Hélène,36-45,Créateur,2024-11-22,TikTok,1
+CUST_396,Noémi Louis,Laporte,Vierges britanniques (Îles),36-45,Créateur,2024-12-10,Referral,1
+CUST_397,Jean-Richard Richard,Sainte Gilles,Burundi,36-45,Corporate,2024-01-18,LinkedIn,1
+CUST_398,Alexandrie Guillot,Sainte Alfred-sur-Mer,Féroé (Îles),18-25,Corporate,2024-11-11,Partnership,0
+CUST_399,Alexandrie Duhamel,Faure,Allemagne,46-60,Premium,2024-08-21,Event Walk-in,0
+CUST_400,Geneviève Launay-Morel,Peltier,Comores,46-60,Régulier,2025-06-20,Event Walk-in,1
+CUST_401,Martine Jacob de Masse,ColletVille,Islande,26-35,Régulier,2024-02-02,Referral,0
+CUST_402,Capucine Berger-Gros,Le Gall,Féroé (Îles),26-35,Découverte,2025-03-27,LinkedIn,1
+CUST_403,Matthieu Payet,Joseph,Tchad,26-35,Corporate,2024-07-27,Google Search,1
+CUST_404,Jules Verdier de Thibault,Sainte CécileBourg,Myanmar,18-25,Régulier,2025-06-15,TikTok,1
+CUST_405,Véronique Hervé,Rodriguesdan,Bangladesh,46-60,Créateur,2025-01-20,LinkedIn,0
+CUST_406,Henriette Hubert,Saint Sébastien-la-Forêt,Zambie,46-60,Créateur,2024-12-16,Referral,1
+CUST_407,Catherine-Isabelle Leduc,Rousseaunec,Bangladesh,36-45,Créateur,2025-05-10,TikTok,0
+CUST_408,Élise Brun,Saint Célina,Cayman (Îles),36-45,Créateur,2024-11-01,TikTok,1
+CUST_409,Jean Pons,Sainte VirginieVille,Lesotho,36-45,Régulier,2025-05-15,LinkedIn,1
+CUST_410,Suzanne Pereira-Maurice,Teixeira,Maldives (Îles),36-45,Créateur,2024-10-07,LinkedIn,0
+CUST_411,Stéphanie Guillon de la Gomez,Faure,Cocos (Îles),46-60,Corporate,2024-12-19,Partnership,0
+CUST_412,Sabine de la Rousset,Saint Thomas,Norvège,36-45,Découverte,2024-10-21,Event Walk-in,0
+CUST_413,Éléonore Lenoir,Lucas,Slovaquie,36-45,Corporate,2024-09-19,Event Walk-in,1
+CUST_414,Thérèse Huet de la Humbert,Roger,Vierges (Îles),26-35,Régulier,2024-10-04,Referral,1
+CUST_415,Aimé Techer,Sainte Mathilde,Guinée Equatoriale,26-35,Découverte,2024-09-02,TikTok,0
+CUST_416,Thibaut Nguyen,Legros-sur-Vasseur,Brunei,26-35,Régulier,2024-02-23,Instagram,1
+CUST_417,Honoré Laroche Le Dufour,Hoareauboeuf,Luxembourg,36-45,Corporate,2024-04-12,Event Walk-in,0
+CUST_418,Augustin de Julien,Leconte,Guam,18-25,Créateur,2024-06-10,Google Search,1
+CUST_419,Odette Roger,Sainte Stéphaniedan,Samoa,46-60,Régulier,2024-10-21,LinkedIn,1
+CUST_420,Honoré Guillot,Sainte Édouard-sur-Mer,Iran,18-25,Découverte,2024-08-25,Referral,0
+CUST_421,Luce Collet,Pelletier-sur-Poirier,Féroé (Îles),26-35,Corporate,2024-06-29,Instagram,1
+CUST_422,Éléonore-Charlotte Deschamps,Sainte MargotVille,République centrafricaine,46-60,Régulier,2024-10-23,Instagram,0
+CUST_423,René Duval,Saint Richardnec,Tchad,36-45,Créateur,2024-04-19,LinkedIn,1
+CUST_424,Henri Neveu,Hamel,Rép. Dém. du Congo,46-60,Créateur,2025-06-20,Google Search,0
+CUST_425,Benoît Foucher,Allain-les-Bains,Tanzanie,46-60,Premium,2024-07-16,Partnership,0
+CUST_426,Julie Le Roux,Saint Hélène,Jordanie,36-45,Régulier,2025-04-14,Event Walk-in,1
+CUST_427,Nicolas Denis,Saint ThérèseBourg,États-Unis,26-35,Découverte,2024-12-11,Partnership,1
+CUST_428,Aurélie Martin,Dubois,Benin,26-35,Régulier,2025-02-19,Partnership,1
+CUST_429,Jeannine de la Brunet,Joubert-les-Bains,Maldives (Îles),36-45,Découverte,2025-02-14,Event Walk-in,0
+CUST_430,Pierre Perret,Techer,Rép. Dém. du Congo,26-35,Régulier,2025-05-03,LinkedIn,0
+CUST_431,Isaac de Robin,Rousseau,Porto Rico,18-25,Premium,2025-01-27,TikTok,1
+CUST_432,Pauline Cordier,Leclercnec,Jordanie,36-45,Premium,2024-11-05,Referral,0
+CUST_433,Philippine Guérin-Dumont,Meyer,Afrique du sud,36-45,Premium,2024-08-29,Instagram,0
+CUST_434,Paul Gillet,Sainte Christiane,Bolivie,46-60,Premium,2024-06-12,Google Search,1
+CUST_435,Grégoire Barre,Sainte Daniel,Samoa,18-25,Premium,2025-01-11,Referral,0
+CUST_436,Léon Pereira,Sainte Olivierboeuf,Royaume-Uni,26-35,Régulier,2025-05-04,TikTok,1
+CUST_437,Julie François,Colas-sur-Ferrand,Estonie,36-45,Corporate,2025-04-27,Partnership,0
+CUST_438,Roger Clerc,Le Roux,Guyane,26-35,Créateur,2024-03-24,Referral,1
+CUST_439,Corinne Delaunay,Rochedan,Libéria,36-45,Découverte,2024-04-24,Instagram,0
+CUST_440,Alain Buisson,De Oliveiraboeuf,Ukraine,26-35,Régulier,2024-12-01,Partnership,1
+CUST_441,Aurore-Gabrielle Ruiz,Boyer,Aruba,18-25,Régulier,2025-05-15,Instagram,1
+CUST_442,Sébastien Guérin de Bourgeois,Perrier,São Tomé et Príncipe (Rép.),18-25,Corporate,2024-05-15,Referral,1
+CUST_443,Olivie Brunel,Duval-sur-Mer,Albanie,46-60,Créateur,2024-02-29,Referral,1
+CUST_444,Susan du Dijoux,Saint Claire,Canada,36-45,Découverte,2025-02-09,LinkedIn,0
+CUST_445,Denis Becker,JacquesBourg,Samoa,26-35,Créateur,2024-03-15,Instagram,1
+CUST_446,Élisabeth Lopes de la Leblanc,Mercier,Bolivie,36-45,Découverte,2024-03-02,Instagram,1
+CUST_447,Anastasie Leconte,Pereira,Antilles néerlandaises,18-25,Premium,2025-02-22,TikTok,0
+CUST_448,Marcel Jourdan,Gilbert,El Salvador,46-60,Premium,2025-01-26,Google Search,1
+CUST_449,Emmanuelle Torres,Lambertnec,Guinée-Bissau,46-60,Découverte,2024-05-16,Event Walk-in,1
+CUST_450,Aurore Lévy,Clerc,Réunion (La),18-25,Régulier,2025-02-06,Referral,0
+CUST_451,Paul Gros-Rémy,Saint Monique,Bhoutan,26-35,Découverte,2024-01-24,LinkedIn,1
+CUST_452,Patrick Martineau,Bazin,Mauritanie,46-60,Créateur,2025-01-23,Partnership,0
+CUST_453,Théodore Robert-Guillon,Ferreira-sur-Michaud,Botswana,26-35,Corporate,2024-12-20,TikTok,1
+CUST_454,Nathalie Vallée,Boulanger,Yougoslavie,26-35,Découverte,2024-02-02,Partnership,1
+CUST_455,Isaac Lecomte,Saint Cécile,Nicaragua,18-25,Régulier,2024-07-30,Instagram,0
+CUST_456,Marthe Hoareau,Marty,Maroc,18-25,Corporate,2024-02-19,TikTok,0
+CUST_457,Gilbert du Guillot,Barbier,Grenade,46-60,Corporate,2024-08-27,Referral,0
+CUST_458,Amélie Charpentier,Paul,Haïti,18-25,Régulier,2025-05-30,LinkedIn,0
+CUST_459,Bernard Lambert,Blin-sur-Dos Santos,Guinée Equatoriale,36-45,Créateur,2024-11-24,TikTok,1
+CUST_460,Maggie-Pauline Noël,Sainte Auroredan,Sénégal,26-35,Créateur,2024-08-14,Google Search,1
+CUST_461,Luce Rousseau,BrunetVille,Saint Pierre et Miquelon,36-45,Découverte,2024-06-28,Event Walk-in,1
+CUST_462,Lucie Faure,Jourdan,Gibraltar,46-60,Découverte,2024-12-18,Event Walk-in,1
+CUST_463,Georges Grenier,Becker,Jordanie,36-45,Corporate,2025-02-22,TikTok,1
+CUST_464,Marcel Rémy,Mace-sur-Duval,Bahamas,46-60,Régulier,2025-04-29,TikTok,0
+CUST_465,Laurent Le Mathieu,Saint Matthieunec,Iran,36-45,Régulier,2025-04-19,Instagram,1
+CUST_466,Alphonse Rémy,Saint Aimée,Turks et Caïques (Îles),46-60,Créateur,2025-06-26,TikTok,1
+CUST_467,Marine Martinez,Petitjean-sur-Jean,Tadjikistan,26-35,Premium,2024-07-27,LinkedIn,0
+CUST_468,Matthieu Boyer,Sainte Colettedan,Vierges (Îles),46-60,Premium,2024-04-04,Referral,0
+CUST_469,Aimée Vaillant de la Mahe,Morin,Ghana,18-25,Premium,2025-01-21,Event Walk-in,0
+CUST_470,Bertrand Rocher,Hoarau-la-Forêt,Tchad,18-25,Régulier,2024-08-10,Google Search,0
+CUST_471,Suzanne-Claude Tessier,Deschamps,Bahrain,36-45,Premium,2024-01-16,TikTok,0
+CUST_472,Olivie Antoine du Paris,BoyerBourg,Sainte Lucie,18-25,Corporate,2024-09-05,Event Walk-in,0
+CUST_473,Alix Leroux,Lecoq-sur-Giraud,Pérou,46-60,Régulier,2024-11-25,Partnership,1
+CUST_474,François Rousseau,Masson-sur-Girard,Bulgarie,46-60,Corporate,2025-06-30,Event Walk-in,1
+CUST_475,Christophe Charrier,Lopesdan,Îles Mineures Éloignées des États-Unis,36-45,Premium,2025-01-03,Referral,1
+CUST_476,Jérôme du Hervé,Peltier,Burundi,46-60,Découverte,2025-04-25,Partnership,1
+CUST_477,Claire Gay-Weiss,Lucas,Burkina Faso,26-35,Premium,2024-11-16,Google Search,0
+CUST_478,Capucine Guilbert,Rocher,Vanuatu,26-35,Régulier,2024-01-17,LinkedIn,1
+CUST_479,Richard Alexandre,Sainte Mathildeboeuf,Anguilla,36-45,Régulier,2024-07-19,LinkedIn,0
+CUST_480,Maurice Dupré,Schneider,Féroé (Îles),46-60,Créateur,2024-09-08,Google Search,1
+CUST_481,Jacqueline-Laure Regnier,Becker,Yougoslavie,36-45,Corporate,2025-05-17,Google Search,0
+CUST_482,Frédéric Letellier,Dubois-sur-Lamy,Niue,36-45,Régulier,2024-05-23,Event Walk-in,1
+CUST_483,Gabriel Ribeiro,Lebrun,Italie,26-35,Créateur,2024-03-01,Referral,0
+CUST_484,Margaud Guichard de la Durand,Sainte Georges-sur-Mer,Togo,18-25,Découverte,2024-01-07,Google Search,0
+CUST_485,Susanne Caron Le Berthelot,Ribeiro,Sierra Leone,26-35,Découverte,2024-06-03,Instagram,0
+CUST_486,Margaret Lambert de la Teixeira,MaryVille,Rép. Dém. du Congo,46-60,Premium,2024-03-02,Referral,1
+CUST_487,Marcelle Martin-Hervé,Bèguenec,Royaume-Uni,46-60,Découverte,2024-01-07,Referral,1
+CUST_488,Timothée Pineau,Masson,Guadeloupe,18-25,Découverte,2025-06-26,Event Walk-in,1
+CUST_489,Gérard Leleu,Mahe-sur-Lamy,Heard et McDonald (Îles),36-45,Découverte,2025-05-29,Partnership,1
+CUST_490,Alexandre Hamon,Boyer,République tchèque,26-35,Découverte,2024-04-08,Referral,0
+CUST_491,Alfred Morvan-Lopes,GautierBourg,Territoire britannique de l'océan Indien,26-35,Régulier,2025-06-23,LinkedIn,1
+CUST_492,Adrien Lecoq,Saint Guillaume,Sainte Lucie,36-45,Corporate,2024-03-21,LinkedIn,1
+CUST_493,Zacharie Rolland,Leblanc,Algérie,46-60,Créateur,2024-09-06,Event Walk-in,0
+CUST_494,Lorraine de Lebon,Petit,Costa Rica,36-45,Découverte,2024-02-02,Instagram,1
+CUST_495,Honoré Boulay du Laroche,Merle,Maldives (Îles),46-60,Corporate,2025-05-02,Instagram,0
+CUST_496,Isabelle Bousquet,Le Goff,Cambodge,26-35,Découverte,2025-05-26,Partnership,1
+CUST_497,Adrienne Boucher,Potier,Falkland (Île),36-45,Créateur,2024-04-07,Referral,0
+CUST_498,Denise Rolland de la Renaud,Sainte Jules,Suriname,26-35,Régulier,2025-05-01,LinkedIn,0
+CUST_499,Cécile Chauvin,Bourgeois,Togo,18-25,Premium,2024-02-03,TikTok,1
+CUST_500,Vincent Delorme,Ferrand-sur-Pasquier,Italie,18-25,Régulier,2024-05-27,Partnership,1
+CUST_501,Olivier Fouquet,Huetboeuf,Guinée,18-25,Premium,2024-06-15,Referral,0
+CUST_502,Léon Menard,Blondel,Australie,46-60,Créateur,2024-12-05,Google Search,0
+CUST_503,Roger Techer-Boucher,BretonVille,Croatie,18-25,Créateur,2024-12-20,Instagram,0
+CUST_504,Céline Turpin,Prévost-les-Bains,Jamaïque,46-60,Régulier,2024-03-18,LinkedIn,1
+CUST_505,Aimé Le Bruneau,Saint Marcel,Antigua et Barbuda,36-45,Découverte,2024-10-06,Partnership,1
+CUST_506,Anaïs Benoit,De Sousa,Tonga,46-60,Régulier,2024-12-30,Referral,1
+CUST_507,Théodore Fernandes,RossiVille,Suède,46-60,Régulier,2025-01-24,Instagram,1
+CUST_508,Victoire-Aimée Barbier,Rivière,Biélorussie,26-35,Découverte,2024-03-25,LinkedIn,0
+CUST_509,Christiane Lesage,Jacquot-sur-Peron,Estonie,46-60,Régulier,2025-02-02,LinkedIn,1
+CUST_510,Corinne-Jeannine Wagner,Sainte Sabineboeuf,Svalbard et Jan Mayen (Îles),18-25,Découverte,2024-01-06,LinkedIn,1
+CUST_511,Antoine Normand,Fouquet,Croatie,36-45,Premium,2024-04-14,TikTok,0
+CUST_512,Claudine Regnier,Fournier,Guyane française,26-35,Corporate,2025-04-04,Referral,1
+CUST_513,Benjamin Menard,Lagardedan,Norfolk (Îles),18-25,Découverte,2024-04-01,LinkedIn,0
+CUST_514,Suzanne de Deschamps,Chevalier-sur-Buisson,Vanuatu,36-45,Corporate,2024-01-13,LinkedIn,1
+CUST_515,Simone-Agnès Morin,Dias-sur-Durand,Guinée Equatoriale,46-60,Découverte,2024-09-05,Referral,0
+CUST_516,Alix Pons,Dupont,Djibouti,46-60,Régulier,2024-05-22,LinkedIn,1
+CUST_517,Tristan Descamps,Dupré-sur-Marchal,Comores,36-45,Corporate,2024-05-29,Instagram,0
+CUST_518,Daniel Michel,Sainte Nathalie,Yougoslavie,46-60,Premium,2025-03-07,LinkedIn,1
+CUST_519,Gérard-Maurice Peltier,Morinnec,Émirats arabes unis,18-25,Premium,2024-09-14,TikTok,1
+CUST_520,Christine Chevalier Le Masse,Sainte Sylvie,Malawi,26-35,Corporate,2024-04-19,TikTok,1
+CUST_521,Antoine Bertrand,Carrenec,Bolivie,18-25,Corporate,2024-12-06,Partnership,1
+CUST_522,Josette Blondel,Lelièvre,Vietnam,36-45,Corporate,2024-12-08,Google Search,0
+CUST_523,Alexandre Leduc Le Bazin,Saint AugusteBourg,Argentine,36-45,Premium,2024-07-24,Google Search,1
+CUST_524,Nicolas Leleu-Leclercq,BourgeoisVille,Togo,26-35,Corporate,2024-11-22,LinkedIn,1
+CUST_525,Grégoire Labbé de la Martel,Sainte Gabriel-la-Forêt,Palau,26-35,Premium,2025-01-20,LinkedIn,1
+CUST_526,Sylvie Briand,FernandezVille,Ouganda,36-45,Découverte,2024-07-23,Referral,0
+CUST_527,Nathalie Wagner,Moreau-sur-Mallet,Grèce,18-25,Corporate,2024-08-02,Google Search,1
+CUST_528,Émile-Thierry Rodrigues,Raynaud-sur-Jourdan,États-Unis,18-25,Corporate,2025-05-26,TikTok,1
+CUST_529,Manon Olivier de Da Costa,Laine,Gabon,26-35,Premium,2024-06-06,Event Walk-in,1
+CUST_530,Alfred Fontaine de Didier,Roux,Azerbaïdjan,46-60,Découverte,2025-04-04,Referral,1
+CUST_531,Lorraine Weiss,Sainte Matthieu,Costa Rica,46-60,Créateur,2025-06-02,Partnership,1
+CUST_532,Cécile Dumont,Pereira,Maldives (Îles),18-25,Premium,2024-03-28,Instagram,0
+CUST_533,Éléonore Rodrigues,Regnier,Turquie,36-45,Régulier,2024-02-15,Referral,1
+CUST_534,François Costa,Pons,Antarctique,36-45,Corporate,2024-04-18,Instagram,0
+CUST_535,Stéphane Hamel,Seguindan,Guyane,36-45,Régulier,2025-06-06,Event Walk-in,0
+CUST_536,Lucy Leleu,Saint Emmanuelle-la-Forêt,Maroc,46-60,Premium,2025-02-04,Google Search,0
+CUST_537,Caroline Noël,Bouvier,Niger,36-45,Découverte,2025-05-09,Instagram,1
+CUST_538,Gilbert Merle,Ribeiroboeuf,Bolivie,46-60,Découverte,2024-04-28,Partnership,0
+CUST_539,Valérie Denis,Leroux-sur-Mer,Albanie,36-45,Premium,2024-12-17,Google Search,0
+CUST_540,Sophie Maillet,ThierryBourg,Comores,46-60,Premium,2025-05-02,Instagram,1
+CUST_541,Aurélie de la Salmon,Brunel,Chili,46-60,Premium,2024-03-09,LinkedIn,0
+CUST_542,Théophile Leleu,Sauvage-les-Bains,Belgique,18-25,Découverte,2024-12-17,Event Walk-in,0
+CUST_543,Margot de Dumas,Chauveau,Russie,26-35,Régulier,2025-06-12,TikTok,0
+CUST_544,Caroline Carpentier,LegrandVille,Portugal,36-45,Créateur,2025-03-12,Google Search,0
+CUST_545,Nathalie Boyer,Sainte Adriennec,Suriname,46-60,Régulier,2024-07-09,Event Walk-in,1
+CUST_546,Sabine Bouchet,Delattre,Allemagne,46-60,Découverte,2024-07-21,Google Search,1
+CUST_547,Marthe Couturier,Saint Gilbert-sur-Mer,Israël,46-60,Découverte,2024-08-07,TikTok,1
+CUST_548,Adèle Lévêque,Le Gall,Slovénie,18-25,Créateur,2024-04-14,Partnership,0
+CUST_549,Alphonse Ledoux de Gautier,Georges,Cuba,36-45,Premium,2024-07-20,Google Search,0
+CUST_550,Clémence Lemaire-Toussaint,Marchand,Nouvelle Calédonie,36-45,Corporate,2025-06-24,Event Walk-in,1
+CUST_551,Alexandre de la Labbé,Saint Lucasdan,Jamaïque,46-60,Créateur,2025-02-05,Referral,0
+CUST_552,Vincent-Olivier Boutin,Thomas,Paraguay,36-45,Premium,2025-04-13,Referral,0
+CUST_553,Stéphane Bruneau,Lombardnec,Gambie,36-45,Créateur,2024-03-27,Event Walk-in,0
+CUST_554,Bernard-Yves Arnaud,BenardVille,Féroé (Îles),36-45,Découverte,2024-09-01,LinkedIn,0
+CUST_555,Véronique Bodin,Devaux-sur-Mer,La Barbad,26-35,Premium,2024-05-24,Referral,1
+CUST_556,Zoé Maillet-Potier,Clément-sur-Leleu,Inde,46-60,Créateur,2024-05-21,Referral,1
+CUST_557,Victoire-Geneviève Pereira,Sainte MaryseBourg,Swaziland,46-60,Régulier,2025-05-13,Event Walk-in,0
+CUST_558,Amélie Giraud de la Ferrand,Marie,Turquie,26-35,Corporate,2024-10-22,TikTok,0
+CUST_559,Aurore Perrier,Rémy-les-Bains,Sahara Occidental,36-45,Corporate,2024-02-24,Partnership,1
+CUST_560,Yves Sauvage,Grenier,Lithuanie,18-25,Corporate,2024-05-19,TikTok,1
+CUST_561,Antoinette Devaux,Boulangerboeuf,Argentine,46-60,Corporate,2025-05-18,Google Search,1
+CUST_562,Arnaude Schmitt,Auger,Fidji (République des),46-60,Régulier,2024-03-25,Referral,0
+CUST_563,André Le Lecomte,Pottierboeuf,Saint-Marin (Rép. de),26-35,Premium,2024-02-03,LinkedIn,0
+CUST_564,Théophile Pineau,Ferrand-les-Bains,Zimbabwe,36-45,Régulier,2025-04-13,Referral,1
+CUST_565,Hugues Allain,Saint Annedan,Samoa,18-25,Créateur,2024-04-26,LinkedIn,1
+CUST_566,Luc Thomas,Leclercq-les-Bains,Nicaragua,18-25,Corporate,2024-08-11,Google Search,0
+CUST_567,Tristan Bruneau,ColletBourg,Canada,26-35,Premium,2024-02-03,Google Search,1
+CUST_568,Joséphine Toussaint,Delannoy-la-Forêt,Maldives (Îles),36-45,Découverte,2025-03-25,Partnership,0
+CUST_569,Isaac-Benjamin Maréchal,Sainte AlexandriaVille,Royaume-Uni,26-35,Régulier,2024-12-25,Partnership,1
+CUST_570,Sabine Nicolas,Lebon-sur-Mer,Tokelau,26-35,Créateur,2024-05-22,Partnership,0
+CUST_571,Christiane Bouvet,Renard,Malawi,26-35,Découverte,2024-12-25,Referral,1
+CUST_572,Robert Thibault,Sainte Tristannec,"Corée, Sud",26-35,Premium,2024-10-26,LinkedIn,1
+CUST_573,Denis Chartier-Goncalves,Saint Pauldan,Hong Kong,18-25,Régulier,2025-02-25,Instagram,1
+CUST_574,William Lebrun de la Carre,Lopesdan,Bhoutan,26-35,Régulier,2024-09-12,TikTok,1
+CUST_575,Gabriel du Ledoux,Sainte MichelBourg,Seychelles,26-35,Corporate,2025-05-16,TikTok,1
+CUST_576,Étienne Aubry,Regnier,Slovénie,46-60,Corporate,2025-04-07,Instagram,0
+CUST_577,Marc Ruiz du Fournier,Sainte SuzanneBourg,Dominique,46-60,Créateur,2024-10-11,Event Walk-in,1
+CUST_578,Paulette Le Gall-Meunier,Dubois,Hongrie,46-60,Corporate,2024-12-01,Referral,0
+CUST_579,Jeannine-Marianne Imbert,Saint FrançoiseVille,République Dominicaine,18-25,Corporate,2025-01-01,Partnership,0
+CUST_580,Christine de Jourdan,Letellier-les-Bains,Érythrée,46-60,Régulier,2025-03-15,Partnership,0
+CUST_581,Tristan Rossi,Maillot-sur-Carpentier,Gambie,46-60,Premium,2024-11-26,Partnership,1
+CUST_582,Eugène Lebrun,Saint Sophie,Somalie,36-45,Créateur,2024-05-13,Referral,1
+CUST_583,Claire Thomas du Descamps,Blin,Gambie,36-45,Découverte,2024-02-17,Instagram,1
+CUST_584,Luce Voisin,Nguyendan,Vierges (Îles),18-25,Découverte,2024-06-10,Google Search,1
+CUST_585,Alexandria Mathieu-Blondel,Cousin-sur-Mer,Malaisie,18-25,Corporate,2024-07-26,Event Walk-in,0
+CUST_586,Émile Lelièvre,Noël,Australie,36-45,Régulier,2024-10-07,Instagram,1
+CUST_587,Célina Gauthier,Sainte Luce,Afghanistan,36-45,Découverte,2025-01-15,Event Walk-in,0
+CUST_588,Aurore Blot,Lebreton,Saint-Marin (Rép. de),18-25,Corporate,2024-11-08,Event Walk-in,0
+CUST_589,Hélène Texier,Saint Paulboeuf,Malawi,46-60,Découverte,2024-04-07,Instagram,0
+CUST_590,Éléonore-Laure Adam,Saint Paulette,Oman,46-60,Découverte,2024-05-15,Referral,0
+CUST_591,Marine Collin,Bazin-sur-Leconte,Mongolie,46-60,Découverte,2024-01-09,Event Walk-in,1
+CUST_592,Éric Torres,Renard,Panama,18-25,Corporate,2024-05-15,Google Search,0
+CUST_593,Paul de la Rey,Carpentier,Ouganda,26-35,Corporate,2024-04-01,Event Walk-in,0
+CUST_594,Laure de la Roy,MauriceBourg,Lithuanie,18-25,Premium,2025-01-11,LinkedIn,0
+CUST_595,Frédérique Pinto,Courtois-les-Bains,Saint Pierre et Miquelon,46-60,Régulier,2024-05-26,Instagram,0
+CUST_596,Charlotte Lefort,Leroy,Suriname,26-35,Corporate,2024-12-25,Event Walk-in,0
+CUST_597,Emmanuelle Mary,Sainte Alexandre,Turkménistan,26-35,Corporate,2025-03-29,Partnership,0
+CUST_598,Colette Joseph,Cohen,Norvège,18-25,Découverte,2024-05-23,Partnership,0
+CUST_599,Victoire Labbé,Sainte Louis,Azerbaïdjan,46-60,Premium,2025-03-15,LinkedIn,0
+CUST_600,Marthe Merle,Renault,Mariannes du Nord (Îles),26-35,Premium,2024-03-27,TikTok,1
+CUST_601,Théophile-Théophile Charrier,SalmonVille,Émirats arabes unis,18-25,Premium,2024-07-29,Referral,0
+CUST_602,Georges Rossi,Vallet,Soudan,46-60,Premium,2024-02-25,Partnership,0
+CUST_603,Claudine Bruneau,Bernierboeuf,Jordanie,46-60,Corporate,2024-04-25,TikTok,1
+CUST_604,Juliette Pereira,Sainte MichelleBourg,Cap Vert,18-25,Créateur,2024-01-13,LinkedIn,1
+CUST_605,Odette Leduc de la Maillet,Sainte Océanenec,Sierra Leone,26-35,Corporate,2025-03-06,LinkedIn,0
+CUST_606,Denise Lacroix-Pons,Simon,Espagne,46-60,Découverte,2024-01-18,Referral,0
+CUST_607,Alex Guillot,Saint Alfred-la-Forêt,Sahara Occidental,18-25,Premium,2024-08-08,Instagram,0
+CUST_608,Capucine Petitjean,Simon,Cayman (Îles),46-60,Créateur,2024-10-20,Event Walk-in,1
+CUST_609,Jules Jacquet,Bonneau,Liban,46-60,Corporate,2024-03-25,Event Walk-in,0
+CUST_610,Henri Guillot du Chauveau,Briand-sur-Renaud,Yemen,36-45,Découverte,2024-11-13,Instagram,0
+CUST_611,Michelle Bertin du Diaz,Grenier-la-Forêt,Hong Kong,26-35,Créateur,2024-11-30,Google Search,0
+CUST_612,Nath Morvan,Sainte Aimée-sur-Mer,Rép. Dém. du Congo,36-45,Corporate,2024-09-01,Instagram,0
+CUST_613,Pierre-Marc Reynaud,Thierry,Ethiopie,18-25,Corporate,2024-04-28,Google Search,0
+CUST_614,Pauline Hamon,Aubry-les-Bains,Chypre,36-45,Régulier,2024-05-02,Instagram,0
+CUST_615,Christine Delmas-Bailly,Moulin,Italie,18-25,Régulier,2025-05-23,LinkedIn,1
+CUST_616,Agathe Ollivier de Rodrigues,Lévêque,Somalie,26-35,Premium,2024-05-09,Event Walk-in,1
+CUST_617,Victoire Petitjean,Jacques-sur-Moreau,Cameroun,18-25,Découverte,2024-12-09,Partnership,1
+CUST_618,Julie Gros,PineauBourg,Taiwan,36-45,Créateur,2024-03-06,LinkedIn,0
+CUST_619,Robert Thierry,Mahe,République tchèque,46-60,Corporate,2025-06-07,LinkedIn,0
+CUST_620,Benjamin Moulin,Saint Philippine,Vatican (Etat du),46-60,Créateur,2024-06-19,LinkedIn,0
+CUST_621,Thibaut de Lacombe,Besson,Afrique du sud,36-45,Découverte,2024-04-28,TikTok,0
+CUST_622,Denise Becker-Carpentier,Sainte Patrick-les-Bains,Liban,18-25,Découverte,2024-09-07,Instagram,1
+CUST_623,Alexandre Picard de Marion,Legendre,Liechtenstein,36-45,Corporate,2024-06-02,TikTok,0
+CUST_624,Roland Besnard,Bouvier,Grèce,46-60,Régulier,2024-11-25,TikTok,1
+CUST_625,Cécile Perrot,Rodrigues,Marshall (Îles),36-45,Premium,2024-03-20,Referral,1
+CUST_626,Éric Clerc-Toussaint,De Sousa-sur-Leroux,Bahamas,18-25,Créateur,2024-02-23,TikTok,0
+CUST_627,Adélaïde Bernier,Sainte Renée-la-Forêt,Philippines,18-25,Corporate,2024-03-11,Google Search,1
+CUST_628,Thibault de la Sanchez,Sainte Hugues,Guam,36-45,Premium,2024-03-29,Referral,1
+CUST_629,Matthieu Colas-Morin,Richard,Suisse,18-25,Premium,2024-07-24,LinkedIn,1
+CUST_630,Victoire Gaudin,Maurice,Maldives (Îles),26-35,Corporate,2025-01-12,Referral,1
+CUST_631,Nath-Noémi Pascal,Guyon-la-Forêt,Portugal,26-35,Créateur,2024-09-08,TikTok,0
+CUST_632,Juliette de Carre,Peltier-sur-Couturier,Jordanie,46-60,Découverte,2024-08-26,Referral,1
+CUST_633,Robert Fournier-Gimenez,Boucher,Maldives (Îles),18-25,Premium,2024-01-02,Partnership,1
+CUST_634,Zacharie Da Silva,Texier,Oman,36-45,Découverte,2024-07-29,Referral,0
+CUST_635,Édouard Martin-Menard,Leclercq,Groenland,46-60,Corporate,2024-03-02,TikTok,1
+CUST_636,Henri-Marc Paris,Robin-sur-Potier,Islande,18-25,Découverte,2024-08-25,Partnership,1
+CUST_637,Marcelle Dias,Saint RaymondBourg,Paraguay,36-45,Corporate,2024-03-27,Referral,0
+CUST_638,Thierry Fleury,Barbe,Namibie,26-35,Corporate,2024-03-17,Referral,0
+CUST_639,Emmanuel Mathieu-Fernandes,RoyVille,Martinique,46-60,Régulier,2024-08-30,LinkedIn,1
+CUST_640,Raymond-Lucas Chevalier,Descamps-sur-Pierre,Haïti,36-45,Corporate,2024-11-30,LinkedIn,1
+CUST_641,Patrick Roy,Hoarauboeuf,Cook (Îles),36-45,Régulier,2024-03-17,TikTok,0
+CUST_642,Cécile Lenoir du Gomez,Sainte Margot-les-Bains,Cambodge,18-25,Régulier,2024-04-18,TikTok,1
+CUST_643,Maryse Le Blot,Guibert,Tanzanie,46-60,Premium,2025-02-20,Instagram,1
+CUST_644,Laurent Lemonnier,Raymond-sur-Lévêque,Djibouti,26-35,Corporate,2024-11-11,Google Search,1
+CUST_645,Michelle Lefort,Le Goff,Lithuanie,18-25,Découverte,2024-06-10,Partnership,1
+CUST_646,Brigitte Delattre,Dijoux,Dominique,18-25,Régulier,2024-12-01,TikTok,0
+CUST_647,Victor Barbe,Baudry,Nigeria,26-35,Premium,2025-02-09,Referral,0
+CUST_648,Pénélope Carlier-Pichon,SchneiderVille,Israël,36-45,Premium,2024-06-27,Instagram,1
+CUST_649,Claire Evrard,Sainte Maggieboeuf,Pakistan,46-60,Créateur,2024-09-12,Instagram,1
+CUST_650,Joseph Perez,Raymond,Turks et Caïques (Îles),18-25,Régulier,2024-05-04,Instagram,0
+CUST_651,Stéphanie Coste Le Chrétien,Saint Maurice,Indonésie,26-35,Régulier,2024-07-21,Partnership,1
+CUST_652,Alexandrie Alexandre,Monnier,Macédoine du Nord,36-45,Découverte,2024-09-22,Partnership,0
+CUST_653,Richard Guichard,AdamBourg,Togo,18-25,Découverte,2024-07-21,Event Walk-in,1
+CUST_654,Élise Ramos de Pottier,Descamps,Yemen,26-35,Découverte,2024-12-05,Instagram,0
+CUST_655,Aurélie-Dorothée Laroche,Deschamps-les-Bains,Mauritanie,46-60,Découverte,2024-06-21,Referral,1
+CUST_656,Élisabeth Jacquet,Gonzalezboeuf,Bahrain,46-60,Corporate,2024-01-31,Google Search,1
+CUST_657,Émile Antoine,Sainte Françoise,Madagascar,26-35,Premium,2024-08-07,TikTok,1
+CUST_658,Adrien Pinto de la Gomez,Techer,Belgique,36-45,Corporate,2024-06-01,Instagram,0
+CUST_659,Eugène Peron,Saint Susannenec,Maurice,36-45,Corporate,2025-02-25,Referral,1
+CUST_660,Éléonore Barthelemy,Dupont,Samoa,18-25,Découverte,2024-10-13,Google Search,0
+CUST_661,Caroline Arnaud du Courtois,Bertin,Portugal,46-60,Régulier,2025-06-22,TikTok,0
+CUST_662,Émile Valentin,Gaillard,Moldavie,46-60,Premium,2025-05-06,Referral,1
+CUST_663,Marianne Benard,NguyenVille,Guinée Equatoriale,36-45,Créateur,2025-05-29,LinkedIn,1
+CUST_664,Anaïs Bouvet,Chauvet,Belgique,36-45,Régulier,2024-01-27,LinkedIn,0
+CUST_665,Frédérique Mace,Saint Pierre,Mozambique,18-25,Premium,2024-02-29,Partnership,1
+CUST_666,Éric Henry,Goncalves-sur-Mer,Maroc,36-45,Créateur,2024-08-26,TikTok,0
+CUST_667,Yves Briand,CordierVille,Japon,26-35,Régulier,2024-09-29,Referral,0
+CUST_668,Bertrand Chevallier,Allain-sur-Lebreton,Chine (Rép. pop.),26-35,Créateur,2025-02-01,LinkedIn,0
+CUST_669,Alice Poulain,Saint Hortense,Uruguay,26-35,Régulier,2024-11-21,Partnership,1
+CUST_670,Richard Blondel,Saint Nathalieboeuf,Comores,18-25,Premium,2024-05-25,Referral,0
+CUST_671,Adélaïde Ledoux,Huet,Vietnam,46-60,Créateur,2024-11-12,TikTok,1
+CUST_672,Colette Neveu,Henry,Géorgie du Sud et Sandwich du Sud (Îles),18-25,Découverte,2024-02-27,TikTok,0
+CUST_673,Alix Lefort,Saint Robert-la-Forêt,Émirats arabes unis,18-25,Créateur,2025-05-04,Instagram,1
+CUST_674,Charles Muller,Morel-sur-Bègue,Gambie,26-35,Régulier,2024-12-14,Event Walk-in,0
+CUST_675,Hélène Laine de Renard,Sainte Franck,Zimbabwe,36-45,Découverte,2024-01-23,TikTok,0
+CUST_676,Jean-Gilles Gautier,Sainte Olivier,Chili,18-25,Créateur,2025-01-08,Instagram,1
+CUST_677,Grégoire Launay,Pires,Papouasie-Nouvelle-Guinée,46-60,Créateur,2024-04-13,LinkedIn,1
+CUST_678,Antoinette Vaillant de Delaunay,Sainte Élodieboeuf,Syrie,36-45,Régulier,2024-06-10,Event Walk-in,1
+CUST_679,Martin Pelletier-Potier,Delaunay,Uruguay,46-60,Premium,2024-06-27,Event Walk-in,1
+CUST_680,Pierre-Édouard Peron,Saint BenoîtVille,Italie,26-35,Créateur,2024-06-28,Google Search,1
+CUST_681,Célina Valentin,Joseph,Gambie,36-45,Régulier,2024-06-30,Event Walk-in,0
+CUST_682,Charles Blondel,Pruvost-sur-Dupuy,Bosnie-Herzégovine,46-60,Créateur,2024-02-03,TikTok,1
+CUST_683,Aimée Mallet Le Carlier,Cordiernec,Géorgie,26-35,Créateur,2024-04-16,Google Search,0
+CUST_684,Éric Lopez-Chevallier,Gaillard,Antigua et Barbuda,36-45,Découverte,2024-08-31,LinkedIn,1
+CUST_685,Sabine Verdier,Diallonec,Tanzanie,26-35,Découverte,2024-12-09,Google Search,0
+CUST_686,Isaac Monnier,Bazin,Tuvalu,36-45,Régulier,2024-09-12,Event Walk-in,0
+CUST_687,Roland Colas de la Philippe,Torres,Polynésie française,36-45,Premium,2024-04-20,Event Walk-in,0
+CUST_688,Guillaume Petitjean,Saint GrégoireVille,États-Unis,18-25,Corporate,2025-03-24,Event Walk-in,1
+CUST_689,Denis Auger,Benoit-la-Forêt,Afghanistan,26-35,Corporate,2025-05-19,Google Search,1
+CUST_690,Anastasie Dumont Le Hernandez,Lemaire,Ethiopie,46-60,Découverte,2025-05-05,Partnership,0
+CUST_691,Michel Le Lemonnier,Saint Michelle,Lesotho,26-35,Corporate,2024-03-16,Partnership,0
+CUST_692,Colette Guilbert,Barbier,Timor,36-45,Découverte,2024-11-22,LinkedIn,0
+CUST_693,Alphonse-Gabriel Delaunay,Saint Yves-la-Forêt,Bolivie,18-25,Premium,2024-06-23,Google Search,0
+CUST_694,Anne Hebert,Lejeunedan,Pitcairn (Îles),18-25,Créateur,2024-04-05,LinkedIn,1
+CUST_695,Audrey Lambert,Normand-sur-Lacroix,Montserrat,18-25,Corporate,2024-06-17,Referral,1
+CUST_696,Gérard Rossi-Henry,Texier-les-Bains,Aruba,26-35,Découverte,2024-04-13,LinkedIn,0
+CUST_697,Marine Rocher,PierreBourg,Slovénie,26-35,Corporate,2024-09-28,Event Walk-in,1
+CUST_698,Jean Rey de Guillon,Leblanc,Israël,36-45,Régulier,2024-04-08,Instagram,1
+CUST_699,Anaïs Rolland du Maillet,Saint AnoukVille,Mozambique,46-60,Régulier,2024-02-25,LinkedIn,0
+CUST_700,Alex-Margot Lesage,Saint Honorénec,Antarctique,46-60,Découverte,2024-10-28,Partnership,1
+CUST_701,Guillaume de Charpentier,Sainte Geneviève,Saint Pierre et Miquelon,26-35,Découverte,2024-01-27,TikTok,0
+CUST_702,Gilbert Chevallier,Saint Aurore,Koweit,36-45,Découverte,2025-04-29,Partnership,0
+CUST_703,Nath Bouchet,Hamon-la-Forêt,Vanuatu,36-45,Corporate,2025-04-27,Google Search,1
+CUST_704,Jules Pinto,Sainte Guy,Kirghizistan,18-25,Créateur,2025-01-31,TikTok,1
+CUST_705,Auguste Bailly,Cohen,Irlande,46-60,Premium,2024-07-10,Google Search,0
+CUST_706,Patricia Clerc,Pineau,Grèce,36-45,Corporate,2025-04-21,LinkedIn,0
+CUST_707,Gilbert Bertrand,Peron,États-Unis,36-45,Créateur,2024-03-04,TikTok,0
+CUST_708,Pénélope Dupuis,Dos Santos,Inde,18-25,Premium,2025-02-27,Partnership,0
+CUST_709,Camille Dias,Dupuis,Érythrée,18-25,Corporate,2025-06-19,Google Search,1
+CUST_710,Élise Julien,BigotBourg,République tchèque,26-35,Corporate,2024-11-02,Instagram,1
+CUST_711,Hugues de la Buisson,Saint Patrick-sur-Mer,Pologne,18-25,Créateur,2025-06-13,Partnership,0
+CUST_712,Jeanne Renault,RousselBourg,Bermudes (Les),18-25,Corporate,2024-06-26,TikTok,0
+CUST_713,Gabrielle Bouchet,Moulin,Laos,26-35,Régulier,2024-02-13,Google Search,0
+CUST_714,Arthur Le Clément,Leleu,Nouvelle-Zélande,46-60,Régulier,2024-05-31,Partnership,1
+CUST_715,Augustin Munoz,Moreno,Argentine,36-45,Découverte,2024-03-30,Google Search,1
+CUST_716,Benjamin Chauveau,Perrin,Saint Vincent et les Grenadines,36-45,Premium,2025-06-16,Google Search,0
+CUST_717,Roland Gilbert,ValléeVille,Pologne,46-60,Découverte,2025-02-28,TikTok,0
+CUST_718,Suzanne Andre,Dubois-les-Bains,Bosnie-Herzégovine,18-25,Découverte,2024-04-13,Partnership,1
+CUST_719,Émile Lemaître,Raymonddan,Cambodge,36-45,Corporate,2024-09-27,Google Search,1
+CUST_720,Louise Girard,Saint Augustin,Jordanie,46-60,Découverte,2024-06-25,LinkedIn,1
+CUST_721,Thierry de la Gaudin,Vidal,Bangladesh,26-35,Créateur,2025-02-15,Instagram,1
+CUST_722,Nathalie Roux,Sainte Joséphineboeuf,Colombie,36-45,Régulier,2024-02-20,Event Walk-in,1
+CUST_723,Noël Gomez,Sainte Alphonse,Heard et McDonald (Îles),36-45,Premium,2024-01-21,LinkedIn,1
+CUST_724,Alice Rodriguez-Hernandez,Saint Franck,Cameroun,36-45,Premium,2025-05-18,Partnership,0
+CUST_725,Victor-Isaac Picard,Martel-sur-Wagner,Polynésie française,26-35,Régulier,2024-11-03,Event Walk-in,1
+CUST_726,Vincent Rivière,Saint MargaudBourg,Liechtenstein,36-45,Premium,2025-03-02,Referral,0
+CUST_727,Maurice Vasseur,Guibertboeuf,Qatar,26-35,Corporate,2024-08-04,Partnership,1
+CUST_728,Marthe Marin,Berthelot-sur-Alexandre,Rwanda,46-60,Créateur,2025-01-17,Partnership,0
+CUST_729,Henriette Vallée,Maillotnec,Madagascar,26-35,Découverte,2024-11-14,Event Walk-in,1
+CUST_730,Honoré Bodin du Guillot,Barbier,Guyane,26-35,Créateur,2024-01-30,TikTok,0
+CUST_731,Benjamin Duval,CouturierVille,Sainte Lucie,26-35,Découverte,2024-09-12,Instagram,1
+CUST_732,Véronique Benoit,Salmon-sur-Chauveau,Israël,18-25,Premium,2024-07-22,LinkedIn,1
+CUST_733,Mathilde de la Blanchet,Merle-sur-Mace,Burundi,46-60,Créateur,2025-02-10,Event Walk-in,0
+CUST_734,Yves Munoz,Sainte Maggie,Angola,18-25,Régulier,2025-01-16,Google Search,1
+CUST_735,Frédéric Durand-Merle,Duhamel-sur-Devaux,Timor,26-35,Corporate,2024-12-24,LinkedIn,0
+CUST_736,Roger Maillet,Hubert,Vietnam,36-45,Découverte,2024-10-18,Instagram,1
+CUST_737,Henriette de la Fischer,Sainte Philippine,Territoires français du sud,18-25,Régulier,2024-08-07,Partnership,0
+CUST_738,Guy Imbert,Merle,Guadeloupe,26-35,Régulier,2024-10-02,Event Walk-in,1
+CUST_739,Marcel-Henri Hoarau,Gilles,"Corée, Sud",18-25,Découverte,2025-04-30,TikTok,0
+CUST_740,Amélie Diallo,Saint AmélieVille,Cambodge,18-25,Régulier,2024-09-15,Referral,1
+CUST_741,Antoinette-Madeleine Ribeiro,Mercier,Nouvelle Calédonie,36-45,Corporate,2025-01-20,Partnership,1
+CUST_742,David Delahaye,Legros,Tokelau,46-60,Premium,2024-08-11,Google Search,1
+CUST_743,Valentine Fabre,Lévy,Arabie saoudite,46-60,Créateur,2024-04-14,Instagram,1
+CUST_744,Marguerite Ferreira-Brunet,Lucas,Guinée-Bissau,36-45,Premium,2024-04-20,Google Search,0
+CUST_745,Margaud Ruiz,Saint Noémi,Tunisie,36-45,Premium,2024-11-28,Partnership,1
+CUST_746,Michel-Rémy Delorme,Roche-sur-Daniel,Vatican (Etat du),36-45,Premium,2024-07-11,TikTok,0
+CUST_747,Claire Martins,PhilippeVille,Samoa,18-25,Créateur,2025-02-17,Event Walk-in,1
+CUST_748,Aimée Lecomte,DupuyVille,Jordanie,26-35,Découverte,2025-05-24,LinkedIn,1
+CUST_749,Christiane Didier,Hebert,Kazakhstan,46-60,Corporate,2025-02-01,Event Walk-in,0
+CUST_750,Tristan Loiseau-Tessier,Saint Martinedan,Timor,26-35,Premium,2024-08-15,Event Walk-in,1
+CUST_751,Auguste Klein,Vidal,Turkménistan,36-45,Créateur,2024-11-03,Partnership,0
+CUST_752,Lucie Pottier Le Maréchal,Seguin,Norvège,26-35,Premium,2024-04-09,Google Search,0
+CUST_753,Jacques Peltier,Monnier,Territoire britannique de l'océan Indien,36-45,Créateur,2024-07-06,Event Walk-in,1
+CUST_754,Nicolas Maurice Le Voisin,Chevallier,Danemark,18-25,Régulier,2024-12-29,TikTok,1
+CUST_755,Aurélie Ollivier,Sainte Alix,El Salvador,46-60,Premium,2025-01-15,LinkedIn,1
+CUST_756,Victor Vallée,Barbier,Chypre,46-60,Découverte,2025-04-26,Instagram,0
+CUST_757,Honoré Munoz Le Gosselin,ThierryBourg,Luxembourg,46-60,Régulier,2025-05-27,Instagram,1
+CUST_758,Frédéric Blin,Cordier,Heard et McDonald (Îles),36-45,Corporate,2024-02-25,Partnership,0
+CUST_759,François Dupré,MaréchalVille,Vanuatu,26-35,Régulier,2024-12-16,Google Search,1
+CUST_760,Marguerite Thomas Le Joly,Ruiznec,Swaziland,26-35,Premium,2024-07-03,Partnership,0
+CUST_761,Isaac Rocher de Poulain,Perez,Luxembourg,46-60,Premium,2024-06-30,LinkedIn,0
+CUST_762,Dominique Raynaud,Adam,Mozambique,18-25,Corporate,2024-10-07,TikTok,0
+CUST_763,Christelle Menard,HoarauBourg,Tuvalu,26-35,Corporate,2024-03-31,TikTok,1
+CUST_764,Élodie Moreau,BesnardVille,Biélorussie,46-60,Corporate,2025-03-15,Google Search,1
+CUST_765,Juliette Blanchard,Lenoir-sur-Perrier,Bouvet (Îles),18-25,Découverte,2025-06-30,TikTok,1
+CUST_766,Anastasie Guilbert,Nicolas,Bermudes (Les),18-25,Premium,2025-06-27,TikTok,0
+CUST_767,Lorraine Maillard,Blondel-les-Bains,Honduras,18-25,Régulier,2024-08-19,Event Walk-in,1
+CUST_768,Hugues Hernandez-Voisin,Vincent,Ouzbékistan,36-45,Régulier,2024-04-15,Google Search,1
+CUST_769,Isaac-William Gauthier,Boulanger,Irlande,26-35,Découverte,2024-02-16,LinkedIn,1
+CUST_770,Pierre Bigot Le Rossi,KleinVille,Bhoutan,46-60,Créateur,2025-06-20,LinkedIn,1
+CUST_771,Thibaut Le Bourdon,Evrard,Saint-Kitts et Nevis,26-35,Premium,2025-05-16,LinkedIn,0
+CUST_772,Yves De Oliveira de la Le Goff,Marques,Haïti,26-35,Corporate,2024-01-20,TikTok,0
+CUST_773,Stéphanie Collet-Barthelemy,Sainte Amélie-la-Forêt,Islande,26-35,Régulier,2024-01-23,Referral,0
+CUST_774,Marthe de la Bruneau,Saint Brigitte-sur-Mer,Gabon,18-25,Premium,2024-02-08,Google Search,1
+CUST_775,Charlotte Besnard,Legros-sur-Tessier,Haïti,18-25,Créateur,2024-02-19,Event Walk-in,0
+CUST_776,Vincent de Guyon,Saint Adrienne-sur-Mer,Fidji (République des),18-25,Découverte,2024-04-28,Google Search,1
+CUST_777,Bernard-Tristan Collet,Chauvet-la-Forêt,Moldavie,46-60,Découverte,2024-09-15,Google Search,0
+CUST_778,Monique de la Rodrigues,Lebon,Canada,26-35,Découverte,2024-11-04,Google Search,0
+CUST_779,Christine Launay,Sainte Christophe,Oman,36-45,Créateur,2024-05-20,Google Search,0
+CUST_780,Tristan Thibault,Sainte Roger,Azerbaïdjan,18-25,Premium,2024-04-26,Partnership,0
+CUST_781,Vincent Guillet,Le Roux,Canada,46-60,Régulier,2024-07-23,Partnership,1
+CUST_782,Éric Gilbert,DurandBourg,Jordanie,26-35,Premium,2025-02-23,LinkedIn,0
+CUST_783,Maggie Lebon,Collinnec,Kiribati,18-25,Créateur,2025-05-23,TikTok,1
+CUST_784,Isaac Marie,Sainte Victoire,Hong Kong,36-45,Régulier,2024-01-03,Instagram,0
+CUST_785,Paulette Dijoux,Barre-la-Forêt,Saint-Kitts et Nevis,18-25,Créateur,2025-05-20,TikTok,0
+CUST_786,Audrey Collin-David,Cohen,Maurice,18-25,Découverte,2024-09-19,Event Walk-in,0
+CUST_787,Philippine Prévost,Pinto-les-Bains,Norvège,46-60,Premium,2024-09-27,Google Search,0
+CUST_788,Élise Hervé Le Loiseau,Fernandes-la-Forêt,Niger,18-25,Régulier,2024-02-10,Partnership,1
+CUST_789,Alex Godard,Seguin,Chili,36-45,Premium,2025-03-12,Event Walk-in,0
+CUST_790,Maurice Pelletier,FernandesBourg,Lesotho,18-25,Découverte,2024-01-10,Partnership,0
+CUST_791,Susan Martins du Lemaître,Sainte MarineBourg,Somalie,26-35,Premium,2025-01-01,Google Search,1
+CUST_792,Alain de la Bousquet,Julien-sur-Baudry,Irak,18-25,Premium,2024-12-16,TikTok,0
+CUST_793,Jean Roussel,Lemaire,Namibie,46-60,Corporate,2025-04-12,LinkedIn,1
+CUST_794,Luc Perez,Guillot,Lettonie,46-60,Corporate,2024-06-19,Instagram,0
+CUST_795,Robert Perrin,Gimenezboeuf,Rép. Dém. du Congo,18-25,Régulier,2024-04-16,Google Search,1
+CUST_796,Louise-Margot Pelletier,Rogernec,Cook (Îles),46-60,Régulier,2025-01-23,Partnership,1
+CUST_797,Virginie Lefèvre de la Gautier,Mathieu,Équateur,18-25,Régulier,2025-05-09,Google Search,0
+CUST_798,Bertrand de la Costa,Sainte Adrienne-sur-Mer,Turks et Caïques (Îles),46-60,Corporate,2024-02-17,Instagram,1
+CUST_799,Théophile-Zacharie Michaud,MarquesVille,Bahamas,36-45,Découverte,2025-06-21,Partnership,0
+CUST_800,Nathalie Lemaire,Gautier,Portugal,36-45,Créateur,2025-06-19,Event Walk-in,0
+CUST_801,Alain Perrier,Dos Santos,Chili,46-60,Régulier,2025-05-08,LinkedIn,1
+CUST_802,Marine Delorme,Charpentier-la-Forêt,Sri Lanka,26-35,Créateur,2024-02-25,Instagram,0
+CUST_803,Julie Le Sauvage,Moulin-les-Bains,Équateur,46-60,Corporate,2024-06-18,Instagram,1
+CUST_804,Adrienne Lebreton,Caron,Cambodge,36-45,Régulier,2024-12-04,LinkedIn,0
+CUST_805,Stéphane Mathieu-Rolland,Raymond-la-Forêt,Bhoutan,26-35,Créateur,2025-01-22,Google Search,0
+CUST_806,Chantal-Anaïs Brunet,Dupuis,Madagascar,18-25,Corporate,2025-03-30,Partnership,1
+CUST_807,Élisabeth Blondel-Cordier,Hervé,Antigua et Barbuda,18-25,Corporate,2025-04-02,LinkedIn,0
+CUST_808,Thérèse du Alves,Godard-les-Bains,Équateur,46-60,Découverte,2024-04-15,Google Search,1
+CUST_809,Constance Rousset,Saint Jeannine-les-Bains,Azerbaïdjan,18-25,Créateur,2024-01-01,Partnership,0
+CUST_810,Anne Muller de la Labbé,Bazinnec,Ouganda,36-45,Créateur,2024-07-30,Event Walk-in,1
+CUST_811,Isabelle du Alexandre,Poirier-sur-Mer,Sierra Leone,36-45,Premium,2024-02-25,Partnership,0
+CUST_812,Audrey de la Lagarde,CohenBourg,États-Unis,46-60,Premium,2025-04-29,Event Walk-in,1
+CUST_813,François Marchal de Bousquet,Marques,Costa Rica,46-60,Découverte,2024-04-09,Partnership,0
+CUST_814,Maurice Alves,Hardydan,Mariannes du Nord (Îles),18-25,Premium,2024-12-29,Partnership,1
+CUST_815,Margot Jacob-Schneider,Valletdan,Danemark,36-45,Découverte,2024-02-16,TikTok,1
+CUST_816,Lucy Didier Le Bouvier,Sainte EmmanuelleBourg,Oman,26-35,Corporate,2024-04-19,LinkedIn,0
+CUST_817,Hugues Fischer,Rousseau,Falkland (Île),26-35,Découverte,2025-02-06,TikTok,1
+CUST_818,Xavier Mathieu-Fournier,Dubois,Irak,26-35,Premium,2024-04-20,Partnership,1
+CUST_819,Vincent Le Chartier,Colletdan,Tunisie,18-25,Créateur,2024-05-06,Partnership,1
+CUST_820,Sabine Godard,Saint Luciedan,Svalbard et Jan Mayen (Îles),46-60,Créateur,2025-05-31,TikTok,1
+CUST_821,Lucie-Margaux Lacroix,Sainte Guy,Botswana,18-25,Créateur,2024-02-19,Referral,1
+CUST_822,Alexandria Gonzalez,Lecoq,Érythrée,46-60,Créateur,2024-06-30,Event Walk-in,0
+CUST_823,Christelle Da Costa,Reynaudnec,République centrafricaine,26-35,Découverte,2025-01-31,Event Walk-in,1
+CUST_824,Guillaume Moreau,Boyer-sur-Hamon,Thailande,46-60,Corporate,2024-09-11,LinkedIn,1
+CUST_825,Nath Alves,Fabre,Nepal,36-45,Premium,2025-04-08,Partnership,0
+CUST_826,Philippine Mallet,Costa,Roumanie,26-35,Corporate,2025-06-08,LinkedIn,1
+CUST_827,Bertrand Dumas,Berthelot-la-Forêt,Singapour,26-35,Régulier,2024-08-02,Referral,1
+CUST_828,Marc Blanchard,Colin,Grèce,36-45,Régulier,2024-07-01,Referral,1
+CUST_829,Hélène Couturier Le Valentin,Deschamps,Cap Vert,18-25,Premium,2025-05-06,Referral,1
+CUST_830,Théodore Bousquet,Martin-sur-Royer,Équateur,36-45,Corporate,2024-01-14,Referral,0
+CUST_831,Julien de Bazin,Faure,Oman,18-25,Corporate,2024-05-28,Instagram,0
+CUST_832,Alexandria de Boyer,Duprénec,Namibie,26-35,Premium,2024-06-13,LinkedIn,1
+CUST_833,Margaret Pasquier,Roche,Tanzanie,26-35,Découverte,2024-10-29,TikTok,0
+CUST_834,Charlotte Bertrand-Le Gall,Bertrand,Timor,36-45,Corporate,2024-04-14,Referral,0
+CUST_835,Amélie Julien-Leconte,Allain,La Barbad,46-60,Régulier,2025-06-07,Partnership,1
+CUST_836,Nath Jacquet,Bernier-les-Bains,Turkménistan,18-25,Corporate,2025-01-31,Google Search,1
+CUST_837,Julien Pichon,Gros-sur-Robert,Libye,18-25,Découverte,2024-09-14,TikTok,1
+CUST_838,Franck Mendès,Gillet,Bolivie,26-35,Premium,2024-07-20,Partnership,0
+CUST_839,Arthur Bailly,Sainte Christine,Nicaragua,36-45,Corporate,2024-06-30,Event Walk-in,0
+CUST_840,Thibaut Maréchal de Blanc,Collin-sur-Robin,Lettonie,26-35,Régulier,2025-06-10,Instagram,1
+CUST_841,Maurice Pascal,Marindan,Laos,18-25,Corporate,2024-10-12,Referral,1
+CUST_842,Matthieu de la Barbier,Saint Geneviève-les-Bains,Pitcairn (Îles),26-35,Régulier,2024-09-18,Instagram,1
+CUST_843,Guy Royer,Brun,Tokelau,46-60,Régulier,2024-02-10,TikTok,1
+CUST_844,Marie Bernier Le Gaudin,Saint Gabrielboeuf,Yougoslavie,18-25,Créateur,2024-11-04,Google Search,1
+CUST_845,Michelle Leclerc,Sainte Frédéric-la-Forêt,Sénégal,18-25,Premium,2025-06-22,TikTok,0
+CUST_846,Lucas de Godard,Saint Aurélienec,Guinée,18-25,Créateur,2024-06-12,Google Search,1
+CUST_847,Thérèse Le Tessier,Bouvier,Martinique,18-25,Premium,2024-08-14,TikTok,1
+CUST_848,Bertrand Berger,Perrier-la-Forêt,Royaume-Uni,36-45,Premium,2024-10-27,TikTok,1
+CUST_849,Margot Caron,CarreVille,Gibraltar,18-25,Découverte,2024-12-20,Google Search,0
+CUST_850,Andrée Gros-Garcia,Bruneau,Namibie,26-35,Découverte,2024-11-24,Google Search,0
+CUST_851,Camille Gallet,Pottier,Liban,46-60,Premium,2024-10-16,Instagram,1
+CUST_852,Alix Imbert,Sanchez-les-Bains,Tanzanie,46-60,Corporate,2024-02-14,LinkedIn,0
+CUST_853,Alex Simon,Marie,Togo,36-45,Créateur,2024-03-25,Instagram,0
+CUST_854,Matthieu-Guillaume Perrin,Delattre,São Tomé et Príncipe (Rép.),18-25,Découverte,2024-08-03,Event Walk-in,0
+CUST_855,Roland Guibert,Diaz,Bahrain,46-60,Découverte,2024-07-29,Referral,1
+CUST_856,Jean Fernandez du Marin,Saint Renée,Zambie,18-25,Régulier,2024-01-25,Google Search,1
+CUST_857,Corinne Lemaire,Lesage,Tokelau,18-25,Découverte,2024-03-16,Instagram,0
+CUST_858,Suzanne Grenier,Sainte Manon-la-Forêt,Albanie,36-45,Créateur,2024-03-13,Referral,0
+CUST_859,Chantal Lacroix-Bonneau,LecoqBourg,Sierra Leone,36-45,Corporate,2025-02-01,Google Search,1
+CUST_860,Christiane Marques-Gaudin,Saint Antoinettedan,Sainte Lucie,46-60,Premium,2024-01-18,Google Search,0
+CUST_861,Eugène Faure,Turpindan,Libéria,18-25,Créateur,2024-03-05,Partnership,0
+CUST_862,Eugène-Martin Guillou,JulienVille,Djibouti,18-25,Premium,2025-05-29,Instagram,1
+CUST_863,Vincent Bourdon,Teixeira,Sahara Occidental,36-45,Créateur,2024-03-29,LinkedIn,1
+CUST_864,Éléonore Aubert-Chauvet,Collin-sur-Mer,Féroé (Îles),46-60,Corporate,2024-02-01,Google Search,0
+CUST_865,William du Menard,Pinto,Martinique,26-35,Régulier,2025-02-04,Partnership,1
+CUST_866,Océane Legendre,Ruiz,Royaume-Uni,26-35,Premium,2025-01-17,Instagram,0
+CUST_867,Georges Vincent de la Hamon,Thierry-sur-Martineau,Guinée,18-25,Découverte,2024-01-06,Referral,1
+CUST_868,Thierry Laporte,Goncalves,Bolivie,18-25,Premium,2024-08-03,Event Walk-in,1
+CUST_869,Isaac Philippe,Marchal-sur-Mer,Madagascar,26-35,Corporate,2025-06-08,TikTok,0
+CUST_870,Théodore de Bourdon,Bernier-sur-Mer,Lesotho,26-35,Régulier,2024-09-15,TikTok,0
+CUST_871,Roland Antoine,Leroy,Thailande,26-35,Créateur,2024-02-25,Partnership,1
+CUST_872,Nicolas Dubois-Blanchard,Sainte Suzannedan,Guinée-Bissau,18-25,Premium,2024-03-09,LinkedIn,0
+CUST_873,Sophie Marchal,Adam,Bouvet (Îles),26-35,Créateur,2025-05-13,LinkedIn,1
+CUST_874,Yves Joubert,Rolland-sur-Louis,Suriname,26-35,Régulier,2024-04-12,LinkedIn,0
+CUST_875,Sylvie-Paulette Laporte,Grenier,Libéria,26-35,Premium,2025-05-12,Google Search,1
+CUST_876,Célina Hervé,LaunayVille,Nigeria,36-45,Créateur,2024-06-05,Referral,1
+CUST_877,Camille Besson,Launay,Panama,36-45,Corporate,2024-06-21,Instagram,1
+CUST_878,Richard Carre-Marchand,Blot,Colombie,26-35,Régulier,2025-03-22,LinkedIn,1
+CUST_879,Monique Goncalves,Sainte MargotVille,Ukraine,26-35,Premium,2025-05-06,Google Search,1
+CUST_880,Grégoire de la Turpin,BesnardVille,São Tomé et Príncipe (Rép.),36-45,Premium,2025-05-13,Referral,0
+CUST_881,Jacques Gilbert,Guyot-sur-Maillet,Vatican (Etat du),26-35,Créateur,2024-03-24,Partnership,1
+CUST_882,Émilie Grondin-Brun,Hervé,Gambie,26-35,Créateur,2024-07-20,LinkedIn,0
+CUST_883,Stéphanie Lemonnier,Robin-sur-Mer,Bhoutan,18-25,Découverte,2025-06-03,Event Walk-in,0
+CUST_884,Françoise Bernard,Cordier,Libye,46-60,Créateur,2024-08-05,Instagram,1
+CUST_885,Anastasie Rey,LeblancBourg,Vanuatu,46-60,Régulier,2025-01-09,Google Search,0
+CUST_886,Marcel de Lucas,CousinBourg,Polynésie française,36-45,Régulier,2025-04-20,Referral,0
+CUST_887,Henri Ferrand,Saint Marie,Pérou,46-60,Premium,2025-05-29,Instagram,0
+CUST_888,Caroline Germain Le Carlier,Sainte Antoineboeuf,Seychelles,26-35,Créateur,2024-05-23,Google Search,0
+CUST_889,Océane Rolland,Lemaire,Macau,26-35,Créateur,2024-05-29,Event Walk-in,1
+CUST_890,Victor David Le Pelletier,DupréBourg,Ouzbékistan,36-45,Découverte,2024-08-12,Partnership,1
+CUST_891,Jacqueline Chevallier,Bouchernec,Chine (Rép. pop.),26-35,Découverte,2024-09-27,LinkedIn,0
+CUST_892,Xavier Teixeira,Sainte Augustinnec,Bulgarie,18-25,Régulier,2025-06-14,Partnership,1
+CUST_893,Marthe Le Imbert,ReynaudVille,Hong Kong,46-60,Corporate,2025-04-10,Instagram,0
+CUST_894,Susan Louis,Lefèvredan,Nigeria,36-45,Découverte,2025-06-17,Event Walk-in,1
+CUST_895,Yves Le Berthelot,Maurice-les-Bains,Portugal,36-45,Créateur,2024-06-27,Google Search,1
+CUST_896,Émile Normand du Vallée,Godard-sur-Mer,Ouzbékistan,36-45,Créateur,2024-03-20,Referral,1
+CUST_897,Sabine Duval,Bourgeois-sur-Mer,Cocos (Îles),46-60,Régulier,2025-06-12,Google Search,1
+CUST_898,Roland-Bertrand Payet,Berthelot,Cambodge,36-45,Corporate,2025-05-08,Referral,0
+CUST_899,Alexandria Roche-Legros,Ledoux-sur-Aubert,Guinée,26-35,Corporate,2024-06-18,TikTok,0
+CUST_900,Laure Pichon,Menard-sur-Mer,Nouvelle-Zélande,36-45,Régulier,2024-06-02,TikTok,0
+CUST_901,Michelle de la Ferreira,BouvierBourg,Nouvelle Calédonie,36-45,Créateur,2024-05-01,Event Walk-in,0
+CUST_902,Margaux du Muller,Joubert-la-Forêt,Cook (Îles),46-60,Premium,2024-04-26,Google Search,1
+CUST_903,Jeanne Diallo-Lebrun,Sainte Josette-la-Forêt,Bhoutan,46-60,Régulier,2024-06-14,Event Walk-in,1
+CUST_904,Édouard de la Rousset,Jacob-sur-Turpin,Guinée,18-25,Régulier,2024-02-14,TikTok,0
+CUST_905,Maggie Hebert,Humbert,Pitcairn (Îles),26-35,Créateur,2024-02-10,Referral,0
+CUST_906,Arnaude Roche,Leclercq,Brésil,18-25,Régulier,2024-09-21,TikTok,1
+CUST_907,Valentine Thierry,Bousquetboeuf,Antarctique,18-25,Premium,2024-03-28,TikTok,1
+CUST_908,Joseph Navarro-Gautier,Jacquot,Sahara Occidental,46-60,Corporate,2024-06-23,TikTok,1
+CUST_909,Agnès Da Silva,Sanchez,Hongrie,26-35,Créateur,2024-07-05,Referral,1
+CUST_910,Pierre Lebrun,Richarddan,Namibie,26-35,Premium,2025-04-09,Referral,0
+CUST_911,Édouard Regnier du Letellier,Saint Nicolas-sur-Mer,Yemen,26-35,Corporate,2025-01-29,TikTok,0
+CUST_912,Charlotte Gaudin,Torres,Mexique,18-25,Régulier,2025-06-19,Partnership,1
+CUST_913,Denis de Boulay,Sainte AnneVille,Macau,26-35,Créateur,2024-04-08,TikTok,1
+CUST_914,Caroline Jean,Sainte Benjamin,Bangladesh,18-25,Créateur,2025-05-30,Partnership,0
+CUST_915,Théodore Hamel,Merle-sur-Mer,Guyane française,18-25,Corporate,2024-05-13,Referral,0
+CUST_916,Michelle Gonzalez,Alvesboeuf,Christmas (Île),46-60,Créateur,2025-03-06,LinkedIn,0
+CUST_917,Olivier Rolland,Saint Jean-sur-Mer,Cayman (Îles),46-60,Régulier,2025-05-08,Partnership,1
+CUST_918,Josette Huet,Masse-les-Bains,Swaziland,36-45,Créateur,2024-04-10,Google Search,0
+CUST_919,Zoé Fleury,Nguyennec,Antarctique,36-45,Corporate,2024-08-26,Partnership,0
+CUST_920,Susanne de Roy,Le Roux,Nicaragua,36-45,Créateur,2025-02-22,LinkedIn,0
+CUST_921,Margaud Lebon,PascalBourg,Pitcairn (Îles),18-25,Découverte,2025-06-19,Instagram,0
+CUST_922,Léon Petit-Pages,Fabre,Taiwan,46-60,Régulier,2024-11-19,Google Search,1
+CUST_923,Corinne du Peltier,Leleu,Sri Lanka,18-25,Régulier,2025-03-12,Event Walk-in,1
+CUST_924,Jules Richard-Bazin,Saint Christelle,Antarctique,36-45,Créateur,2025-03-09,Referral,1
+CUST_925,Anne Faivre,Bailly,République tchèque,36-45,Corporate,2024-07-27,Google Search,1
+CUST_926,Olivier Guillaume de la Normand,Lebretonboeuf,Yemen,26-35,Premium,2025-05-10,LinkedIn,1
+CUST_927,Denise Boyer,Dupré-sur-Tessier,Mali,36-45,Corporate,2024-05-21,Partnership,0
+CUST_928,Timothée Le Laurent,Bruneau,France,26-35,Corporate,2024-06-14,Instagram,0
+CUST_929,Luc Imbert,Roche,Guyane française,46-60,Premium,2024-02-23,TikTok,1
+CUST_930,Jeannine Laine-Letellier,RogerBourg,Cameroun,18-25,Découverte,2024-05-28,Google Search,1
+CUST_931,Zacharie Perrin du Breton,TraoreVille,Irlande,18-25,Découverte,2024-09-26,TikTok,1
+CUST_932,Cécile Blanchet,Menard,Marshall (Îles),18-25,Créateur,2024-02-08,Event Walk-in,1
+CUST_933,Édith Meunier,Lemaire-la-Forêt,Chine (Rép. pop.),46-60,Créateur,2025-06-17,LinkedIn,0
+CUST_934,Roger Thierry Le Cohen,Sainte Michèle-sur-Mer,Venezuela,26-35,Corporate,2025-03-25,Instagram,0
+CUST_935,Guillaume Guillon,Blanchet,Chine (Rép. pop.),36-45,Régulier,2024-02-04,Partnership,0
+CUST_936,Denis Bernard,Moreno,Turquie,26-35,Découverte,2025-01-03,TikTok,0
+CUST_937,Claire Delmas,Martineaunec,Guinée-Bissau,26-35,Découverte,2024-10-09,Partnership,1
+CUST_938,Thibaut du Auger,Courtois,Antigua et Barbuda,36-45,Corporate,2025-02-19,Referral,0
+CUST_939,Honoré de la Salmon,Léger-la-Forêt,Micronésie (États fédérés de),18-25,Découverte,2024-04-02,Referral,1
+CUST_940,Danielle Gilles-Dupré,Gros,Porto Rico,36-45,Premium,2024-10-10,TikTok,0
+CUST_941,Catherine de la Pruvost,Jacquet,Guyane,46-60,Corporate,2024-01-05,LinkedIn,0
+CUST_942,Benoît Blin-Besson,Saint Audrey-la-Forêt,Nicaragua,46-60,Créateur,2024-04-19,Referral,0
+CUST_943,Susan du Gomes,Étiennedan,Rwanda,36-45,Premium,2024-04-29,Partnership,1
+CUST_944,Michelle Delattre,Sainte BernardBourg,Cambodge,36-45,Corporate,2025-01-21,Referral,1
+CUST_945,Zacharie Letellier,Godard,Namibie,26-35,Premium,2025-04-14,Event Walk-in,1
+CUST_946,Dorothée Michel de Lévêque,Morin,Hongrie,18-25,Corporate,2024-04-29,LinkedIn,0
+CUST_947,Élisabeth de la Giraud,Morinboeuf,Guinée-Bissau,46-60,Régulier,2024-08-23,Partnership,1
+CUST_948,Stéphane Le Meyer,Royer,Mexique,46-60,Premium,2025-06-12,Referral,0
+CUST_949,Louis-Gérard Bonneau,Clément,Hong Kong,36-45,Régulier,2024-10-21,Instagram,1
+CUST_950,Alain Pottier-Moreno,Chauveau-sur-Mer,Suisse,36-45,Découverte,2024-07-01,Google Search,1
+CUST_951,Andrée du Jourdan,Moulin,Wallis et Futuna (Îles),36-45,Régulier,2024-10-02,TikTok,0
+CUST_952,Léon Hebert,Lejeune-sur-Mer,Macédoine du Nord,46-60,Régulier,2024-08-28,Event Walk-in,0
+CUST_953,Claire Aubert,Saint Christophe,Jamaïque,36-45,Régulier,2024-08-22,TikTok,0
+CUST_954,Isabelle Roussel,Saint Margaudnec,Botswana,36-45,Régulier,2024-04-19,Instagram,0
+CUST_955,Alexandre Ollivier,Sainte Christiane-sur-Mer,Samoa,46-60,Créateur,2024-01-07,Partnership,0
+CUST_956,Jacqueline Gilles,Bigotboeuf,Cuba,46-60,Premium,2024-11-18,Google Search,1
+CUST_957,Michel Lagarde,Sainte Luce-sur-Mer,"Corée, Sud",46-60,Régulier,2025-06-07,LinkedIn,1
+CUST_958,Christelle Gros,Dijoux,Yemen,26-35,Créateur,2024-05-11,Instagram,1
+CUST_959,Camille Brun,FernandezBourg,Côte d'Ivoire,46-60,Créateur,2024-02-03,Referral,1
+CUST_960,Jeanne Berthelot,PerrinBourg,Turks et Caïques (Îles),46-60,Régulier,2025-04-13,Instagram,1
+CUST_961,Thibaut Neveu de Marques,Rousseau,Polynésie française,36-45,Découverte,2024-01-13,Event Walk-in,0
+CUST_962,Laurence Maury,Léger,Pays-Bas,46-60,Créateur,2024-04-13,LinkedIn,1
+CUST_963,Madeleine Mercier,Jacques,Anguilla,36-45,Régulier,2024-09-26,TikTok,1
+CUST_964,Maryse Alexandre,Morin,Guinée Equatoriale,46-60,Créateur,2024-12-17,LinkedIn,0
+CUST_965,Virginie Fabre,Barre,Bosnie-Herzégovine,46-60,Corporate,2024-08-03,Google Search,1
+CUST_966,Bertrand Lagarde-Monnier,Guyon,Cook (Îles),36-45,Corporate,2024-10-13,Google Search,0
+CUST_967,Christophe David,Renault-sur-Lebreton,Îles Mineures Éloignées des États-Unis,26-35,Créateur,2024-08-22,Partnership,0
+CUST_968,Gérard Mendès,Loiseaunec,Ethiopie,36-45,Régulier,2025-03-18,Partnership,1
+CUST_969,Luc Fischer,Bigotboeuf,Vatican (Etat du),26-35,Régulier,2024-06-02,Google Search,0
+CUST_970,Nathalie Loiseau-Guilbert,Saint Jacqueline,Guyane française,26-35,Corporate,2025-05-26,TikTok,1
+CUST_971,Julien Dufour-Peron,Ferreira,République centrafricaine,46-60,Premium,2024-09-13,Referral,0
+CUST_972,Jean Rodrigues de la Jacquot,Grondin,Brésil,46-60,Découverte,2024-06-16,Instagram,0
+CUST_973,Isaac Maillet,PaulVille,Grenade,36-45,Corporate,2024-04-08,Google Search,1
+CUST_974,Pauline Dos Santos,Sainte Olivie,Vietnam,36-45,Premium,2025-01-03,Referral,1
+CUST_975,Yves Regnier,Moreno,Équateur,36-45,Découverte,2025-02-25,Instagram,1
+CUST_976,Bernard Vallet,Nguyen,Géorgie,26-35,Créateur,2024-06-27,Partnership,1
+CUST_977,Jacques Meunier,Mercier-sur-Louis,Vanuatu,36-45,Premium,2025-06-06,Google Search,1
+CUST_978,Antoinette de Albert,Sainte Joseph-la-Forêt,Arménie,18-25,Corporate,2024-10-20,Google Search,0
+CUST_979,Yves Ollivier,Grégoire,Portugal,26-35,Premium,2025-03-07,Event Walk-in,1
+CUST_980,Nathalie Robin,Seguin,Bahamas,18-25,Découverte,2024-06-14,LinkedIn,0
+CUST_981,Théophile de la Dupont,Sainte ChantalVille,Malte,36-45,Premium,2024-10-25,Event Walk-in,1
+CUST_982,Marc de Texier,ChauvinVille,Christmas (Île),46-60,Premium,2025-03-31,Partnership,1
+CUST_983,René Lemaître,Sainte Alphonseboeuf,Antarctique,46-60,Corporate,2024-06-20,TikTok,0
+CUST_984,Sylvie Guillon,Morinnec,Albanie,26-35,Régulier,2024-09-14,Event Walk-in,0
+CUST_985,Thérèse Gros,Saint Thibaut,Nouvelle-Zélande,26-35,Régulier,2025-02-10,Instagram,0
+CUST_986,Thomas Godard,Techer,Chypre,18-25,Corporate,2024-02-25,Instagram,1
+CUST_987,Madeleine du Lecoq,Berger,Croatie,18-25,Découverte,2024-09-25,Referral,0
+CUST_988,Astrid Maillot-Boucher,Chrétien-les-Bains,Papouasie-Nouvelle-Guinée,18-25,Corporate,2024-11-12,TikTok,0
+CUST_989,Rémy Fleury,Richard,Marshall (Îles),36-45,Corporate,2024-05-09,TikTok,0
+CUST_990,Margot-Zoé Delannoy,Martelnec,Liechtenstein,18-25,Découverte,2024-12-31,Partnership,1
+CUST_991,Andrée Verdier,Maillot,Trinité et Tobago,46-60,Corporate,2024-10-05,Referral,1
+CUST_992,Georges du Perrot,Hamel,Saint-Kitts et Nevis,26-35,Créateur,2024-06-30,Referral,1
+CUST_993,Patrick Perez,Saint Henriette-la-Forêt,Zaïre,46-60,Créateur,2025-06-30,LinkedIn,1
+CUST_994,Henri Michel,Gonzalez-la-Forêt,Nouvelle-Zélande,46-60,Créateur,2024-08-20,Partnership,0
+CUST_995,Philippine Teixeira,Saint Alix-sur-Mer,Roumanie,46-60,Premium,2025-01-09,Google Search,1
+CUST_996,Sébastien-Olivier Tessier,Saint Alphonse,Tadjikistan,26-35,Premium,2024-01-11,Instagram,0
+CUST_997,Guy-Gilbert Rousseau,Schneider-sur-Duhamel,Djibouti,36-45,Premium,2025-04-25,Referral,0
+CUST_998,Jacques Bigot,Lemaître-sur-Garnier,Finlande,46-60,Corporate,2024-11-02,Instagram,1
+CUST_999,Eugène Lagarde,Blanchard-les-Bains,Mexique,36-45,Créateur,2024-08-24,Partnership,0
+CUST_1000,Victor Bonnet-Étienne,Lefebvre-sur-Lagarde,Burkina Faso,36-45,Régulier,2025-02-25,Referral,1
+CUST_1001,Roger du Gros,Delattre,Gibraltar,46-60,Régulier,2024-06-16,Event Walk-in,1
+CUST_1002,Zacharie Lopes de Devaux,Coulonnec,Turquie,46-60,Régulier,2024-09-26,Instagram,1
+CUST_1003,Isabelle Thibault,Ribeiro,Hongrie,26-35,Créateur,2024-10-05,LinkedIn,1
+CUST_1004,Michelle Lombard,Parent,Moldavie,46-60,Régulier,2024-03-11,TikTok,0
+CUST_1005,Anouk-Suzanne Loiseau,Berthelot,Australie,36-45,Découverte,2025-04-11,Referral,1
+CUST_1006,Renée Berger,Jourdannec,Antarctique,36-45,Créateur,2025-05-18,TikTok,1
+CUST_1007,Simone Loiseau,Sainte Théodore,Samoa,18-25,Régulier,2024-02-20,Referral,0
+CUST_1008,Michelle Imbert-Thibault,Courtoisboeuf,Bulgarie,26-35,Découverte,2024-10-15,LinkedIn,0
+CUST_1009,Augustin Pereira,Poulain,Réunion (La),46-60,Découverte,2024-08-26,Instagram,0
+CUST_1010,Stéphanie Arnaud,Guichard,République centrafricaine,18-25,Corporate,2024-08-10,LinkedIn,1
+CUST_1011,Hugues de la Moreno,Leduc-sur-Rossi,Australie,36-45,Corporate,2025-01-15,Google Search,0
+CUST_1012,Margot Lucas,Munoz-sur-Mer,Heard et McDonald (Îles),36-45,Découverte,2024-05-29,Instagram,1
+CUST_1013,Denise Valette,Marin,Kirghizistan,46-60,Découverte,2025-04-26,TikTok,0
+CUST_1014,Stéphane Rémy du Benoit,Allainnec,Danemark,36-45,Corporate,2024-01-13,Instagram,0
+CUST_1015,Antoinette Letellier,Saint Aimédan,Monaco,46-60,Corporate,2024-09-10,Event Walk-in,0
+CUST_1016,Marine Coulon,BlancVille,Belize,26-35,Corporate,2024-04-06,Referral,0
+CUST_1017,Victoire-Nathalie Barre,Gaillard,Allemagne,46-60,Corporate,2024-11-15,LinkedIn,0
+CUST_1018,Nath Blanc,Charles-sur-Gosselin,Zaïre,18-25,Créateur,2025-06-17,Instagram,1
+CUST_1019,Xavier Julien,Bourgeoisnec,Guinée Equatoriale,46-60,Premium,2024-07-22,LinkedIn,0
+CUST_1020,Zacharie Paul,Neveudan,Sierra Leone,26-35,Découverte,2024-08-29,Event Walk-in,1
+CUST_1021,Laure Hervé,Bernardnec,Anguilla,36-45,Découverte,2024-06-20,Partnership,1
+CUST_1022,Capucine Marchal,Guillet-sur-Mer,Royaume-Uni,18-25,Corporate,2024-09-05,Instagram,0
+CUST_1023,Guy Goncalves,PoirierBourg,Jordanie,46-60,Créateur,2024-06-07,LinkedIn,0
+CUST_1024,Michelle Parent,Lecoq,Zimbabwe,26-35,Régulier,2025-05-26,Instagram,1
+CUST_1025,Tristan Godard,Maréchal,Antilles néerlandaises,18-25,Découverte,2024-12-30,Event Walk-in,0
+CUST_1026,Astrid Briand,Saint Sophienec,Taiwan,18-25,Régulier,2025-05-14,TikTok,1
+CUST_1027,Thibaut Leduc,Bernard,Somalie,36-45,Corporate,2024-07-16,Instagram,1
+CUST_1028,Maryse Laporte,Da CostaBourg,Angola,36-45,Régulier,2024-09-13,Instagram,1
+CUST_1029,Noël Carlier-Grenier,RousselVille,Yougoslavie,46-60,Créateur,2024-10-28,Referral,1
+CUST_1030,Adèle du Raynaud,Chauvet,Nicaragua,26-35,Créateur,2024-07-10,Referral,1
+CUST_1031,Marguerite-Adélaïde Perrot,Meunier,Turks et Caïques (Îles),36-45,Corporate,2024-10-08,Partnership,0
+CUST_1032,Vincent Diaz,Dupont,Swaziland,18-25,Créateur,2024-06-07,Google Search,1
+CUST_1033,Gilles Perret,Pichondan,Malawi,36-45,Créateur,2025-01-10,Google Search,0
+CUST_1034,Claudine Fabre,Allard,Iran,46-60,Régulier,2024-01-20,Referral,1
+CUST_1035,Lucas Perrin,Courtois,Pitcairn (Îles),26-35,Premium,2024-03-05,Event Walk-in,1
+CUST_1036,Nicolas-Théophile Hernandez,Gillet,Antilles néerlandaises,26-35,Créateur,2025-05-24,Partnership,0
+CUST_1037,Andrée de la Bertin,Sainte Alain,Ghana,36-45,Premium,2025-02-23,Event Walk-in,1
+CUST_1038,François Guillot,Lombard-la-Forêt,Timor,18-25,Découverte,2025-06-19,Event Walk-in,0
+CUST_1039,Christiane Legrand,Paul,Laos,18-25,Régulier,2024-07-01,Partnership,0
+CUST_1040,Mathilde Guilbert,Saint Lucie,Argentine,26-35,Découverte,2025-05-12,TikTok,0
+CUST_1041,Nathalie Coulon,Sainte Pauletteboeuf,Jamaïque,18-25,Créateur,2025-02-01,Event Walk-in,1
+CUST_1042,Laetitia Jacob,Turpin,Équateur,36-45,Découverte,2025-01-10,TikTok,0
+CUST_1043,Sophie-Joséphine Blanc,Laroche,Indonésie,18-25,Régulier,2025-05-18,Partnership,0
+CUST_1044,Robert Meunier,Saint Henriette-sur-Mer,Montserrat,46-60,Découverte,2025-01-04,Referral,1
+CUST_1045,William Lamy,Sainte Georges,Irak,36-45,Découverte,2024-09-29,Referral,0
+CUST_1046,Georges du Clément,OlivierBourg,Guinée,18-25,Premium,2024-03-20,TikTok,0
+CUST_1047,Nicolas Maillot,Saint Marcelle,"Corée, Sud",18-25,Régulier,2025-06-28,Google Search,0
+CUST_1048,Cécile Raymond,Delaunayboeuf,Bangladesh,26-35,Créateur,2024-09-11,Referral,0
+CUST_1049,Timothée Pages,Mathieu,Ethiopie,46-60,Découverte,2025-01-01,Event Walk-in,1
+CUST_1050,Luc Alexandre,Blot,Lettonie,46-60,Découverte,2024-06-19,Partnership,0
+CUST_1051,Clémence Dumont,Barbe-sur-Brunet,Djibouti,46-60,Créateur,2024-12-11,Event Walk-in,0
+CUST_1052,Alice Leduc,Ruiz,Bhoutan,46-60,Premium,2024-11-18,Referral,1
+CUST_1053,Agnès Adam,Grondinnec,Kazakhstan,36-45,Corporate,2025-03-16,Partnership,1
+CUST_1054,Rémy Bègue,Guyot,Liechtenstein,26-35,Créateur,2024-08-07,Google Search,1
+CUST_1055,Thérèse Rousset,Renault,Zambie,36-45,Corporate,2025-04-03,Google Search,0
+CUST_1056,Rémy-Charles Gérard,Ruiz-la-Forêt,Iran,18-25,Premium,2024-01-17,Referral,0
+CUST_1057,Camille Gallet Le Marin,Saint Thierry,Lesotho,36-45,Découverte,2024-11-03,TikTok,0
+CUST_1058,Antoine Lecomte,Clerc-sur-Mer,Îles Mineures Éloignées des États-Unis,36-45,Découverte,2024-10-09,Referral,0
+CUST_1059,Alain Fischer-Humbert,Daniel,Israël,18-25,Découverte,2025-04-16,LinkedIn,0
+CUST_1060,Véronique-Sophie Gay,MendèsVille,Bhoutan,26-35,Premium,2025-01-10,Referral,0
+CUST_1061,Capucine Pichon,Bouvier-sur-Lopes,Côte d'Ivoire,26-35,Premium,2024-11-03,Instagram,1
+CUST_1062,Agathe du Ollivier,Rey,Nicaragua,26-35,Découverte,2024-11-28,Partnership,1
+CUST_1063,Émile Bruneau,Duhamel,Fidji (République des),26-35,Corporate,2024-04-07,Referral,1
+CUST_1064,Gilles Allain-Dias,FournierBourg,Afrique du sud,18-25,Créateur,2025-01-25,Instagram,0
+CUST_1065,Simone Julien,Sainte Auguste-la-Forêt,Sainte Hélène,36-45,Premium,2025-03-20,Google Search,0
+CUST_1066,Franck Camus,Baron-sur-Loiseau,Suisse,26-35,Créateur,2024-01-12,Event Walk-in,1
+CUST_1067,Zacharie Poulain,Saint Vincentdan,Guatemala,18-25,Premium,2025-06-20,Instagram,1
+CUST_1068,Suzanne Marin,Texier-sur-Albert,Jamaïque,26-35,Premium,2025-05-29,Event Walk-in,0
+CUST_1069,Laure Merle,Meyer-sur-Chevallier,Ethiopie,26-35,Découverte,2025-02-06,Google Search,0
+CUST_1070,Michel Denis,Marty,Pologne,26-35,Corporate,2024-10-23,Partnership,1
+CUST_1071,Frédérique Le Riou,Sainte Guy,Panama,26-35,Régulier,2024-12-10,Instagram,1
+CUST_1072,René Pruvost de la Besson,Loiseau,Lettonie,18-25,Créateur,2025-02-12,LinkedIn,0
+CUST_1073,Pierre Morin,Briand,Tonga,46-60,Créateur,2025-03-20,Partnership,0
+CUST_1074,Yves Normand,Dupont,Jordanie,26-35,Corporate,2024-07-21,Google Search,1
+CUST_1075,Sophie Lagarde,Germain-sur-Mer,Djibouti,26-35,Créateur,2025-06-20,TikTok,0
+CUST_1076,Alexandre Sanchez-Becker,De Sousa,Nicaragua,18-25,Premium,2025-03-16,LinkedIn,0
+CUST_1077,Amélie du Aubert,Michel,République Dominicaine,18-25,Corporate,2025-03-09,LinkedIn,1
+CUST_1078,Adèle Coste,Robert,Belgique,26-35,Premium,2024-12-18,Referral,0
+CUST_1079,Alain Diaz,Fabre,Belize,36-45,Régulier,2024-12-24,Referral,1
+CUST_1080,François Moreno,Delmas,Indonésie,26-35,Corporate,2024-02-15,Partnership,0
+CUST_1081,Capucine Le Pereira,Bernier,Somalie,26-35,Premium,2024-06-08,Partnership,0
+CUST_1082,Victor Mary-Blondel,Imbert-sur-Brun,Albanie,18-25,Découverte,2024-09-05,Referral,0
+CUST_1083,Théodore du Guillon,Pagesnec,Libye,36-45,Découverte,2024-12-17,Event Walk-in,0
+CUST_1084,Constance Arnaud-Rossi,Maury-sur-Menard,Croatie,36-45,Corporate,2025-04-27,Instagram,1
+CUST_1085,Aurore Raynaud,Maillet,Nauru,26-35,Créateur,2024-08-04,TikTok,1
+CUST_1086,Christophe Guérin,Sainte Sabine,Finlande,46-60,Créateur,2024-05-24,Event Walk-in,0
+CUST_1087,Marc Lemoine,Delmas-sur-Mer,Guatemala,46-60,Créateur,2025-06-23,Instagram,1
+CUST_1088,Léon Faure,Brunel,Croatie,26-35,Découverte,2024-10-17,TikTok,1
+CUST_1089,René Hoarau Le Girard,Saint AntoinetteVille,Yougoslavie,18-25,Corporate,2024-01-09,Instagram,1
+CUST_1090,Benjamin Fernandes,Ollivier,Bulgarie,36-45,Premium,2024-04-20,Instagram,1
+CUST_1091,Patrick Bonneau-Bernier,Fernandes,Bosnie-Herzégovine,46-60,Régulier,2025-01-24,Referral,0
+CUST_1092,Roger Gimenez,Langlois-sur-Petit,Angola,36-45,Corporate,2025-06-28,Instagram,0
+CUST_1093,Christine du Ribeiro,Renard,Gambie,26-35,Créateur,2025-04-13,Referral,0
+CUST_1094,Margaux Gilles,Laroche,Svalbard et Jan Mayen (Îles),18-25,Régulier,2025-06-26,LinkedIn,1
+CUST_1095,Simone Sauvage,Leblanc,Turkménistan,46-60,Corporate,2024-06-09,Instagram,1
+CUST_1096,Jacqueline Arnaud,Lebon,Tuvalu,36-45,Premium,2024-11-05,TikTok,1
+CUST_1097,Alexandre Allain,Traoredan,Paraguay,18-25,Premium,2025-01-31,Partnership,0
+CUST_1098,Isaac Regnier,Leleu,Timor,36-45,Régulier,2024-06-04,LinkedIn,1
+CUST_1099,Margaret Menard,Marty-sur-Mer,Heard et McDonald (Îles),26-35,Découverte,2025-01-26,Referral,0
+CUST_1100,Georges Marques,Mendès-les-Bains,Laos,46-60,Régulier,2024-06-05,Google Search,1
+CUST_1101,Monique Aubert,RamosBourg,Bermudes (Les),36-45,Corporate,2024-05-14,TikTok,0
+CUST_1102,Gilles Germain,Jacob,Costa Rica,26-35,Régulier,2024-11-12,Event Walk-in,0
+CUST_1103,Gabrielle Briand,Sainte MartineVille,Antigua et Barbuda,46-60,Régulier,2024-06-10,LinkedIn,0
+CUST_1104,Margot Renaud,Lamy,Dominique,18-25,Régulier,2024-11-21,Partnership,0
+CUST_1105,Roger de Lopez,Lelièvrenec,Benin,18-25,Premium,2025-02-27,Google Search,1
+CUST_1106,Pénélope Delattre,Sainte Dorothée,Saint Vincent et les Grenadines,46-60,Premium,2024-06-04,Partnership,0
+CUST_1107,Clémence Gomez,Saint Chantalnec,Montserrat,18-25,Régulier,2024-07-08,Instagram,1
+CUST_1108,Auguste du Boutin,Royer,Zaïre,26-35,Créateur,2024-08-25,TikTok,0
+CUST_1109,Émilie Schmitt-Coulon,Fernandez,Singapour,36-45,Découverte,2025-05-03,TikTok,1
+CUST_1110,Arthur Gomez,Renardnec,Bahrain,36-45,Régulier,2025-01-31,Google Search,1
+CUST_1111,William Faure du Riou,Saint Monique-les-Bains,Mayotte,26-35,Régulier,2024-07-16,TikTok,0
+CUST_1112,Thibault-Thomas Merle,Labbé,Argentine,46-60,Découverte,2024-10-03,Google Search,0
+CUST_1113,Pénélope Guillaume,Vaillantdan,Monaco,26-35,Régulier,2024-03-08,TikTok,1
+CUST_1114,Paul Payet,Sainte StéphaneVille,Hong Kong,46-60,Premium,2025-04-13,TikTok,1
+CUST_1115,Gilles Gonzalez-François,François-sur-Schmitt,Seychelles,46-60,Découverte,2025-01-24,Event Walk-in,1
+CUST_1116,Gabriel Rousset de la Le Gall,Maillet-sur-Dias,Géorgie du Sud et Sandwich du Sud (Îles),46-60,Créateur,2025-06-21,Event Walk-in,0
+CUST_1117,Maggie Pichon-Rey,Bernier-sur-Mer,Thailande,18-25,Corporate,2025-04-12,Partnership,0
+CUST_1118,Lucie Roy,Sainte Camille,Cambodge,26-35,Créateur,2025-02-09,Event Walk-in,0
+CUST_1119,Sabine Camus,Saint Andrée,Marshall (Îles),46-60,Créateur,2024-02-20,TikTok,1
+CUST_1120,Christiane Weber de Morin,Lenoir,Costa Rica,46-60,Corporate,2024-11-07,Partnership,1
+CUST_1121,Tristan Carlier,Girard,Italie,46-60,Régulier,2025-03-08,LinkedIn,0
+CUST_1122,Véronique Lacroix,Laroche-les-Bains,Maldives (Îles),26-35,Corporate,2025-04-07,Instagram,0
+CUST_1123,Isaac Marques,GrosBourg,Burkina Faso,26-35,Créateur,2024-05-18,Google Search,1
+CUST_1124,Patricia Delmas,Letellier-la-Forêt,Guinée-Bissau,36-45,Corporate,2024-01-26,TikTok,1
+CUST_1125,Noémi Aubry,Raynaud-sur-Mer,Cocos (Îles),26-35,Corporate,2024-04-02,LinkedIn,1
+CUST_1126,Hortense Blot,Carpentier,Mozambique,26-35,Découverte,2024-04-03,Instagram,1
+CUST_1127,Marc Robert,Gonzalez-les-Bains,Swaziland,36-45,Découverte,2025-06-20,Event Walk-in,1
+CUST_1128,Claude-Élise Vallée,Dijouxboeuf,Thailande,26-35,Corporate,2025-01-24,Instagram,0
+CUST_1129,Nathalie Lévêque du Jacob,Ferrand,Zimbabwe,36-45,Créateur,2024-06-02,TikTok,0
+CUST_1130,Honoré de la Picard,ValentinBourg,Afghanistan,26-35,Découverte,2025-03-05,LinkedIn,1
+CUST_1131,François Le Roger,Pinto,Polynésie française,46-60,Premium,2024-07-04,Instagram,0
+CUST_1132,Astrid Bigot,Diallo,Guinée-Bissau,26-35,Découverte,2024-09-16,Instagram,1
+CUST_1133,René Roy,Delattre,Philippines,46-60,Corporate,2024-01-06,Referral,1
+CUST_1134,Joseph Morel,Saint Catherine,Bermudes (Les),26-35,Régulier,2025-05-02,Google Search,1
+CUST_1135,Olivier Allain,Sainte Auguste-sur-Mer,Saint Vincent et les Grenadines,46-60,Découverte,2024-01-07,TikTok,1
+CUST_1136,Édouard Marques Le Pelletier,Duval,Guadeloupe,26-35,Découverte,2024-07-08,TikTok,0
+CUST_1137,Henri Peron,Turpin,"Corée, Sud",36-45,Découverte,2024-05-28,Partnership,0
+CUST_1138,Benoît Guillot,Aubry,Guatemala,36-45,Premium,2024-03-30,Instagram,0
+CUST_1139,Josette Giraud,Merlenec,Lettonie,46-60,Régulier,2024-06-14,Event Walk-in,1
+CUST_1140,Augustin Pruvost,Guillet,Christmas (Île),26-35,Corporate,2025-01-03,Instagram,0
+CUST_1141,Corinne Pons-Laroche,Blanchard-les-Bains,Belize,36-45,Premium,2025-01-12,Google Search,0
+CUST_1142,Marc-Alain Moreau,Munoz-les-Bains,Macédoine du Nord,46-60,Créateur,2024-03-07,LinkedIn,1
+CUST_1143,Zacharie Dumas,Perez,Allemagne,26-35,Découverte,2024-10-08,LinkedIn,1
+CUST_1144,René Pages,Fernandes,Benin,26-35,Régulier,2024-02-29,Instagram,0
+CUST_1145,Robert du Germain,Berger-la-Forêt,Émirats arabes unis,46-60,Créateur,2024-10-21,Google Search,1
+CUST_1146,Marine Gomez-Duhamel,Saint Denis,Malawi,36-45,Créateur,2024-12-28,TikTok,1
+CUST_1147,Lucie de la Boucher,Lefebvre,Kazakhstan,46-60,Corporate,2024-07-03,Referral,0
+CUST_1148,Manon Gillet-Cordier,Paul-sur-Mer,Réunion (La),36-45,Régulier,2024-01-02,Instagram,0
+CUST_1149,Hélène-Dominique Peltier,Becker,Tadjikistan,46-60,Découverte,2024-07-31,Partnership,1
+CUST_1150,Emmanuelle Garnier,Jacquotnec,Andorre,46-60,Découverte,2024-12-07,LinkedIn,0
+CUST_1151,Odette Salmon,Verdiernec,Norvège,18-25,Régulier,2024-10-15,LinkedIn,0
+CUST_1152,Benoît de la Pires,Reynaud-sur-Breton,Croatie,36-45,Premium,2025-06-02,Referral,1
+CUST_1153,Anastasie Gros,BeckerBourg,Iran,18-25,Découverte,2024-12-07,LinkedIn,1
+CUST_1154,Roger Marion,Guillot,Honduras,18-25,Régulier,2024-07-17,LinkedIn,1
+CUST_1155,Guy Jacquet-Jean,Saint Céline,Cook (Îles),46-60,Corporate,2024-02-06,Event Walk-in,0
+CUST_1156,Margaud Bernier,LacombeVille,Croatie,46-60,Régulier,2025-04-16,Partnership,1
+CUST_1157,Suzanne Julien de Brunel,Lévy,Féroé (Îles),46-60,Corporate,2024-02-27,Partnership,1
+CUST_1158,Gabriel Chevalier du Alves,Traore,Qatar,36-45,Créateur,2024-01-20,TikTok,1
+CUST_1159,Hugues Noël,PereiraBourg,Israël,36-45,Découverte,2024-06-01,LinkedIn,0
+CUST_1160,Anaïs Neveu,Fournier,Botswana,36-45,Corporate,2024-06-18,Referral,1
+CUST_1161,Augustin Samson,Saint Virginie,Sénégal,26-35,Créateur,2024-04-29,Partnership,1
+CUST_1162,André Cordier-Bouvet,Renault-sur-Mer,Honduras,36-45,Découverte,2024-10-05,Google Search,0
+CUST_1163,Henri-Charles Alexandre,MorinVille,Luxembourg,46-60,Régulier,2025-01-15,Google Search,1
+CUST_1164,Sylvie Arnaud,Mathieu,Saint-Marin (Rép. de),26-35,Créateur,2024-11-05,TikTok,0
+CUST_1165,Susan Tessier,Lelièvre,Samoa,36-45,Découverte,2024-07-25,Instagram,1
+CUST_1166,Nath-Martine Ribeiro,Saint Claireboeuf,Antigua et Barbuda,18-25,Corporate,2025-05-27,TikTok,0
+CUST_1167,Christelle Cousin,Saint Isabelle-sur-Mer,Montserrat,36-45,Corporate,2025-06-20,LinkedIn,1
+CUST_1168,Victor Royer,Lemonnier,Koweit,26-35,Découverte,2025-06-12,Event Walk-in,0
+CUST_1169,Emmanuel Salmon,Muller,Cocos (Îles),26-35,Découverte,2025-04-15,Google Search,0
+CUST_1170,André Le Thierry,Delattre-sur-Jacquet,Ouzbékistan,18-25,Premium,2024-02-15,Event Walk-in,0
+CUST_1171,Sophie Potier-Adam,Marin,Vatican (Etat du),36-45,Corporate,2024-02-17,Instagram,1
+CUST_1172,Marguerite Descamps-Millet,Mercier,Bosnie-Herzégovine,18-25,Créateur,2024-11-15,Event Walk-in,0
+CUST_1173,Robert Le Roux,Saint Aurélienec,Djibouti,36-45,Régulier,2024-07-16,LinkedIn,1
+CUST_1174,Noémi Ramos,Michaud,Mexique,36-45,Corporate,2024-04-30,LinkedIn,0
+CUST_1175,Véronique de la Petit,Saint Camille,Hong Kong,26-35,Premium,2024-04-27,Instagram,0
+CUST_1176,Michelle Mahe du Bailly,Saint Hélène,Mozambique,26-35,Créateur,2024-12-24,Referral,1
+CUST_1177,Vincent Thibault de la Le Roux,Lemoine-les-Bains,Mariannes du Nord (Îles),36-45,Régulier,2024-10-17,Referral,0
+CUST_1178,Dorothée-Amélie Merle,Chrétien,Zimbabwe,26-35,Découverte,2024-11-14,Referral,1
+CUST_1179,Théophile Poulain,Delmas,Afrique du sud,46-60,Découverte,2024-05-13,Instagram,1
+CUST_1180,Valentine Fouquet de la David,Massonnec,Yougoslavie,18-25,Découverte,2025-01-27,Instagram,0
+CUST_1181,Éric de Didier,Arnauddan,Moldavie,46-60,Corporate,2024-07-02,Event Walk-in,1
+CUST_1182,Noël Morvan,Weiss-sur-Mer,Grenade,36-45,Premium,2024-12-06,Partnership,0
+CUST_1183,Marianne Charles Le Barbe,Sainte Océane,Bermudes (Les),18-25,Corporate,2024-05-14,Instagram,1
+CUST_1184,Thérèse Joseph,Hamelnec,Cocos (Îles),18-25,Corporate,2024-11-13,Event Walk-in,1
+CUST_1185,Nicolas Dias,Laurent,Porto Rico,46-60,Régulier,2024-08-17,TikTok,1
+CUST_1186,Pierre Goncalves,Sainte Augustin,Estonie,36-45,Corporate,2024-07-06,Event Walk-in,1
+CUST_1187,Inès Hubert,Le Goff-sur-Hamel,Guatemala,36-45,Corporate,2025-05-14,Instagram,0
+CUST_1188,Marine de la Leroux,Saint Matthieu-la-Forêt,Zaïre,46-60,Découverte,2024-12-25,Google Search,1
+CUST_1189,Brigitte Rivière,Fouquet-sur-Charrier,Belize,26-35,Premium,2024-12-22,Referral,0
+CUST_1190,Noël Fernandez,Garnier-sur-Rousset,Grenade,18-25,Corporate,2024-04-19,LinkedIn,0
+CUST_1191,Diane Allain,Pires,Fidji (République des),36-45,Créateur,2025-04-17,Google Search,1
+CUST_1192,Maryse Guillet-Perret,Sainte Julie,Estonie,26-35,Créateur,2024-09-06,Referral,0
+CUST_1193,Daniel de Lebreton,Hardy-sur-Bègue,Territoires français du sud,46-60,Corporate,2024-03-08,LinkedIn,0
+CUST_1194,William Carpentier-Humbert,Boutin,Chili,46-60,Corporate,2024-12-16,Referral,0
+CUST_1195,Richard Guillon,Gilbertboeuf,Somalie,26-35,Découverte,2025-05-13,Instagram,1
+CUST_1196,Théodore Dos Santos,Morin,Nouvelle-Zélande,36-45,Créateur,2024-04-09,Partnership,1
+CUST_1197,Thibault Sauvage,Charles,Hongrie,26-35,Premium,2025-02-19,Instagram,0
+CUST_1198,Gilbert Dubois,Alexandredan,Bangladesh,46-60,Premium,2025-05-21,Event Walk-in,0
+CUST_1199,Thierry-Roland Thomas,Barre-les-Bains,Macédoine du Nord,18-25,Régulier,2024-05-22,Referral,0
+CUST_1200,Gilbert-Jacques Gillet,Saint Maggie,Togo,26-35,Régulier,2025-04-08,Referral,1
+CUST_1201,Pénélope Philippe,Rémy-les-Bains,Liechtenstein,46-60,Créateur,2025-04-02,TikTok,0
+CUST_1202,Vincent de Wagner,Traore-sur-Moulin,Benin,36-45,Premium,2024-11-07,Google Search,1
+CUST_1203,Lucy Bouvier,Leroy,Niger,18-25,Créateur,2024-01-09,Referral,1
+CUST_1204,Alphonse Blot,Mullerboeuf,Fidji (République des),26-35,Premium,2024-03-04,LinkedIn,0
+CUST_1205,Patricia Blanc,Chauveau,Paraguay,18-25,Créateur,2025-01-02,Instagram,1
+CUST_1206,Honoré Hamon,Parisnec,Pitcairn (Îles),18-25,Régulier,2025-03-18,Event Walk-in,1
+CUST_1207,Alexandre Auger,Bigot,Cayman (Îles),36-45,Corporate,2025-02-19,Google Search,1
+CUST_1208,Hugues Grondin,Chevallier-les-Bains,République Dominicaine,26-35,Régulier,2025-05-01,TikTok,0
+CUST_1209,Élodie Rousset,Pottier,Tchad,46-60,Premium,2025-03-03,TikTok,1
+CUST_1210,Colette Colas,Boyer-la-Forêt,Kazakhstan,26-35,Régulier,2024-01-12,Instagram,0
+CUST_1211,David Michel,Fernandes,Qatar,26-35,Corporate,2025-03-23,TikTok,0
+CUST_1212,Caroline Gaudin,De Sousa,Bulgarie,26-35,Corporate,2025-04-11,Partnership,1
+CUST_1213,Guy Goncalves,Bonneau,Vatican (Etat du),26-35,Corporate,2025-06-05,Google Search,1
+CUST_1214,Valérie Le Leroy,LebonVille,Micronésie (États fédérés de),46-60,Premium,2024-08-19,TikTok,1
+CUST_1215,Léon Pascal de la Rocher,Weiss-les-Bains,Thailande,18-25,Créateur,2025-05-25,Partnership,0
+CUST_1216,André Jacquot,Pineau,Malte,36-45,Corporate,2025-01-10,Instagram,0
+CUST_1217,Susanne Alves,BenardVille,Liechtenstein,46-60,Premium,2024-04-25,Referral,1
+CUST_1218,Jacques Samson,Blondel-sur-Hebert,Zimbabwe,18-25,Régulier,2025-06-23,Partnership,1
+CUST_1219,Alfred Letellier,Schneider,Roumanie,46-60,Créateur,2024-03-21,Referral,0
+CUST_1220,Clémence Bonneau,Brunel,Territoires français du sud,26-35,Corporate,2024-03-20,Event Walk-in,1
+CUST_1221,Arthur Masse Le Lacombe,Perrier,Réunion (La),18-25,Premium,2024-01-12,Google Search,1
+CUST_1222,Inès Wagner,Sainte Anaïs,Cuba,46-60,Créateur,2024-12-05,Google Search,1
+CUST_1223,Gabrielle Rodrigues,Sainte Olivier,Hong Kong,36-45,Premium,2024-06-20,Instagram,1
+CUST_1224,Astrid-Jacqueline Dubois,Cordier,Swaziland,36-45,Découverte,2025-04-29,Referral,0
+CUST_1225,Marie Lacroix de Leclerc,Lejeune-sur-Mer,Mariannes du Nord (Îles),18-25,Premium,2024-01-28,LinkedIn,1
+CUST_1226,Laure Blanc Le Delahaye,Raynaud,Paraguay,18-25,Régulier,2025-06-01,Instagram,1
+CUST_1227,Alexandrie Leconte,Guichardnec,Samoa,36-45,Régulier,2024-10-14,LinkedIn,1
+CUST_1228,Céline Morin,Saint Sabineboeuf,Belgique,18-25,Découverte,2024-06-27,Referral,0
+CUST_1229,Madeleine Lejeune,Sainte Paul,Afghanistan,46-60,Premium,2024-06-28,LinkedIn,0
+CUST_1230,Noël Pages de la Rolland,Jacquot,Mongolie,46-60,Régulier,2025-06-24,Partnership,0
+CUST_1231,Antoine Lévy,Blanc,Heard et McDonald (Îles),36-45,Découverte,2024-05-28,Referral,0
+CUST_1232,Audrey Legendre,Fernandez-sur-Mer,Ouzbékistan,46-60,Corporate,2025-01-27,TikTok,1
+CUST_1233,Robert Vasseur,Prévost,Érythrée,26-35,Régulier,2024-12-19,Instagram,1
+CUST_1234,Alix Lemaître-Bouvet,Saint Henri-la-Forêt,Groenland,18-25,Découverte,2024-06-20,Google Search,1
+CUST_1235,Marc Ledoux,BlancVille,Singapour,46-60,Premium,2025-05-02,Event Walk-in,0
+CUST_1236,Claude-Suzanne Aubry,Sainte Jacquesnec,Lesotho,46-60,Corporate,2025-04-30,LinkedIn,0
+CUST_1237,Victoire Martin de la Roussel,Allain-sur-Boulanger,Nouvelle-Zélande,46-60,Découverte,2024-10-22,Partnership,1
+CUST_1238,Zacharie Lebon,Boucher,Suède,46-60,Premium,2025-06-26,Event Walk-in,0
+CUST_1239,Luce Guillet,Saint AndréeVille,Haïti,18-25,Créateur,2024-12-28,Partnership,1
+CUST_1240,Honoré de la Pages,Mary-les-Bains,Corée du Nord,36-45,Premium,2024-10-03,LinkedIn,0
+CUST_1241,Joséphine Guillet-Marchal,Saint Paulette,Émirats arabes unis,36-45,Créateur,2025-02-04,Google Search,0
+CUST_1242,Sophie Coulon-Ribeiro,Bruneau,Cap Vert,26-35,Créateur,2024-12-11,Event Walk-in,0
+CUST_1243,Nicolas Le Leleu,Sainte Mariedan,Gambie,36-45,Créateur,2024-01-11,Event Walk-in,0
+CUST_1244,Adélaïde Da Costa,Gallet,Cocos (Îles),18-25,Découverte,2025-02-25,Instagram,0
+CUST_1245,Guy Faivre,Guibert,Brunei,46-60,Premium,2024-08-12,Event Walk-in,1
+CUST_1246,Hugues Gros,BerthelotBourg,Islande,36-45,Régulier,2024-02-04,Instagram,0
+CUST_1247,Jules Guillon,Sainte Laetitia-sur-Mer,Mauritanie,18-25,Créateur,2024-08-10,Referral,0
+CUST_1248,Thérèse Collin,Allard,Suisse,18-25,Découverte,2024-05-13,Google Search,0
+CUST_1249,Bernadette du Grégoire,Baudry,Bangladesh,18-25,Régulier,2024-09-16,LinkedIn,1
+CUST_1250,Laurent Rousseau,Chrétien-sur-Boutin,Kenya,18-25,Corporate,2024-10-10,Partnership,1
+CUST_1251,Valérie Pineau,Menard,Guatemala,36-45,Premium,2024-06-14,Partnership,0
+CUST_1252,Nathalie Guillon,Pruvost,Myanmar,36-45,Découverte,2025-01-26,Google Search,1
+CUST_1253,Anne Blot du Garcia,Evrard,Saint Pierre et Miquelon,18-25,Premium,2024-09-28,TikTok,1
+CUST_1254,Thibault Prévost,Saint RogerBourg,Tadjikistan,18-25,Corporate,2024-07-24,Referral,1
+CUST_1255,Anouk Lemaire de Regnier,Langlois,Sainte Lucie,26-35,Corporate,2024-04-21,TikTok,1
+CUST_1256,Rémy Masse-Courtois,GuillotVille,Polynésie française,26-35,Créateur,2024-04-18,Google Search,1
+CUST_1257,Georges de Huet,Guyon,Kiribati,18-25,Découverte,2024-03-15,Instagram,1
+CUST_1258,Marine Marques,Sanchez-les-Bains,Norvège,46-60,Découverte,2025-05-24,TikTok,0
+CUST_1259,Renée du Paul,Klein,Tuvalu,18-25,Corporate,2024-09-29,TikTok,1
+CUST_1260,Arthur Bernard,Saint AstridVille,Vanuatu,46-60,Créateur,2024-01-04,Referral,1
+CUST_1261,Roger Besson,Reynaud,Niue,46-60,Corporate,2025-02-17,Partnership,0
+CUST_1262,Arnaude-Lucie Fontaine,Ferrand,Turkménistan,26-35,Découverte,2025-01-28,Event Walk-in,1
+CUST_1263,Simone Boutin,Petitnec,Fidji (République des),18-25,Créateur,2025-01-02,LinkedIn,1
+CUST_1264,Manon-Susanne Da Silva,Le GoffVille,Canada,46-60,Découverte,2024-04-02,LinkedIn,1
+CUST_1265,Léon Payet,Maillard-sur-Deschamps,Vietnam,18-25,Corporate,2024-10-23,Event Walk-in,0
+CUST_1266,Dorothée Allard,RossiBourg,Pays-Bas,26-35,Créateur,2024-02-10,Google Search,0
+CUST_1267,Émilie du Humbert,JosephVille,Nouvelle-Zélande,36-45,Corporate,2024-04-19,Event Walk-in,1
+CUST_1268,Élise Pons Le Mallet,GaudinBourg,Costa Rica,46-60,Découverte,2025-03-24,Event Walk-in,0
+CUST_1269,Agnès Roger de la Ferrand,Collet,São Tomé et Príncipe (Rép.),26-35,Découverte,2024-07-16,Instagram,0
+CUST_1270,Dominique Guyot,Klein-sur-Charpentier,Falkland (Île),46-60,Corporate,2024-03-05,Partnership,1
+CUST_1271,Sabine Martin,BlanchetBourg,Somalie,46-60,Créateur,2025-04-05,Instagram,0
+CUST_1272,Frédéric Meunier,Saint Valentine,Territoire britannique de l'océan Indien,36-45,Découverte,2024-12-11,Partnership,0
+CUST_1273,Alix Torres,Couturierdan,Vatican (Etat du),46-60,Découverte,2024-08-04,Partnership,1
+CUST_1274,Amélie Rivière-Mary,Lamy,Allemagne,26-35,Créateur,2024-08-26,Instagram,0
+CUST_1275,Thierry Gillet,Nicolas,Venezuela,26-35,Corporate,2024-01-20,Google Search,0
+CUST_1276,Rémy Letellier,Letellierdan,Corée du Nord,26-35,Régulier,2024-01-15,TikTok,0
+CUST_1277,Monique-Victoire Leblanc,Sainte Georgesnec,Saint Vincent et les Grenadines,36-45,Découverte,2025-04-12,Referral,0
+CUST_1278,Geneviève François,Chauvin-sur-Bouchet,Honduras,18-25,Découverte,2024-04-26,Google Search,0
+CUST_1279,Zoé Le Camus,Rousset-la-Forêt,Andorre,18-25,Régulier,2025-03-12,LinkedIn,1
+CUST_1280,René Meyer,Hervé-sur-Guillou,Tanzanie,36-45,Découverte,2024-05-20,LinkedIn,0
+CUST_1281,Sylvie Lejeune,Vasseur-les-Bains,Vietnam,18-25,Créateur,2024-06-26,LinkedIn,0
+CUST_1282,Grégoire Lecomte,Sainte Claude,Soudan,18-25,Premium,2024-05-24,Partnership,1
+CUST_1283,Éléonore Rousset,VincentVille,Bangladesh,26-35,Premium,2024-06-17,Google Search,0
+CUST_1284,Pierre Henry-Barthelemy,Perrier,Vierges britanniques (Îles),18-25,Régulier,2024-04-12,Partnership,1
+CUST_1285,Valentine Hubert,Morin-les-Bains,Danemark,26-35,Découverte,2025-05-13,Instagram,0
+CUST_1286,Claire Lefebvre de Devaux,Grenier,Malte,18-25,Régulier,2024-04-01,Event Walk-in,1
+CUST_1287,Susan-Aurélie Rocher,Lecontenec,Maroc,46-60,Corporate,2024-05-09,TikTok,0
+CUST_1288,Étienne Adam,Perrin,Moldavie,36-45,Créateur,2025-04-06,Google Search,0
+CUST_1289,Sabine Lévy,Bruneau,Argentine,26-35,Créateur,2024-02-08,Referral,0
+CUST_1290,Geneviève Pereira,Boyer-sur-Masse,Tadjikistan,46-60,Créateur,2024-03-31,Event Walk-in,1
+CUST_1291,Alice Regnier,Marie,Pérou,36-45,Corporate,2024-01-05,Referral,0
+CUST_1292,Théodore Blanchard du Fabre,Robin-sur-Mer,Espagne,26-35,Découverte,2025-06-26,Instagram,1
+CUST_1293,Dorothée Le Pierre,Riou-sur-Mer,Kiribati,26-35,Corporate,2024-08-01,LinkedIn,0
+CUST_1294,Étienne Lebrun-Lefebvre,Garcia,Trinité et Tobago,26-35,Découverte,2024-06-01,Event Walk-in,1
+CUST_1295,Georges Grenier,Becker,Chili,46-60,Régulier,2024-06-12,Event Walk-in,0
+CUST_1296,Julie-Sabine Richard,Duranddan,Tokelau,18-25,Premium,2024-10-18,TikTok,1
+CUST_1297,Marcel Guillot,Besnard,Ethiopie,36-45,Premium,2025-04-09,Instagram,0
+CUST_1298,Patricia Millet,Sainte Luce,Sainte Lucie,18-25,Créateur,2024-06-29,TikTok,0
+CUST_1299,Valentine Gérard,Adam-la-Forêt,Mayotte,46-60,Créateur,2024-04-28,Instagram,0
+CUST_1300,Maurice Carpentier,Meyerboeuf,Sainte Lucie,46-60,Créateur,2024-11-29,Google Search,0
+CUST_1301,Adèle Becker,Morel-sur-Breton,Comores,36-45,Régulier,2024-04-22,LinkedIn,0
+CUST_1302,Gérard Lemaire,Delaunay,Ghana,18-25,Régulier,2025-02-26,Partnership,0
+CUST_1303,Léon Laporte,Boulanger,Féroé (Îles),46-60,Régulier,2024-03-16,Google Search,1
+CUST_1304,Maggie Carre,Raymond,Tokelau,18-25,Corporate,2024-05-28,TikTok,1
+CUST_1305,Michel Peltier Le Bouvet,Bertrand-sur-Mer,Zimbabwe,26-35,Corporate,2025-01-17,TikTok,1
+CUST_1306,Nath Richard,Hardy,Territoires français du sud,26-35,Premium,2024-10-03,TikTok,1
+CUST_1307,Constance Le Masse,Charrierdan,Équateur,26-35,Découverte,2024-03-02,LinkedIn,0
+CUST_1308,Cécile Andre,Rousset-sur-Vidal,Rwanda,18-25,Corporate,2025-04-14,Google Search,0
+CUST_1309,Arthur Gonzalez,Boulaynec,Paraguay,36-45,Régulier,2024-10-29,Referral,0
+CUST_1310,Denis Picard-Alves,Dubois,Corée du Nord,26-35,Créateur,2024-08-23,Instagram,1
+CUST_1311,Jacques Gomez Le Robert,Sainte Marcelle,Cocos (Îles),46-60,Régulier,2025-04-29,Partnership,1
+CUST_1312,Isaac-Gabriel Ferreira,BarreVille,Suède,36-45,Découverte,2025-03-14,Event Walk-in,0
+CUST_1313,Margot Tanguy,Goncalves,Guinée-Bissau,26-35,Premium,2025-03-20,Referral,0
+CUST_1314,Alphonse Lucas,Prévost-sur-Renault,Arménie,26-35,Créateur,2024-01-06,Google Search,0
+CUST_1315,Gilles Maillard,Thomas,Tchad,18-25,Corporate,2025-05-31,Instagram,1
+CUST_1316,Thierry-Tristan Weiss,Sainte Nathboeuf,Géorgie du Sud et Sandwich du Sud (Îles),46-60,Corporate,2024-04-10,Google Search,1
+CUST_1317,Yves Renard,Marchand,Corée du Nord,26-35,Découverte,2024-01-13,Event Walk-in,1
+CUST_1318,Rémy Lévy,Ponsdan,Mozambique,26-35,Régulier,2025-01-02,LinkedIn,0
+CUST_1319,Marcel Barbe,Jacquesdan,Hongrie,18-25,Découverte,2025-05-06,Event Walk-in,1
+CUST_1320,Dorothée Ledoux,Richard,Mongolie,26-35,Corporate,2024-01-25,Google Search,1
+CUST_1321,Pauline Ribeiro,Bertrand,Timor,26-35,Corporate,2024-07-08,Partnership,1
+CUST_1322,Arnaude Weber,Hebert,Cap Vert,46-60,Découverte,2024-03-13,Google Search,1
+CUST_1323,Alice Valentin,Traore-sur-Gérard,Cambodge,18-25,Premium,2025-03-12,Partnership,1
+CUST_1324,Anastasie Paris,Cordierdan,Martinique,26-35,Découverte,2024-12-09,Event Walk-in,0
+CUST_1325,William Morin,BrunBourg,Andorre,36-45,Découverte,2024-04-23,Google Search,1
+CUST_1326,Alice Gosselin,Weber,Gibraltar,46-60,Créateur,2024-02-11,LinkedIn,1
+CUST_1327,Océane Chauveau,Valentin,Gibraltar,26-35,Créateur,2024-03-09,Referral,0
+CUST_1328,Bertrand Lambert,Morvan,Israël,26-35,Premium,2024-09-01,Referral,0
+CUST_1329,Daniel Pasquier,Da SilvaBourg,Russie,46-60,Créateur,2024-08-02,Partnership,0
+CUST_1330,Alexandre-François Da Costa,Clément-sur-Weiss,Italie,36-45,Premium,2024-09-30,Referral,1
+CUST_1331,Alphonse Prévost,Chevaliernec,Afghanistan,36-45,Découverte,2024-03-05,LinkedIn,1
+CUST_1332,Raymond Besson,Leroux,Slovaquie,46-60,Corporate,2025-05-28,Referral,0
+CUST_1333,Suzanne Paris du Rousset,Meyerboeuf,Heard et McDonald (Îles),46-60,Créateur,2025-06-29,LinkedIn,1
+CUST_1334,Marguerite Michel de Blanchet,Saint Richard,Qatar,36-45,Découverte,2024-07-11,Google Search,0
+CUST_1335,Laure Bourgeois-Carpentier,Boyer-sur-Royer,Oman,18-25,Corporate,2024-07-02,LinkedIn,0
+CUST_1336,Léon-Guy Pierre,Gomes-sur-Gomes,Montserrat,18-25,Régulier,2024-10-09,Instagram,0
+CUST_1337,Diane de la Martin,BoulangerBourg,République Dominicaine,46-60,Régulier,2024-07-28,Referral,0
+CUST_1338,Bertrand du Maillard,Brunel,Russie,36-45,Corporate,2024-05-15,Google Search,1
+CUST_1339,Madeleine Sauvage,Techer-sur-Mer,Ouzbékistan,46-60,Corporate,2024-01-22,LinkedIn,0
+CUST_1340,Mathilde Alexandre-Vallée,Lefebvre,Suriname,18-25,Découverte,2024-08-25,Partnership,1
+CUST_1341,Jean Jacques,Philippe,Guyane,46-60,Créateur,2024-12-17,Event Walk-in,1
+CUST_1342,Dominique Jacob-Thibault,Sainte Emmanuelle-les-Bains,Suisse,46-60,Créateur,2025-06-26,Partnership,1
+CUST_1343,Julien-Noël Duhamel,Prévost-sur-Mer,Jamaïque,46-60,Premium,2024-05-15,Partnership,1
+CUST_1344,Sophie Marin,Bigot,Vierges britanniques (Îles),26-35,Premium,2024-08-20,Google Search,1
+CUST_1345,David de Roussel,Baudry,Bhoutan,36-45,Découverte,2024-05-31,LinkedIn,1
+CUST_1346,Louis Cousin,Devaux-les-Bains,Bouvet (Îles),46-60,Régulier,2024-06-13,Event Walk-in,1
+CUST_1347,Josette-Émilie Delaunay,Sainte Renée,Papouasie-Nouvelle-Guinée,26-35,Régulier,2024-06-06,TikTok,0
+CUST_1348,Michelle Guilbert-Maillot,Tessier-sur-Blanc,Bolivie,18-25,Découverte,2024-11-20,Referral,0
+CUST_1349,Bernard Barbier de Petitjean,Faure-les-Bains,Lithuanie,46-60,Premium,2025-01-13,TikTok,0
+CUST_1350,Thomas Le Le Roux,Gallet,Burkina Faso,18-25,Premium,2024-12-18,TikTok,1
+CUST_1351,Théodore Jacquot,Gaudin,Indonésie,46-60,Créateur,2024-06-15,Referral,1
+CUST_1352,Stéphane Bousquet Le Mallet,Roy-les-Bains,Haïti,18-25,Découverte,2025-02-18,Google Search,0
+CUST_1353,Guy Grondin,Torresboeuf,Sainte Hélène,46-60,Premium,2024-06-08,Instagram,1
+CUST_1354,Anouk Becker,Rey-sur-Perret,Bulgarie,36-45,Corporate,2024-10-23,Partnership,0
+CUST_1355,Éléonore de la Roche,Thierry,Malawi,46-60,Premium,2024-04-25,Event Walk-in,1
+CUST_1356,Henri Gilbert,Sainte Paul,Cocos (Îles),18-25,Régulier,2024-04-29,LinkedIn,0
+CUST_1357,Odette Hoareau,Muller-sur-Lelièvre,Chine (Rép. pop.),46-60,Créateur,2024-08-13,Google Search,1
+CUST_1358,Daniel Marques-Maillot,Delorme,Bangladesh,18-25,Premium,2024-02-26,Referral,0
+CUST_1359,Bernard Laroche,Martineau,Hongrie,26-35,Premium,2024-07-19,Instagram,0
+CUST_1360,Christophe Bernier,Saint Bertrandnec,Bulgarie,46-60,Découverte,2025-06-08,Google Search,0
+CUST_1361,Victoire Weiss,Boutin,Qatar,46-60,Premium,2025-06-07,Instagram,1
+CUST_1362,Cécile Blin-Neveu,Nguyen,Équateur,46-60,Régulier,2025-03-13,LinkedIn,1
+CUST_1363,Stéphanie-Marianne Andre,Barbe,Émirats arabes unis,36-45,Découverte,2024-10-18,LinkedIn,1
+CUST_1364,Diane Pinto,Le Gall-la-Forêt,Japon,36-45,Corporate,2024-03-30,TikTok,1
+CUST_1365,Antoinette du Henry,Lecomte,Haïti,46-60,Corporate,2024-10-22,TikTok,1
+CUST_1366,Pierre Gilbert-Lecomte,Saint Dominique,Ouzbékistan,46-60,Régulier,2024-03-29,TikTok,0
+CUST_1367,Claudine du Benoit,Saint Gilles,Tonga,36-45,Corporate,2025-06-21,LinkedIn,0
+CUST_1368,Matthieu Alves,Lebon,Zimbabwe,46-60,Découverte,2024-01-07,Google Search,1
+CUST_1369,Benoît Leblanc,Munoz,Antarctique,46-60,Régulier,2025-04-18,Event Walk-in,0
+CUST_1370,Emmanuel Germain,Ledoux-la-Forêt,Guyane française,26-35,Régulier,2025-01-25,LinkedIn,1
+CUST_1371,Colette Lombard,Laurent-sur-Leroy,Guyane française,18-25,Premium,2024-11-07,Google Search,1
+CUST_1372,Andrée Diaz-Lacroix,Hernandez,Malaisie,26-35,Découverte,2024-01-03,TikTok,1
+CUST_1373,Antoine Mace,Sainte Inès,Malte,36-45,Corporate,2024-05-07,Event Walk-in,1
+CUST_1374,Michèle Marie,Tanguyboeuf,Hong Kong,46-60,Régulier,2025-05-18,Event Walk-in,0
+CUST_1375,Isaac-Olivier Ferrand,Bouvet,Angola,18-25,Découverte,2024-10-10,Google Search,0
+CUST_1376,François Julien,Auger,Pakistan,36-45,Créateur,2025-05-07,Referral,1
+CUST_1377,Adélaïde Gonzalez-Albert,Pichon-sur-Laurent,Andorre,36-45,Corporate,2024-05-02,LinkedIn,0
+CUST_1378,Martin Fleury,Grenierboeuf,Tunisie,36-45,Régulier,2024-02-29,TikTok,1
+CUST_1379,Bernard Lejeune Le Lejeune,Allard-les-Bains,Koweit,46-60,Régulier,2024-12-31,TikTok,0
+CUST_1380,Luc Blanchet,Michel,Rép. Dém. du Congo,36-45,Premium,2025-03-05,Event Walk-in,1
+CUST_1381,Madeleine Royer,Delorme,Afrique du sud,18-25,Premium,2024-10-25,Referral,0
+CUST_1382,Monique Marques,Delannoyboeuf,Libéria,26-35,Régulier,2024-04-06,Referral,0
+CUST_1383,Patrick Chrétien,Bouvier,Pologne,36-45,Premium,2024-11-04,LinkedIn,1
+CUST_1384,Olivier-Zacharie Toussaint,Delattre,Albanie,18-25,Créateur,2024-12-26,Partnership,0
+CUST_1385,Isaac Hoarau du Wagner,Saint Adèle,Antigua et Barbuda,18-25,Régulier,2025-06-14,LinkedIn,1
+CUST_1386,Élodie Maréchal,Bonnin,Belize,46-60,Corporate,2024-12-14,TikTok,0
+CUST_1387,Laurent Guyon,Gérarddan,Kenya,26-35,Régulier,2025-05-30,TikTok,0
+CUST_1388,Claire Masson,Lagarde-la-Forêt,Cayman (Îles),18-25,Corporate,2025-04-16,Instagram,0
+CUST_1389,Michel Gallet,Chauvin,Rwanda,26-35,Découverte,2025-05-06,LinkedIn,1
+CUST_1390,Hélène Le Charrier,Barbenec,Mozambique,36-45,Régulier,2025-03-28,Referral,1
+CUST_1391,Joseph Aubert,Guibert,Singapour,26-35,Premium,2024-01-30,Event Walk-in,0
+CUST_1392,Laurent Boyer,Sainte Franck-la-Forêt,Afrique du sud,26-35,Régulier,2024-05-25,Event Walk-in,0
+CUST_1393,Charles Dos Santos-Monnier,Dos Santosboeuf,Cameroun,36-45,Régulier,2024-08-02,TikTok,0
+CUST_1394,Margaret Lacroix,Martin-sur-Blot,Philippines,46-60,Découverte,2024-03-20,Instagram,1
+CUST_1395,Alain Fernandes,Courtois,Laos,46-60,Découverte,2024-07-20,Instagram,0
+CUST_1396,Margaret Philippe,Colin,Tokelau,18-25,Corporate,2024-05-01,LinkedIn,0
+CUST_1397,Antoinette Roy Le Lamy,Gomez,Arabie saoudite,18-25,Premium,2024-01-11,Partnership,0
+CUST_1398,Océane Gillet,Fernandes,Bahamas,18-25,Créateur,2024-07-29,Referral,0
+CUST_1399,André-Matthieu Turpin,Chrétien,République centrafricaine,26-35,Premium,2024-01-30,Instagram,0
+CUST_1400,Nathalie Traore Le Jacques,Gosselin,Pitcairn (Îles),36-45,Créateur,2024-12-22,LinkedIn,0
+CUST_1401,Alexandria Lesage,Mailletboeuf,Vierges britanniques (Îles),26-35,Créateur,2024-03-10,Instagram,0
+CUST_1402,Simone Richard,Hervé-sur-Lemaire,Honduras,26-35,Régulier,2024-10-15,TikTok,0
+CUST_1403,Noël Dos Santos,Thomas,Japon,18-25,Régulier,2025-05-31,Partnership,1
+CUST_1404,Christophe Costa du Dubois,Saint François,Féroé (Îles),36-45,Créateur,2024-07-08,Google Search,0
+CUST_1405,Édouard David,Peltier,Bangladesh,26-35,Premium,2025-01-23,Google Search,0
+CUST_1406,Anastasie Mathieu,Rousseau,Mauritanie,26-35,Corporate,2024-04-25,Partnership,1
+CUST_1407,Isaac Dijoux,Sainte ÉdithBourg,Guyane française,18-25,Corporate,2024-04-22,Referral,0
+CUST_1408,Stéphane-Raymond Dumont,Gaillard-les-Bains,France,46-60,Premium,2024-10-22,Referral,0
+CUST_1409,Dorothée Thomas de la Navarro,Sainte Joseph,Pays-Bas,18-25,Premium,2025-05-20,Instagram,1
+CUST_1410,Théodore Lebon,Camusdan,Canada,36-45,Corporate,2024-11-15,Event Walk-in,1
+CUST_1411,Maryse Lecoq du Schneider,Sainte Théophile,São Tomé et Príncipe (Rép.),26-35,Créateur,2025-02-21,LinkedIn,1
+CUST_1412,Caroline-Laurence Barbier,Dupont,Sahara Occidental,26-35,Découverte,2025-05-02,Event Walk-in,1
+CUST_1413,Jacques de la David,Sainte BrigitteBourg,Mauritanie,26-35,Découverte,2025-05-18,Event Walk-in,0
+CUST_1414,Zacharie Mary,Moulin,Lettonie,46-60,Corporate,2025-06-19,Event Walk-in,0
+CUST_1415,Martin de Dubois,Vallée,Tchad,18-25,Régulier,2025-02-08,Google Search,0
+CUST_1416,Françoise Toussaint,Saint Margot-les-Bains,Anguilla,26-35,Découverte,2025-01-07,TikTok,1
+CUST_1417,Philippe-Yves Martins,Guillaumenec,Bangladesh,26-35,Créateur,2025-02-17,Instagram,0
+CUST_1418,Auguste Blanc,BlancBourg,Suisse,46-60,Corporate,2024-10-12,Partnership,1
+CUST_1419,Alix Roussel,Diaz-sur-Da Costa,Burkina Faso,46-60,Premium,2025-05-02,Event Walk-in,1
+CUST_1420,Agathe-Maggie Rivière,Saint Zoé,Biélorussie,46-60,Créateur,2024-10-12,TikTok,1
+CUST_1421,Clémence de Laurent,Saint Vincent,Liechtenstein,18-25,Découverte,2024-09-13,Google Search,1
+CUST_1422,Édith Brunet,Arnaud,Monaco,26-35,Régulier,2024-01-31,Instagram,0
+CUST_1423,Marc-Alain Mary,Bègue,Panama,18-25,Corporate,2024-01-28,TikTok,1
+CUST_1424,Zacharie de la Couturier,Guibert,Martinique,36-45,Régulier,2024-11-06,Referral,0
+CUST_1425,Susanne Le Goff,Dupré,Slovénie,18-25,Créateur,2025-05-19,Partnership,1
+CUST_1426,Colette Bourdon,Hoarau,Togo,26-35,Premium,2025-05-24,Google Search,1
+CUST_1427,Franck Le Roux,Sainte Agnès,Martinique,36-45,Créateur,2024-01-19,Partnership,0
+CUST_1428,Nicolas Bègue,Guérinboeuf,Azerbaïdjan,46-60,Découverte,2025-01-27,Google Search,1
+CUST_1429,Gilles Benoit de Pons,Fouquet,Swaziland,46-60,Corporate,2025-04-15,Instagram,0
+CUST_1430,Martin Renault Le Louis,Rousset,Irlande,26-35,Créateur,2024-11-06,Event Walk-in,0
+CUST_1431,Audrey Lopes Le Legros,Alves,Érythrée,46-60,Corporate,2024-05-17,LinkedIn,1
+CUST_1432,Gabriel du Leblanc,Reynaud,Bosnie-Herzégovine,46-60,Découverte,2025-05-17,Event Walk-in,1
+CUST_1433,Guillaume de Berthelot,HervéVille,Anguilla,46-60,Créateur,2024-06-09,Referral,0
+CUST_1434,Christelle Gay,Leclerc-sur-Jacob,Samoa,46-60,Premium,2025-05-21,Referral,1
+CUST_1435,Patrick Meyer,CordierVille,Singapour,36-45,Premium,2024-11-24,Instagram,0
+CUST_1436,Jules Jacquot-Delattre,Menard-sur-Gosselin,Territoires français du sud,18-25,Régulier,2025-01-10,LinkedIn,0
+CUST_1437,Adrienne Goncalves,Bodin,Kazakhstan,36-45,Corporate,2024-04-09,Google Search,1
+CUST_1438,Pauline Rey,Langlois,Tunisie,36-45,Corporate,2024-12-25,Instagram,0
+CUST_1439,Aurore Lemaire-Merle,Gonzaleznec,Irak,26-35,Régulier,2024-11-15,Referral,0
+CUST_1440,Marcel Dumont,Martydan,Afghanistan,18-25,Premium,2024-04-27,LinkedIn,0
+CUST_1441,Denis Peltier,Perretnec,Croatie,18-25,Créateur,2024-11-29,Instagram,1
+CUST_1442,Michèle Jacques,Marynec,Turquie,46-60,Créateur,2025-06-11,Google Search,1
+CUST_1443,Maurice Le Blanchard,Perez-la-Forêt,Oman,18-25,Corporate,2024-01-23,LinkedIn,1
+CUST_1444,Christine Picard,Becker-sur-Mer,Norvège,46-60,Premium,2024-04-10,Partnership,1
+CUST_1445,Paul Ruiz,BlanchardBourg,Togo,18-25,Régulier,2024-12-10,Google Search,1
+CUST_1446,Mathilde Marion,Saint Aiméedan,"Corée, Sud",26-35,Créateur,2024-11-02,LinkedIn,1
+CUST_1447,Aimé-Alphonse Courtois,Guillou-sur-Dubois,Togo,26-35,Corporate,2024-03-18,Partnership,0
+CUST_1448,René Bertin,Nicolasnec,Martinique,36-45,Premium,2024-02-18,LinkedIn,1
+CUST_1449,Frédéric-Louis Gillet,Toussaintboeuf,Kazakhstan,26-35,Créateur,2024-04-04,Event Walk-in,0
+CUST_1450,Michelle David,FernandesBourg,Territoires français du sud,36-45,Premium,2024-03-09,Referral,1
+CUST_1451,Margot-Olivie Faivre,Fontaine-sur-Barbe,Suriname,46-60,Régulier,2024-12-21,Partnership,0
+CUST_1452,Thibault Parent de la David,Sainte Thierry,Monaco,36-45,Créateur,2024-11-03,Google Search,1
+CUST_1453,Martin Hebert,Guillon,Mali,26-35,Corporate,2025-02-15,LinkedIn,1
+CUST_1454,Franck Perrot,Hamon-sur-Mer,Rwanda,26-35,Découverte,2025-06-12,Partnership,0
+CUST_1455,Aurélie Roger,BazinBourg,Gabon,46-60,Régulier,2025-04-23,LinkedIn,1
+CUST_1456,Louis Breton du Besson,Richard-les-Bains,Laos,18-25,Créateur,2024-07-24,LinkedIn,1
+CUST_1457,Michel Rocher,Buisson,Cambodge,26-35,Régulier,2024-06-03,Event Walk-in,1
+CUST_1458,Lucy Louis,Gérard,Arménie,46-60,Corporate,2024-11-22,Partnership,0
+CUST_1459,Marcel-Lucas Roy,Jean-sur-Carpentier,Nouvelle-Zélande,26-35,Corporate,2024-09-30,Partnership,1
+CUST_1460,Michèle-Joséphine Valentin,Chauvin-la-Forêt,Palau,26-35,Premium,2024-08-29,Google Search,0
+CUST_1461,Anouk Verdier,Samson,Vanuatu,18-25,Régulier,2024-07-15,Instagram,0
+CUST_1462,Olivier Besson-Alves,Boyer,Mongolie,36-45,Corporate,2025-05-12,Referral,1
+CUST_1463,Guillaume Camus,Saint Adrienne,Turkménistan,46-60,Découverte,2024-07-25,TikTok,1
+CUST_1464,Constance Dupré,Nicolas,Biélorussie,26-35,Découverte,2024-09-21,Partnership,1
+CUST_1465,Rémy-André Dumont,Maillet,Ghana,26-35,Découverte,2025-05-12,Partnership,0
+CUST_1466,Laetitia Potier de la Launay,Renard,Libye,18-25,Découverte,2024-11-17,Referral,1
+CUST_1467,Théophile Boyer,Bousquet,Ghana,18-25,Corporate,2025-01-07,Event Walk-in,0
+CUST_1468,Adrienne Lesage,Bailly,Palau,46-60,Régulier,2024-08-29,Instagram,0
+CUST_1469,Sébastien de Besson,Saint Corinne-les-Bains,Zimbabwe,36-45,Corporate,2024-04-02,TikTok,0
+CUST_1470,Benjamin Bourdon,Wagner,Niue,36-45,Premium,2025-02-03,Partnership,0
+CUST_1471,Claudine Roux,Jacob-sur-Mer,Chili,46-60,Régulier,2024-05-27,Instagram,0
+CUST_1472,Tristan Ollivier,Saint Véronique,Cambodge,26-35,Premium,2025-03-26,Google Search,1
+CUST_1473,Honoré Salmon,Leroy-la-Forêt,Bouvet (Îles),18-25,Corporate,2025-06-30,LinkedIn,0
+CUST_1474,Gérard Martineau-Blanchet,Monnier-sur-Léger,Bolivie,36-45,Créateur,2025-03-09,Google Search,0
+CUST_1475,Susanne Valette,Saint Lucieboeuf,Soudan,36-45,Régulier,2025-01-06,Google Search,1
+CUST_1476,Vincent Renaud,Pages,Turquie,36-45,Découverte,2024-02-05,Partnership,0
+CUST_1477,Thomas du Hervé,Joubert-sur-Mer,Bahamas,26-35,Premium,2025-01-28,LinkedIn,1
+CUST_1478,Daniel-Richard Deschamps,Bigot,Venezuela,18-25,Créateur,2024-08-30,Partnership,1
+CUST_1479,René Navarro,Clerc,Saint Vincent et les Grenadines,46-60,Découverte,2025-02-06,LinkedIn,1
+CUST_1480,Stéphane Guillon,Morel,Chine (Rép. pop.),18-25,Régulier,2024-10-31,TikTok,0
+CUST_1481,Laure Devaux du Lucas,Leconteboeuf,Comores,46-60,Premium,2025-02-20,Partnership,0
+CUST_1482,Laurent Charpentier,Légerboeuf,Arabie saoudite,36-45,Découverte,2025-05-18,Google Search,1
+CUST_1483,Thomas Leclercq,Boyer,Mali,36-45,Corporate,2024-04-12,Partnership,0
+CUST_1484,Nath Barbe,Le Roux,Guinée Equatoriale,36-45,Créateur,2024-03-08,LinkedIn,1
+CUST_1485,Julien de Cousin,Bonnet,Norfolk (Îles),36-45,Corporate,2024-01-29,Partnership,0
+CUST_1486,Maggie Mace,Gonzalez,Saint-Marin (Rép. de),26-35,Corporate,2024-05-19,Instagram,1
+CUST_1487,Auguste Cousin,Navarro-sur-Mer,Luxembourg,26-35,Premium,2024-11-17,Referral,0
+CUST_1488,Bertrand de la Weber,Saint Émile,Cambodge,18-25,Régulier,2024-09-12,Referral,0
+CUST_1489,Jeanne Michel,Mallet-sur-Riou,Chine (Rép. pop.),46-60,Premium,2025-04-07,Google Search,0
+CUST_1490,Éric Charles,Saint Christelle,Malte,36-45,Régulier,2024-12-01,Partnership,1
+CUST_1491,Juliette-Marguerite David,Sainte Raymondboeuf,Thailande,26-35,Découverte,2025-02-28,LinkedIn,0
+CUST_1492,Emmanuel de la Bonnet,Sainte Théophiledan,Djibouti,46-60,Corporate,2024-08-17,Instagram,0
+CUST_1493,Camille Lelièvre,Dupré-les-Bains,Burundi,26-35,Découverte,2025-04-18,TikTok,1
+CUST_1494,Julie Georges,Vidal,Yemen,26-35,Découverte,2025-02-14,Referral,1
+CUST_1495,Richard Faivre,Guérin,Moldavie,36-45,Régulier,2024-04-01,LinkedIn,0
+CUST_1496,Diane-Margot Chevalier,Charrier-sur-Lebreton,Brésil,18-25,Découverte,2025-06-22,Google Search,1
+CUST_1497,Alexandria Delorme,Valette,Mexique,46-60,Découverte,2024-08-17,Event Walk-in,0
+CUST_1498,Julie Bonneau,Hoarau,Taiwan,26-35,Premium,2024-10-21,Event Walk-in,1
+CUST_1499,Aimé Prévost,Tanguy,Guadeloupe,46-60,Régulier,2025-03-17,Partnership,0
+CUST_1500,Margaret Marion,Saint Sylvieboeuf,Djibouti,26-35,Premium,2024-07-12,Google Search,0

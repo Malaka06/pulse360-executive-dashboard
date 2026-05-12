@@ -1,0 +1,121 @@
+event_id,event_date,event_type,city,capacity,tickets_sold,revenue,cost
+EVT_1,2024-07-14,Partner session,Lisbonne,357,306,20778.59,10935.41
+EVT_2,2025-04-24,Customer workshop,Berlin,247,36,1845.77,1052.7
+EVT_3,2024-04-20,Customer workshop,Bruxelles,232,156,3643.57,2466.24
+EVT_4,2024-10-09,Customer workshop,Lisbonne,304,299,11225.15,7969.01
+EVT_5,2024-04-22,Training,Madrid,216,69,2501.99,1809.51
+EVT_6,2025-05-09,Community event,Lisbonne,202,100,2543.65,921.77
+EVT_7,2024-04-23,Community event,Paris,253,225,4183.87,1643.27
+EVT_8,2025-04-25,Training,Lisbonne,91,64,2335.38,1160.85
+EVT_9,2024-06-04,Product demo,Amsterdam,249,228,15925.44,9074.54
+EVT_10,2024-09-01,Training,Paris,77,25,1992.96,1485.24
+EVT_11,2025-02-21,Training,Bruxelles,168,32,2397.43,1554.22
+EVT_12,2025-01-11,Training,Berlin,139,59,2044.87,1477.89
+EVT_13,2025-03-30,Product demo,Lisbonne,327,173,11297.77,8299.28
+EVT_14,2024-10-13,Community event,Lisbonne,106,49,997.61,531.43
+EVT_15,2024-03-08,Customer workshop,Paris,202,117,6981.76,3358.03
+EVT_16,2025-02-24,Partner session,Lisbonne,301,293,11556.37,7797.7
+EVT_17,2025-01-24,Partner session,Paris,394,101,3239.28,2101.51
+EVT_18,2025-05-07,Customer workshop,Amsterdam,377,350,8062.99,4440.9
+EVT_19,2024-04-27,Webinar,Amsterdam,78,62,1565.7,863.69
+EVT_20,2024-03-27,Community event,Paris,202,46,2057.62,917.73
+EVT_21,2024-03-02,Product demo,Madrid,197,165,8135.81,5293.38
+EVT_22,2024-02-16,Customer workshop,Bruxelles,178,119,5213.78,3561.79
+EVT_23,2024-10-09,Webinar,Paris,145,106,2573.74,1704.78
+EVT_24,2024-12-09,Customer workshop,Berlin,104,37,2179.67,1337.48
+EVT_25,2025-01-07,Customer workshop,Paris,308,217,4383.17,3123.06
+EVT_26,2024-02-06,Training,Bruxelles,300,196,7163.35,5115.73
+EVT_27,2024-07-25,Product demo,Bruxelles,281,150,5667.95,2443.65
+EVT_28,2025-04-14,Training,Madrid,197,191,9911.33,4720.92
+EVT_29,2025-04-13,Customer workshop,Berlin,187,78,4322.81,1985.38
+EVT_30,2024-01-26,Customer workshop,Amsterdam,400,26,1088.29,424.55
+EVT_31,2025-04-17,Product demo,Lisbonne,254,217,9272.29,4960.87
+EVT_32,2025-01-27,Product demo,Amsterdam,296,148,5204.29,3232.7
+EVT_33,2025-01-14,Product demo,Paris,98,43,2721.33,1189.9
+EVT_34,2025-03-21,Partner session,Paris,191,175,4635.19,2017.02
+EVT_35,2024-07-09,Community event,Bruxelles,124,32,1518.46,745.82
+EVT_36,2025-04-21,Community event,Amsterdam,378,187,6558.55,3469.46
+EVT_37,2024-01-17,Webinar,Lisbonne,154,46,2710.49,1251.07
+EVT_38,2025-06-20,Product demo,Amsterdam,56,30,1736.27,922.44
+EVT_39,2024-06-18,Training,Bruxelles,201,27,1273.4,743.42
+EVT_40,2025-04-18,Community event,Bruxelles,221,68,4977.98,2232.74
+EVT_41,2024-07-28,Product demo,Amsterdam,93,47,3528.73,2165.25
+EVT_42,2025-02-07,Partner session,Madrid,330,266,18755.71,7226.45
+EVT_43,2024-02-13,Webinar,Bruxelles,84,81,4737.43,2855.65
+EVT_44,2024-02-17,Partner session,Bruxelles,192,189,9831.11,5537.68
+EVT_45,2024-09-03,Customer workshop,Bruxelles,185,127,4431.15,2207.79
+EVT_46,2025-01-23,Partner session,Berlin,86,70,2729.59,1743.63
+EVT_47,2025-05-14,Training,Bruxelles,222,23,1787.93,746.39
+EVT_48,2024-05-24,Training,Lisbonne,377,102,4580.26,2595.31
+EVT_49,2025-05-09,Partner session,Lisbonne,157,21,1247.01,626.6
+EVT_50,2025-01-03,Webinar,Berlin,153,139,4874.63,2928.66
+EVT_51,2025-02-12,Webinar,Bruxelles,92,81,3864.52,2772.72
+EVT_52,2025-01-08,Customer workshop,Berlin,230,153,9378.12,6089.64
+EVT_53,2024-04-28,Partner session,Bruxelles,68,24,578.04,403.12
+EVT_54,2024-03-01,Customer workshop,Berlin,72,65,4871.59,3359.83
+EVT_55,2025-01-05,Partner session,Paris,341,182,10292.62,4211.79
+EVT_56,2024-05-03,Webinar,Paris,144,23,1632.98,881.08
+EVT_57,2024-09-22,Training,Berlin,110,76,1169.61,666.56
+EVT_58,2024-02-05,Partner session,Lisbonne,176,41,2831.35,1379.38
+EVT_59,2024-05-02,Training,Madrid,362,218,13659.61,7448.03
+EVT_60,2024-10-24,Training,Berlin,219,219,4781.67,1968.49
+EVT_61,2024-03-27,Webinar,Paris,110,88,2073.14,943.13
+EVT_62,2025-01-05,Partner session,Lisbonne,261,216,15965.18,11845.66
+EVT_63,2024-06-06,Webinar,Amsterdam,310,217,6987.19,2807.06
+EVT_64,2024-11-22,Product demo,Amsterdam,162,115,8909.07,6665.78
+EVT_65,2024-01-04,Partner session,Lisbonne,235,67,4513.41,2302.26
+EVT_66,2025-03-13,Webinar,Berlin,366,119,4286.31,2084.62
+EVT_67,2025-03-02,Webinar,Amsterdam,370,147,9324.47,5894.45
+EVT_68,2024-07-29,Partner session,Berlin,166,41,2304.19,1646.36
+EVT_69,2025-01-07,Customer workshop,Paris,384,334,7703.04,3511.95
+EVT_70,2024-01-12,Training,Lisbonne,245,220,17068.07,10183.99
+EVT_71,2024-01-06,Customer workshop,Paris,201,58,1925.79,1288.67
+EVT_72,2025-04-14,Training,Lisbonne,68,63,4963.43,2414.59
+EVT_73,2024-12-29,Training,Madrid,202,63,3767.23,2499.65
+EVT_74,2024-10-20,Webinar,Lisbonne,255,103,3038.31,1590.53
+EVT_75,2024-11-28,Partner session,Lisbonne,300,287,15371.2,6055.8
+EVT_76,2024-12-13,Customer workshop,Madrid,83,55,4120.68,2753.04
+EVT_77,2024-05-28,Training,Lisbonne,268,119,4623.79,2624.74
+EVT_78,2025-06-09,Customer workshop,Madrid,86,45,2963.78,1269.53
+EVT_79,2024-01-15,Customer workshop,Lisbonne,140,136,6515.79,2875.62
+EVT_80,2024-12-16,Product demo,Paris,164,152,7298.71,4116.55
+EVT_81,2024-03-01,Partner session,Berlin,363,227,4693.78,2302.59
+EVT_82,2025-01-01,Training,Lisbonne,135,90,6066.95,2641.35
+EVT_83,2025-03-12,Customer workshop,Berlin,102,80,1639.75,987.86
+EVT_84,2024-07-17,Training,Amsterdam,140,97,6355.23,3627.59
+EVT_85,2024-08-13,Product demo,Paris,174,26,998.65,495.06
+EVT_86,2025-03-18,Community event,Madrid,381,25,497.61,223.86
+EVT_87,2024-02-07,Webinar,Paris,329,293,22168.05,9754.89
+EVT_88,2024-04-08,Partner session,Lisbonne,352,20,986.61,462.84
+EVT_89,2024-02-18,Product demo,Amsterdam,109,63,4863.26,1826.21
+EVT_90,2025-03-28,Partner session,Madrid,361,256,18951.75,9799.84
+EVT_91,2024-02-11,Partner session,Paris,394,81,5845.77,2759.08
+EVT_92,2024-06-28,Partner session,Bruxelles,380,178,5187.33,2138.33
+EVT_93,2024-03-13,Partner session,Paris,287,226,17981.63,10726.12
+EVT_94,2024-11-03,Community event,Paris,346,127,7500.34,3369.9
+EVT_95,2024-07-10,Product demo,Amsterdam,61,31,1802.14,1310.81
+EVT_96,2024-08-16,Product demo,Berlin,117,60,1896.6,1093.66
+EVT_97,2024-08-24,Training,Bruxelles,181,89,2353.66,1527.43
+EVT_98,2024-03-06,Partner session,Lisbonne,267,259,14932.46,9148.54
+EVT_99,2025-05-08,Webinar,Paris,202,113,1852.33,1147.32
+EVT_100,2025-06-12,Training,Lisbonne,210,149,8016.79,5951.71
+EVT_101,2024-11-19,Community event,Madrid,344,110,3545.85,2161.29
+EVT_102,2025-06-07,Community event,Lisbonne,161,24,1017.17,706.13
+EVT_103,2025-03-26,Customer workshop,Bruxelles,304,85,4165.1,2519.88
+EVT_104,2024-07-10,Product demo,Amsterdam,108,58,3334.74,1709.13
+EVT_105,2024-11-08,Partner session,Lisbonne,294,271,8800.29,6220.76
+EVT_106,2024-04-23,Webinar,Paris,91,45,2985.79,1788.92
+EVT_107,2025-04-15,Partner session,Amsterdam,347,261,14564.1,8491.08
+EVT_108,2025-04-25,Customer workshop,Lisbonne,79,48,1679.07,898.41
+EVT_109,2024-06-29,Training,Lisbonne,234,35,1197.25,887.35
+EVT_110,2024-03-10,Training,Paris,130,118,8077.64,3932.69
+EVT_111,2024-04-18,Product demo,Berlin,76,42,1926.78,723.46
+EVT_112,2024-10-18,Community event,Madrid,386,258,4545.05,2727.57
+EVT_113,2024-04-19,Partner session,Bruxelles,198,105,4580.56,3405.83
+EVT_114,2024-01-06,Training,Bruxelles,122,55,3530.54,1637.99
+EVT_115,2025-05-25,Partner session,Bruxelles,268,244,11758.05,7963.77
+EVT_116,2025-01-18,Partner session,Berlin,84,20,1282.1,497.12
+EVT_117,2025-02-28,Training,Berlin,215,144,10293.12,7528.83
+EVT_118,2024-05-26,Community event,Amsterdam,65,45,3239.11,2099.32
+EVT_119,2024-02-09,Community event,Madrid,233,155,3432.73,1735.91
+EVT_120,2024-08-23,Community event,Paris,304,181,9769.62,5644.84
