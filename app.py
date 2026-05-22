@@ -478,33 +478,157 @@ Performance globale saine. La marge reste solide mais certains investissements m
     st.divider()
 
     if st.session_state.data_mode == "Importer mes CSV":
-        st.subheader("Importer vos fichiers")
+        st.subheader("Importer vos données")
 
         st.markdown(
             """
-Les fichiers obligatoires sont : **customers.csv**, **orders.csv** et **marketing_spend.csv**.  
-Les fichiers **satisfaction.csv** et **events.csv** sont optionnels.
-"""
+<div class="pulse-card">
+<p style="font-size:18px; line-height:1.7;">
+Importez vos fichiers CSV pour générer automatiquement votre dashboard exécutif.
+Les fichiers <b>customers.csv</b>, <b>orders.csv</b> et <b>marketing_spend.csv</b>
+sont obligatoires. Les fichiers <b>satisfaction.csv</b> et <b>events.csv</b> sont optionnels.
+</p>
+</div>
+""",
+            unsafe_allow_html=True,
         )
 
-        uploaded_customers = st.file_uploader("customers.csv — obligatoire", type=["csv"])
-        uploaded_orders = st.file_uploader("orders.csv — obligatoire", type=["csv"])
-        uploaded_marketing = st.file_uploader("marketing_spend.csv — obligatoire", type=["csv"])
-        uploaded_satisfaction = st.file_uploader("satisfaction.csv — optionnel", type=["csv"])
-        uploaded_events = st.file_uploader("events.csv — optionnel", type=["csv"])
+        st.markdown("### Téléverser les fichiers CSV")
+
+        uploaded_customers = st.file_uploader(
+            "👥 customers.csv — obligatoire",
+            type=["csv"],
+            key="uploaded_customers",
+        )
+
+        uploaded_orders = st.file_uploader(
+            "🛒 orders.csv — obligatoire",
+            type=["csv"],
+            key="uploaded_orders",
+        )
+
+        uploaded_marketing = st.file_uploader(
+            "📢 marketing_spend.csv — obligatoire",
+            type=["csv"],
+            key="uploaded_marketing",
+        )
+
+        uploaded_satisfaction = st.file_uploader(
+            "⭐ satisfaction.csv — optionnel",
+            type=["csv"],
+            key="uploaded_satisfaction",
+        )
+
+        uploaded_events = st.file_uploader(
+            "📅 events.csv — optionnel",
+            type=["csv"],
+            key="uploaded_events",
+        )
+
+        detected_files = sum(
+            [
+                uploaded_customers is not None,
+                uploaded_orders is not None,
+                uploaded_marketing is not None,
+                uploaded_satisfaction is not None,
+                uploaded_events is not None,
+            ]
+        )
 
         status_df = pd.DataFrame(
             [
-                {"Fichier": "customers.csv", "Statut": "Détecté" if uploaded_customers else "Manquant", "Obligatoire": "Oui"},
-                {"Fichier": "orders.csv", "Statut": "Détecté" if uploaded_orders else "Manquant", "Obligatoire": "Oui"},
-                {"Fichier": "marketing_spend.csv", "Statut": "Détecté" if uploaded_marketing else "Manquant", "Obligatoire": "Oui"},
-                {"Fichier": "satisfaction.csv", "Statut": "Détecté" if uploaded_satisfaction else "Manquant", "Obligatoire": "Non"},
-                {"Fichier": "events.csv", "Statut": "Détecté" if uploaded_events else "Manquant", "Obligatoire": "Non"},
+                {
+                    "Fichier": "customers.csv",
+                    "Statut": "Détecté" if uploaded_customers else "Manquant",
+                    "Obligatoire": "Oui",
+                },
+                {
+                    "Fichier": "orders.csv",
+                    "Statut": "Détecté" if uploaded_orders else "Manquant",
+                    "Obligatoire": "Oui",
+                },
+                {
+                    "Fichier": "marketing_spend.csv",
+                    "Statut": "Détecté" if uploaded_marketing else "Manquant",
+                    "Obligatoire": "Oui",
+                },
+                {
+                    "Fichier": "satisfaction.csv",
+                    "Statut": "Détecté" if uploaded_satisfaction else "Manquant",
+                    "Obligatoire": "Non",
+                },
+                {
+                    "Fichier": "events.csv",
+                    "Statut": "Détecté" if uploaded_events else "Manquant",
+                    "Obligatoire": "Non",
+                },
             ]
+        )
+
+        st.markdown(
+            f"""
+<div class="pulse-card-strong">
+<h3>{detected_files}/5 fichiers détectés</h3>
+<p class="pulse-muted">
+Le lancement est disponible dès que les 3 fichiers obligatoires sont présents.
+</p>
+</div>
+""",
+            unsafe_allow_html=True,
         )
 
         st.dataframe(status_df, use_container_width=True, hide_index=True)
 
+        required_ready = (
+            uploaded_customers is not None
+            and uploaded_orders is not None
+            and uploaded_marketing is not None
+        )
+
+        if required_ready:
+            st.success("Fichiers obligatoires détectés. Vous pouvez lancer l’analyse.")
+
+            if st.button("🚀 Importer & Lancer l’analyse", use_container_width=True):
+                import os
+
+                upload_dir = "data/uploaded"
+                os.makedirs(upload_dir, exist_ok=True)
+
+                with st.spinner("Analyse en cours : import, validation, warehouse et KPI..."):
+                    uploaded_customers.seek(0)
+                    with open(f"{upload_dir}/customers.csv", "wb") as file:
+                        file.write(uploaded_customers.getbuffer())
+
+                    uploaded_orders.seek(0)
+                    with open(f"{upload_dir}/orders.csv", "wb") as file:
+                        file.write(uploaded_orders.getbuffer())
+
+                    uploaded_marketing.seek(0)
+                    with open(f"{upload_dir}/marketing_spend.csv", "wb") as file:
+                        file.write(uploaded_marketing.getbuffer())
+
+                    if uploaded_satisfaction is not None:
+                        uploaded_satisfaction.seek(0)
+                        with open(f"{upload_dir}/satisfaction.csv", "wb") as file:
+                            file.write(uploaded_satisfaction.getbuffer())
+
+                    if uploaded_events is not None:
+                        uploaded_events.seek(0)
+                        with open(f"{upload_dir}/events.csv", "wb") as file:
+                            file.write(uploaded_events.getbuffer())
+
+                    build_warehouse("uploaded")
+                    run_transformations()
+
+                    st.session_state.active_demo = "uploaded"
+                    st.session_state.page = "Dashboard"
+
+                st.success("✅ Analyse terminée. Redirection vers le dashboard.")
+                st.rerun()
+        else:
+            st.warning(
+                "Veuillez importer au minimum customers.csv, orders.csv et marketing_spend.csv."
+            )
     st.divider()
 
     col1, col2, col3 = st.columns(3)
@@ -930,13 +1054,13 @@ Suivre le segment <b>{top_segment}</b>, qui contribue fortement à la performanc
     if recommendations.empty:
         st.success("Aucune alerte critique détectée. La performance globale est stable.")
     else:
-        priority_order = {"P0": 0, "P1": 1, "P2": 2}
+        priority_order = {"Critique": 0, "Haute": 1, "Moyenne": 2, "P0": 0, "P1": 1, "P2": 2}
         recs = recommendations.copy()
         recs["priority_rank"] = recs["priority"].map(priority_order)
         recs = recs.sort_values(["priority_rank", "impact"])
 
         for _, row in recs.head(6).iterrows():
-            badge_class = "pulse-red" if row["priority"] == "P0" else "pulse-gold"
+            badge_class = "pulse-red" if row["priority"] in ["Critique", "P0"] else "pulse-gold"
 
             st.markdown(
                 f"""

@@ -133,6 +133,50 @@ def generate_demo_data(business_type):
     ]
 
     # --------------------------------------------------
+    # REALISTIC BUSINESS DISTRIBUTIONS
+    # --------------------------------------------------
+
+    segment_weights = {
+        "kultura": [0.08, 0.40, 0.20, 0.25, 0.07],
+        "ecommerce": [0.45, 0.25, 0.15, 0.10, 0.05],
+        "saas": [0.40, 0.25, 0.20, 0.10, 0.05],
+    }
+
+    channel_weights = {
+        "kultura": [0.28, 0.18, 0.08, 0.10, 0.05, 0.20, 0.11],
+        "ecommerce": [0.30, 0.22, 0.05, 0.25, 0.03, 0.08, 0.07],
+        "saas": [0.10, 0.05, 0.35, 0.30, 0.03, 0.02, 0.15],
+    }
+
+    offer_weights = {
+        "kultura": [0.18, 0.12, 0.15, 0.28, 0.10, 0.07, 0.10],
+        "ecommerce": [0.35, 0.22, 0.15, 0.10, 0.05, 0.08, 0.05],
+        "saas": [0.35, 0.25, 0.18, 0.08, 0.05, 0.06, 0.03],
+    }
+
+    score_weights = [0.08, 0.12, 0.18, 0.34, 0.28]
+
+    channel_spend_multiplier = {
+        "LinkedIn": 1.3,
+        "Instagram": 1.2,
+        "Google Search": 1.1,
+        "TikTok": 1.0,
+        "Referral": 1.4,
+        "Event Walk-in": 0.7,
+        "Partnership": 0.8,
+    }
+
+    conversion_modifier = {
+        "LinkedIn": 1.4,
+        "Instagram": 1.2,
+        "Google Search": 1.3,
+        "TikTok": 1.1,
+        "Referral": 0.5,
+        "Event Walk-in": 1.6,
+        "Partnership": 1.3,
+    }
+
+    # --------------------------------------------------
     # CUSTOMERS
     # --------------------------------------------------
 
@@ -145,10 +189,18 @@ def generate_demo_data(business_type):
             "city": fake.city(),
             "country": fake.country(),
             "age_group": random.choice(["18-25", "26-35", "36-45", "46-60"]),
-            "segment": random.choice(segments),
+            "segment": random.choices(
+                segments,
+                weights=segment_weights[business_type],
+                k=1
+            )[0],
             "signup_date": random_date(START_DATE, END_DATE),
-            "acquisition_channel": random.choice(channels),
-            "is_member": random.choice([0, 1]),
+            "acquisition_channel": random.choices(
+                channels,
+                weights=channel_weights[business_type],
+                k=1
+            )[0],
+            "is_member": random.choices([0, 1], weights=[0.55, 0.45], k=1)[0],
         })
 
     customers_df = pd.DataFrame(customers)
@@ -179,11 +231,15 @@ def generate_demo_data(business_type):
             "order_id": f"ORD_{i+1}",
             "customer_id": customer["customer_id"],
             "order_date": random_date(START_DATE, END_DATE),
-            "offer_type": random.choice(offer_types),
+            "offer_type": random.choices(
+                offer_types,
+                weights=offer_weights[business_type],
+                k=1
+            )[0],
             "channel": customer["acquisition_channel"],
             "revenue": revenue,
             "cost": cost,
-            "status": random.choices(statuses, weights=[85, 10, 5])[0],
+            "status": random.choices(statuses, weights=[85, 10, 5], k=1)[0],
         })
 
     orders_df = pd.DataFrame(orders)
@@ -198,15 +254,24 @@ def generate_demo_data(business_type):
     for month in months:
         for channel in channels:
             if business_type == "saas":
-                spend = round(np.random.uniform(1000, 9000), 2)
+                base_spend = np.random.uniform(1000, 9000)
             elif business_type == "ecommerce":
-                spend = round(np.random.uniform(800, 7000), 2)
+                base_spend = np.random.uniform(800, 7000)
             else:
-                spend = round(np.random.uniform(500, 6000), 2)
+                base_spend = np.random.uniform(500, 6000)
+
+            spend = round(
+                base_spend * channel_spend_multiplier[channel],
+                2
+            )
 
             impressions = int(np.random.uniform(10000, 150000))
             clicks = int(impressions * np.random.uniform(0.01, 0.08))
-            conversions = int(clicks * np.random.uniform(0.02, 0.12))
+
+            base_conversion = np.random.uniform(0.02, 0.12)
+            conversions = int(
+                clicks * base_conversion * conversion_modifier[channel]
+            )
 
             marketing_rows.append({
                 "month": month.strftime("%Y-%m-%d"),
@@ -281,7 +346,11 @@ def generate_demo_data(business_type):
             "feedback_id": f"FB_{i+1}",
             "customer_id": customer["customer_id"],
             "date": random_date(START_DATE, END_DATE),
-            "score": random.randint(1, 5),
+            "score": random.choices(
+                [1, 2, 3, 4, 5],
+                weights=score_weights,
+                k=1
+            )[0],
             "complaint_category": random.choice(complaints),
             "comment": random.choice(comments_by_type[business_type]),
         })
